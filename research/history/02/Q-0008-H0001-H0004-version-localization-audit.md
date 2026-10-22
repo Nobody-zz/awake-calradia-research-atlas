@@ -1,6 +1,6 @@
 Q-0008｜H-0001—H-0004 逐句引注与英汉本地化复核（第一轮）
 
-版本：v0.4｜2026年10月22日（执行更新）
+版本：v0.5｜2026年10月22日（执行更新）
 
 审计性质：对四篇论文的核心命题、引注键、官方简体中文覆盖与原版／War Sails文本差异进行定向复核。不是四篇论文全文逐字校对，也不是外部同行评审。
 
@@ -90,7 +90,17 @@ H-0004本轮结论：多中心、不均衡政治联系仍只能作为C级解释�
 
 2. 比较史学书目核验：Hansen《Polis》第16章正式题名为“The Greek Conception of Polis as a City with a Hinterland”，页码101–105（Oxford Academic：https://academic.oup.com/book/47289/chapter-abstract/422665211）；Terrenato《The Early Roman Expansion into Italy》第4章页码109–154、第5章155–193、第6章194–247（Cambridge University Press目录及章节页：https://www.cambridge.org/core/books/abs/early-roman-expansion-into-italy/heterogeneous-conquest-i-a-crosssection-of-polity-biographies-and-types-of-conflicts/A169F00268C4D070BAAFADF9F7FECB3E；https://www.cambridge.org/core/books/abs/early-roman-expansion-into-italy/heterogeneous-conquest-ii-family-biographies-and-agendas/C130088B695656188C64CC6D3061B02F）；Malkin《A Small Greek World》第1章“Introduction: Networks and History”，页码3–64（Oxford Academic：https://academic.oup.com/book/5459/chapter-abstract/148340557）；Mackil《Creating a Common Polity》导论页码1–18、第4章147–236、第5章237–325、第6章326–399（Oxford Academic：https://doi.org/10.1525/california/9780520272507.003.0007）。H-0001—H-0003已补入相关章节和页码。
 
-3. 本轮核验仅确认出版方目录中的书目、章节名称与页码，并据此修订引用信息；没有取得全部专著全文逐页核对每项具体论点。正文仍须将现实历史研究作为比较框架，而非卡拉迪亚史实的替代证据。H-0001—H-0004逐句断言—脚注的全面核销仍在进行。
+3. 本轮核验仅确认出版方目录中的书目、章节名称与页码，并据此修订引用信息；没有取得全部专著全文逐页核对每项具体论点。正文仍须将现实历史研究作为比较框架，而非卡拉迪亚史实的替代证据。H-0001—H-0004逐句断言—脚注的全面核销仍在进行
+
+## 八、追加语义校勘（2026-10-22）
+
+1. 拉革塔（town\_EW1/ZAGUIKOn）：英文原文“a rogue imperial mercenary”指不法的帝国雇佣兵，未写“exile”或“merchant”。H-0001、H-0002、H-0004此前沿用“流亡的帝国商人／流放商人”一类旧中文表述，增加了原文没有的身份信息，现已修正正文与相关注释。英文原文仍属于官方城市沿革，不是独立同期战报。
+
+2. 俄耳堤西亚（town\_EW4/JhBSnWAe）：SandBox与NavalDLC英文正文均写“towers”；官方简体中文将其具体化为“灯塔”，并增加“光束”表述。H-0001已改用中性的“城塔”作为英文底本的表述，并在脚注中注明本地化差异。不能仅据中文译文认定英文原文明确记载了灯塔及其光束。
+
+3. 帝国文化概述（Culture.empire/X0kKBzsW）：英文“civic elders”“civic traditions”在官方简体中文中分别译为“民粹元老”“民粹传统”，语义偏移。H-0003已在正文和脚注标明以英文原文为语义判断依据，不据此推导现代意义的民粹主义政治身份。
+
+4. 以上为针对性纠错，不等于H-0001—H-0004全文逐字核销完成。仍须逐项检查正文断言、脚注、比较史学引文及版本限定；全部NavalDLC聚落也未完成全面异文审计。。
 
 ---
 
