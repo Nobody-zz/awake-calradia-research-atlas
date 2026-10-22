@@ -95,3 +95,9 @@
 - HGHT tile片段长度CSV/图：`cgeo_terrain_tile_segment_sizes.csv` / `cgeo_terrain_tile_segment_sizes.png`
 
 本仓库仅同步研究报告与必要派生摘要，不提交原始游戏二进制资产。
+
+## 修订：HGHT tile 偏移表与完整解码
+
+后续技术档案 [CGEO-MAP-RES-003](CGEO-MAP-RES-003.md) 已完成 terrain 高程解码。HGHT偏移表指向LZ4解压后的raw输出，不是压缩文件字节偏移；本报告原先的tile长度统计以stored size作为最后一块终点，现由RES-003按raw size修订。正确中位数：原版87,689.5字节，《战帆》78,176.5字节。
+
+两版HGHT均解码为256张257×257、16-bit灰度PNG，并拼接为4097×4097栅格。DLC的480条接缝全部精确匹配；原版477/480接缝精确匹配。MIDX每版另有4张4096×4096、8-bit灰度PNG。详见[RES-003报告](https://docs.google.com/document/d/1pTiVx_yOJpP6IVFzUcwr2Yeni3m2xb1Y-rbdcNj9HsM/edit)。
