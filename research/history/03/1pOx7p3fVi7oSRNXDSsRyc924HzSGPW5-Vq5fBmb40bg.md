@@ -2,7 +2,7 @@
 
 ## 扩张战争、政治集会的控制与共和制度的延续
 
-《卡拉迪亚大陆历史研究》制度史专题　研究稿 v0.8｜依据Q-0006 v1.8补充核对军团改革的同伴背景文本及民众大会政治哲学对白，进一步区分同一政治立场的重复叙述与独立证据。Q5-09仍开放，原因是长时段制度因果缺少独立见证，不是源文件不可访问。  
+《卡拉迪亚大陆历史研究》制度史专题　研究稿 v0.9｜依据Q-0007 v0.1完成H-0005核心断言的首轮逐句引注与英汉本地化审计；补记三处译文语义偏移；Q5-09继续开放。  
 2026年10月22日
 
 # 摘要
@@ -108,7 +108,7 @@
 
 ## （三）常备军的废除与执政官私兵：潘德拉克之后的制度重组
 
-本轮直接核对的官方组织沿革文本提供一个更具体、但性质有限的线索：SandBox/ModuleData/spclans.xml中“被弃者军团”（id=legion\_of\_the\_betrayed，文本键bhxVA9w7）称，阿雷尼科斯在潘德拉克战役之后废除了帝国最后一支常备军，转而依赖文本所称成本较低、较适于控制领土的“执政官私人扈从”。该组织成员怀念旧军团的旗帜、部队历史和营地生活，并将新制度视为帝国衰败的原因；文本同时称，他们后来仍需与帝国及外国领主签订契约以维持军队。〔6〕这一说法有相同立场的角色背景文本呼应：SandBox/ModuleData/companion\_strings.xml的backstory\_a.2（键mk0l1BfB）称德洛修斯·涅雷采斯率领“最后真正的军团”在巴旦尼亚树林遭伏击；backstory\_b.2（键rNkwrwo4）则把军队转为领主扈从、失去纪律与荣誉归咎于阿雷尼科斯改革。两条对应官方简体中文译文均存在。它们说明“潘德拉克后旧军团被摧毁、改革造成军队衰败”是官方世界叙事中反复出现的记忆，但组织背景与反改革角色自述立场相近，不能当作独立的中立证词，也不能独立证明该改革确实造成帝国衰败。此处沿用官方文本的职称译法，不据此推定其制度与现实罗马执政官制度相同。  
+本轮直接核对的官方组织沿革文本提供一个更具体、但性质有限的线索：SandBox/ModuleData/spclans.xml 中“被弃者军团”（Faction id=legion\_of\_the\_betrayed，文本键bhxVA9w7）称，阿雷尼科斯在潘德拉克战役之后废除了帝国最后一支常备军，转而依赖文本所称成本较低、较适于控制领土的“执政官私人扈从”。但英文原文只说“in the wake of the battle of Pendraic”，并未在该句中使用“惨败”；官方简体中文增加“惨败”一词，属于本地化语义强化。该组织成员怀念旧军团的旗帜、部队历史和营地生活，并将新制度视为帝国衰败的原因。〔6〕同伴背景文本mk0l1BfB另称德洛修斯·涅雷采斯率领被角色称为“最后真正的军团”的部队在巴旦尼亚树林遭伏击；文本键rNkwrwo4则把军队转为领主扈从、纪律与荣誉的丧失归咎于阿雷尼科斯改革。三项叙述分别涉及常备军废除、旧军团遭伏击与反改革者对军队衰败的归因，不能合并为一条已经证实的因果链。组织背景与同伴自述共享反改革立场，能证明官方世界叙事中存在稳定的反改革记忆，不能当作独立中立证词，也不能独立证明改革确实造成帝国衰败。此处沿用官方文本的职称译法，不据此推定其制度与现实罗马执政官制度相同。  
 这段叙述能够证明官方世界观中存在一条将潘德拉克战役、阿雷尼科斯的军制调整和执政官私兵联系起来的组织记忆；不能直接证明该改革客观上造成帝国崩溃，因为它出自反对该改革的组织起源叙述，带有怀旧与自我辩护立场。它也不应与前文“统帅任期逐渐长期化”合并成一个单线过程：前者讨论常备军是否存在及军事力量由谁组织，后者讨论最高军事授权的期限与政治认可。二者可能相关，但现存文本没有直接给出因果链条或准确先后。
 
 # 七、阿雷尼科斯的统治：长期皇权的政治均衡
@@ -182,15 +182,15 @@
 
 # 主要史料注释
 
-〔1〕TaleWorlds Entertainment, “Empire – Part 1” / “Dev Blog 08/02/18”, 2018年2月8日。全文记述卡拉德共和国起源、反王制传统、临时军事统帅权、扩张军队持续在外、皇帝延任、元老省份地产、公民大会军营化、继承的多方认可及阿雷尼科斯死后争位。https\://www\.taleworlds.com/en/Games/Bannerlord/Blog/45 。本文中多个历史命题来自同一份回顾性史料，不把其章节划分视作多份独立证据。  
-〔2〕《北帝国》王国沿革（kingdom ID: empire），收于《骑马与砍杀Ⅱ：霸主》王国描述。关于北方元老家族取得土地、承担边疆防务，及帝国后期皇帝以金钱、土地酬奖士兵的区域叙述。  
-〔3〕《西帝国》王国沿革（kingdom ID: empire\_w），同一中文资料版本。记述西部征兵、服役作为社会流动途径，以及当地地主支持加里俄斯；因此不能把地主阶层同卢孔派等同。  
+〔1〕TaleWorlds Entertainment, “Empire – Part 1” / “Dev Blog 08/02/18”, 2018年2月8日。全文记述卡拉德共和国起源、反王制传统、临时军事统帅权、扩张军队持续在外、皇帝延任、元老省份地产、公民大会军营化、继承的多方认可及阿雷尼科斯死后争位。旧路径：https://www.taleworlds.com/en/Games/Bannerlord/Blog/45；现可访问页面：https://www.taleworlds.com/en/News/210。本文中多个历史命题来自同一份回顾性史料，不把其章节划分视作多份独立证据。  
+〔2〕《北帝国》王国沿革：SandBox/ModuleData/spkingdoms.xml，Kingdom id=empire，英文文本键aEfsyVH4；对应官方简体中文键见SandBox/ModuleData/Languages/CNs/std_spkingdoms_xml-zho-CN.xml。文本记述北方旧家族以边境领主身份取得土地、承担防务，以及帝制发展过程中皇帝以金钱和土地酬赏军人、地主担忧地产被侵。此为特定区域的官方沿革记忆，不能证明所有省份或所有时期都普遍实行同一安排。  
+〔3〕《西帝国》王国沿革：SandBox/ModuleData/spkingdoms.xml，Kingdom id=empire_w，英文文本键mOZsbV8j；对应官方简体中文键见SandBox/ModuleData/Languages/CNs/std_spkingdoms_xml-zho-CN.xml。英文说帕拉旧语言与习俗“mostly forgotten”（大多被遗忘），官方中文译为“已消亡殆尽”，语义更强；本文论证以英文原文为准。该条目还记述当地地主支持加里俄斯，不能把地主阶层整体等同于卢孔派。  
 〔4〕TaleWorlds Entertainment, “Dev Blog 30/11/17”, 2017年11月30日。关于瓦兰迪亚雇佣军、帝国财政用土地与头衔支付报酬及后来边疆独立的叙述。https\://www\.taleworlds.com/en/Games/Bannerlord/Blog/37 。只用于晚期政治经济机制的比较，不视作早期皇权的直接起源史料。  
-〔5〕《南帝国》王国沿革（kingdom ID: empire\_s），同一中文资料版本。南方独立商业城邦纳入帝国、财富与地方上层的政治利益、对拉盖娅的家族继承主张的支持。此处主要用以说明南方富商贵族政治背景，不能直接还原共和国初期的集团构成。  
+〔5〕《南帝国》王国沿革：SandBox/ModuleData/spkingdoms.xml，Kingdom id=empire_s，英文文本键Xtyb9Dyr；对应官方简体中文键见SandBox/ModuleData/Languages/CNs/std_spkingdoms_xml-zho-CN.xml。英文说南方贵族支持拉盖娅“would seem to confirm these fears”（似乎印证其他元老家族的担忧）；中文“也乐于将这种顾虑付诸现实”容易将主体转为拉盖娅本人有意兑现担忧。本文以英文为论证依据，将其作为官方沿革中的政治判断，不视为南方贵族真实意图的独立证明。  
 编辑性说明：〔2〕〔3〕〔5〕按本项目保存的Bannerlord v1.4.8.119303官方简体中文王国描述核校，原始模块为spkingdoms.xml；本轮补充了SandBox官方英文XML与对应简体中文本地化。〔1〕为一篇回顾性的总体历史叙述，多个命题不能由其重复分段变为多份独立文献；〔4〕属于相对较晚的边疆授地案例，不能用于证明早期皇帝首度延任。新增的组织背景、人物传记与政治对白有各自叙事立场，不能替代中立宪法或同时代军政档案。史实与推论的分级详见I-0003史料登记簿，但该管理体系不代替正文历史论证。  
-〔6〕SandBox/ModuleData/spclans.xml，Faction id=legion\_of\_the\_betrayed，文本键bhxVA9w7；另参SandBox/ModuleData/companion\_strings.xml，backstory\_a.2（键mk0l1BfB）与backstory\_b.2（键rNkwrwo4）及其官方简体中文本地化。三处叙述均将潘德拉克后旧军团衰落与阿雷尼科斯改革相联系，但被弃者军团背景与同伴角色自述都带有反改革立场；这种跨文类重复可证明官方叙事中存在稳定的反改革记忆，不能当作独立中立证据或改革因果效果的证明。  
+〔6〕SandBox/ModuleData/spclans.xml，Faction id=legion\_of\_the\_betrayed，英文文本键bhxVA9w7；对应官方简体中文键见SandBox/ModuleData/Languages/CNs/std_spclans_xml-zho-CN.xml。另参SandBox/ModuleData/companion\_strings.xml，backstory\_a.2（键mk0l1BfB）与backstory\_b.2（键rNkwrwo4）及对应官方简体中文语言表。英文原文没有在“in the wake of the battle of Pendraic”中直接写出“惨败”；中文增译不作英文史实引用。三处文本分别描述常备军废除、旧军团遭伏击及反改革者对军队衰败的归因；其立场相近，不能作为独立中立互证或严格因果证明。  
 〔7〕SandBox/ModuleData/heroes.xml，Hero id=lord\_1\_5（Penton Neretzes，文本键04xAg0yN）及其官方简体中文本地化。该传记将皇子继位描述为惯例而非法律，属于人物背景叙述，不能代替同时代法律档案。  
-〔8〕SandBox/ModuleData/world\_lore\_strings.xml及Languages/CNs/std\_world\_lore\_strings\_xml-zho-CN.xml，政治哲学对白键Cx2FCePF、uJeoa6u1、SCogGc7N、T1svPL9Z、uK4IX036、OFOXDkPv、Cgdg9Q8t、spQJxKtr。文本分别呈现元老院选帝与对皇帝的权威主张、皇室继承、军人择主权及民众大会传统。OFOXDkPv/Cgdg9Q8t/spQJxKtr属于同一lord\_1\_46对话链；Cx2FCePF/uJeoa6u1也属于同一lord\_1\_1政治哲学链。它们是内战角色的政治主张，不是完整成文法或多份独立历史见证。
+〔8〕SandBox/ModuleData/world\_lore\_strings.xml及Languages/CNs/std\_world\_lore\_strings\_xml-zho-CN.xml，政治哲学对白键Cx2FCePF、uJeoa6u1、SCogGc7N、T1svPL9Z、uK4IX036、OFOXDkPv、Cgdg9Q8t、spQJxKtr，八个键均有对应官方简体中文条目。文本分别呈现元老院选帝、皇室继承、军人择主权及民众大会传统。OFOXDkPv/Cgdg9Q8t/spQJxKtr属于同一lord\_1\_46连续对白链；Cx2FCePF/uJeoa6u1属于同一lord\_1\_1政治哲学对白链。多段同一角色的连续发言不能按文本键数计作多份独立见证；它们是内战角色的政治主张，不是完整成文法。  
 
 〔9〕T. Corey Brennan, “Power and Process under the Republican ‘Constitution’,” in Harriet I. Flower (ed.), \*The Cambridge Companion to the Roman Republic\*, 2nd ed. (Cambridge: Cambridge University Press, 2014), pp. 19–53, https\://doi.org/10.1017/CCO9781139424783.006。本文仅借其对法律、惯例、先例与政治实践关系的讨论构造问题，不将罗马制度移植为卡拉德事实。  
 〔10〕Fred K. Drogula, \*Commanders and Command in the Roman Republic and Early Empire\* (Chapel Hill: University of North Carolina Press, 2015), ch. 1, “Concepts and Traditions of Military Leadership in Early Rome (to 367 BC),” pp. 8–45, DOI: https\://doi.org/10.5149/northcarolina/9781469621265.003.0001；ch. 4, “The Development of the Classical Constitution (367 to 197 BC),” pp. 182–231, DOI: https\://doi.org/10.5149/northcarolina/9781469621265.003.0004。出版者页面摘要支持将军事指挥制度理解为经由长期试验和调整而演变的比较问题；本研究本轮未逐页核读全文，不据此作具体页内论断。  
@@ -209,3 +209,9 @@ v0.5（2026年10月22日）：补入比较史学文献的完整书目信息与�
 v0.7（2026年10月22日）：根据Q-0006 v1.6直接复核SandBox/spkingdoms.xml三帝国条目（aEfsyVH4、mOZsbV8j、Xtyb9Dyr）、spclans.xml被弃者军团键bhxVA9w7、heroes.xml的lord\_1\_5/键04xAg0yN，以及world\_lore\_strings.xml政治对白键Cx2FCePF、SCogGc7N、uK4IX036和对应官方简体中文译文。文本键值与论文引述基本对应；被弃者军团条目明确带有反改革组织的立场，继承对白呈现相互竞争的法律、惯例、家族与军人主张。Q5-09仍未解决，原因是缺乏独立证据来复核长时段因果链，而非原始文件缺失  
 v0.8（2026年10月22日）：新增companion\_strings.xml中mk0l1BfB与rNkwrwo4两条同伴背景文本，确认军团改革的反对叙事在组织背景与人物自述中重复出现，但因共享反改革立场，不视为独立中立互证；扩展world\_lore\_strings.xml政治哲学对白，补充元老院权威、民众大会及加里俄斯政治主张的相关键值。Q5-09仍未解决：现有材料能重建政治话语与官方叙事的结构，但不足以独立验证长时段制度变化的严格因果链。
 
+
+## 编者校勘附记（v0.9）
+
+对 SandBox/ModuleData/spkingdoms.xml 的 aEfsyVH4、mOZsbV8j、Xtyb9Dyr 及对应官方简体中文条目逐句对读。mOZsbV8j 英文“mostly forgotten”意为语言与习俗大多被遗忘，中文“已消亡殆尽”语义更强；Xtyb9Dyr 英文“would seem to confirm these fears”将判断指向南方贵族支持拉盖娅这一事实，中文“也乐于将这种顾虑付诸现实”则容易读成拉盖娅本人有意兑现疑虑。spclans.xml 的 bhxVA9w7 英文仅称“in the wake of the battle of Pendraic”，中文增加“惨败”。本文历史论证以英文原文为基准，中文用于校勘而非独立互证。军团组织背景与两条同伴自述分别涉及常备军废除、旧军团遭伏击和反改革者对军队衰败的归因，不得合并成已证实的单一因果链。详细断言—来源—译文矩阵见 [Q-0007 v0.1](../02/Q-0007-H0005-claim-source-audit.md)。
+
+v0.9（2026年10月22日）：完成H-0005核心断言首轮逐句引注与英汉本地化审计，补记 mOZsbV8j、Xtyb9Dyr 与 bhxVA9w7 三处译文语义偏移；区分常备军废除、旧军团遭伏击与反改革者对军队衰败的归因。Q5-09仍开放。
