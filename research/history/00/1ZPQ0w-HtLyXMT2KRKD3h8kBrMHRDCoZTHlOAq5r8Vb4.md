@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-## 版本：v3.5｜2026年10月23日
+版本：v3.6｜2026年10月23日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -100,7 +100,7 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 
 4. 研究推进方式变更（2026-10-22）：H-0001—H-0004继续按定向纠错维护；H-0005研究稿v1.0维持，Q5-09继续开放。Q-0009已更新为v0.2，新增达西人与东部边疆的原始XML核验，并将未决缺口限定为十世纪危机与较晚东部控制变化之间缺少可定年的事件桥梁。Google Docs：https://docs.google.com/document/d/1Ny-pOnhZYWiR5ES91vsSAv_YbrJgcV8Tt-wtPq7c-Tw/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0009-imperial-relative-chronology.md。已签发时间线正典不变；H-0006不预分配，坎尼与诺德专题继续暂缓。
 
-5. 新增Q-0010 v0.1《彭同、拉盖娅与涅雷采斯家族政治分流：谱系及法统审查》（2026-10-23）：对SandBox v1.4.8中彭同人物传记04xAg0yN、彭同有效对白bpSh9rhh／2DpewE0u／3VSBVR8R、拉盖娅及伊拉的继承主张、佩特罗斯家族开发注释进行定向源级复核。结论是元老院选帝权与王朝继承权的政治竞争有直接文本支持；拉盖娅母系涅雷采斯说只能暂作竞争性谱系解释，尚未证实其与彭同是表兄妹。I-0003升级至v2.9并登记P-0072—P-0075、D-0063—D-0065。Google Docs：https://docs.google.com/document/d/14-HU9CH3hLPHVTxJl_i3ILtDh2vrvLfgp5g7Wq4bHaI/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0010-neretzes-penton-rhagaea-succession-evidence.md。H-0005未因此直接修改、Q5-09保留、H-0006未分配。
+5. Q-0010 v0.2研究方法修订（2026-10-23）：按当代人物关系、继位顺序及族谱常规推论，将佩特罗斯家族注释中的the emperor优先指认为旧帝德罗修斯·涅雷采斯；结合拉盖娅达西公主的身份设定，形成“母亲为德罗修斯姐妹、与彭同为表兄妹”的高解释力工作谱系。仍严格区分开发注释与生效亲属关系字段：本条是首选历史推断，而非官方直接明文。Q-0010及I-0003已分别更新至v0.2和v3.0，继续保留政治法统研究与注释版本问题。Q-0010 Google Docs：https://docs.google.com/document/d/14-HU9CH3hLPHVTxJl_i3ILtDh2vrvLfgp5g7Wq4bHaI/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0010-neretzes-penton-rhagaea-succession-evidence.md。已签发世界书正典与H-0005不改，H-0006仍未分配。
 
 ---
 
