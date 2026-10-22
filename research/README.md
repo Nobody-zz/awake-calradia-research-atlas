@@ -108,3 +108,6 @@
 - [18个官方简体中文已核定的Nord登陆点名称 CSV](geo/90/EVD/CGEO-MAP-RES-010_official_nord_dropoff_names.csv)
 
 本报告将当前NavalDLC官方简体中文名称表直接支持的22个标记聚落名称，与旧版中文索引参考严格分开。101/101个聚落ID在当前NavalDLC settlements.xml中找到；只有22个目标ID在当前DLC简体中文名称表有直接名称key。
+
+## CGEO-MAP-RES-012
+- [《战帆》港口—村庄登陆点导航路径与直线距离比较](geo/90/EVD/CGEO-MAP-RES-012.md) · [Google Drive原件](https://docs.google.com/document/d/1jDRZrvSPNy4vJyGZoEKRUsgalbchCR0d1D0-POnJtj4/edit) · [72组最近港口CSV](https://drive.google.com/file/d/1dvLWiuSc1KWbsNDxeZiOPq7Q6LDG878j/view) · [完整复核ZIP](https://drive.google.com/file/d/1GMG8gXe70m376txGvIcZH0lQrSz5552G/view)
