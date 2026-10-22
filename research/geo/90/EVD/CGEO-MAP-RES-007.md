@@ -1,3 +1,5 @@
+> **重大勘误（2026-10-23）：RES-007的旋转单位模型不正确，本报告旧港口分类已撤回。** 原算法将 `rotation_euler` 当作 degrees；按 radians+XYZ 重新计算后，全部29个town_port（CoastalSea 23、River 6）和144个drop_point（CoastalSea 82、River 62）位于可航候选导航面。旧模型“仅8个港口、77个登陆点在水域面”的数字不得继续作为事实引用；保留原文仅作方法审计。欧拉轴序尚待引擎直接确认。参见 [CGEO-MAP-RES-008勘误与复核](CGEO-MAP-RES-008.md)。
+
 # CGEO-MAP-RES-007｜《战帆》港口与登陆点的世界坐标及水域导航归属
 日期：2026-10-22；研究系列：CGEO 地理研究／地图数据与导航拓扑；版本：v1.0
 关联：CGEO-MAP-RES-001—006
