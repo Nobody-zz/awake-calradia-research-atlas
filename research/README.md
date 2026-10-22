@@ -1,6 +1,6 @@
 # 研究文档索引
 
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘中；两者不会自动同步，修订后需显式提交并更新本索引。最近核验：2026-10-22。学术分类规范I-0004已修订为CHC v2.0层级分类树：主要文化势力各自设一级类，帕拉、坎尼、独立城邦等小型政治共同体统一归入OTH分支。I-0001 v1.1、I-0002 v3.2已同步档案号规则与论文目录；H-0001—H-0005的Google Docs及GitHub Markdown均已添加正式主分类号并回读验证。I-0003 v2.6、Q-0007 v0.2、Q-0008 v1.1及H-0005 v1.0仍保留各自史料审计边界；本次分类更新不代表完成全源校勘。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘中；两者不会自动同步，修订后需显式提交并更新本索引。最近核验：2026-10-22。学术分类规范I-0004已修订为CHC v2.0层级分类树：主要文化势力各自设一级类，帕拉、坎尼、独立城邦等小型政治共同体统一归入OTH分支。I-0001 v1.1、I-0002 v3.3已同步档案号规则与论文目录；H-0001—H-0005的Google Docs及GitHub Markdown均已添加正式主分类号并回读验证。I-0003 v2.7、Q-0007 v0.2、Q-0008 v1.1、Q-0009 v0.1及H-0005 v1.0保留各自证据边界。Q-0009登记帝国史相对年代与分期约束，保留已签发正典且不关闭Q5-09；本轮不宣称新增原始XML源级复核。
 
 ## geo/00
 
@@ -55,6 +55,7 @@
 - [Q-0006｜H-0001—H-0005 第一轮终审与跨论文一致性复核](history/02/1LBoITtK8TCEOasgaKJMXFfh7CbXAw0SBATSM7ZZxfH4.md) · [云盘原件](https://docs.google.com/document/d/1LBoITtK8TCEOasgaKJMXFfh7CbXAw0SBATSM7ZZxfH4/edit)
 - [Q-0007｜H-0005 核心断言与四项制度判据审计（v0.2）](history/02/Q-0007-H0005-claim-source-audit.md)
 - [Q-0008｜H-0001—H-0004 逐句引注与英汉本地化复核（v1.1）](history/02/Q-0008-H0001-H0004-version-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit)
+- [Q-0009｜卡拉德帝国相对年代与分期约束审查（v0.1）](history/02/Q-0009-imperial-relative-chronology.md) · [云盘原件](https://docs.google.com/document/d/1Ny-pOnhZYWiR5ES91vsSAv_YbrJgcV8Tt-wtPq7c-Tw/edit)
 ## history/03
 
 - [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化（研究稿v1.0；CHC-EMP-POL）](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
