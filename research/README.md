@@ -1,6 +1,6 @@
 # 研究文档索引
 
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘中；两者不会自动同步，修订后需显式提交并更新本索引。最近同步：2026-10-22，H-0005 v0.9、Q-0006 v1.9、Q-0007 v0.1。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘中；两者不会自动同步，修订后需显式提交并更新本索引。最近同步：2026-10-22，H-0001—H-0004、I-0002 v2.4、I-0003 v2.0、Q-0008 v0.3；七份历史研究文档已逐一与Google Docs现行正文核对。
 
 ## geo/00
 
@@ -48,6 +48,7 @@
 - [Q-0005｜官方 XML 新材料勘验与版本差异审查](history/02/1cUJmXlnVFCwOcat23f0Vq5xHETgCSUA6b6YMOeb8QGo.md) · [云盘原件](https://docs.google.com/document/d/1cUJmXlnVFCwOcat23f0Vq5xHETgCSUA6b6YMOeb8QGo/edit)
 - [Q-0006｜H-0001—H-0005 第一轮终审与跨论文一致性复核](history/02/1LBoITtK8TCEOasgaKJMXFfh7CbXAw0SBATSM7ZZxfH4.md) · [云盘原件](https://docs.google.com/document/d/1LBoITtK8TCEOasgaKJMXFfh7CbXAw0SBATSM7ZZxfH4/edit)
 - [Q-0007｜H-0005 核心断言逐句引注与英汉本地化审计（v0.1）](history/02/Q-0007-H0005-claim-source-audit.md)
+- [Q-0008｜H-0001—H-0004 逐句引注与英汉本地化复核（v0.3）](history/02/Q-0008-H0001-H0004-version-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit)
 ## history/03
 
 - [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
