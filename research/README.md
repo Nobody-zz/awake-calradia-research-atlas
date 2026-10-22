@@ -1,6 +1,6 @@
 # 研究文档索引
 
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘；两者不自动同步，修订后须逐段核验。最近同步：2026-10-23。I-0004 v2.1继续将达西人（DSH）列为独立一级类；小型政治共同体仍归入OTH。I-0003现为v3.0，I-0002为v3.6，Q-0010修订为v0.2。新版本按人物年代、皇位交替及亲属称谓作常规历史推论，将佩特罗斯家族注释的the emperor首选指认为德罗修斯·涅雷采斯；结合拉盖娅达西公主身份，形成“母亲为德罗修斯姐妹、与彭同为表兄妹”的高解释力工作谱系，同时保留开发注释与当前生效亲属关系字段的史料等级区别。I-0003已修订P-0075及D-0063，Q-0009 v0.2继续保存东部边疆校勘；H-0005 v1.0与Q5-09未改。已签发世界书正典和H-0001—H-0005编号不变，H-0006未分配。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘；两者不自动同步，修订后须逐段核验。最近同步：2026-10-23。I-0001 v1.2正式补订史料外部／内部批判、时代语境复原、最佳解释推断、竞争性假说加权比较、沉默证据判断、因果机制、注释规范和学术诚信规则，并用于今后全部H论文、Q审查与I研究。I-0002升级为v3.7以登记执行规范。I-0004 v2.1继续将达西人（DSH）列为独立一级类；I-0003 v3.0、Q-0010 v0.2采用“拉盖娅母系涅雷采斯说”的首选历史解释，并标明其并非当前有效亲属字段直接明证。Q-0009 v0.2保存达西东部边疆校勘。H-0005 v1.0、Q5-09、已签发世界书正典和H-0001—H-0005编号均未改，H-0006未分配。
 
 ## geo/00
 
@@ -34,8 +34,8 @@
 - [CGEO-MAP-RES-007｜《战帆》港口及村庄登陆点的坐标与导航归属](geo/90/EVD/CGEO-MAP-RES-007.md) · [Google Drive原件](https://docs.google.com/document/d/1rHualy_SArSYNJog4KPxt7qqL_-LtCgzD2GI0WDZNcE/edit)
 ## history/00
 
-- [I-0001｜研究总纲与交叉校验规范](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
-- [I-0002｜论文目录与研究进度总索引](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
+- [I-0001｜研究总纲、史学方法与交叉校验规范（v1.2）](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
+- [I-0002｜论文目录与研究进度总索引（v3.7）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
 - [I-0003｜史料—事件—命题—争议总登记簿](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
 - [I-0004｜卡拉迪亚历史研究学术分类法（CHC v2.1）](history/00/I-0004-academic-classification.md) · [云盘原件](https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit)
 ## history/01
