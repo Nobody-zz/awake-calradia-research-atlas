@@ -242,9 +242,9 @@
 
 ## 比较研究文献与使用限度
 
-Mogens Herman Hansen, Polis: An Introduction to the Ancient Greek City-State (Oxford University Press, 2006). https://doi.org/10.1093/oso/9780199208494.001.0001。用于区分城市聚落、城市国家和所属腹地，避免由建城直接推导成熟共和国制度。
+Mogens Herman Hansen, *Polis: An Introduction to the Ancient Greek City-State* (Oxford University Press, 2006), ch. 16, “The Greek Conception of Polis as a City with a Hinterland,” pp. 101–105. https://doi.org/10.1093/oso/9780199208494.001.0001。用于区分城市聚落、城市国家与所属腹地，避免由建城直接推导成熟共和国制度。
 
-Emily Mackil, Creating a Common Polity: Religion, Economy, and Politics in the Making of the Greek Koinon (University of California Press, 2013). https://doi.org/10.1525/california/9780520272507.001.0001。用于分析合作、强制、成员城市自主权与共同机构之间的关系；不能以古希腊城邦联盟的具体条约填补卡拉德材料。
+Emily Mackil, *Creating a Common Polity: Religion, Economy, and Politics in the Making of the Greek Koinon* (University of California Press, 2013), Introduction, pp. 1–18, and ch. 6, “Political Communities,” pp. 326–399. https://doi.org/10.1525/california/9780520272507.001.0001。用于分析合作、强制、成员城市自主权与共同机构之间的关系；不能以古希腊城邦联盟的具体条约填补卡拉德材料。
 
 Andrew Lintott, The Constitution of the Roman Republic (Oxford University Press, 1999). https://doi.org/10.1093/oso/9780198150688.001.0001。关于罗马共和国混合的制度权力与不成文习惯的研究，可以帮助理解共和传统如何演变，但不构成卡拉德元老院或大会程序的证据。
 
