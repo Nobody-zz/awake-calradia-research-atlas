@@ -1,6 +1,6 @@
 # 研究文档索引
 
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘；两者不自动同步，修订后须逐段核验。最近同步：2026-10-23。研究规范I-0001 v1.2；论文目录I-0002 v3.9；史料与命题登记I-0003 v3.0；学术分类I-0004 v2.1保留达西人（DSH）一级类。Q-0011 v0.3已审核H-0001—H-0005并完成第一轮直接修订与第二轮跨篇论证审查：纠正沙拉斯第一处海岸殖民地与首次登陆地混同、赫塔尼亚Palaic/Dryatic的跨版本异文、费卡翁和议代表身份推断及帕拉征服前夕的时间范围；H-0003增加早期共和国—扩张与成熟帝国—1084年危机三个不等距时间剖面并加强制度渐进说的反证条件；H-0004现为v0.8《卡拉德征服前夕的帕拉诸部落》，以地方独立行动与战时联合的积极证据支持多中心政治解释；H-0005维持研究稿v1.1、Q5-09开放，以军事任务连续性为有条件的优先机制而非证明整段单线因果。H-0001、H-0002、H-0004有条件通过，H-0003尚需较大论证修订，H-0005不定稿。Q-0010 v0.2留存拉盖娅母系涅雷采斯的首选工作谱系，仍非有效亲属字段直接证明。源级抽查与现实比较文献逐页核验尚未全部完成；已签发世界书正典与H-0001—H-0005编号未改，H-0006未分配。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。最近同步：2026-10-23。统一史学研究规范I-0001 v1.2、研究总索引I-0002 v3.10、史料命题登记I-0003 v3.0及学术分类I-0004 v2.1。Q-0011 v0.4完成H-0001—H-0005两轮历史学论证审查并追加逐案比较：H-0001三城市起源、相对年代和竞争解释对照；H-0002五类地方征服、合邦及政治选择的直接证据—首选机制—替代解释—记述偏差检验；H-0003三机构证据分层及三个非等距历史剖面；H-0004 v0.8更正题名，以地方首领的不同决策和战时联合积极论证多中心政治；H-0005 v1.1四项制度判据的时间—来源—竞争解释矩阵，Q5-09继续开放。H-0001、H-0002、H-0004仅阶段性有条件通过，H-0003仍需制度史复审，H-0005仍为研究稿。Q-0010 v0.2的拉盖娅母系涅雷采斯模型为首选推论而非生效人物字段的明证。未经逐页核实的现实比较史学文献不作独立证明；已签发世界书正典、H编号及H-0006未分配状态不变。
 
 ## geo/00
 
@@ -36,7 +36,7 @@
 ## history/00
 
 - [I-0001｜研究总纲、史学方法与交叉校验规范（v1.2）](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
-- [I-0002｜论文目录与研究进度总索引（v3.9）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
+- [I-0002｜论文目录与研究进度总索引（v3.10）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
 - [I-0003｜史料—事件—命题—争议总登记簿](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
 - [I-0004｜卡拉迪亚历史研究学术分类法（CHC v2.1）](history/00/I-0004-academic-classification.md) · [云盘原件](https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit)
 ## history/01
@@ -58,7 +58,7 @@
 - [Q-0008｜H-0001—H-0004 逐句引注与英汉本地化复核（v1.1）](history/02/Q-0008-H0001-H0004-version-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit)
 - [Q-0009｜卡拉德帝国相对年代与分期约束审查（v0.2）](history/02/Q-0009-imperial-relative-chronology.md) · [云盘原件](https://docs.google.com/document/d/1Ny-pOnhZYWiR5ES91vsSAv_YbrJgcV8Tt-wtPq7c-Tw/edit)
 - [Q-0010｜彭同、拉盖娅与涅雷采斯家族政治分流：谱系及法统审查（v0.2）](history/02/Q-0010-neretzes-penton-rhagaea-succession-evidence.md) · [云盘原件](https://docs.google.com/document/d/14-HU9CH3hLPHVTxJl_i3ILtDh2vrvLfgp5g7Wq4bHaI/edit)
-- [Q-0011｜H-0001—H-0005历史学方法与论证质量综合审查（v0.3）](history/02/Q-0011-historical-method-cross-review.md) · [云盘原件](https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit)
+- [Q-0011｜H-0001—H-0005历史学方法与论证质量综合审查（v0.4）](history/02/Q-0011-historical-method-cross-review.md) · [云盘原件](https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit)
 ## history/03
 
 - [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化（研究稿v1.1；CHC-EMP-POL）](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
