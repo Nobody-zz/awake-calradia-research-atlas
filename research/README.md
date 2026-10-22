@@ -69,3 +69,16 @@
 - [卡拉迪亚帝国兴衰史：从卡拉狄乌斯的殖民传统到1084年的帝国分裂（模拟史学论文修订稿）](history/90/18-G4H84bEU_KOF4uM0uQeiqar1z4yjeURznJ1uJbCmQ.md) · [云盘原件](https://docs.google.com/document/d/18-G4H84bEU_KOF4uM0uQeiqar1z4yjeURznJ1uJbCmQ/edit)
 - [卡拉迪亚历史论文待办与研究议题清单](history/90/1_Rl9vce7bDgDaepGp_k2Z1adLl6SZQSSMRiXHXvJTIw.md) · [云盘原件](https://docs.google.com/document/d/1_Rl9vce7bDgDaepGp_k2Z1adLl6SZQSSMRiXHXvJTIw/edit)
 - [Calradian Kings 英文原仓库梳理与证据分级](history/90/1fvT8lwVOwNyxfK4fR1DbJtGcRZPnF-x8lWqXnbsqGx4.md) · [云盘原件](https://docs.google.com/document/d/1fvT8lwVOwNyxfK4fR1DbJtGcRZPnF-x8lWqXnbsqGx4/edit)
+
+
+## 官方原始资料归档（2026-10-22）
+
+为避免早期对话附件过期后无法读取，已将用户提供的官方模块资料包原样保存在 Google Drive 与 ChatGPT Library。GitHub 中保存清单、SHA-256、版本边界及稳定链接；当前 GitHub 连接工具不支持直接把本机 ZIP 字节流作为二进制附件上传，因此不把元数据记录误称为 ZIP 本体。
+
+- [原始资料归档说明与Drive直链](source-archives/README.md)
+- [原始文件SHA-256校验和](source-archives/SHA256SUMS.txt)
+- [Google Drive原始资料文件夹](https://drive.google.com/drive/folders/17y4EwetqNlFBW1Zf_d_CP4yrdyjmr8Rm)
+- [Google Drive索引与校验记录](https://docs.google.com/document/d/1R4sijfL2IME3habmi0KISlzpLEU7Ok5cXuxulqRpfT0/edit)
+- [NavalDLC.zip](https://drive.google.com/file/d/1K1rOhnZ8gV_jH2IP0LvaxXYlmpdgPjTI/view) · [Native.zip](https://drive.google.com/file/d/1mjwjlNjZQGEBbD75GAISs0zNy2ZKfmDp/view) · [SandBox.zip](https://drive.google.com/file/d/1UoUoe0FMn4Di3eoN0NMexcgzCZOE8CJb/view) · [SandBoxCore.zip](https://drive.google.com/file/d/1JWU9JaX65syZGjJvqVJvtuYfnoDUVSlq/view) · [StoryMode.zip](https://drive.google.com/file/d/1W7WdMJ8U-eTSixyGdv9bxqupUdXHy80E/view)
+- [file_manifest.csv](https://drive.google.com/file/d/1664-BMbqMAmS3_DQzYyGCaiLX8kpVrLe/view) · [README.md](https://drive.google.com/file/d/10AOwENJyiakm9d6Bp9QkxvUebdF7uN4k/view)
+- ChatGPT Library路径：`/Calradia Geography Research Source Files/`
