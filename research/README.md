@@ -32,6 +32,7 @@
 - [CGEO-MAP-RES-005｜双版本共同高程尺度、PHYM季节图层及原版河流路径校验](geo/90/EVD/CGEO-MAP-RES-005.md) · [云盘原件](https://docs.google.com/document/d/1nj_dvB-V34xGh5ckDmEohtnzKOlYwu4FcOUErCOs2T8/edit) · [统一色标高程图](https://drive.google.com/file/d/1ymJeiisRuBnoAnd3V3y6Hf46ddFIqLeS/view) · [PHYM地图](https://drive.google.com/file/d/1R1iQz7c7tkFaAfCP7ITV6ds8zV9jbFC-/view) · [河道对应图](https://drive.google.com/file/d/1krIsrLA4fG5wkbVvjlQ8O0fH6HCvjAtP/view)
 - [CGEO-MAP-RES-006｜原版与《战帆》水域导航网格类型及连通性审计](geo/90/EVD/CGEO-MAP-RES-006.md) · [Google Drive原件](https://docs.google.com/document/d/1LKqRVItDPxfNsasdYQ3MldJkwSASXj5GT5QOCEaz-KE/edit) · [水域分类图](https://drive.google.com/file/d/1dpw5TdI7BX5Z4kA989_pqKbDvUEah_Cf/view) · [候选连通网络](https://drive.google.com/file/d/1UIlPp1cnLeOneyQwFeLBzh9P3jFo2EWv/view)
 - [CGEO-MAP-RES-007｜《战帆》港口及村庄登陆点的坐标与导航归属](geo/90/EVD/CGEO-MAP-RES-007.md) · [Google Drive原件](https://docs.google.com/document/d/1rHualy_SArSYNJog4KPxt7qqL_-LtCgzD2GI0WDZNcE/edit)
+- [CGEO-MAP-RES-008｜《战帆》港口与登陆点旋转单位勘误及可航网格复核](geo/90/EVD/CGEO-MAP-RES-008.md) · [Google Drive勘误报告](https://docs.google.com/document/d/1aL-g-FRDguFHEAFbMZ2ypz5uWMIEcHXnd3HS5mmMYVw/edit) · **更正RES-007旧坐标统计**
 ## history/00
 
 - [I-0001｜研究总纲、史学方法与交叉校验规范（v1.2）](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
