@@ -73,3 +73,8 @@ Google Drive 图件3（原版河流路径与river层）：https://drive.google.c
 Google Drive原件：https://docs.google.com/document/d/1nj_dvB-V34xGh5ckDmEohtnzKOlYwu4FcOUErCOs2T8/edit
 
 说明：本研究仅提交技术报告及派生统计，未向GitHub上传游戏原始资源。
+
+
+## 同步数据附件
+
+[PHYM单季各图层精确计数与比例（CSV）](CGEO-MAP-RES-005_phym_summer_counts.csv)。该数据是从两个版本各256个PHYM图块的完整夏季记录中计算的派生统计，不包含原始游戏二进制。
