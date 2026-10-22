@@ -1,6 +1,6 @@
 # I-0003｜史料—事件—命题—争议登记簿
 
-## 第一轮登记：H-0004及既有帕拉史研究｜基础版v1.0；追加校勘v1.8｜2026年10月22日｜新增S-0044—S-0045、P-0047—P-0055、D-0038—D-0041；H-0001—H-0005原始XML定向复验、译文覆盖与H-0005命题链分级见Q-0006 v1.8。
+## 第一轮登记：H-0004及既有帕拉史研究｜基础版v1.0；追加校勘v1.9｜2026年10月22日｜新增S-0046—S-0051、P-0056、D-0042；H-0001—H-0005原始XML定向复验、译文覆盖及H-0005核心断言的英汉本地化审计见Q-0006 v1.9及Q-0007 v0.1。
 
 # A. 来源声明
 
@@ -248,3 +248,12 @@ D-0040｜H-0005/Q5-09进一步限定：world\_lore\_strings.xml中Cx2FCePF/uJeoa
 P-0055【H-0005命题链分级】Q-0006附录A将H-0005核心命题分为：官方回顾直接叙述（短期统帅权、后期延任、集会条件变化）、同一文本内的叙述性联系（战争延长与延任）、区域性政治经济记忆（元老授地、军人酬赏）、角色之间的竞争性合法性主张（元老院法律、家族继承、军人择主）、以及缺乏独立证据的强因果解释（改革导致帝国衰败）。这些命题的证据等级不能因多篇论文、多个文本键或同一对白链的多段发言而自动提高。  
 D-0041｜Q5-09的当前边界：现有官方材料可以重建卡拉德官方文本对制度变化的叙述、区域记忆和内战合法性话语；尚不能独立验证制度变化的严格年代、普遍适用范围，或“战争延长—统帅延任—大会控制—皇权世袭化”的单线因果链。后续应优先寻找能提供独立年代锚点、制度程序或相互独立叙述的官方材料，而非继续堆叠同一政治立场的角色对白。
 
+
+S-0046｜SandBox/ModuleData/spkingdoms.xml及Languages/CNs/std_spkingdoms_xml-zho-CN.xml｜帝国北、西、南区域沿革文本键aEfsyVH4、mOZsbV8j、Xtyb9Dyr均存在对应官方简体中文条目。英汉逐句对读发现mOZsbV8j的“mostly forgotten／已消亡殆尽”语义强度差异，以及Xtyb9Dyr的“would seem to confirm these fears／也乐于将这种顾虑付诸现实”主语与判断力度差异；中文译文不是独立见证。  
+S-0047｜SandBox/ModuleData/spclans.xml及Languages/CNs/std_spclans_xml-zho-CN.xml｜Faction id=legion_of_the_betrayed，文本键bhxVA9w7及其官方简体中文条目。英文写“in the wake of the battle of Pendraic”，中文增加“惨败”；组织背景带有反改革立场。  
+S-0048｜SandBox/ModuleData/companion_strings.xml及Languages/CNs/std_companion_strings_xml-zho-CN.xml｜文本键mk0l1BfB、rNkwrwo4均有官方简体中文对应条目。前者叙述德洛修斯所率旧军团遭伏击，后者将军队纪律与帝国衰弱归咎于阿雷尼科斯改革；同伴自述属于有立场的角色记忆。  
+S-0049｜SandBox/ModuleData/heroes.xml及Languages/CNs/std_heroes_xml-zho-CN.xml｜Hero id=lord_1_5，文本键04xAg0yN及其官方简体中文条目。文本称皇子继位通常是惯例而非法定规则，属于人物传记，不是独立法律档案。  
+S-0050｜SandBox/ModuleData/world_lore_strings.xml及Languages/CNs/std_world_lore_strings_xml-zho-CN.xml｜政治哲学对白键Cx2FCePF、uJeoa6u1、SCogGc7N、T1svPL9Z、uK4IX036、OFOXDkPv、Cgdg9Q8t、spQJxKtr均有官方简体中文条目。Cx2FCePF/uJeoa6u1属于同一角色对白链；OFOXDkPv/Cgdg9Q8t/spQJxKtr属于同一角色连续对白，不能按键数视为独立互证。  
+S-0051｜SandBoxCore/ModuleData/spcultures.xml及Languages/CNs/std_spcultures_xml-zho-CN.xml｜Culture id=empire，文本键X0kKBzsW及其官方简体中文条目。文化概述与TaleWorlds《Empire – Part 1》在无王传统、丘陵部族与帝国形成叙述上重叠，作为同一官方世界观的相互关联文本，不作独立外部互证。  
+P-0056【H-0005首轮逐句引注审计】对H-0005主要论断与原始XML路径、文本键、英文原文、官方简体中文键及证据边界进行了第一轮核对。确认所列关键键均在相应官方英文文件中存在，所核对的各组XML文本均找到对应官方简体中文条目；发现三处需要在论文中标注的译文语义偏移。该轮核对针对核心引文与主要命题，不等于已核销全文所有断言、脚注和比较史学页码。  
+D-0042｜H-0005英汉本地化语义偏移：mOZsbV8j将“mostly forgotten”强化为“已消亡殆尽”；Xtyb9Dyr将“would seem to confirm these fears”译为容易将主体转移到拉盖娅本人意图的“也乐于将这种顾虑付诸现实”；bhxVA9w7中文加入英文原句没有直接表达的“惨败”。后续论文以英文原文作为内容判断基础，官方中文用于本地化校勘，不作为独立史料。  
