@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-## 版本：v3.7｜2026年10月23日
+版本：v3.8｜2026年10月23日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -32,7 +32,7 @@ Google Docs：https://docs.google.com/document/d/1Vpu2yWtz\_QXl9oCfLBB\_4rm9c1xR
 
 ## 第四篇完成的阶段性研究（Q-0002审查通过）
 
-H-0004｜卡拉德人到来以前的帕拉诸部落：社会组织、政治结构与文化传统｜正式分类号：CHC-OTH-PAL-SOC
+H-0004｜卡拉德征服前夕的帕拉诸部落：社会组织、政治结构与文化传统｜正式分类号：CHC-OTH-PAL-SOC
 
 主线A／早期大陆社会｜状态：v0.6（2026-10-22），Q-0008 v0.8已补入厄诺伊萨、卡诺洛斯、坎忒里翁与密泽亚的NavalDLC异文、中文本地化不同步及拉革塔误译校正记录｜圣湖命题已限定于SandBox v1.4.8基础版；吕卡里亚马业保留为前帝国马业／骑手的受限文本命题，但基础版南部／东部定位不作为跨版本稳定事实。赫塔尼亚语言、克里俄斯圣地、厄诺伊萨空间描述与密泽亚地貌均按版本分开登记；另记录卡诺洛斯英文“routed several Calradian armies”与官方中文“追逐卡拉德敌人”的语义差异，以及坎忒里翁DLC英文新增的战马命名句未同步到DLC简体中文。骑手族属、跨地区年代、统一帕拉政治组织仍待证；全部DLC聚落尚未逐条审校。
 
@@ -103,6 +103,8 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 5. Q-0010 v0.2研究方法修订（2026-10-23）：按当代人物关系、继位顺序及族谱常规推论，将佩特罗斯家族注释中的the emperor优先指认为旧帝德罗修斯·涅雷采斯；结合拉盖娅达西公主的身份设定，形成“母亲为德罗修斯姐妹、与彭同为表兄妹”的高解释力工作谱系。仍严格区分开发注释与生效亲属关系字段：本条是首选历史推断，而非官方直接明文。Q-0010及I-0003已分别更新至v0.2和v3.0，继续保留政治法统研究与注释版本问题。Q-0010 Google Docs：https://docs.google.com/document/d/14-HU9CH3hLPHVTxJl_i3ILtDh2vrvLfgp5g7Wq4bHaI/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0010-neretzes-penton-rhagaea-succession-evidence.md。已签发世界书正典与H-0005不改，H-0006仍未分配。
 
 6\. 学术方法规范修订（2026-10-23）：I-0001升级至v1.2，明确史料外部批判、内部批判、时空语境复原、历史最佳解释推断、竞争性假说权重比较、沉默证据条件、因果机制、可复核引注和学术诚信的统一程序。今后H论文正文与Q审查必须说明最优解释及其反证，不再把“没有逐字明载”自动等同于“不能合理推论”，也不得把项目采用的世界书裁定冒充独立官方史实。已有稿件的这一规范作为以后修订与复核标准，不溯及追改现有H编号；H-0005 v1.0维持研究稿状态，Q5-09继续开放。I-0001原件：https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md。
+
+7\. Q-0011 v0.2五篇历史论文规范审核与定向纠错（2026-10-23）：以I-0001 v1.2为审查依据，逐篇核对H-0001—H-0005现行正文与核心论证，定向复读项目资料库SandBox/NavalDLC的town_V7、village_EN4_4、village_EN3_1、village_EN3_3英文原始聚落记述。H-0001纠正沙拉斯“沿海第一殖民地”误写成“首次登陆地点”的越界；H-0002将赫塔尼亚Palaic/Dryatic异文一致落实至结论与年代附录，并收紧费卡翁和议代表推断；H-0003补强制度渐进说的优先解释和反证条件，但仍须较大论证修订；H-0004题名收紧为《卡拉德征服前夕的帕拉诸部落》，v0.7；H-0005补强军事任务连续性机制的优先级，维持研究稿v1.1，Q5-09仍开放。Q-0011 v0.2区分已修复局部与仍待终审的问题：H-0001、H-0002、H-0004有条件通过，H-0003继续修订，H-0005不宣称定稿。Google Docs：https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0011-history-method-cross-paper-review.md。H编号与已签发世界书正典均不变，H-0006未分配。
 
 ---
 
