@@ -72,3 +72,6 @@ GitHub配套CSV：https://github.com/Nobody-zz/awake-calradia-research-atlas/blo
 - [审计JSON](https://drive.google.com/file/d/1Q4fTnxH_xdZJj7R4o9BzJRLevqLIsUTd/view)
 
 复核脚本 `village_state_pair_audit.py` 及数据、地图收录于本地10文件分析包 `CGEO-MAP-RES-009_village_state_pair_bundle.zip`（CRC验证通过，不含原始游戏二进制）。
+
+
+**完整离线复核包（Google Drive）：** [CGEO-MAP-RES-009_village_state_pair_bundle.zip](https://drive.google.com/file/d/1VjpHpqlBgFA52c8uGu0RiOx2D5PV2Nvs/view)，10个文件，含分析脚本、派生表、图像与复核清单；无原始游戏资产。
