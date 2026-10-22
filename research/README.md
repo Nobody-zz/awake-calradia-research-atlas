@@ -1,6 +1,6 @@
 # 研究文档索引
 
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。最近同步：2026-10-23。统一史学规范为I-0001 v1.2，研究总索引I-0002 v3.11、史料登记I-0003 v3.0、分类法I-0004 v2.1。Q-0011 v0.5完成H-0001—H-0005方法审核的第五轮完善：H-0001的三城市起源与控制对照和H-0002的五案例比较保持；H-0003把‘制度促进扩张’与‘扩张重组制度’作为需要分别检验的历史因果方向；H-0004 v0.9在多中心帕拉社会模型内部区分地区霸权、临时军事联盟和松散政治文化联系；H-0005 v1.2进一步检验统帅延任与军营大会政治优势之间的相反因果方向。H-0001、H-0002、H-0004仅阶段性有条件通过；H-0003仍需共和制度史断代研究，H-0005仍为研究稿，Q5-09开放。Q-0010 v0.2的母系涅雷采斯模型是首选推论而非有效亲属字段明证。比较史学文献尚未全部逐页复核；已签发世界书正典与H编号保持不变，H-0006未分配。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。最近同步：2026-10-23。统一史学规范I-0001 v1.2、总索引I-0002 v3.12、史料登记I-0003 v3.0、分类法I-0004 v2.1。Q-0011 v0.6完成五篇H论文第六轮跨篇审核收口：H-0001及H-0002保留现有源文和地方案例修正；H-0003将沙拉斯“首次登陆记忆”校正为“新大陆海岸首个卡拉德殖民地，登陆地点未明”，并保留共和制度渐进的双向因果模型；H-0004 v0.9研究征服前夕多中心帕拉社会；H-0005 v1.2保留军权长期化与公共认可场景变化的双机制解释。五篇Docs/GitHub正文共615段逐段一致。H-0001、H-0002、H-0004阶段性有条件通过；H-0003仍须更确切的早期建制资料，H-0005 Q5-09继续开放。Q-0010 v0.2母系涅雷采斯说属于首选历史推论，非有效亲属字段明文。下一阶段重心回到H-0005的可定位历史事件与制度因果研究，避免重复审查替代论文。比较史学文献未全部逐页核查；已签发世界书正典、H档案号不变，H-0006未分配。
 
 ## geo/00
 
@@ -65,7 +65,7 @@
 - [Q-0008｜H-0001—H-0004 逐句引注与英汉本地化复核（v1.1）](history/02/Q-0008-H0001-H0004-version-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit)
 - [Q-0009｜卡拉德帝国相对年代与分期约束审查（v0.2）](history/02/Q-0009-imperial-relative-chronology.md) · [云盘原件](https://docs.google.com/document/d/1Ny-pOnhZYWiR5ES91vsSAv_YbrJgcV8Tt-wtPq7c-Tw/edit)
 - [Q-0010｜彭同、拉盖娅与涅雷采斯家族政治分流：谱系及法统审查（v0.2）](history/02/Q-0010-neretzes-penton-rhagaea-succession-evidence.md) · [云盘原件](https://docs.google.com/document/d/14-HU9CH3hLPHVTxJl_i3ILtDh2vrvLfgp5g7Wq4bHaI/edit)
-- [Q-0011｜H-0001—H-0005历史学方法与论证质量综合审查（v0.5）](history/02/Q-0011-historical-method-cross-review.md) · [云盘原件](https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit)
+- [Q-0011｜H-0001—H-0005历史学方法与论证质量综合审查（v0.6）](history/02/Q-0011-historical-method-cross-review.md) · [云盘原件](https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit)
 ## history/03
 
 - [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化（研究稿v1.2；CHC-EMP-POL）](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
