@@ -47,3 +47,28 @@ GitHub配套CSV：https://github.com/Nobody-zz/awake-calradia-research-atlas/blo
 - 派生表warsails_ports_dropoff_shore_distance.csv（173条港口/登陆点记录，包含世界坐标、导航类型、最近水陆边界距离和settlement ID）。
 - 上游档案CGEO-MAP-RES-007（坐标变换与Navmesh匹配）、CGEO-MAP-RES-008（港口地名与水陆边界距离审计）。
 - TaleWorlds官方War Sails World Map文档：https://moddocs.bannerlord.com/war-sails/wsworldmap/
+
+
+## 八、原始场景 XML 层级独立复核与父级去重（2026-10-23）
+
+此次再从原始 `NavalDLC/SceneObj/Main_map/scene.xscene` 逐个读取 **173个实例**（29个 `town_port`、144个 `drop_point`），不只是从 RES-008 的坐标派生表筛选。
+
+- 29个 `town_port` 对应29个不同父级；144个 `drop_point` 对应**72个村庄父级**，每个父级恰有一个 `civilian` 和一个 `looted` 状态标记。两个状态具有相同 `main_map_village_dropoff` 标签、`level_1/2/3` 层级标记。59个父级先列civilian，另13个先列looted，因此不能以XML出现顺序识别状态。
+- 72对状态标记中，**28对三维坐标在1e-8容差内完全一致**；72/72对在 RES-008 候选坐标模型下落于相同Navmesh面、具有相同导航类型与主候选航路组件。XY相距中位数0.0038396、均值0.0204078、90百分位0.0248790、最大0.6371200场景单位，最大差位于 `castle_village_EW7_2`。
+- 34个 `drop_point` 实例（17个村庄父级各2个状态）的**标记自身**transform包含 `non_orthogonal_rotation_mat`；向上追溯的父级变换链未发现此字段。标记自身旋转不改变标记原点坐标，但可能影响登船/登陆的方向与局部坐标轴，不能用单纯Euler字段解释其朝向。
+- 按父级合并后共有**101组场景水路接入锚点**（29个城镇父级+72个村庄父级），而不是173个独立地点。基于RES-008候选radians/Euler xyz坐标模型，101组均处于水上主候选连通组件：64组在CoastalSea(18)，37组在River(11)。这不等于独立核验了101个官方settlements.xml聚落记录。此项对应关系另见[CGEO-MAP-RES-011](CGEO-MAP-RES-011.md)的双源联结审计。
+
+### 证据等级与新交付物
+
+直接XML文件证据：173个实例数量、72个 `civilian/looted` 配对与层级标签、29+72父级去重、17个含非正交矩阵的村庄父级。
+
+条件性几何判断：坐标微小位移、Navmesh相同面/类型、水域组件归属；仍依赖RES-008的弧度Euler xyz**候选**父级变换，尚不能称为完全经引擎验证的世界坐标。
+
+- [Google Drive 正式报告](https://docs.google.com/document/d/1o3j6Upzmh7KbbxggqJHKj_mH310tDaKhvCe5pqCSaos/edit)
+- [72组村庄双状态坐标与面分类CSV](https://drive.google.com/file/d/1rxdH4pfEuhU9UagAu3U1TPT3Ue0jB_-h/view)
+- [101组去重的父级水路接入锚点CSV](https://drive.google.com/file/d/1hLTPLE5cZwGG1jDWmawtKWlAHKU1nNYV/view)
+- [101组锚点地图](https://drive.google.com/file/d/1DCzFcxsfM8vvPlusvKvgSF9mv_bp1CNi/view)
+- [双状态间距分布图](https://drive.google.com/file/d/13OvKbnqmG-5qRu_Jt1TB0TrJIbZG7Bpj/view)
+- [审计JSON](https://drive.google.com/file/d/1Q4fTnxH_xdZJj7R4o9BzJRLevqLIsUTd/view)
+
+复核脚本 `village_state_pair_audit.py` 及数据、地图收录于本地10文件分析包 `CGEO-MAP-RES-009_village_state_pair_bundle.zip`（CRC验证通过，不含原始游戏二进制）。
