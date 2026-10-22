@@ -86,6 +86,14 @@
 - [file_manifest.csv](https://drive.google.com/file/d/1664-BMbqMAmS3_DQzYyGCaiLX8kpVrLe/view) · [README.md](https://drive.google.com/file/d/10AOwENJyiakm9d6Bp9QkxvUebdF7uN4k/view)
 - ChatGPT Library路径：`/Calradia Geography Research Source Files/`
 
+## CGEO-MAP-RES-011
+
+- [《战帆》聚落坐标与水路接入锚点的双源配准审计](geo/90/EVD/CGEO-MAP-RES-011.md) · [Google Drive原件](https://docs.google.com/document/d/1dB3p_ie6D_LW97Hs0cpt7oziMVgCSiSpfS1kCNCTHSc/edit)
+- [101处聚落与接入锚点偏移汇总CSV](geo/90/EVD/CGEO-MAP-RES-011_offset_summary.csv)
+- [偏移矢量地图](https://drive.google.com/file/d/1C8upn3Yw3x3V09toLov9geBvBSp7Crpk/view) · [偏移分布图](https://drive.google.com/file/d/1Vl6g1rbmS6mUYs-ZsCoqGk1kuOI4Eu1-/view)
+
+101个官方聚落XML坐标与29个城镇港口、72个村庄双状态去重登陆点一对一匹配；全部存在正的XY位移，整体中位数约4.67场景单位。4处偏移超过10场景单位且均为村庄。此为聚落锚点与水路接入标记之间的直线距离，**不是实际路程或自然海岸线距离**。全部101行逐点CSV和复算脚本另在研究分析包。
+
 ## CGEO-MAP-RES-010
 
 - [《战帆》港口与登陆点聚落 ID 及官方地名核对](geo/90/EVD/CGEO-MAP-RES-010.md) · [Google Drive原件](https://docs.google.com/document/d/1JmXqLuMxxWbxvd7HMZ49RExaLj9ff5Mf74MLWulFAm8/edit)
