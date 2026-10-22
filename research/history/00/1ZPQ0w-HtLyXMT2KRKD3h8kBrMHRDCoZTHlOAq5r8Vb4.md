@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-版本：v3.11｜2026年10月23日
+版本：v3.12｜2026年10月23日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -109,6 +109,8 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 8\. Q-0011 v0.4第二批史学完善（2026-10-23）：H-0001增补沙拉斯—巴拉维诺斯—俄耳堤西亚三城市直接史述/局部时间/最佳解释/反证的逐项对照；H-0002新增拉革塔、洛塔什、费卡翁、吕卡隆、密泽亚五案例中“原始事实—机制—竞争解释—地方叙述偏差”的受控比较；H-0003增补三机构的文献陈述、推论与未知程序分层，并阻断晚期军人土地酬赏对共和初期的倒推；H-0004 v0.8以地方独立行动与战时联合的正向证据支撑多中心政治模型；H-0005 v1.1新增四判据的时间/来源/替代解释矩阵，Q5-09仍开放。Q-0011现为v0.4：https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0011-historical-method-cross-review.md。本次未作所有原始游戏史料及比较史学引用的发表级逐页终审，H-0001、H-0002、H-0004仍有条件通过，H-0003待制度史复审，H-0005研究稿不定稿；不改动正典与H编号。
 
 9. Q-0011 v0.5因果方向与多中心结构深化（2026-10-23）：H-0003进一步区分‘已有共和协调制度帮助对外扩张’与‘征服及地区纳入反过来改造共和制度’两条历史因果方向，并给出区分证据；仍保持制度渐进重组为首选解释而非已定年制度起源。H-0004更新为v0.9，在帕拉多中心模型内部区分地区霸权、临时军事实用联盟、松散政治文化网络，提出贡赋、盟约和权力世系等可检验条件。H-0005更新至研究稿v1.2，检验统帅延任与军营大会控制之间可能存在的反向因果，军事任务连续性与政治认可环境变化仍为首选双核心机制，不虚构从早期共和到成熟帝制的中段制度事件。H-0001、H-0002先前修订保留；H-0001、H-0002、H-0004维持阶段性有条件通过，H-0003继续制度史复审，H-0005的Q5-09继续开放。Q-0011 v0.5原件：https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0011-historical-method-cross-review.md。编号、CHC和已签发世界书正典不改。
+
+10. Q-0011 v0.6跨论文一致性审核收口（2026-10-23）：回读核对H-0001—H-0005现行Google Docs和GitHub正文共615段，五篇逐段一致；另发现H-0003仍有三处沿用“沙拉斯首次登陆”旧记忆，本轮已依据H-0001复核的town_V7/0cZmKO76原文将西海起源段、注释〔3〕及相对年代附录乙改为“新大陆海岸首个殖民地，未确认首次登陆地点”，并提交GitHub。Q-0011升至v0.6：H-0001、H-0002、H-0004保持阶段性有条件通过，H-0003需独立年代和建制材料，H-0005 v1.2研究稿之Q5-09继续开放。下一项主线工作应回归H-0005：以可识别的任免、集会和继承政治事件测试统帅延任与公共认可控制的双向机制，而非无限新增审查索引。Q-0011原件：https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0011-historical-method-cross-review.md。H编号、CHC及已签发世界书正典不变。
 
 ---
 
