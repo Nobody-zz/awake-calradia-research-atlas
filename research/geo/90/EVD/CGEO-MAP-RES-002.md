@@ -101,3 +101,7 @@
 后续技术档案 [CGEO-MAP-RES-003](CGEO-MAP-RES-003.md) 已完成 terrain 高程解码。HGHT偏移表指向LZ4解压后的raw输出，不是压缩文件字节偏移；本报告原先的tile长度统计以stored size作为最后一块终点，现由RES-003按raw size修订。正确中位数：原版87,689.5字节，《战帆》78,176.5字节。
 
 两版HGHT均解码为256张257×257、16-bit灰度PNG，并拼接为4097×4097栅格。DLC的480条接缝全部精确匹配；原版477/480接缝精确匹配。MIDX每版另有4张4096×4096、8-bit灰度PNG。详见[RES-003报告](https://docs.google.com/document/d/1pTiVx_yOJpP6IVFzUcwr2Yeni3m2xb1Y-rbdcNj9HsM/edit)。
+
+## Flowmap与导航类型语义边界
+
+TaleWorlds官方文档说明Flowmap编辑器箭头表示方向、颜色表示强度，且影响水面shader和风暴移动；但没有公布DDS浮点分量的确切重映射或物理单位，因此原始R/G统计不能直接解释为流速。官方文档亦区分CoastalSea、OpenSea、River、NonNavigableRiver、UnderBridge和Lake等导航类型；这些是游戏导航分类，不独立证明自然水文连通。详见 [CGEO-MAP-RES-004](CGEO-MAP-RES-004.md) 与 [官方文档](https://moddocs.bannerlord.com/war-sails/wsworldmap/)。
