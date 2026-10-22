@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-## 版本：v2.1｜2026年10月22日
+## 版本：v2.2｜2026年10月22日
 
 固定编号规则：H-0001、H-0002……；只表达研究档案身份，不暗示历史前后或学术质量顺位。
 
@@ -27,7 +27,7 @@ Google Docs：https\://docs.google.com/document/d/1vjDCwnByypArSpeNcUe0-UKkdlr0n
 
 # 进行中研究与后续计划（题名可调整，编号固定）
 
-H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化｜辅线B·制度史｜v0.8（2026-10-22）：完成关键原始XML文本键与官方简体中文译文复核；新增同伴背景mk0l1BfB/rNkwrwo4与民众大会政治哲学对白OFOXDkPv/Cgdg9Q8t/spQJxKtr。多处叙述重复反改革记忆，但不构成独立中立互证。Q5-09仍未解决，原因是长时段制度因果缺乏独立见证，不是源文件不可访问。  
+H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化｜辅线B·制度史｜v0.9（2026-10-22）：完成核心断言首轮逐句引注与英汉本地化审计（Q-0007 v0.1）。记录mOZsbV8j的“mostly forgotten／已消亡殆尽”、Xtyb9Dyr的“would seem to confirm these fears／也乐于将这种顾虑付诸现实”，以及bhxVA9w7的“battle of Pendraic／潘德拉克战役的惨败”三处语义偏移。反改革组织背景与同伴自述仍不构成独立中立互证。Q5-09保持开放，因缺少独立年代与制度程序证据。  
 Google Docs：https\://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit  
 编号沿用P-0018—P-0033、E-0009—E-0014、D-0008—D-0013；它们是研究审计索引，不作为文章正文结构，也不代表16项独立史料证据。下一步做史料及历史论文文体双重审校。  
 Google Docs：https\://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit  
@@ -63,4 +63,4 @@ Q-0004：https\://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOi
 新材料处理与执行状态：  
 1\. H-0004 v0.5已完成定向复查：赫塔尼亚Palaic/Dryatic与克里俄斯新增圣地文本均作为版本/本地化异文登记；不将DLC自动视为对旧版的全面取代。尚未逐条审校全部DLC聚落文本。  
 2\. H-0005已将spclans.xml、world\_lore\_strings.xml、heroes.xml与companion\_strings.xml纳入直接原始文本核验，并逐项对照spkingdoms.xml北/西/南帝国沿革及对应官方简体中文。已核对键值包括bhxVA9w7、mk0l1BfB、rNkwrwo4、04xAg0yN、Cx2FCePF、uJeoa6u1、SCogGc7N、T1svPL9Z、uK4IX036、OFOXDkPv、Cgdg9Q8t、spQJxKtr、aEfsyVH4、mOZsbV8j、Xtyb9Dyr。组织背景、同伴自述与政治对白仍按其文类和立场使用；Q5-09及因果机制问题继续开放。  
-3\. 暂缓启动H-0006及诺德专题。Q-0006已更新至v1.8，记录H-0001—H-0004关键原始XML与实际存在的官方简体中文条目复验，以及H-0005组织背景、同伴自述、政治哲学对白的来源批判和核心命题链证据分级。五篇论文正文引注编号与注释编号已完成机器辅助对应核查，但这不等于每条史料都实质支持对应论断。I-0003新增P-0047—P-0055、D-0038—D-0041，登记原始资料包完整性、关键文本键、缺失的官方简体中文本地化键、中文工作译文来源边界，以及多处反改革叙述和政治对白的同源性。当前资料包已在ChatGPT项目附件中找到，67/67文件的清单哈希和字节数核对一致；继续帝国五篇论文，不启动新专题。  
+3\. 暂缓启动H-0006及诺德专题。Q-0006已更新至v1.9，附录B记录H-0005核心断言的首轮逐句引注与英汉本地化审计；GitHub已新增Q-0007 v0.1及同步后的H-0005 v0.9。I-0003新增S-0046—S-0051、P-0056、D-0042，登记XML来源路径、对应中文键、译文语义偏移及同源叙述边界。五篇论文正文引注编号与注释编号的机器辅助对应核查，不等于每条史料都实质支持对应论断。下一轮按同样标准审计H-0001—H-0004的每条断言和脚注，不启动新专题。  
