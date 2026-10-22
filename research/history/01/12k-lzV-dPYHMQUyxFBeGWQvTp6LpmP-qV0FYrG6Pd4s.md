@@ -110,9 +110,9 @@ Mackil 对希腊联邦共同体的研究表明，经济联系和共同实践可�
 
 〔7〕 Malkin, Irad. \*A Small Greek World: Networks in the Ancient Mediterranean\*. Oxford University Press, 2011，尤其第1章“Introduction: Networks and History”，pp. 3–64。全书DOI: https\://doi.org/10.1093/acprof:oso/9780199734818.001.0001；章节DOI: https\://doi.org/10.1093/acprof:oso/9780199734818.003.0001。本文只借其网络与殖民聚落的比较概念，不将古希腊殖民史直接移植为卡拉德史实。
 
-〔8〕《拉革塔城市记述》，《卡拉迪亚诸国与城镇志》，town\_EW1。
+〔8〕《拉革塔城市记述》，town\_EW1，SandBox/ModuleData/settlements.xml正文键ZAGUIKOn。该键不在本资料包SandBox或NavalDLC独立英文／简体中文settlements语言表中；本文中文释文为工作译文／既有汇编译文，不应标作已核实的官方简体中文游戏译文。
 
-〔9〕《洛泰城市记述》，同上，town\_EW6。
+〔9〕《洛泰城市记述》，town\_EW6，SandBox/ModuleData/settlements.xml正文键5SpYVtie。该键不在本资料包SandBox或NavalDLC独立英文／简体中文settlements语言表中；本文中文释文为工作译文／既有汇编译文，不应标作已核实的官方简体中文游戏译文。
 
 〔10〕《费卡翁》《吕卡隆城市记述》，同上，town\_ES6、town\_ES4。
 
@@ -130,3 +130,13 @@ Mackil 对希腊联邦共同体的研究表明，经济联系和共同实践可�
 
 校补记录（2026-10-22）：据Q-0004增补西海流亡者记忆与内陆部族起源之间尚无可证人口连接、沙拉斯与巴拉维诺斯关于迁都速度的文本差异，以及俄耳堤西亚后期海巡与早期殖民政治的时间界限。未建立新的绝对迁都年份。审查：https\://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJa\_Dg6V8c/edit  
 复核记录（2026-10-22，Q-0006 v1.6）：已从ChatGPT项目附件直接复核SandBox聚落键0cZmKO76（town\_V7）、Nx0qK2g6（town\_V3）、JhBSnWAe（town\_EW4）、TI3fS2xN（town\_EW3），并对读empire\_w键mOZsbV8j与Culture.empire键X0kKBzsW。town\_V7和town\_EW3正文键不在本资料包官方简体中文语言表，相关中文释文已在〔1〕〔5〕标为工作译文/既有汇编译文；其余存在CN键的条目按实际译文使用。原文支持殖民起源、首都地位、古亚兹早期宗主权及后期港务叙述；迁都相对年代张力、海上流亡者与内陆部族的人口连接、俄耳堤西亚早期殖民与后期海巡的断代仍未解决。项目包完整性已核验，不将其误称为所有史料均完成语义审计；争议继续以I-0003登记为准。
+
+## Q-0008补记（2026-10-22）：跨版本与本地化边界
+
+本节的“文本实质稳定”结论仅针对town_V7（沙拉斯）、town_V3（巴拉维诺斯）与town_EW4（俄耳堤西亚）三个城市沿革条目，不得外推为全部引用聚落在NavalDLC中均未改写。俄耳堤西亚“Bay of Charas”在DLC英文中改为“Gulf of Charas”；该用词差异不支持历史地理变迁。两版共有聚落坐标变化也不能被解释为卡拉迪亚内部历史中的迁居、海岸变迁或政治疆界变化。
+
+拉革塔（town_EW1/ZAGUIKOn）与洛泰（town_EW6/5SpYVtie）的英文长篇正文直接存在于settlements.xml，但未出现在本资料包独立英文或官方简体中文settlements语言表中；其中文释文属于工作译文／既有汇编译文。相同原则适用于贾尔马律斯（town_EW3/TI3fS2xN）。
+
+西帝国键mOZsbV8j的英文“mostly forgotten”不等于语言与习俗已经完全灭绝，官方简体中文“已消亡殆尽”语气更强。本文对西部语言变化的判断应以英文原文为限，不能从中文强化译文推出完全灭绝。
+
+本补记为定向复核，不等于H-0001全文每一条断言及比较史学脚注均已逐句核销。迁都相对年代、海上流亡者与内陆部族的人口连接、俄耳堤西亚早期殖民与后期海巡的断代仍开放。
