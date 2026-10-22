@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-## 版本：v3.3｜2026年10月22日
+## 版本：v3.4｜2026年10月22日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -58,6 +58,8 @@ Google Docs：https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW
 
 待立项选题｜南方独立城邦的政治结构与帝国征服｜分类号：CHC-OTH-CIT-REL｜不预占H号。
 
+待立项选题｜达西人及帕迪沙阿政治共同体史：地图外东方帝国与卡拉迪亚东缘的王权、贸易及边疆据点｜分类号：CHC-DSH-REL｜状态：预研，未分配H号。
+
 ## 其他待研究议题（均未预占H号）：语言与宗教接触｜CHC-CAL-CUL；军事集团的土地化与帝国地方政治整合｜CHC-EMP-POL；普通居民的生产与战争经验｜CHC-CAL-SOC。
 
 ## 存放规则
@@ -94,8 +96,9 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 
 2. H-0005已将spclans.xml、world\_lore\_strings.xml、heroes.xml与companion\_strings.xml纳入直接原始文本核验，并逐项对照spkingdoms.xml北/西/南帝国沿革及对应官方简体中文。已核对键值包括bhxVA9w7、mk0l1BfB、rNkwrwo4、04xAg0yN、Cx2FCePF、uJeoa6u1、SCogGc7N、T1svPL9Z、uK4IX036、OFOXDkPv、Cgdg9Q8t、spQJxKtr、aEfsyVH4、mOZsbV8j、Xtyb9Dyr。组织背景、同伴自述与政治对白仍按其文类和立场使用；Q5-09及因果机制问题继续开放。
 
-3. 状态复核（2026-10-22）：H-0004 v0.6已记录NavalDLC异文与本地化滞后；H-0005 v1.0和Q-0007 v0.2完成核心引文及四项制度判据审计，但Q5-09仍开放。当前可访问面未找到原始ZIP/XML附件，故本轮没有重新打开源包；此前67/67哈希与文本键复核作为历史执行记录保留，不宣称本轮新增源级核验。Q-0008 v1.1、I-0003 v2.7、Q-0009 v0.1的现行状态见各自文件；不启动诺德专题或为未完成选题预分配H编号。
-4. 研究推进方式变更（2026-10-22）：H-0001—H-0004暂按定向纠错维护；H-0005维持研究稿v1.0，新增四项制度判据但不将其排成同一时点，Q5-09继续开放。现已新增Q-0009 v0.1《卡拉德帝国相对年代与分期约束审查》：Google Docs：https://docs.google.com/document/d/1Ny-pOnhZYWiR5ES91vsSAv_YbrJgcV8Tt-wtPq7c-Tw/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0009-imperial-relative-chronology.md。该工作底稿并列现行正典与学术证据，登记阿雷尼科斯“约二十年前”相对表述、官方相对年代换算口径、284/784算术异常及东部行省控制权衔接问题；不改动已签发时间线正典。H-0006仍不预分配，坎尼与诺德专题继续暂缓。
+3. 状态复核（2026-10-22）：本轮已重新物化SandBox.zip、file_manifest.csv与README.md，并按SHA-256核对SandBox v1.4.8相关源文件；对settlements.xml、world_lore_strings.xml、companion_strings.xml、heroes.xml、spclans.xml及对应英文／简中聚落语言表进行了达西主题定向源级复核。I-0004 v2.1新增DSH一级类别；I-0003 v2.8新增达西证据登记。Patyr亲属关系尚未由当前候选XML直接验证；Rhagaea父系身份在官方开发博客与注释性草稿间存在表述差异。
+
+4. 研究推进方式变更（2026-10-22）：H-0001—H-0004继续按定向纠错维护；H-0005研究稿v1.0维持，Q5-09继续开放。Q-0009已更新为v0.2，新增达西人与东部边疆的原始XML核验，并将未决缺口限定为十世纪危机与较晚东部控制变化之间缺少可定年的事件桥梁。Google Docs：https://docs.google.com/document/d/1Ny-pOnhZYWiR5ES91vsSAv_YbrJgcV8Tt-wtPq7c-Tw/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0009-imperial-relative-chronology.md。已签发时间线正典不变；H-0006不预分配，坎尼与诺德专题继续暂缓。
 
 ---
 
