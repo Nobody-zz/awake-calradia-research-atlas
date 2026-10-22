@@ -69,3 +69,24 @@ CGEO-MAP-RES-002曾把偏移表当作存储字节偏移，并以 stored size 作
 - `original_height_seam_mismatches.csv`、`warsails_height_seam_mismatches.csv`
 
 研究快照只提交本报告和必要统计，不向GitHub提交游戏原始二进制资产或完整提取图块。
+
+## Navmesh 顶点对高程栅格的独立校验
+
+将全部 Navmesh 顶点的场景 XY 坐标映射到4097×4097 HGHT栅格并进行双线性采样，同时测试 X/Y 翻转与转置候选。直接 X/Y、不翻转、不转置的映射相关性最高。
+
+| 指标 | 原版 | 《战帆》 |
+|---|---:|---:|
+| 场景总范围 | 848 | 1040 |
+| 每像素间距 | 0.20703125 | 0.25390625 |
+| Pearson r | 0.995720 | 0.985351 |
+| R² | 0.991458 | 0.970917 |
+| 经验拟合 | Z = 0.0003544144 × H − 0.086398 | Z = 0.0004103484 × H + 0.433259 |
+| RMSE（场景单位） | 0.2906 | 0.6687 |
+| 偶/奇索引留出验证 R² | 0.991456 | 0.970943 |
+| 留出验证 RMSE | 0.2907 | 0.6706 |
+
+每像素间距等于 node_size/256（原版53/256，DLC65/256）。翻转/转置候选相关性明显更低，支持栅格列/行与场景X/Y的线性对应；这不确认显示图像的北向，也不等于现实地图方位。
+
+Z回归是经验验证模型，不是引擎高度转换函数的直接证明。Navmesh顶点可能包含水面、通行面或局部偏差；正式scale/offset仍需进一步确认。
+
+诊断图：[原版](https://drive.google.com/file/d/1PZ1ipTK_iaUOzJOhEQU72b0JTEWQEJFQ/view) · [《战帆》](https://drive.google.com/file/d/1V7FYYLRYej-SrkxoY2uEopc7aog4r3ec/view)。
