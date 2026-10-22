@@ -1,6 +1,6 @@
 # 研究文档索引
 
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘；两者不会自动同步，修订后须逐段核验。最近同步：2026-10-23。I-0004 v2.1沿用CHC分类法，达西人（DSH）作为独立一级类；其他零散小型政治共同体继续归入OTH。I-0002现为v3.5，I-0003为v2.9。新增Q-0010 v0.1，直接复核彭同人物传记、拉盖娅及伊拉的继承主张、元老院法统与佩特罗斯家族注释的文本状态，明确“拉盖娅母系涅雷采斯说”仍为待证假说。补充登记P-0072—P-0075及D-0063—D-0065；Q-0009 v0.2保留达西东部边疆核验，H-0005 v1.0的Q5-09仍开放。原始XML复核仅对应列明的官方源文件和文本键，未宣称所有游戏资源均已重读；已签发世界书正典、H-0001—H-0005档案号未改，H-0006未分配。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘；两者不自动同步，修订后须逐段核验。最近同步：2026-10-23。I-0004 v2.1继续将达西人（DSH）列为独立一级类；小型政治共同体仍归入OTH。I-0003现为v3.0，I-0002为v3.6，Q-0010修订为v0.2。新版本按人物年代、皇位交替及亲属称谓作常规历史推论，将佩特罗斯家族注释的the emperor首选指认为德罗修斯·涅雷采斯；结合拉盖娅达西公主身份，形成“母亲为德罗修斯姐妹、与彭同为表兄妹”的高解释力工作谱系，同时保留开发注释与当前生效亲属关系字段的史料等级区别。I-0003已修订P-0075及D-0063，Q-0009 v0.2继续保存东部边疆校勘；H-0005 v1.0与Q5-09未改。已签发世界书正典和H-0001—H-0005编号不变，H-0006未分配。
 
 ## geo/00
 
@@ -56,7 +56,7 @@
 - [Q-0007｜H-0005 核心断言与四项制度判据审计（v0.2）](history/02/Q-0007-H0005-claim-source-audit.md)
 - [Q-0008｜H-0001—H-0004 逐句引注与英汉本地化复核（v1.1）](history/02/Q-0008-H0001-H0004-version-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit)
 - [Q-0009｜卡拉德帝国相对年代与分期约束审查（v0.2）](history/02/Q-0009-imperial-relative-chronology.md) · [云盘原件](https://docs.google.com/document/d/1Ny-pOnhZYWiR5ES91vsSAv_YbrJgcV8Tt-wtPq7c-Tw/edit)
-- [Q-0010｜彭同、拉盖娅与涅雷采斯家族政治分流：谱系及法统审查（v0.1）](history/02/Q-0010-neretzes-penton-rhagaea-succession-evidence.md) · [云盘原件](https://docs.google.com/document/d/14-HU9CH3hLPHVTxJl_i3ILtDh2vrvLfgp5g7Wq4bHaI/edit)
+- [Q-0010｜彭同、拉盖娅与涅雷采斯家族政治分流：谱系及法统审查（v0.2）](history/02/Q-0010-neretzes-penton-rhagaea-succession-evidence.md) · [云盘原件](https://docs.google.com/document/d/14-HU9CH3hLPHVTxJl_i3ILtDh2vrvLfgp5g7Wq4bHaI/edit)
 ## history/03
 
 - [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化（研究稿v1.0；CHC-EMP-POL）](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
