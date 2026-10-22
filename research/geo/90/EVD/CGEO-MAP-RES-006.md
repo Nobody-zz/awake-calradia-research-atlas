@@ -53,3 +53,6 @@ TaleWorlds官方指南：https://moddocs.bannerlord.com/war-sails/wsworldmap/
 Google Drive原件：https://docs.google.com/document/d/1LKqRVItDPxfNsasdYQ3MldJkwSASXj5GT5QOCEaz-KE/edit
 
 注：GitHub仅存储研究文本与派生指标，不上传游戏原始二进制资源。
+
+
+八、GitHub可复核指标： [《战帆》候选水上网络三个连通区域CSV](CGEO-MAP-RES-006_navigable_components.csv)。该CSV保存了网格面数、坐标范围、类型组成和XY投影面积，统计程序及更完整的邻接表收录在本轮离线ZIP分析包中。
