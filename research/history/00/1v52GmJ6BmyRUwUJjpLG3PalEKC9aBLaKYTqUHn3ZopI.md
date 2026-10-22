@@ -480,7 +480,7 @@ D-0047｜H-0001俄耳堤西亚设施名称的本地化具体化：英文“tower
 
 D-0048｜H-0003 Culture.empire政治术语本地化：英文“civic elders/civic traditions”与中文“民粹元老/民粹传统”存在语义偏移。应以英文为解释依据，不将其写成卡拉德人存在现代意义民粹主义的证据。
 
-P-0061【A：地名语义本地化差异】town\_EN5/8UJ3cPrZ的英文“ Myzea gives its name to the Myzeiad/Myzead”表示城市密泽亚为区域命名；官方简体中文“密泽亚的名字来源于密泽亚德”将命名方向译反。英文“snuffed it out”也被译为“迅速掐灭”，添加原文未明确表达的速度信息。论文目前未据中文译文作这两项推断。
+P-0061【A：地名语义本地化差异】town\_EN5/8UJ3cPrZ的英文“Myzea gives its name to the Myzeiad/Myzead”表示城市密泽亚为区域命名；官方简体中文“密泽亚的名字来源于密泽亚德”将命名方向译反。英文“snuffed it out”也被译为“迅速掐灭”，添加原文未明确表达的速度信息。论文目前未据中文译文作这两项推断。
 
 P-0062【A：地形术语本地化差异】town\_ES4/WGtzBswe英文“a spur jutting out of the great Ornian rock”被官方简体中文译作“奥尼石山向外突出的一处缓坡”。论文仅采用“天然要塞／奥尼石山”的概括，不据中文译文判断精确坡形。
 
