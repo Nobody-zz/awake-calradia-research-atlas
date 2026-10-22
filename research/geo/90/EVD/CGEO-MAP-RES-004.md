@@ -72,5 +72,5 @@ TaleWorlds官方文档说明，War Sails Flowmap编辑器中的箭头方向代�
 
 ## 来源
 
-- 独立terrain.bin格式逆向（目标版本与本项目一致）：[格式说明](https://github.com/davgor/MNBL-modding-repo/blob/23ba089566884dabe61164f47ae3d9e4f145da86/docs/formats/terrain-bin.md) · [参考实现](https://github.com/davgor/MNBL-modding-repo/blob/23ba089566884dabe61164f47ae3d9e8f4e145da86/tools/scenebin/terrain_bin.py)
+- 独立terrain.bin格式逆向（目标版本与本项目一致）：[格式说明](https://github.com/davgor/MNBL-modding-repo/blob/23ba089566884dabe61164f47ae3d9e4f145da86/docs/formats/terrain-bin.md) · [参考实现](https://github.com/davgor/MNBL-modding-repo/blob/23ba089566884dabe61164f47ae3d9e4f145da86/tools/scenebin/terrain_bin.py)
 - TaleWorlds官方：[War Sails World Map](https://moddocs.bannerlord.com/war-sails/wsworldmap/)
