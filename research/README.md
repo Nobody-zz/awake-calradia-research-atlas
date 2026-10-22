@@ -1,6 +1,6 @@
 # 研究文档索引
 
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘中；两者不会自动同步，修订后需显式提交并更新本索引。最近同步：2026-10-22，H-0001—H-0004、I-0002 v2.4、I-0003 v2.0、Q-0008 v0.3；七份历史研究文档已逐一与Google Docs现行正文核对。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘中；两者不会自动同步，修订后需显式提交并更新本索引。最近核验：2026-10-22。H-0001—H-0004、I-0002 v3.1、I-0003 v2.6、Q-0008 v1.1七份文件经Google Docs与GitHub正文归一化逐项核对；另推进H-0005至研究稿v1.0（新增四项皇权长期化制度判据），Q-0007更新至v0.2并保留Q5-09待证。H-0005与Q-0007均已单独写回仓库，尚不宣称整个项目已完成全源校勘。
 
 ## geo/00
 
@@ -50,11 +50,11 @@
 - [Q-0004｜H-0001—H-0004 四篇论文补缺与交叉证据核查](history/02/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJa_Dg6V8c.md) · [云盘原件](https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJa_Dg6V8c/edit)
 - [Q-0005｜官方 XML 新材料勘验与版本差异审查](history/02/1cUJmXlnVFCwOcat23f0Vq5xHETgCSUA6b6YMOeb8QGo.md) · [云盘原件](https://docs.google.com/document/d/1cUJmXlnVFCwOcat23f0Vq5xHETgCSUA6b6YMOeb8QGo/edit)
 - [Q-0006｜H-0001—H-0005 第一轮终审与跨论文一致性复核](history/02/1LBoITtK8TCEOasgaKJMXFfh7CbXAw0SBATSM7ZZxfH4.md) · [云盘原件](https://docs.google.com/document/d/1LBoITtK8TCEOasgaKJMXFfh7CbXAw0SBATSM7ZZxfH4/edit)
-- [Q-0007｜H-0005 核心断言逐句引注与英汉本地化审计（v0.1）](history/02/Q-0007-H0005-claim-source-audit.md)
-- [Q-0008｜H-0001—H-0004 逐句引注与英汉本地化复核（v0.3）](history/02/Q-0008-H0001-H0004-version-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit)
+- [Q-0007｜H-0005 核心断言与四项制度判据审计（v0.2）](history/02/Q-0007-H0005-claim-source-audit.md)
+- [Q-0008｜H-0001—H-0004 逐句引注与英汉本地化复核（v1.1）](history/02/Q-0008-H0001-H0004-version-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit)
 ## history/03
 
-- [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
+- [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化（研究稿v1.0）](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
 ## history/90
 
 - [《卡拉迪亚之王》时间线二创文本梳理（公开仓库平行核对稿）](history/90/1TfweX-znEVL4mzd_Ct0l5fSj-0dQgIJ9kqBn7RUMXAs.md) · [云盘原件](https://docs.google.com/document/d/1TfweX-znEVL4mzd_Ct0l5fSj-0dQgIJ9kqBn7RUMXAs/edit)
