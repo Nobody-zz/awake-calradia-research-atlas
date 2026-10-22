@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-## 版本：v2.8｜2026年10月22日
+## 版本：v2.9｜2026年10月22日
 
 固定编号规则：H-0001、H-0002……；只表达研究档案身份，不暗示历史前后或学术质量顺位。
 
@@ -94,7 +94,7 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 
 2. H-0005已将spclans.xml、world\_lore\_strings.xml、heroes.xml与companion\_strings.xml纳入直接原始文本核验，并逐项对照spkingdoms.xml北/西/南帝国沿革及对应官方简体中文。已核对键值包括bhxVA9w7、mk0l1BfB、rNkwrwo4、04xAg0yN、Cx2FCePF、uJeoa6u1、SCogGc7N、T1svPL9Z、uK4IX036、OFOXDkPv、Cgdg9Q8t、spQJxKtr、aEfsyVH4、mOZsbV8j、Xtyb9Dyr。组织背景、同伴自述与政治对白仍按其文类和立场使用；Q5-09及因果机制问题继续开放。
 
-3. 暂缓启动H-0006及诺德专题。Q-0006 v1.9与Q-0007 v0.1的H-0005审计仍按既定边界保留。Q-0008已更新至v0.9：本次复核Google Docs与GitHub对应的七份文件，七份正文段落在文本归一化后均可逐项匹配；I-0003登记的S-0052—S-0056、P-0057—P-0064、D-0043—D-0052均实际存在，未发现这些编号区间缺项或重复。Q-0008旧摘要对新增命题与争议的范围表述不完整，现已校正。当前Files接口的对话附件列表为空，按名检索未定位file_manifest.csv与五个XML源ZIP，/mnt/data/calradia-source/不存在；因此本次没有重新打开原始XML，不能声称本轮重新完成源级复验。上一轮记载的XML校勘与版本统计保留为历史执行记录，待原始附件在当前可访问文件面重新可读后继续逐句核销。上一轮Q-0008 v0.8记录SandBox与NavalDLC共有493个Settlement ID坐标属性全部不同、271个共有条目的text属性不同及47个新增ID；H-0001脚注〔15〕补入坐标例子，H-0002脚注〔1〕限缩“mostly forgotten／已消亡殆尽”的语义，H-0004附录和版本说明统一至v0.6。H-0001—H-0003已按出版方目录补入Hansen、Terrenato、Malkin、Mackil可核实的相关章节与页码；这只完成书目和页码元数据核验，不等于已逐页验证每个比较性论点。I-0003维持追加校勘v2.4，登记S-0052—S-0056、P-0057—P-0064、D-0043—D-0052，并修订S-0004、S-0007、S-0013、S-0017、S-0025、S-0051、S-0055。下一步继续逐句核销四篇论文的正文断言与脚注，不启动新国家专题。GitHub镜像同步已完成：H-0001—H-0004、I-0002、I-0003与Q-0008共7份文件均已与各自Google Docs现行正文逐项核对，转换后的GitHub内容与云盘段落文本一致；本次修订后还需重新同步并核验Q-0008和I-0002。Q-0008：https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit
+3. 暂缓启动H-0006及诺德专题。Q-0006 v1.9与Q-0007 v0.1的H-0005审计仍按既定边界保留。Q-0008已更新至v1.0：本次复核Google Docs与GitHub对应的七份文件，七份正文段落在文本归一化后均可逐项匹配；I-0003登记的S-0052—S-0056、P-0057—P-0064、D-0043—D-0052均实际存在，未发现这些编号区间缺项或重复。Q-0008旧摘要对新增命题与争议的范围表述不完整，现已校正。当前Files接口的对话附件列表为空，按名检索未定位file_manifest.csv与五个XML源ZIP，/mnt/data/calradia-source/不存在；因此本次没有重新打开原始XML，不能声称本轮重新完成源级复验。上一轮记载的XML校勘与版本统计保留为历史执行记录，待原始附件在当前可访问文件面重新可读后继续逐句核销。上一轮Q-0008 v0.8记录SandBox与NavalDLC共有493个Settlement ID坐标属性全部不同、271个共有条目的text属性不同及47个新增ID；H-0001脚注〔15〕补入坐标例子，H-0002脚注〔1〕限缩“mostly forgotten／已消亡殆尽”的语义，H-0004附录和版本说明统一至v0.6。H-0001—H-0003已按出版方目录补入Hansen、Terrenato、Malkin、Mackil可核实的相关章节与页码；这只完成书目和页码元数据核验，不等于已逐页验证每个比较性论点。I-0003已追加校勘至v2.5，登记S-0052—S-0056、P-0057—P-0064、D-0043—D-0052，并修订S-0004、S-0007、S-0013、S-0017、S-0025、S-0051、S-0055。下一步继续逐句核销四篇论文的正文断言与脚注，不启动新国家专题。GitHub镜像同步已完成：H-0001—H-0004、I-0002、I-0003与Q-0008共7份文件均已与各自Google Docs现行正文逐项核对，转换后的GitHub内容与云盘段落文本一致；续接轮进一步修订H-0002、H-0003、H-0004、I-0003与Q-0008：拉革塔雇佣兵身份误译残留共四处均已纠正；H-0003通过TaleWorlds官方文章搜索索引核验“政治传统未成文化”及共和国制度轮廓，原站网页直连仍返回403；相关Google Docs与GitHub均已写入并远端回读，最终七份文件的正文一致性继续核对。Q-0008：https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit
 
 ---
 
