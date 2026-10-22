@@ -222,7 +222,6 @@ v0.5（2026年10月22日）：补入比较史学文献的完整书目信息与�
 v0.7（2026年10月22日）：根据Q-0006 v1.6直接复核SandBox/spkingdoms.xml三帝国条目（aEfsyVH4、mOZsbV8j、Xtyb9Dyr）、spclans.xml被弃者军团键bhxVA9w7、heroes.xml的lord\_1\_5/键04xAg0yN，以及world\_lore\_strings.xml政治对白键Cx2FCePF、SCogGc7N、uK4IX036和对应官方简体中文译文。文本键值与论文引述基本对应；被弃者军团条目明确带有反改革组织的立场，继承对白呈现相互竞争的法律、惯例、家族与军人主张。Q5-09仍未解决，原因是缺乏独立证据来复核长时段因果链，而非原始文件缺失  
 v0.8（2026年10月22日）：新增companion\_strings.xml中mk0l1BfB与rNkwrwo4两条同伴背景文本，确认军团改革的反对叙事在组织背景与人物自述中重复出现，但因共享反改革立场，不视为独立中立互证；扩展world\_lore\_strings.xml政治哲学对白，补充元老院权威、民众大会及加里俄斯政治主张的相关键值。Q5-09仍未解决：现有材料能重建政治话语与官方叙事的结构，但不足以独立验证长时段制度变化的严格因果链。
 
-
 ## 编者校勘附记（v0.9）
 
 对 SandBox/ModuleData/spkingdoms.xml 的 aEfsyVH4、mOZsbV8j、Xtyb9Dyr 及对应官方简体中文条目逐句对读。mOZsbV8j 英文“mostly forgotten”意为语言与习俗大多被遗忘，中文“已消亡殆尽”语义更强；Xtyb9Dyr 英文“would seem to confirm these fears”将判断指向南方贵族支持拉盖娅这一事实，中文“也乐于将这种顾虑付诸现实”则容易读成拉盖娅本人有意兑现疑虑。spclans.xml 的 bhxVA9w7 英文仅称“in the wake of the battle of Pendraic”，中文增加“惨败”。本文历史论证以英文原文为基准，中文用于校勘而非独立互证。军团组织背景与两条同伴自述分别涉及常备军废除、旧军团遭伏击和反改革者对军队衰败的归因，不得合并成已证实的单一因果链。详细断言—来源—译文矩阵见 [Q-0007 v0.1](../02/Q-0007-H0005-claim-source-audit.md)。
