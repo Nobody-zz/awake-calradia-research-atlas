@@ -1,6 +1,6 @@
 # 研究文档索引
 
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘中；两者不会自动同步，修订后需显式提交并更新本索引。最近核验：2026-10-22。H-0001—H-0004、I-0002 v3.1、I-0003 v2.6、Q-0008 v1.1七份文件经Google Docs与GitHub正文归一化逐项核对；另推进H-0005至研究稿v1.0（新增四项皇权长期化制度判据），Q-0007更新至v0.2并保留Q5-09待证。H-0005与Q-0007均已单独写回仓库，尚不宣称整个项目已完成全源校勘。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘中；两者不会自动同步，修订后需显式提交并更新本索引。最近核验：2026-10-22。学术分类规范I-0004已修订为CHC v2.0层级分类树：主要文化势力各自设一级类，帕拉、坎尼、独立城邦等小型政治共同体统一归入OTH分支。I-0001 v1.1、I-0002 v3.2已同步档案号规则与论文目录；H-0001—H-0005的Google Docs及GitHub Markdown均已添加正式主分类号并回读验证。I-0003 v2.6、Q-0007 v0.2、Q-0008 v1.1及H-0005 v1.0仍保留各自史料审计边界；本次分类更新不代表完成全源校勘。
 
 ## geo/00
 
@@ -37,12 +37,13 @@
 - [I-0001｜研究总纲与交叉校验规范](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
 - [I-0002｜论文目录与研究进度总索引](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
 - [I-0003｜史料—事件—命题—争议总登记簿](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
+- [I-0004｜卡拉迪亚历史研究学术分类法（CHC v2.0）](history/00/I-0004-academic-classification.md) · [云盘原件](https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit)
 ## history/01
 
-- [H-0001｜卡拉德人的早期建城与殖民网络：沙拉斯、巴拉维诺斯与俄耳堤西亚](history/01/12k-lzV-dPYHMQUyxFBeGWQvTp6LpmP-qV0FYrG6Pd4s.md) · [云盘原件](https://docs.google.com/document/d/12k-lzV-dPYHMQUyxFBeGWQvTp6LpmP-qV0FYrG6Pd4s/edit)
-- [H-0002｜征服、合邦与同化：卡拉德国家扩张中的帕拉诸部落](history/01/1CBSqXHw0m39FSSQUK9l1ARf2o9Nl324PP8qwQrqUYVI.md) · [云盘原件](https://docs.google.com/document/d/1CBSqXHw0m39FSSQUK9l1ARf2o9Nl324PP8qwQrqUYVI/edit)
-- [H-0003｜从部族联盟到共和国：卡拉德早期政治共同体的形成](history/01/1Vpu2yWtz_QXl9oCfLBB_4rm9c1xRsCbzW8LzoRH127s.md) · [云盘原件](https://docs.google.com/document/d/1Vpu2yWtz_QXl9oCfLBB_4rm9c1xRsCbzW8LzoRH127s/edit)
-- [H-0004｜卡拉德人到来以前的帕拉诸部落：社会组织、政治结构与文化传统](history/01/1vjDCwnByypArSpeNcUe0-UKkdlr0nD4dJm7Q4PwcA3Y.md) · [云盘原件](https://docs.google.com/document/d/1vjDCwnByypArSpeNcUe0-UKkdlr0nD4dJm7Q4PwcA3Y/edit)
+- [H-0001｜卡拉德人的早期建城与殖民网络：沙拉斯、巴拉维诺斯与俄耳堤西亚（CHC-CAL-SET）](history/01/12k-lzV-dPYHMQUyxFBeGWQvTp6LpmP-qV0FYrG6Pd4s.md) · [云盘原件](https://docs.google.com/document/d/12k-lzV-dPYHMQUyxFBeGWQvTp6LpmP-qV0FYrG6Pd4s/edit)
+- [H-0002｜征服、合邦与同化：卡拉德国家扩张中的帕拉诸部落（CHC-OTH-PAL-REL）](history/01/1CBSqXHw0m39FSSQUK9l1ARf2o9Nl324PP8qwQrqUYVI.md) · [云盘原件](https://docs.google.com/document/d/1CBSqXHw0m39FSSQUK9l1ARf2o9Nl324PP8qwQrqUYVI/edit)
+- [H-0003｜从部族联盟到共和国：卡拉德早期政治共同体的形成（CHC-CAL-POL）](history/01/1Vpu2yWtz_QXl9oCfLBB_4rm9c1xRsCbzW8LzoRH127s.md) · [云盘原件](https://docs.google.com/document/d/1Vpu2yWtz_QXl9oCfLBB_4rm9c1xRsCbzW8LzoRH127s/edit)
+- [H-0004｜卡拉德人到来以前的帕拉诸部落：社会组织、政治结构与文化传统（CHC-OTH-PAL-SOC）](history/01/1vjDCwnByypArSpeNcUe0-UKkdlr0nD4dJm7Q4PwcA3Y.md) · [云盘原件](https://docs.google.com/document/d/1vjDCwnByypArSpeNcUe0-UKkdlr0nD4dJm7Q4PwcA3Y/edit)
 ## history/02
 
 - [帕拉诸部落征服史：原始记载索引、年代约束与证据审计](history/02/14s56rI-RWaVRWArxvprUe1-9FdBM-8evEMdknREIDCA.md) · [云盘原件](https://docs.google.com/document/d/14s56rI-RWaVRWArxvprUe1-9FdBM-8evEMdknREIDCA/edit)
@@ -56,7 +57,7 @@
 - [Q-0008｜H-0001—H-0004 逐句引注与英汉本地化复核（v1.1）](history/02/Q-0008-H0001-H0004-version-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit)
 ## history/03
 
-- [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化（研究稿v1.0）](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
+- [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化（研究稿v1.0；CHC-EMP-POL）](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
 ## history/90
 
 - [《卡拉迪亚之王》时间线二创文本梳理（公开仓库平行核对稿）](history/90/1TfweX-znEVL4mzd_Ct0l5fSj-0dQgIJ9kqBn7RUMXAs.md) · [云盘原件](https://docs.google.com/document/d/1TfweX-znEVL4mzd_Ct0l5fSj-0dQgIJ9kqBn7RUMXAs/edit)
