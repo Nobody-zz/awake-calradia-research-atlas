@@ -26,6 +26,7 @@
 - [CGEO-MAP-AUD-001｜原版与《战帆》地图图像实见记录及证据边界（第一轮）](geo/90/EVD/1tsQ0Mz_nHNZYI0wAyazB3RFfW3Kg06nPYKD2bXc7jy0.md) · [云盘原件](https://docs.google.com/document/d/1tsQ0Mz_nHNZYI0wAyazB3RFfW3Kg06nPYKD2bXc7jy0/edit)
 - [CGEO｜官方地理证据登记表（v1.0）](geo/90/EVD/1UmtjdtlvO6mcFPYcQicHuprkZDxmWv0aMbUxk-TlfeM.md) · [云盘原件](https://docs.google.com/document/d/1UmtjdtlvO6mcFPYcQicHuprkZDxmWv0aMbUxk-TlfeM/edit)
 - [CGEO-MAP-RES-001｜原版与《战帆》Main_map 原始资源清单及结构差异](geo/90/EVD/CGEO-MAP-RES-001.md) · [云盘原件](https://docs.google.com/document/d/1RchZ3Q87ii5CmrIkqJjl8IDFG-ZTe8jAsJOcpEnXB0s/edit) · [资源校验 CSV](https://drive.google.com/file/d/1d8xjzRKjtrtvaAGpD4ODaw76vo701pDU/view)
+- [CGEO-MAP-RES-002｜双版本导航网格完整校验与《战帆》Flowmap 解码](geo/90/EVD/CGEO-MAP-RES-002.md) · [云盘原件](https://docs.google.com/document/d/1GwLgawZTVD4NXSXYopn-OsKymVYNfcI3c3Mdg5fWezo/edit) · [Navmesh 对照图](https://drive.google.com/file/d/1mk9WplhRsbM_66AT5zUHAprm3HIH674e/view) · [Flowmap 解码图](https://drive.google.com/file/d/1PwJmq6eQvmw14mMTJYUOLIYGZx30uUzE/view) · [HGHT tile 片段 CSV](https://drive.google.com/file/d/1k8WP1uRRB32Z-vp5l5b66BoFsSZBzAMH/view)
 ## history/00
 
 - [I-0001｜研究总纲与交叉校验规范](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
