@@ -176,7 +176,7 @@ SandBox v1.4.8中的萨涅俄帕与厄诺伊萨将圣湖联系到俄佛堤斯湖
 
 方法比较参照书目（与卡拉迪亚史实无直接证据关系，未进行逐页引文核对）：Nicola Terrenato, The Early Roman Expansion into Italy: Elite Negotiation and Family Agendas, Cambridge University Press, 2019；Greg Woolf, Becoming Roman: The Origins of Provincial Civilization in Gaul, Cambridge University Press, 1998；Emma Dench, Romulus’ Asylum: Roman Identities from the Age of Alexander to the Age of Hadrian, Oxford University Press, 2005。列出这些著作仅为说明可用于比较的研究领域，并非已经完成对上述文献具体章节、观点或页码的考证。正式研究如需援引作者特定论点，必须补入精确页码，并以卡拉迪亚官方材料独立论证相关命题。
 
-## 附录甲：可审计的主要命题（本次校补v0.5，原命题编号保留）
+## 附录甲：可审计的主要命题（本次校补v0.6，原命题编号保留）
 
 P-0001【A】费卡翁被记述为昔日最大的帕拉城市，其统治者曾联合诸部落抵抗帝国（S-0003）；不等于已知统一王国。
 
@@ -230,7 +230,7 @@ D-0007【H-0004内部】萨涅俄帕—厄诺伊萨关于俄佛堤斯湖的对�
 
 ## 作者校勘说明
 
-本稿的A级仅表示官方文本明确说出某项内容，不使其所录传说自动成为史实；B级严格区分文本可直接导出的局部推论，C级作为有合理机制但需要竞争解释的模型，D级则仅存档待证。题名中的“卡拉德人到来以前”是一项长期研究目标，本篇材料主要集中于各地被纳入帝国以前的晚期社会与征服接触时期；不得将“帝国入侵前”等同于“卡拉德人首次到来前”。吕卡里亚骑手的帕拉身份尚无直接记载；俄佛堤斯湖两条原版记录同属官方文本系统。v0.5（2026-10-22）新增NavalDLC定向英文异文校核：赫塔尼亚Palaic/Dryatic冲突降为版本问题，克里俄斯圣地叙述作为DLC新增文本单独标注；原有绝对年代、族属、祭礼及统一王权等问题继续保留。
+本稿的A级仅表示官方文本明确说出某项内容，不使其所录传说自动成为史实；B级严格区分文本可直接导出的局部推论，C级作为有合理机制但需要竞争解释的模型，D级则仅存档待证。题名中的“卡拉德人到来以前”是一项长期研究目标，本篇材料主要集中于各地被纳入帝国以前的晚期社会与征服接触时期；不得将“帝国入侵前”等同于“卡拉德人首次到来前”。吕卡里亚骑手的帕拉身份尚无直接记载；俄佛堤斯湖两条原版记录同属官方文本系统。v0.6（2026-10-22）在v0.5校补基础上，新增厄诺伊萨空间与圣地叙述、卡诺洛斯与坎忒里翁空间定位、密泽亚地貌措辞的NavalDLC异文及简体中文本地化滞后记录；赫塔尼亚Palaic/Dryatic差异仍限定为版本问题，克里俄斯圣地仍作为DLC新增官方叙述单独标注。原有绝对年代、族属、祭礼及统一王权等问题继续保留。
 
 审查与归档：Q-0001第一轮问题清单：https://docs.google.com/document/d/1aRUz0RmzbgfCjrDKMVQ2HqiSjXhzzNMwSmzQqIf8CiU/edit；Q-0002第二轮核对记录：https://docs.google.com/document/d/1O25oHxm6br66Tjw\_wHjRg7K0R7MRgQzDmIlpLGeF6gI/edit。新增S-0017坎忒里翁，命题扩展为P-0001—P-0017，争议扩展为D-0001—D-0007；文献脚注1—15已统一顺序。
 
