@@ -1,6 +1,6 @@
 # 研究文档索引
 
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘中；两者不会自动同步，修订后须显式提交并回读核验。最近同步：2026-10-23。CHC 学术分类法 I-0004 v2.1 新增达西人（DSH）一级类别，保留帕拉、坎尼、独立城邦等零散小型势力的 OTH 分支。I-0002 v3.4 登记 CHC-DSH-REL 预研选题而不预占 H 编号；I-0003 v2.8 新增 S-0059—S-0061、E-0026、P-0066—P-0071、D-0058—D-0062 并更新 D-0056；Q-0009 v0.2 补充 SandBox v1.4.8 达西主题源级审查、东部据点转手证据以及拉盖娅父系出身的版本张力。四份 Google Docs 与 GitHub Markdown 已同步并逐段复核。原始 XML 本轮只作定向检查，未声称全部文件重读；帕堤耳与拉盖娅的兄妹关系仍待直接核验。已签发世界书时间线与 H-0001—H-0005 编号未修改，Q5-09 继续开放，H-0006 未分配。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘；两者不会自动同步，修订后须逐段核验。最近同步：2026-10-23。I-0004 v2.1沿用CHC分类法，达西人（DSH）作为独立一级类；其他零散小型政治共同体继续归入OTH。I-0002现为v3.5，I-0003为v2.9。新增Q-0010 v0.1，直接复核彭同人物传记、拉盖娅及伊拉的继承主张、元老院法统与佩特罗斯家族注释的文本状态，明确“拉盖娅母系涅雷采斯说”仍为待证假说。补充登记P-0072—P-0075及D-0063—D-0065；Q-0009 v0.2保留达西东部边疆核验，H-0005 v1.0的Q5-09仍开放。原始XML复核仅对应列明的官方源文件和文本键，未宣称所有游戏资源均已重读；已签发世界书正典、H-0001—H-0005档案号未改，H-0006未分配。
 
 ## geo/00
 
@@ -56,6 +56,7 @@
 - [Q-0007｜H-0005 核心断言与四项制度判据审计（v0.2）](history/02/Q-0007-H0005-claim-source-audit.md)
 - [Q-0008｜H-0001—H-0004 逐句引注与英汉本地化复核（v1.1）](history/02/Q-0008-H0001-H0004-version-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit)
 - [Q-0009｜卡拉德帝国相对年代与分期约束审查（v0.2）](history/02/Q-0009-imperial-relative-chronology.md) · [云盘原件](https://docs.google.com/document/d/1Ny-pOnhZYWiR5ES91vsSAv_YbrJgcV8Tt-wtPq7c-Tw/edit)
+- [Q-0010｜彭同、拉盖娅与涅雷采斯家族政治分流：谱系及法统审查（v0.1）](history/02/Q-0010-neretzes-penton-rhagaea-succession-evidence.md) · [云盘原件](https://docs.google.com/document/d/14-HU9CH3hLPHVTxJl_i3ILtDh2vrvLfgp5g7Wq4bHaI/edit)
 ## history/03
 
 - [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化（研究稿v1.0；CHC-EMP-POL）](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
