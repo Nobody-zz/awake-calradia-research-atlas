@@ -82,3 +82,11 @@
 - [NavalDLC.zip](https://drive.google.com/file/d/1K1rOhnZ8gV_jH2IP0LvaxXYlmpdgPjTI/view) · [Native.zip](https://drive.google.com/file/d/1mjwjlNjZQGEBbD75GAISs0zNy2ZKfmDp/view) · [SandBox.zip](https://drive.google.com/file/d/1UoUoe0FMn4Di3eoN0NMexcgzCZOE8CJb/view) · [SandBoxCore.zip](https://drive.google.com/file/d/1JWU9JaX65syZGjJvqVJvtuYfnoDUVSlq/view) · [StoryMode.zip](https://drive.google.com/file/d/1W7WdMJ8U-eTSixyGdv9bxqupUdXHy80E/view)
 - [file_manifest.csv](https://drive.google.com/file/d/1664-BMbqMAmS3_DQzYyGCaiLX8kpVrLe/view) · [README.md](https://drive.google.com/file/d/10AOwENJyiakm9d6Bp9QkxvUebdF7uN4k/view)
 - ChatGPT Library路径：`/Calradia Geography Research Source Files/`
+
+## CGEO-MAP-RES-010
+
+- [《战帆》港口与登陆点聚落 ID 及官方地名核对](geo/90/EVD/CGEO-MAP-RES-010.md) · [Google Drive原件](https://docs.google.com/document/d/1JmXqLuMxxWbxvd7HMZ49RExaLj9ff5Mf74MLWulFAm8/edit)
+- [29个港口城镇名称与证据状态 CSV](geo/90/EVD/CGEO-MAP-RES-010_port_town_name_mapping.csv)
+- [18个官方简体中文已核定的Nord登陆点名称 CSV](geo/90/EVD/CGEO-MAP-RES-010_official_nord_dropoff_names.csv)
+
+本报告将当前NavalDLC官方简体中文名称表直接支持的22个标记聚落名称，与旧版中文索引参考严格分开。101/101个聚落ID在当前NavalDLC settlements.xml中找到；只有22个目标ID在当前DLC简体中文名称表有直接名称key。
