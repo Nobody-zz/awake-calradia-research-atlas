@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-版本：v3.6｜2026年10月23日
+## 版本：v3.7｜2026年10月23日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -101,6 +101,8 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 4. 研究推进方式变更（2026-10-22）：H-0001—H-0004继续按定向纠错维护；H-0005研究稿v1.0维持，Q5-09继续开放。Q-0009已更新为v0.2，新增达西人与东部边疆的原始XML核验，并将未决缺口限定为十世纪危机与较晚东部控制变化之间缺少可定年的事件桥梁。Google Docs：https://docs.google.com/document/d/1Ny-pOnhZYWiR5ES91vsSAv_YbrJgcV8Tt-wtPq7c-Tw/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0009-imperial-relative-chronology.md。已签发时间线正典不变；H-0006不预分配，坎尼与诺德专题继续暂缓。
 
 5. Q-0010 v0.2研究方法修订（2026-10-23）：按当代人物关系、继位顺序及族谱常规推论，将佩特罗斯家族注释中的the emperor优先指认为旧帝德罗修斯·涅雷采斯；结合拉盖娅达西公主的身份设定，形成“母亲为德罗修斯姐妹、与彭同为表兄妹”的高解释力工作谱系。仍严格区分开发注释与生效亲属关系字段：本条是首选历史推断，而非官方直接明文。Q-0010及I-0003已分别更新至v0.2和v3.0，继续保留政治法统研究与注释版本问题。Q-0010 Google Docs：https://docs.google.com/document/d/14-HU9CH3hLPHVTxJl_i3ILtDh2vrvLfgp5g7Wq4bHaI/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0010-neretzes-penton-rhagaea-succession-evidence.md。已签发世界书正典与H-0005不改，H-0006仍未分配。
+
+6\. 学术方法规范修订（2026-10-23）：I-0001升级至v1.2，明确史料外部批判、内部批判、时空语境复原、历史最佳解释推断、竞争性假说权重比较、沉默证据条件、因果机制、可复核引注和学术诚信的统一程序。今后H论文正文与Q审查必须说明最优解释及其反证，不再把“没有逐字明载”自动等同于“不能合理推论”，也不得把项目采用的世界书裁定冒充独立官方史实。已有稿件的这一规范作为以后修订与复核标准，不溯及追改现有H编号；H-0005 v1.0维持研究稿状态，Q5-09继续开放。I-0001原件：https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md。
 
 ---
 
