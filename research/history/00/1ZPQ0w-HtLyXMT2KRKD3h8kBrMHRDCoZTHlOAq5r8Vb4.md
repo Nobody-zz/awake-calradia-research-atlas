@@ -94,7 +94,7 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 
 2. H-0005已将spclans.xml、world\_lore\_strings.xml、heroes.xml与companion\_strings.xml纳入直接原始文本核验，并逐项对照spkingdoms.xml北/西/南帝国沿革及对应官方简体中文。已核对键值包括bhxVA9w7、mk0l1BfB、rNkwrwo4、04xAg0yN、Cx2FCePF、uJeoa6u1、SCogGc7N、T1svPL9Z、uK4IX036、OFOXDkPv、Cgdg9Q8t、spQJxKtr、aEfsyVH4、mOZsbV8j、Xtyb9Dyr。组织背景、同伴自述与政治对白仍按其文类和立场使用；Q5-09及因果机制问题继续开放。
 
-3. 暂缓启动H-0006及诺德专题。Q-0006 v1.9与Q-0007 v0.1的H-0005审计仍按既定边界保留。Q-0008已更新至v0.5：直接复验SandBox与NavalDLC共有493个Settlement ID的坐标属性全部不同、271个共有条目的text属性不同及47个新增ID；H-0001脚注〔15〕补入坐标例子，H-0002脚注〔1〕限缩“mostly forgotten／已消亡殆尽”的语义，H-0004附录和版本说明统一至v0.6。H-0001—H-0003已按出版方目录补入Hansen、Terrenato、Malkin、Mackil可核实的相关章节与页码；这只完成书目和页码元数据核验，不等于已逐页验证每个比较性论点。I-0003维持追加校勘v2.4，登记S-0052—S-0056、P-0057—P-0064、D-0043—D-0052，并修订S-0004、S-0007、S-0013、S-0017、S-0025、S-0051、S-0055。下一步继续逐句核销四篇论文的正文断言与脚注，不启动新国家专题。GitHub镜像同步已完成：H-0001—H-0004、I-0002、I-0003与Q-0008共7份文件均已与各自Google Docs现行正文逐项核对，转换后的GitHub内容与云盘段落文本一致；后续文档修订需再次同步与核验。Q-0008：https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit
+3. 暂缓启动H-0006及诺德专题。Q-0006 v1.9与Q-0007 v0.1的H-0005审计仍按既定边界保留。Q-0008已更新至v0.8：直接复验SandBox与NavalDLC共有493个Settlement ID的坐标属性全部不同、271个共有条目的text属性不同及47个新增ID；H-0001脚注〔15〕补入坐标例子，H-0002脚注〔1〕限缩“mostly forgotten／已消亡殆尽”的语义，H-0004附录和版本说明统一至v0.6。H-0001—H-0003已按出版方目录补入Hansen、Terrenato、Malkin、Mackil可核实的相关章节与页码；这只完成书目和页码元数据核验，不等于已逐页验证每个比较性论点。I-0003维持追加校勘v2.4，登记S-0052—S-0056、P-0057—P-0064、D-0043—D-0052，并修订S-0004、S-0007、S-0013、S-0017、S-0025、S-0051、S-0055。下一步继续逐句核销四篇论文的正文断言与脚注，不启动新国家专题。GitHub镜像同步已完成：H-0001—H-0004、I-0002、I-0003与Q-0008共7份文件均已与各自Google Docs现行正文逐项核对，转换后的GitHub内容与云盘段落文本一致；后续文档修订需再次同步与核验。Q-0008：https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit
 
 ---
 
