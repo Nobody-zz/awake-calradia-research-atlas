@@ -158,7 +158,7 @@
 
 ## 史料注释（按所依据的城市及区域条目标示）
 
-〔1〕西帝国区域总述（empire\_w）：西部土地主要从帕拉部落取得；通婚与当地旧语言、习俗几近消亡。此结论只针对该条所述西部地区。
+〔1〕西帝国区域总述（empire\_w，SandBox/ModuleData/spkingdoms.xml文本键mOZsbV8j）：英文原文称西部地区主要从帕拉诸部落征服而来，帕拉人与卡拉德殖民者通婚后，当地旧语言与习俗“are mostly forgotten”；官方简体中文译为“已消亡殆尽”，语义强度更高。本文只讨论该条所述西部地区在官方回顾中的淡忘／衰退，不将其写成语言与习俗彻底灭绝，也不外推至全部帕拉地区。
 
 〔2〕拉革塔（town\_EW1，原始XML正文键ZAGUIKOn）：流放商人谋害雇主、占据城寨、邀请殖民者、将土地献给帝国，及元老院谴责却接受领地的矛盾。该键未出现在本资料包的官方英文或简体中文settlements语言表；正文中文释文是工作译文/既有中文汇编译文，不是已核实的官方游戏译文。
 
@@ -220,7 +220,7 @@ G. 费卡翁、吕卡隆、密泽亚、德律亚起义及拉革塔—洛塔什�
 
 为检验本文提出的解释机制，参考了若干关于现实古代征服、地方精英和族群变迁的研究。它们不构成卡拉迪亚任何具体事件、制度或年代的独立证明；以下仅说明其能够提供何种比较问题，避免将现实历史模型倒写为本世界事实。
 
-Nicola Terrenato, The Early Roman Expansion into Italy: Elite Negotiation and Family Agendas (Cambridge University Press, 2019), https://doi.org/10.1017/9781108525190。该书强调罗马早期扩张中的地方精英联系与异质性，为费卡翁、密泽亚和阿耳戈隆的政治中介机制提供竞争性解释；但不能据此忽略拉革塔和洛塔什的暴力。
+Nicola Terrenato, *The Early Roman Expansion into Italy: Elite Negotiation and Family Agendas* (Cambridge University Press, 2019)，尤其第4章“A Heterogeneous Conquest I”（pp. 109–154）与第5章“A Heterogeneous Conquest II”（pp. 155–193）；出版社目录确认相关章节与页码。DOI: https://doi.org/10.1017/9781108525190。该书关于征服方式差异、家族议程与地方精英参与的讨论，为费卡翁、密泽亚和阿耳戈隆提供竞争性比较解释；但不能据此忽略拉革塔和洛塔什的暴力，也不能把罗马制度当作卡拉德史实。
 
 Greg Woolf, Becoming Roman: The Origins of Provincial Civilization in Gaul (Cambridge University Press, 1998), https://doi.org/10.1017/CBO9780511518614。有关高卢行省城市、乡村和宗教文化变迁的时间与空间差异，有助于说明征服与文化改变为何不等时；卡拉迪亚仍需自身材料才能验证。
 
