@@ -75,3 +75,14 @@ GitHub配套CSV：https://github.com/Nobody-zz/awake-calradia-research-atlas/blo
 
 
 **完整离线复核包（Google Drive）：** [CGEO-MAP-RES-009_village_state_pair_bundle.zip](https://drive.google.com/file/d/1VjpHpqlBgFA52c8uGu0RiOx2D5PV2Nvs/view)，10个文件，含分析脚本、派生表、图像与复核清单；无原始游戏资产。
+
+## 九、独立XML复核脚本与分析包修复（2026-10-23）
+
+本轮又从原始 `scene.xscene` 独立复核全部173个标记：29个 `town_port` 父级、72个 `drop_point` 父级，每个村庄父级恰好含 `civilian`、`looted` 各一个，且保留 `level_1/2/3` 和 `main_map_village_dropoff`。直接结构校验使用 `verify_state_pairs.py`；导航面和坐标数值是对RES-008派生CSV的复核，**不是**直接从引擎证明旋转轴序。
+
+补充包修复：此前中间ZIP只含README；新的8文件包包含独立校验脚本、JSON摘要、三个CSV、两张图、README，ZIP CRC全部通过。
+
+- [Google Drive补充档案 CGEO-MAP-RES-009-SUP-001](https://docs.google.com/document/d/1-6tHtF11aweLHfqbkGMfFefjgujWQaLh7uC6oH73d8I/edit)
+- [修复后的8文件复核ZIP](https://drive.google.com/file/d/1F8ULB4TkGqN2Ft2tVRk4wsDCsbmVdinz/view)
+
+补充说明：已有的 [CGEO-MAP-RES-010](CGEO-MAP-RES-010.md) 与 [CGEO-MAP-RES-011](CGEO-MAP-RES-011.md) 已完成101处接入锚点同官方聚落记录的一对一联结；该步骤不再列为待完成事项。今后继续核验全体聚落覆盖、引擎变换约定与实际水陆可达路径。
