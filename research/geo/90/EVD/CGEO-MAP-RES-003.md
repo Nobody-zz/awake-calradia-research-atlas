@@ -90,3 +90,10 @@ CGEO-MAP-RES-002曾把偏移表当作存储字节偏移，并以 stored size 作
 Z回归是经验验证模型，不是引擎高度转换函数的直接证明。Navmesh顶点可能包含水面、通行面或局部偏差；正式scale/offset仍需进一步确认。
 
 诊断图：[原版](https://drive.google.com/file/d/1PZ1ipTK_iaUOzJOhEQU72b0JTEWQEJFQ/view) · [《战帆》](https://drive.google.com/file/d/1V7FYYLRYej-SrkxoY2uEopc7aog4r3ec/view)。
+
+## 交叉核验修订（参见 CGEO-MAP-RES-004）
+
+- 正式高程换算采用配套 `scene.xscene` 的terrain范围：`Z = min_height + v × (max_height − min_height) / 65535`。原版min/max为-0.723/23.052；《战帆》为-0.900/29.109。Navmesh顶点回归仅保留为相关性诊断，不是引擎高度公式。
+- PHYM每块264,228字节由4条季节记录组成，每条为8字节头+257×257个单字节terrain layer index；之前“四通道RGBA”解释已撤回。索引不是physics-material ID。
+- MIDX图像已解码，但语义未知。
+- 详见 [CGEO-MAP-RES-004](CGEO-MAP-RES-004.md) 和 [Drive原件](https://docs.google.com/document/d/1fKzaKYxxic4x9G8YIqI7_6nlARjeGOVAR8FF0_KBF6s/edit)。
