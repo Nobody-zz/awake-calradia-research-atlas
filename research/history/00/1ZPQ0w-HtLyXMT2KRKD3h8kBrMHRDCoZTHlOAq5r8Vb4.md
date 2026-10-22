@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-## 版本：v2.6｜2026年10月22日
+## 版本：v2.7｜2026年10月22日
 
 固定编号规则：H-0001、H-0002……；只表达研究档案身份，不暗示历史前后或学术质量顺位。
 
@@ -8,7 +8,7 @@
 
 H-0001｜卡拉德人的早期建城与殖民网络：沙拉斯、巴拉维诺斯与俄耳堤西亚
 
-主线A／早期大陆社会｜状态：Q-0008 v0.7已完成定向引注、版本与本地化补校，保留修订｜已复核town\_V7、town\_V3、town\_EW4、town\_EW3及empire\_w、Culture.empire。脚注〔8〕〔9〕现明确town\_EW1/ZAGUIKOn与town\_EW6/5SpYVtie的中文为工作译文／既有汇编译文；新增“mostly forgotten／已消亡殆尽”语义边界说明。三处城市沿革总体稳定的结论仅限已对读ID，不外推至全部DLC聚落；拉革塔人物身份误译和俄耳堤西亚“towers/灯塔”本地化差异已在正文与脚注校正。迁都相对年代、海上流亡者与内陆部族的人口连接、俄耳堤西亚早期殖民与后期海巡的断代仍未解决；全文逐句断言—脚注核销未完成。
+主线A／早期大陆社会｜状态：Q-0008 v0.8已完成定向引注、版本与本地化补校，保留修订｜已复核town\_V7、town\_V3、town\_EW4、town\_EW3及empire\_w、Culture.empire。脚注〔8〕〔9〕现明确town\_EW1/ZAGUIKOn与town\_EW6/5SpYVtie的中文为工作译文／既有汇编译文；新增“mostly forgotten／已消亡殆尽”语义边界说明。三处城市沿革总体稳定的结论仅限已对读ID，不外推至全部DLC聚落；拉革塔人物身份误译和俄耳堤西亚“towers/灯塔”本地化差异已在正文与脚注校正。迁都相对年代、海上流亡者与内陆部族的人口连接、俄耳堤西亚早期殖民与后期海巡的断代仍未解决；全文逐句断言—脚注核销未完成。
 
 Google Docs：https://docs.google.com/document/d/12k-lzV-dPYHMQUyxFBeGWQvTp6LpmP-qV0FYrG6Pd4s/edit
 
@@ -16,7 +16,7 @@ Google Docs：https://docs.google.com/document/d/12k-lzV-dPYHMQUyxFBeGWQvTp6LpmP
 
 H-0002｜征服、合邦与同化：卡拉德国家扩张中的帕拉诸部落
 
-主线A／早期大陆社会与共和国扩张｜状态：Q-0008 v0.7已完成定向DLC异文核查、正文限缩与误译校正，保留修订｜已在正文及脚注中限定厄诺伊萨圣湖记忆仅属SandBox基础版，并登记赫塔尼亚、卡诺洛斯、坎忒里翁与密泽亚的英文版本变化及中文本地化滞后。拉革塔、洛泰、阿弥塔堤斯、狄亚特马、萨涅俄帕、阿耳戈隆等缺少独立语言表键的长篇英文正文，其中文仍按工作译文／既有汇编译文处理。拉革塔英文原文“a rogue imperial mercenary”已校正为“不法的帝国雇佣兵”；密泽亚命名方向的中文反译已登记，但论文未据此推断；吕卡隆地形术语差异也已登记。地方政治集中度、跨地区年代及谈判机制仍待证；全部DLC聚落未逐条审校。
+主线A／早期大陆社会与共和国扩张｜状态：Q-0008 v0.8已完成定向DLC异文核查、正文限缩与误译校正，保留修订｜已在正文及脚注中限定厄诺伊萨圣湖记忆仅属SandBox基础版，并登记赫塔尼亚、卡诺洛斯、坎忒里翁与密泽亚的英文版本变化及中文本地化滞后。拉革塔、洛泰、阿弥塔堤斯、狄亚特马、萨涅俄帕、阿耳戈隆等缺少独立语言表键的长篇英文正文，其中文仍按工作译文／既有汇编译文处理。拉革塔英文原文“a rogue imperial mercenary”已校正为“不法的帝国雇佣兵”；密泽亚命名方向的中文反译已登记，但论文未据此推断；吕卡隆地形术语差异也已登记。地方政治集中度、跨地区年代及谈判机制仍待证；全部DLC聚落未逐条审校。
 
 Google Docs：https://docs.google.com/document/d/1CBSqXHw0m39FSSQUK9l1ARf2o9Nl324PP8qwQrqUYVI/edit
 
@@ -24,7 +24,7 @@ Google Docs：https://docs.google.com/document/d/1CBSqXHw0m39FSSQUK9l1ARf2o9Nl32
 
 H-0003｜从部族联盟到共和国：卡拉德早期政治共同体的形成
 
-主线A／早期卡拉德国家形成｜状态：Q-0008 v0.7已补明关键聚落正文键、中文释文性质与文化术语本地化偏移，保留修订｜Culture.empire与《Empire – Part 1》仍按内容重叠的官方回顾处理，不作独立互证；阿耳戈隆、贾尔马律斯、拉革塔的中文释文已在脚注〔6〕〔8〕〔10〕标明为工作译文／既有汇编译文。当前补校不声称已重新抓取并逐句核验《Empire – Part 1》全文。Culture.empire的“civic elders/civic traditions”中文“民粹元老/民粹传统”已登记为语义偏移；共和国成形的精确年代、公民资格边界、联盟加入程序与因果链仍待证。
+主线A／早期卡拉德国家形成｜状态：Q-0008 v0.8已补明关键聚落正文键、中文释文性质与文化术语本地化偏移，保留修订｜Culture.empire与《Empire – Part 1》仍按内容重叠的官方回顾处理，不作独立互证；阿耳戈隆、贾尔马律斯、拉革塔的中文释文已在脚注〔6〕〔8〕〔10〕标明为工作译文／既有汇编译文。当前补校不声称已重新抓取并逐句核验《Empire – Part 1》全文。Culture.empire的“civic elders/civic traditions”中文“民粹元老/民粹传统”已登记为语义偏移；共和国成形的精确年代、公民资格边界、联盟加入程序与因果链仍待证。
 
 Google Docs：https://docs.google.com/document/d/1Vpu2yWtz\_QXl9oCfLBB\_4rm9c1xRsCbzW8LzoRH127s/edit
 
@@ -34,7 +34,7 @@ Google Docs：https://docs.google.com/document/d/1Vpu2yWtz\_QXl9oCfLBB\_4rm9c1xR
 
 H-0004｜卡拉德人到来以前的帕拉诸部落：社会组织、政治结构与文化传统
 
-主线A／早期大陆社会｜状态：v0.6（2026-10-22），Q-0008 v0.7已补入厄诺伊萨、卡诺洛斯、坎忒里翁与密泽亚的NavalDLC异文、中文本地化不同步及拉革塔误译校正记录｜圣湖命题已限定于SandBox v1.4.8基础版；吕卡里亚马业保留为前帝国马业／骑手的受限文本命题，但基础版南部／东部定位不作为跨版本稳定事实。赫塔尼亚语言、克里俄斯圣地、厄诺伊萨空间描述与密泽亚地貌均按版本分开登记；另记录卡诺洛斯英文“routed several Calradian armies”与官方中文“追逐卡拉德敌人”的语义差异，以及坎忒里翁DLC英文新增的战马命名句未同步到DLC简体中文。骑手族属、跨地区年代、统一帕拉政治组织仍待证；全部DLC聚落尚未逐条审校。
+主线A／早期大陆社会｜状态：v0.6（2026-10-22），Q-0008 v0.8已补入厄诺伊萨、卡诺洛斯、坎忒里翁与密泽亚的NavalDLC异文、中文本地化不同步及拉革塔误译校正记录｜圣湖命题已限定于SandBox v1.4.8基础版；吕卡里亚马业保留为前帝国马业／骑手的受限文本命题，但基础版南部／东部定位不作为跨版本稳定事实。赫塔尼亚语言、克里俄斯圣地、厄诺伊萨空间描述与密泽亚地貌均按版本分开登记；另记录卡诺洛斯英文“routed several Calradian armies”与官方中文“追逐卡拉德敌人”的语义差异，以及坎忒里翁DLC英文新增的战马命名句未同步到DLC简体中文。骑手族属、跨地区年代、统一帕拉政治组织仍待证；全部DLC聚落尚未逐条审校。
 
 Google Docs：https://docs.google.com/document/d/1vjDCwnByypArSpeNcUe0-UKkdlr0nD4dJm7Q4PwcA3Y/edit
 
@@ -94,7 +94,7 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 
 2. H-0005已将spclans.xml、world\_lore\_strings.xml、heroes.xml与companion\_strings.xml纳入直接原始文本核验，并逐项对照spkingdoms.xml北/西/南帝国沿革及对应官方简体中文。已核对键值包括bhxVA9w7、mk0l1BfB、rNkwrwo4、04xAg0yN、Cx2FCePF、uJeoa6u1、SCogGc7N、T1svPL9Z、uK4IX036、OFOXDkPv、Cgdg9Q8t、spQJxKtr、aEfsyVH4、mOZsbV8j、Xtyb9Dyr。组织背景、同伴自述与政治对白仍按其文类和立场使用；Q5-09及因果机制问题继续开放。
 
-3. 暂缓启动H-0006及诺德专题。Q-0006 v1.9与Q-0007 v0.1的H-0005审计仍按既定边界保留。Q-0008已更新至v0.5：直接复验SandBox与NavalDLC共有493个Settlement ID的坐标属性全部不同、271个共有条目的text属性不同及47个新增ID；H-0001脚注〔15〕补入坐标例子，H-0002脚注〔1〕限缩“mostly forgotten／已消亡殆尽”的语义，H-0004附录和版本说明统一至v0.6。H-0001—H-0003已按出版方目录补入Hansen、Terrenato、Malkin、Mackil可核实的相关章节与页码；这只完成书目和页码元数据核验，不等于已逐页验证每个比较性论点。I-0003维持追加校勘v2.3，登记S-0052—S-0056、P-0057—P-0064、D-0043—D-0052，并修订S-0004、S-0007、S-0013、S-0017、S-0025、S-0051、S-0055。下一步继续逐句核销四篇论文的正文断言与脚注，不启动新国家专题。GitHub镜像同步已完成：H-0001—H-0004、I-0002、I-0003与Q-0008共7份文件均已与各自Google Docs现行正文逐项核对，转换后的GitHub内容与云盘段落文本一致；后续文档修订需再次同步与核验。Q-0008：https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit
+3. 暂缓启动H-0006及诺德专题。Q-0006 v1.9与Q-0007 v0.1的H-0005审计仍按既定边界保留。Q-0008已更新至v0.5：直接复验SandBox与NavalDLC共有493个Settlement ID的坐标属性全部不同、271个共有条目的text属性不同及47个新增ID；H-0001脚注〔15〕补入坐标例子，H-0002脚注〔1〕限缩“mostly forgotten／已消亡殆尽”的语义，H-0004附录和版本说明统一至v0.6。H-0001—H-0003已按出版方目录补入Hansen、Terrenato、Malkin、Mackil可核实的相关章节与页码；这只完成书目和页码元数据核验，不等于已逐页验证每个比较性论点。I-0003维持追加校勘v2.4，登记S-0052—S-0056、P-0057—P-0064、D-0043—D-0052，并修订S-0004、S-0007、S-0013、S-0017、S-0025、S-0051、S-0055。下一步继续逐句核销四篇论文的正文断言与脚注，不启动新国家专题。GitHub镜像同步已完成：H-0001—H-0004、I-0002、I-0003与Q-0008共7份文件均已与各自Google Docs现行正文逐项核对，转换后的GitHub内容与云盘段落文本一致；后续文档修订需再次同步与核验。Q-0008：https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit
 
 ---
 
