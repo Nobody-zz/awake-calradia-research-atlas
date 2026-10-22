@@ -33,6 +33,13 @@
 - [CGEO-MAP-RES-006｜原版与《战帆》水域导航网格类型及连通性审计](geo/90/EVD/CGEO-MAP-RES-006.md) · [Google Drive原件](https://docs.google.com/document/d/1LKqRVItDPxfNsasdYQ3MldJkwSASXj5GT5QOCEaz-KE/edit) · [水域分类图](https://drive.google.com/file/d/1dpw5TdI7BX5Z4kA989_pqKbDvUEah_Cf/view) · [候选连通网络](https://drive.google.com/file/d/1UIlPp1cnLeOneyQwFeLBzh9P3jFo2EWv/view)
 - [CGEO-MAP-RES-007｜《战帆》港口及村庄登陆点的坐标与导航归属](geo/90/EVD/CGEO-MAP-RES-007.md) · [Google Drive原件](https://docs.google.com/document/d/1rHualy_SArSYNJog4KPxt7qqL_-LtCgzD2GI0WDZNcE/edit)
 - [CGEO-MAP-RES-008｜《战帆》港口与登陆点旋转单位勘误及可航网格复核](geo/90/EVD/CGEO-MAP-RES-008.md) · [Google Drive勘误报告](https://docs.google.com/document/d/1aL-g-FRDguFHEAFbMZ2ypz5uWMIEcHXnd3HS5mmMYVw/edit) · **更正RES-007旧坐标统计**
+
+## CGEO-MAP-RES-009
+
+- [《战帆》村庄登陆点 civilian/looted 状态配对与空间稳定性审计](geo/90/EVD/CGEO-MAP-RES-009.md) · [Google Drive原件](https://docs.google.com/document/d/1o3j6Upzmh7KbbxggqJHKj_mH310tDaKhvCe5pqCSaos/edit)
+- [72组村庄双状态配对CSV](https://drive.google.com/file/d/1rxdH4pfEuhU9UagAu3U1TPT3Ue0jB_-h/view) · [101个去重父级接入锚点CSV](https://drive.google.com/file/d/1hLTPLE5cZwGG1jDWmawtKWlAHKU1nNYV/view)
+- [101处父级接入位置图](https://drive.google.com/file/d/1DCzFcxsfM8vvPlusvKvgSF9mv_bp1CNi/view) · [civilian/looted间距分布图](https://drive.google.com/file/d/13OvKbnqmG-5qRu_Jt1TB0TrJIbZG7Bpj/view)
+
 ## history/00
 
 - [I-0001｜研究总纲、史学方法与交叉校验规范（v1.2）](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
