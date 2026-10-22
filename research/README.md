@@ -1,6 +1,6 @@
 # 研究文档索引
 
-2026-10-22 从 Google Drive 导出的 Markdown 快照。原始 Google Docs 保留在云盘中，仓库内容不会自动同步。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘中；两者不会自动同步，修订后需显式提交并更新本索引。最近同步：2026-10-22，H-0005 v0.9、Q-0006 v1.9、Q-0007 v0.1。
 
 ## geo/00
 
@@ -46,6 +46,7 @@
 - [Q-0004｜H-0001—H-0004 四篇论文补缺与交叉证据核查](history/02/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJa_Dg6V8c.md) · [云盘原件](https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJa_Dg6V8c/edit)
 - [Q-0005｜官方 XML 新材料勘验与版本差异审查](history/02/1cUJmXlnVFCwOcat23f0Vq5xHETgCSUA6b6YMOeb8QGo.md) · [云盘原件](https://docs.google.com/document/d/1cUJmXlnVFCwOcat23f0Vq5xHETgCSUA6b6YMOeb8QGo/edit)
 - [Q-0006｜H-0001—H-0005 第一轮终审与跨论文一致性复核](history/02/1LBoITtK8TCEOasgaKJMXFfh7CbXAw0SBATSM7ZZxfH4.md) · [云盘原件](https://docs.google.com/document/d/1LBoITtK8TCEOasgaKJMXFfh7CbXAw0SBATSM7ZZxfH4/edit)
+- [Q-0007｜H-0005 核心断言逐句引注与英汉本地化审计（v0.1）](history/02/Q-0007-H0005-claim-source-audit.md)
 ## history/03
 
 - [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
