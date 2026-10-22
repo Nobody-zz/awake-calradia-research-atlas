@@ -102,11 +102,11 @@ Mackil 对希腊联邦共同体的研究表明，经济联系和共同实践可�
 
 〔3〕《俄耳堤西亚城市记述》，同上，town\_EW4。
 
-〔4〕 Hansen, Mogens Herman. *Polis: An Introduction to the Ancient Greek City-State*. Oxford University Press, 2006，尤其第16章“Polis as a City with a Hinterland”。DOI: https://doi.org/10.1093/oso/9780199208494.001.0001。本文仅借其城邦与腹地关系的比较框架，不以古希腊制度替代卡拉德史料。
+〔4〕Hansen, Mogens Herman. *Polis: An Introduction to the Ancient Greek City-State*. Oxford University Press, 2006，第16章“The Greek Conception of Polis as a City with a Hinterland”，pp. 101–105。DOI: https://doi.org/10.1093/oso/9780199208494.001.0001。该章讨论城市、腹地、港口与远程贸易市场的关系；本文仅借用其城市—腹地分析框架，不以古希腊制度替代卡拉德史料。
 
 〔5〕《贾尔马律斯城市记述》，《卡拉迪亚诸国与城镇志》，town\_EW3，原始XML正文键TI3fS2xN。该键未出现在本资料包的SandBox或NavalDLC英文/简体中文settlements语言表中；正文中文释文应视为工作译文/既有中文汇编译文，不标作已核实的官方游戏译文。
 
-〔6〕 Terrenato, Nicola. The Early Roman Expansion into Italy: Elite Negotiation and Family Agendas. Cambridge University Press, 2019，尤其第4—6章。https://doi.org/10.1017/9781108525190
+〔6〕Terrenato, Nicola. *The Early Roman Expansion into Italy: Elite Negotiation and Family Agendas*. Cambridge University Press, 2019，第4—6章，pp. 109–247；其中第4章“ A Heterogeneous Conquest I” pp. 109–154，第5章“ A Heterogeneous Conquest II” pp. 155–193，第6章“The Consequences of the Expansion” pp. 194–247。DOI: https://doi.org/10.1017/9781108525190。本文借其对征服类型、家族议程和征服后地方精英的讨论提出竞争性解释，不将罗马案例直接当作卡拉德史实。
 
 〔7〕 Malkin, Irad. *A Small Greek World: Networks in the Ancient Mediterranean*. Oxford University Press, 2011，尤其第1章“Introduction: Networks and History”，pp. 3–64。全书DOI: https://doi.org/10.1093/acprof:oso/9780199734818.001.0001；章节DOI: https://doi.org/10.1093/acprof:oso/9780199734818.003.0001。本文只借其网络与殖民聚落的比较概念，不将古希腊殖民史直接移植为卡拉德史实。
 
@@ -118,13 +118,13 @@ Mackil 对希腊联邦共同体的研究表明，经济联系和共同实践可�
 
 〔11〕《南帝国沿革》，同上，empire\_s。
 
-〔12〕 Mackil, Emily. Creating a Common Polity: Religion, Economy, and Politics in the Making of the Greek Koinon. University of California Press, 2013。https://doi.org/10.1525/california/9780520272507.001.0001
+〔12〕Mackil, Emily. *Creating a Common Polity: Religion, Economy, and Politics in the Making of the Greek Koinon*. University of California Press, 2013，尤其导论pp. 1–18，以及第4章“Cultic Communities” pp. 147–236、第5章“Economic Communities” pp. 237–325和第6章“Political Communities” pp. 326–399。DOI: https://doi.org/10.1525/california/9780520272507.001.0001。本文借其讨论宗教、经济与政治互动的框架，不将希腊联邦制度移植为卡拉德制度。
 
 〔13〕 TaleWorlds Entertainment, “Empire – Part 1” / “Dev Blog 08/02/18”, 2018-02-08。关于卡拉德人曾是南方海域与巴旦尼亚森林之间众多部族之一，继而征服邻邦、形成城邦联盟的总体历史回顾。https://www.taleworlds.com/en/Games/Bannerlord/Blog/45 。本篇仅用其识别内陆部族政治起源传统，不能假定其与西海流亡者记忆之间已有直接人口连接。
 
 〔14〕 SandBoxCore/ModuleData/spcultures.xml，Culture id=empire，文本键X0kKBzsW，及其官方简体中文本地化。该文化概述将卡拉德人早期描述为南方海域与巴旦尼亚森林之间的丘陵部族，并以“无王传统”概括其政治起源；本文将其作为官方回顾性叙述，不视为与《Empire – Part 1》相互独立的古代史料。
 
-〔15〕 SandBox/ModuleData/settlements.xml 与 NavalDLC/ModuleData/settlements.xml，条目 town\_V7、town\_V3、town\_EW4。两版本中三处沿革文字实质内容基本相同，但共有聚落坐标存在系统性差异；该差异不构成历史地理变迁证据。
+〔15〕SandBox/ModuleData/settlements.xml（模块元数据v1.4.8）与NavalDLC/ModuleData/settlements.xml（模块元数据v1.2.8），条目town\_V7、town\_V3、town\_EW4。SandBox与NavalDLC共有的493个Settlement ID中，493个的posX/posY属性值均不同；例如town\_V7为(174.271, 336.303)/(307.81, 376.313)，town\_V3为(139.205, 475.542)/(241.947, 512.805)，town\_EW4为(303.859, 331.889)/(393.338, 345.494)。三处沿革文字主体基本稳定，但俄耳堤西亚的“Bay of Charas”改为“Gulf of Charas”。这些都是模块数据／文本编订差异，不构成卡拉迪亚内部历史地理变迁的证据。
 
 附记　本文采用地志、诸国沿革与比较历史研究进行推论。古代地中海的城邦和殖民制度仅用于解释机制，绝不构成卡拉迪亚某项制度或年份已经被证明的依据。
 
