@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-版本：v3.9｜2026年10月23日
+版本：v3.10｜2026年10月23日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -105,6 +105,8 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 6\. 学术方法规范修订（2026-10-23）：I-0001升级至v1.2，明确史料外部批判、内部批判、时空语境复原、历史最佳解释推断、竞争性假说权重比较、沉默证据条件、因果机制、可复核引注和学术诚信的统一程序。今后H论文正文与Q审查必须说明最优解释及其反证，不再把“没有逐字明载”自动等同于“不能合理推论”，也不得把项目采用的世界书裁定冒充独立官方史实。已有稿件的这一规范作为以后修订与复核标准，不溯及追改现有H编号；H-0005 v1.0维持研究稿状态，Q5-09继续开放。I-0001原件：https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md。
 
 7\. Q-0011 v0.3五篇历史论文规范审核与定向纠错（2026-10-23）：以I-0001 v1.2为审查依据，逐篇核对H-0001—H-0005现行正文与核心论证，定向复读项目资料库SandBox/NavalDLC的town_V7、village_EN4_4、village_EN3_1、village_EN3_3英文原始聚落记述。H-0001纠正沙拉斯“沿海第一殖民地”误写成“首次登陆地点”的越界；H-0002将赫塔尼亚Palaic/Dryatic异文一致落实至结论与年代附录，并收紧费卡翁和议代表推断；H-0003补强制度渐进说的优先解释和反证条件，但仍须较大论证修订；H-0004题名收紧为《卡拉德征服前夕的帕拉诸部落》，最新v0.8，增补支持多中心政治解释的积极论证；H-0005补强军事任务连续性机制的优先级，维持研究稿v1.1，Q5-09仍开放。Q-0011 v0.3增设三层年代剖面、强化跨篇史料一致性复核，并区分已修复局部与仍待终审的问题：H-0001、H-0002、H-0004有条件通过，H-0003继续修订，H-0005不宣称定稿。Google Docs：https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0011-historical-method-cross-review.md。H编号与已签发世界书正典均不变，H-0006未分配。
+
+8\. Q-0011 v0.4第二批史学完善（2026-10-23）：H-0001增补沙拉斯—巴拉维诺斯—俄耳堤西亚三城市直接史述/局部时间/最佳解释/反证的逐项对照；H-0002新增拉革塔、洛塔什、费卡翁、吕卡隆、密泽亚五案例中“原始事实—机制—竞争解释—地方叙述偏差”的受控比较；H-0003增补三机构的文献陈述、推论与未知程序分层，并阻断晚期军人土地酬赏对共和初期的倒推；H-0004 v0.8以地方独立行动与战时联合的正向证据支撑多中心政治模型；H-0005 v1.1新增四判据的时间/来源/替代解释矩阵，Q5-09仍开放。Q-0011现为v0.4：https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0011-historical-method-cross-review.md。本次未作所有原始游戏史料及比较史学引用的发表级逐页终审，H-0001、H-0002、H-0004仍有条件通过，H-0003待制度史复审，H-0005研究稿不定稿；不改动正典与H编号。
 
 ---
 
