@@ -1,6 +1,6 @@
 # 研究文档索引
 
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘中；两者不会自动同步，修订后需显式提交并更新本索引。最近核验：2026-10-22。学术分类规范I-0004已修订为CHC v2.0层级分类树：主要文化势力各自设一级类，帕拉、坎尼、独立城邦等小型政治共同体统一归入OTH分支。I-0001 v1.1、I-0002 v3.3已同步档案号规则与论文目录；H-0001—H-0005的Google Docs及GitHub Markdown均已添加正式主分类号并回读验证。I-0003 v2.7、Q-0007 v0.2、Q-0008 v1.1、Q-0009 v0.1及H-0005 v1.0保留各自证据边界。Q-0009登记帝国史相对年代与分期约束，保留已签发正典且不关闭Q5-09；本轮不宣称新增原始XML源级复核。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 原件保留在云盘中；两者不会自动同步，修订后须显式提交并回读核验。最近同步：2026-10-23。CHC 学术分类法 I-0004 v2.1 新增达西人（DSH）一级类别，保留帕拉、坎尼、独立城邦等零散小型势力的 OTH 分支。I-0002 v3.4 登记 CHC-DSH-REL 预研选题而不预占 H 编号；I-0003 v2.8 新增 S-0059—S-0061、E-0026、P-0066—P-0071、D-0058—D-0062 并更新 D-0056；Q-0009 v0.2 补充 SandBox v1.4.8 达西主题源级审查、东部据点转手证据以及拉盖娅父系出身的版本张力。四份 Google Docs 与 GitHub Markdown 已同步并逐段复核。原始 XML 本轮只作定向检查，未声称全部文件重读；帕堤耳与拉盖娅的兄妹关系仍待直接核验。已签发世界书时间线与 H-0001—H-0005 编号未修改，Q5-09 继续开放，H-0006 未分配。
 
 ## geo/00
 
@@ -37,7 +37,7 @@
 - [I-0001｜研究总纲与交叉校验规范](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
 - [I-0002｜论文目录与研究进度总索引](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
 - [I-0003｜史料—事件—命题—争议总登记簿](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
-- [I-0004｜卡拉迪亚历史研究学术分类法（CHC v2.0）](history/00/I-0004-academic-classification.md) · [云盘原件](https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit)
+- [I-0004｜卡拉迪亚历史研究学术分类法（CHC v2.1）](history/00/I-0004-academic-classification.md) · [云盘原件](https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit)
 ## history/01
 
 - [H-0001｜卡拉德人的早期建城与殖民网络：沙拉斯、巴拉维诺斯与俄耳堤西亚（CHC-CAL-SET）](history/01/12k-lzV-dPYHMQUyxFBeGWQvTp6LpmP-qV0FYrG6Pd4s.md) · [云盘原件](https://docs.google.com/document/d/12k-lzV-dPYHMQUyxFBeGWQvTp6LpmP-qV0FYrG6Pd4s/edit)
@@ -55,7 +55,7 @@
 - [Q-0006｜H-0001—H-0005 第一轮终审与跨论文一致性复核](history/02/1LBoITtK8TCEOasgaKJMXFfh7CbXAw0SBATSM7ZZxfH4.md) · [云盘原件](https://docs.google.com/document/d/1LBoITtK8TCEOasgaKJMXFfh7CbXAw0SBATSM7ZZxfH4/edit)
 - [Q-0007｜H-0005 核心断言与四项制度判据审计（v0.2）](history/02/Q-0007-H0005-claim-source-audit.md)
 - [Q-0008｜H-0001—H-0004 逐句引注与英汉本地化复核（v1.1）](history/02/Q-0008-H0001-H0004-version-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit)
-- [Q-0009｜卡拉德帝国相对年代与分期约束审查（v0.1）](history/02/Q-0009-imperial-relative-chronology.md) · [云盘原件](https://docs.google.com/document/d/1Ny-pOnhZYWiR5ES91vsSAv_YbrJgcV8Tt-wtPq7c-Tw/edit)
+- [Q-0009｜卡拉德帝国相对年代与分期约束审查（v0.2）](history/02/Q-0009-imperial-relative-chronology.md) · [云盘原件](https://docs.google.com/document/d/1Ny-pOnhZYWiR5ES91vsSAv_YbrJgcV8Tt-wtPq7c-Tw/edit)
 ## history/03
 
 - [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化（研究稿v1.0；CHC-EMP-POL）](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
