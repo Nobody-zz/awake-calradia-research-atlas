@@ -1,6 +1,6 @@
 # I-0003｜史料—事件—命题—争议登记簿
 
-## 第一轮登记：H-0004及既有帕拉史研究｜基础版v1.0；追加校勘v2.1｜2026年10月22日｜新增S-0052—S-0056、P-0057、P-0058—P-0060、D-0043—D-0048，并更新S-0011、S-0013、S-0017、E-0006、N-0004、P-0007、P-0016、P-0017及D-0007；H-0001—H-0004的定向版本／本地化修订见Q-0008 v0.5。
+## 第一轮登记：H-0004及既有帕拉史研究｜基础版v1.0；追加校勘v2.2｜2026年10月22日｜新增S-0052—S-0056、P-0057—P-0064、D-0043—D-0052，并更新S-0004、S-0007、S-0011、S-0013、S-0017、S-0025、S-0051、S-0055、E-0006、N-0004、P-0007、P-0016、P-0017及D-0007；H-0001—H-0004的定向版本／本地化修订见Q-0008 v0.6.
 
 ## A. 来源声明
 
@@ -22,7 +22,7 @@ S-0005｜town\_EW6 洛泰（旧洛塔什）｜帕拉山堡、首领、拉革塔�
 
 S-0006｜town\_EW5 阿弥塔堤斯｜帕拉酋长、围城、冥界诸神故事、帝国天罚宣传｜叙事立场鲜明。
 
-S-0007｜town\_ES4 吕卡隆｜征服最后阶段协商合邦、革图夺城、后来争银矿｜不能倒推古代矿业制度。
+S-0007｜town\_ES4 吕卡隆｜征服最后阶段协商合邦、革图夺城、后来争银矿｜不能倒推古代矿业制度；英文“spur jutting out”与官方中文“缓坡”存在地形术语差异。
 
 S-0008｜town\_EN5 密泽亚｜李图率帕拉人接受保护、后来参与元老院与地方政治反抗｜归附前后制度须分离。
 
@@ -34,7 +34,7 @@ S-0011｜village\_EN3\_1 厄诺伊萨｜SandBox v1.4.8英文保存古帕拉人�
 
 S-0012｜village\_EN4\_4 赫塔尼亚｜帝国入侵前附近各部落使用帕拉语、后世林农仍说帕拉语｜村落键值已按v1.4.8.119303源文校核。
 
-S-0013｜village\_ES3\_1 卡诺洛斯｜SandBox英文将其置于吕卡里亚平原南部，记帝国入侵前的养马与吕卡里亚骑手、征服后纳入帝国骑兵；NavalDLC改写为珀拉斯海以北的平原，简体中文仍保留基础版方位。条目未明言骑手属于帕拉人，不能直接登记为帕拉军事制度。
+S-0013｜village\_ES3\_1 卡诺洛斯｜SandBox英文将其置于吕卡里亚平原南部，记帝国入侵前的养马与吕卡里亚骑手、征服后纳入帝国骑兵；NavalDLC改写为珀拉斯海以北的平原，简体中文仍保留基础版方位。条目未明言骑手属于帕拉人，不能直接登记为帕拉军事制度；官方中文“追逐卡拉德敌人”未准确表达英文“routed several Calradian armies”。
 
 S-0014｜town\_EN4 阿耳戈隆｜拉科尼亚人与好战帕拉邻居、欢迎帝国保护及精英融入｜比较案例非直接帕拉族属。
 
@@ -42,7 +42,7 @@ S-0015｜town\_ES5 俄尼拉｜萨尔培娅家族史诗及正当化征服的政�
 
 S-0016｜town\_EW3 贾尔马律斯｜控制西帕拉的帝国殖民军镇、奴隶与战利品关系｜征服后阶段。
 
-S-0017｜village\_ES4\_3 坎忒里翁｜SandBox英文记其位于吕卡里亚平原东部、坡地降水较多并适宜前帝国养马；NavalDLC英文改写为塞堤斯河、奥尼石山与忒弥安丘陵之间，并重述优良战马，简体中文仍保留基础版方位与降雨描述。未说明居民族属或军事制度。
+S-0017｜village\_ES4\_3 坎忒里翁｜SandBox英文记其位于吕卡里亚平原东部、坡地降水较多并适宜前帝国养马；NavalDLC英文改写为塞堤斯河、奥尼石山与忒弥安丘陵之间，并重述优良战马，简体中文仍保留基础版方位与降雨描述。未说明居民族属或军事制度；SandBox英文末句关于该村以其名为贵族珍视的战马命名，基础版官方中文未呈现。
 
 ## C. 局部相对年代与事件 E
 
@@ -456,7 +456,7 @@ S-0053｜SandBox/ModuleData/settlements.xml与NavalDLC/ModuleData/settlements.xm
 
 S-0054｜SandBox/ModuleData/settlements.xml与NavalDLC/ModuleData/settlements.xml；village\_ES4\_3（坎忒里翁）。SandBox英文记其位于吕卡里亚平原东部、坡地降水较多；NavalDLC改写为塞堤斯河、奥尼石山与忒弥安丘陵之间，并重述优良战马；DLC简体中文仍保留基础版方位与降雨描述。
 
-S-0055｜SandBox/ModuleData/settlements.xml与NavalDLC/ModuleData/settlements.xml；town\_EN5（密泽亚，键8UJ3cPrZ）及对应Languages/CNs/std\_settlements\_xml-zho-CN.xml。DLC英文将“Myzeiad”改为“Myzead”，并将“rich hill country of the east-central empire”改为“mountainous highlands of the eastern Empire”；官方简体中文仍保留基础版地貌措辞。李图保护性归附的主线叙述仍在两版保留。
+S-0055｜SandBox/ModuleData/settlements.xml与NavalDLC/ModuleData/settlements.xml；town\_EN5（密泽亚，键8UJ3cPrZ）及对应Languages/CNs/std\_settlements\_xml-zho-CN.xml。DLC英文将“Myzeiad”改为“Myzead”，并将“rich hill country of the east-central empire”改为“mountainous highlands of the eastern Empire”；官方简体中文仍保留基础版地貌措辞，并将“密泽亚给区域Myzeiad/Myzead命名”反译为“密泽亚的名字来源于密泽亚德”；“snuffed it out”也被译为“迅速掐灭”。李图保护性归附的主线叙述仍在两版保留。
 
 S-0056｜SandBox/ModuleData/Languages/CNs/std\_settlements\_xml-zho-CN.xml与NavalDLC/ModuleData/Languages/CNs/std\_settlements\_xml-zho-CN.xml；village\_EN4\_4、village\_EN3\_3、village\_EN3\_1、village\_ES3\_1、village\_ES4\_3及town\_EN5的本地化键均存在，但NavalDLC简体中文文本仍保留基础版旧译或旧地貌描述。须将“有官方中文键”与“中文已同步当前DLC英文”分开记录。
 
@@ -479,6 +479,22 @@ D-0046｜H-0001/H-0002/H-0004拉革塔人物身份误译：ZAGUIKOn的英文“a
 D-0047｜H-0001俄耳堤西亚设施名称的本地化具体化：英文“towers”被官方简体中文译作“灯塔”，并增加“光束”。本文用“城塔”避免把本地化解释升级为英文原文直接事实；“Bay of Charas/Gulf of Charas”另属版本用词差异，不证明地理变化。
 
 D-0048｜H-0003 Culture.empire政治术语本地化：英文“civic elders/civic traditions”与中文“民粹元老/民粹传统”存在语义偏移。应以英文为解释依据，不将其写成卡拉德人存在现代意义民粹主义的证据。
+
+P-0061【A：地名语义本地化差异】town\_EN5/8UJ3cPrZ的英文“ Myzea gives its name to the Myzeiad/Myzead”表示城市密泽亚为区域命名；官方简体中文“密泽亚的名字来源于密泽亚德”将命名方向译反。英文“snuffed it out”也被译为“迅速掐灭”，添加原文未明确表达的速度信息。论文目前未据中文译文作这两项推断。
+
+P-0062【A：地形术语本地化差异】town\_ES4/WGtzBswe英文“a spur jutting out of the great Ornian rock”被官方简体中文译作“奥尼石山向外突出的一处缓坡”。论文仅采用“天然要塞／奥尼石山”的概括，不据中文译文判断精确坡形。
+
+P-0063【A：军事叙述本地化差异】village\_ES3\_1英文称吕卡里亚骑手曾“routed several Calradian armies”；官方简体中文译作“追逐卡拉德敌人”，没有准确保留“击溃数支卡拉德军队”的含义和数量。H-0004的相关战绩以英文原文为依据。
+
+P-0064【A：内容省略】village\_ES4\_3的SandBox英文末句称该村如今以其名为帝国贵族珍视的战马命名；基础版官方简体中文没有呈现该信息。H-0004未依赖此省略部分作为论据。
+
+D-0049｜H-0002↔H-0004密泽亚地名命名方向与事件速度：英文为“城市密泽亚给区域Myzeiad/Myzead命名”，官方中文反译为“密泽亚的名字来源于密泽亚德”；“snuffed it out”被强化为“迅速掐灭”。涉及地名沿革和时间判断时须以英文为准。
+
+D-0050｜H-0002↔H-0004吕卡隆地形术语：英文“spur jutting out”与官方中文“缓坡”并非等值。现有论文只采用天然要塞与奥尼石山的概括，未据此作精细地貌判断；未来地理专题应以英文和地图版本分别核对。
+
+D-0051｜H-0004卡诺洛斯骑手战绩的本地化弱化：英文“routed several Calradian armies”指击溃数支卡拉德军队，官方中文“追逐卡拉德敌人”未保留该战绩的准确含义。相关战绩引用应注明依据是SandBox英文原文。
+
+D-0052｜H-0004坎忒里翁基础版中文内容不完整：英文记述村庄今日以其名为帝国贵族珍视的战马命名，官方简体中文未译出该句。H-0004当前论证仅依赖前帝国养马的共有部分，不受该遗漏影响。
 
 ---
 
