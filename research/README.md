@@ -36,7 +36,7 @@
 
 ## CGEO-MAP-RES-009
 
-- [《战帆》村庄登陆点 civilian/looted 状态配对与空间稳定性审计](geo/90/EVD/CGEO-MAP-RES-009.md) · [Google Drive原件](https://docs.google.com/document/d/1o3j6Upzmh7KbbxggqJHKj_mH310tDaKhvCe5pqCSaos/edit)
+- [《战帆》村庄登陆点 civilian/looted 状态配对与空间稳定性审计](geo/90/EVD/CGEO-MAP-RES-009.md) · [Google Drive原件](https://docs.google.com/document/d/1o3j6Upzmh7KbbxggqJHKj_mH310tDaKhvCe5pqCSaos/edit) · [独立XML复核补件](https://docs.google.com/document/d/1-6tHtF11aweLHfqbkGMfFefjgujWQaLh7uC6oH73d8I/edit) · [修复后的8文件ZIP](https://drive.google.com/file/d/1F8ULB4TkGqN2Ft2tVRk4wsDCsbmVdinz/view)
 - [72组村庄双状态配对CSV](https://drive.google.com/file/d/1rxdH4pfEuhU9UagAu3U1TPT3Ue0jB_-h/view) · [101个去重父级接入锚点CSV](https://drive.google.com/file/d/1hLTPLE5cZwGG1jDWmawtKWlAHKU1nNYV/view)
 - [101处父级接入位置图](https://drive.google.com/file/d/1DCzFcxsfM8vvPlusvKvgSF9mv_bp1CNi/view) · [civilian/looted间距分布图](https://drive.google.com/file/d/13OvKbnqmG-5qRu_Jt1TB0TrJIbZG7Bpj/view)
 
