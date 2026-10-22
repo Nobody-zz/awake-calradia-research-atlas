@@ -1,6 +1,6 @@
 Q-0008｜H-0001—H-0004 逐句引注与英汉本地化复核（第一轮）
 
-版本：v0.2｜2026年10月22日（执行更新）
+版本：v0.3｜2026年10月22日（执行更新）
 
 审计性质：对四篇论文的核心命题、引注键、官方简体中文覆盖与原版／War Sails文本差异进行定向复核。不是四篇论文全文逐字校对，也不是外部同行评审。
 
@@ -82,7 +82,15 @@ H-0004本轮结论：多中心、不均衡政治联系仍只能作为C级解释�
 
 执行更新（2026-10-22）：已将Q-0008的定向修改实际写回H-0001—H-0004四篇Google Docs原稿，而非仅保留在本审计备忘录中。H-0001补明拉革塔与洛泰缺少独立语言表键、中文释文为工作译文／既有汇编译文，并限定“mostly forgotten／已消亡殆尽”的语义差异；H-0002修订厄诺伊萨圣湖段落与脚注，新增卡诺洛斯、坎忒里翁、密泽亚的DLC版本差异；H-0003在阿耳戈隆、贾尔马律斯、拉革塔脚注中补明英文正文键及中文释文性质；H-0004更新为v0.6，修改正文、命题登记和脚注，限定厄诺伊萨圣湖记忆与吕卡里亚马业空间主张。I-0002已更新四篇状态；I-0003已新增S-0052—S-0056、P-0057、D-0043—D-0045，并更新相关既有源项、命题与争议记录。
 
-本轮已完成：对项目附件中SandBox与NavalDLC的英文settlements.xml及相应官方简体中文语言表进行直接对读；实际修改H-0001—H-0004正文段落、脚注或复核记录；更新I-0002论文进度总索引与I-0003史料—事件—命题—争议总登记簿。尚未完成：H-0001—H-0004每一正文句子的逐句断言—脚注逐项核销；Hansen、Terrenato、Malkin、Mackil等学术著作的具体页码与原文论点核验；TaleWorlds《Empire – Part 1》全文的外部网页重新抓取；NavalDLC全部聚落条目的全面版本差异审计。后续继续按“正文断言—原始文件路径／Settlement或Kingdom ID—文本键—英文原文—官方中文键是否存在及是否过时—证据等级—推论边界”逐项核查，不启动新国家专题。
+本轮已完成：对项目附件中的SandBox与NavalDLC英文settlements.xml及对应官方简体中文语言表进行直接对读；实际修改H-0001—H-0004正文、脚注或复核记录；更新I-0002与I-0003。另已用出版方目录核验Hansen、Terrenato、Malkin、Mackil所引相关章节与页码，并把可核实的范围写回H-0001—H-0003；这只完成书目元数据和章节页码核验，不等于已逐页验证每一比较性论点。尚未完成：H-0001—H-0004每一正文断言与脚注的逐项核销；TaleWorlds《Empire – Part 1》全文的外部网页重新抓取；NavalDLC全部聚落条目的全面异文审计。后续继续按“正文断言—原始文件路径／Settlement或Kingdom ID—文本键—英文原文—官方中文键是否存在及是否过时—证据等级—推论边界”逐项核查，不启动新国家专题
+
+## 七、追加核验：地图坐标与比较文献页码（2026-10-22）
+
+1. 原始 settlement XML 的直接计数复验与 I-0003/S-0033、D-0021一致：SandBox有493个Settlement ID，NavalDLC有540个，其中493个为共有ID；这493个共有ID的posX/posY属性全部不同。共有条目的text属性有271处不同，DLC另有47个新增ID，其中38个新增ID带叙述文本。该结果描述的是模块数据差异，不证明卡拉迪亚内部发生过城市迁移、河道改道、海岸变化或行政中心转移。H-0001脚注〔15〕已改为列出三个可复核坐标例子。
+
+2. 比较史学书目核验：Hansen《Polis》第16章正式题名为“The Greek Conception of Polis as a City with a Hinterland”，页码101–105（Oxford Academic：https://academic.oup.com/book/47289/chapter-abstract/422665211）；Terrenato《The Early Roman Expansion into Italy》第4章页码109–154、第5章155–193、第6章194–247（Cambridge University Press目录及章节页：https://www.cambridge.org/core/books/abs/early-roman-expansion-into-italy/heterogeneous-conquest-i-a-crosssection-of-polity-biographies-and-types-of-conflicts/A169F00268C4D070BAAFADF9F7FECB3E；https://www.cambridge.org/core/books/abs/early-roman-expansion-into-italy/heterogeneous-conquest-ii-family-biographies-and-agendas/C130088B695656188C64CC6D3061B02F）；Malkin《A Small Greek World》第1章“Introduction: Networks and History”，页码3–64（Oxford Academic：https://academic.oup.com/book/5459/chapter-abstract/148340557）；Mackil《Creating a Common Polity》导论页码1–18、第4章147–236、第5章237–325、第6章326–399（Oxford Academic：https://doi.org/10.1525/california/9780520272507.003.0007）。H-0001—H-0003已补入相关章节和页码。
+
+3. 本轮核验仅确认出版方目录中的书目、章节名称与页码，并据此修订引用信息；没有取得全部专著全文逐页核对每项具体论点。正文仍须将现实历史研究作为比较框架，而非卡拉迪亚史实的替代证据。H-0001—H-0004逐句断言—脚注的全面核销仍在进行。。
 
 ---
 
