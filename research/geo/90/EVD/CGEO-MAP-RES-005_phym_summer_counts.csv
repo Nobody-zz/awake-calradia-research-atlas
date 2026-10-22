@@ -1,0 +1,14 @@
+version,season,layer_index,layer_name,samples,fraction
+original,summer,0,default,7976960,0.471771
+original,summer,1,flora_forest,138,0.000008
+original,summer,2,rock,1843661,0.109038
+original,summer,3,grass,3166924,0.187299
+original,summer,4,dirt,1707416,0.100980
+original,summer,5,dirt2,1274277,0.075363
+original,summer,6,forest2,631342,0.037338
+original,summer,7,river,307826,0.018205
+warsails,summer,1,default_1,6309739,0.373172
+warsails,summer,2,rock,1703820,0.100767
+warsails,summer,3,grass,2825790,0.167124
+warsails,summer,5,dirt2,5973417,0.353277
+warsails,summer,6,forest,95778,0.005664
