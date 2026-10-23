@@ -119,3 +119,10 @@
 - [16 组港口匹配差异子集 CSV](geo/90/EVD/CGEO-MAP-RES-013_mismatch_cases.csv)
 
 72 组中 56 组（77.78%）的直线最近港口与导航图代理最近港口一致，16 组（22.22%）不一致；两种状态标记下组级港口选择及一致性判定均 72/72 稳定。注意：RES-012 旧字段 `navmesh_detour_ratio` 在不一致记录中分子与分母对应不同港口，不能解释为同一目的地的绕行率。下一步为 RES-014 网络权重敏感性分析，不再重复已完成的聚落 ID 配准。
+
+
+## CGEO-S-HYD-001 — 河流水系与湖泊研究（正式论文）
+
+- [论文修订稿 v0.2](geo/03/HYD/1Cl-YL13V_bHN9qOnSgSJmQ40Y2AtOXk5O-xvFd8RYco.md) · [Google Drive 正文](https://docs.google.com/document/d/1qoWxPgRqqHxPSjv9NqeVfy2oj3fkqlEq_xF5CxPrpTc/edit)
+- 本版新增对高程栅格恢复、原版PHYM河流地表层关联、《战帆》水域Navmesh拓扑以及港口—登陆点距离代理的综合讨论。严格区分自然水文连通、游戏导航连通与人类贸易连通；导航网格结果不直接充当天然河网证据。
+- 后续研究优先事项：河流三角网格与高程栅格坐标配准、Flowmap方向核验、主要湖盆与河道拓扑复核。RES/AUD报告为证据底稿，正式论文是综合论证的主要成果，需随研究推进持续修订。
