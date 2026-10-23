@@ -29,3 +29,13 @@
 图中外海候选界线 **不是官方海岸线、真实水深界限或校验过的海平面线**。候选区之外可以存在低地、湖泊、河流、浅海；不能把其他高程色阶直接认定为陆地。Navmesh导航水域面不是天然海陆掩膜，单独出图，不叠合生成假海岸。坐标与译名继续沿用各自研究档案，不能把候选XY解释升级成正式已核验坐标。
 
 **后续必须取得原版与《战帆》各自的原始数值HGHT、可配准的水面/海岸几何，再绘制用于正式论文的海陆分布图。** 此次图件仅为避免“整片陆地被填成海水”且提高海陆候选区域辨识度的中间成果。
+
+
+### CGEO-MAP-RES-015 · v2.1 外海候选区交叉校验（2026-10-23）
+
+- [研究说明](geo/90/EVD/CGEO-MAP-RES-015.md)
+- [对照图](https://drive.google.com/file/d/1QiGiWXozYRN_NOrergjFJKjpsFTSrzHy/view)
+- [82 个城镇和港口坐标锚点表](https://drive.google.com/file/d/1UxQNIGfQaThaOztpfP9iuCco1UW-Rl7q/view)
+- [全部可复核数据及脚本 ZIP](https://drive.google.com/file/d/1rgANNff1eAfpxxXgRxYiZ0DbGTrqj6Ye/view)
+
+本次以《战帆》独立 Navmesh 分类复核 v2.0 的高程平坦低值外海候选区：候选区仅覆盖 43.1% 的可识别 OpenSea / CoastalSea 类别像素；另有 3.2% 可识别 Navmesh 陆面像素与候选区重合。近似图像配准有误差，但足以说明候选区不是经过核验的海岸线；原版53城镇、《战帆》29港口锚点均未落入外海候选区。继续保留分版本工作图，不使用候选区作海陆面积测算。
