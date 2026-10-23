@@ -157,3 +157,7 @@
 **对象的英中配准：**BannerlordDB <https://bannerlorddb.com/encyclopedia/settlement/caleus> 与 Mount & Blade Wiki <https://mountandblade.fandom.com/wiki/Caleus_Castle> 同指 Caleus Castle 下有 Caleus 与 Deriat 两座村庄；村庄 Caleus 的英文地志述海湾南侧、混合语言和亚麻；不要与城镇萨哥特属村 Calioc（本次已核为**卡利奥克**）混同。
 **异译：**另有2022年中文游戏专栏“卡勒乌斯堡” <https://www.bilibili.com/read/cv16486742/>，是确实存在的传播异写；保留但不作为本文主名。
 **证据等级与未完事项：**以上是跨年份中文游戏使用记录及英文对象归属的吻合，支持“卡琉斯”作为**有据中文通称/研究主名**；并不等同于直接读取官方游戏 `Native/CNs/std_common_strings_xml` 中 **Caleus Castle** 和 **Caleus** 名称 token 的原始字串。所附 `encyclopedia-zh-cn.md` 不含城堡及 `castle_village` 型条目，因此也不能凭它认证“卡琉斯”在 v1.4.8.119303 的独立官方名称键。进一步核证目标是该版本城堡与城堡辖村 name key、中文语言串，并记录其他游戏版本是否有变化。
+
+
+## 后续研究专题索引（2026-10-24）
+首轮总摸底继续作为 VLA 线的背景与问题索引，不再把全部城市和社会史研究内容堆入本文件。另立独立专题《西部征服、城市接收与地方权力形成：瓦兰迪亚的非均质建国过程》v0.1，对已取得的 v1.4.8.119303 中文百科八座瓦兰迪亚城市及相关村庄地志进行逐项分析，形成地方政体接收类型、地区经济、领主分歧、相对年代约束和十个 VLA-UR 问题；未申请 H 编号，也未改动全局登记。GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-conquest-urban-transfer-regional-power-study-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1SSX-QiNwj8IMVc4vq54KISKGZB4FRazVzuC5aP4rIrg/edit。
