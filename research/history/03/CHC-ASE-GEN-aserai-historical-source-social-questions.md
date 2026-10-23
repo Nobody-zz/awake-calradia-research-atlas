@@ -1,15 +1,15 @@
 # CHC-ASE-GEN｜阿塞莱历史史料覆盖、社会结构与重大研究问题
-调查报告 v0.2｜2026-10-24｜非H编号｜研究状态：第二阶段制度比较与译名复核
+调查报告 v0.3｜2026-10-24｜非H编号｜研究状态：2026年实装原始文件复核、政治制度研究
 主问题：阿塞莱地区不同生态和政治出身的部族、绿洲与城市，怎样形成以苏丹为最高协调者的政治共同体；帝国长期的保护费、商队与客户统治者政策在其中起了什么作用？
 
 ## 摘要与初步论断
 1084年的阿塞莱苏丹国不应被当作跨越整个古代的单一民族国家。首轮证据显示，所谓阿塞莱共同体至少由沙漠及绿洲氏族、长距离商路的控制者、原有商业城邦、帝国边疆据点的土著化家族、仍坚持流动放牧的群体组成。苏丹产生于经济最富裕的本·胡勒延氏族（Banu Hulyan），既有共同祖先称谓、富裕氏族推举、商路补贴和帝国衰落时形成联盟的叙述，也有氏族仇怨仍可能重开的明确限制。最有解释力的工作模型是：谱系语言降低合作成本；绿洲与长途交通财富制造跨部族协调需求和不对称权力；帝国边疆政策既资助地方强者，又使分裂成为常态；帝国控制衰退后，富裕氏族以苏丹名号主持不稳定联盟。该模型为C级竞争性解释，并非已证史实定论。
 
 ## 一、史料范围、已有核验和本轮访问界限
-A1｜现行游戏原文的既有项目审计。I-0003中S-0051核验SandBoxCore/ModuleData/spcultures.xml的Culture id=aserai、键a2AjI8nc；《全大陆史料覆盖摸底与历史问题图谱》v0.1核验SandBox/ModuleData/spkingdoms.xml的Aserai条目、键qggtvf8Y，并记录聚落、英雄、氏族覆盖。I-0003中S-0075对SandBox v1.4.8 heroes.xml的dead_lord_3_1、键D3hGevbL有源级登记。以上是“项目此前已源级核验”，不是本轮重新打开ZIP的声明。
+A1｜2026-10-24已直接从项目Library取回并阅读五个原始ZIP。SandBoxCore/ModuleData/spcultures.xml有效Aserai键a2AjI8nc、SandBox/ModuleData/spkingdoms.xml有效Aserai键qggtvf8Y、SandBox/heroes.xml的dead_lord_3_1/D3hGevbL均完成英汉同键重新核实。此次结论以2026-10-22保存的游戏实装文件为基准，本体v1.4.8及《战帆》v1.2.8；和2020年汉化公告严格区分。此前I-0003的源级登记仍是跨篇参照，但不能代替本次字节检查。
 A2｜TaleWorlds 2018-01-11官方《Aserai》开发日志及对应官方新闻页，https://www.taleworlds.com/en/Games/Bannerlord/Blog/41 及 https://www.taleworlds.com/en/News/204；本轮搜索可定位官方英文全文，直接打开官方网站可能触发403。属于官方回顾，不是当时部族档案，且与游戏内同主题文本有共同制作源链，不能冒充独立古代见证。
-B1｜游戏百科英文重现的外站检索：Quyaz、Iyakis、Sanala、Askar、Razih、Hubyar、Husn Fulq及Jawwal等条目可由BannerlordDB、Mount & Blade Wiki二次网页定位。它们帮助确定应回查的具体聚落与命题，但本轮未取得这些条目的当前SandBox和NavalDLC原始XML字节、文本键及哈希，不把二次显示误写成已完成跨版本逐键直校。
-A3｜既有总摸底：原始清单67份XML；当前三个ZIP曾取得54份（SandBox 30、SandBoxCore 3、NavalDLC 21）；Native 9份、StoryMode 4份不在本轮可直接取得的原始档案中。SandBox/settlements.xml 493聚落、327带叙事，按1084文化字段阿塞莱地区48条带叙事；这一数字是待进一步逐条核实的取样池，不能称为48份独立阿塞莱古代史文献。SandBox/heroes.xml 397人物中27份传记、spclans.xml 95氏族中14份文本为全大陆总量，不是阿塞莱专属量。NavalDLC同ID有271处英文地志字面异文，需要逐条筛选历史内容变动。
+B1｜原始游戏资料现已直接可读：Quyaz、Iyakis、Hubyar等聚落有效英文正文在2026-10-22的SandBox与NavalDLC原文件中逐ID读取；Jawwal、Ghilman及阿塞莱大氏族可按spclans.xml英文name字符串键与CNs同键对应。外站百科仅用于发现问题，不再冒充本研究线没有取得的原文；当前ZIP未包含部分town_A1—town_A8独立名称键的简中翻译，不能擅自造译。
+A3｜本项目原始文件清单67份XML，本轮实际取回SandBox30、SandBoxCore3、NavalDLC21、Native9、StoryMode4共五个ZIP；按file_manifest.csv逐文件计算SHA-256，67/67全数与登记一致，已纠正前稿误称Native和StoryMode未能取得的访问状态。覆盖范围仍局限于所保存模块文件：SandBox/settlements.xml共493聚落，其中327带叙事；据旧摸底统计按1084年阿塞莱文化字段为48条带叙事，非48篇独立阿塞莱史。SandBox/heroes.xml 397人物中27份传记、spclans.xml 95氏族中14份文本为全大陆总量；NavalDLC存在同ID地志异文，不能直接合并不同版本。
 项目规范沿用I-0001 v1.4的A／B／C／D、I-0004 v2.2的CHC，公共S/E/P/D/N由协调对话统一登记；本线只给临时工作命题代号ASE-R01等，不能冒充已发I-0003正式编号。
 
 ## 二、可重建的相对历史阶段
@@ -99,10 +99,10 @@ P-0069（已登记）：SandBox/ModuleData/settlements.xml，Danustica文本键x
 本节为第一阶段调查报告的实质增订，而非独立H论文。比较对象是贵族联盟的产生、调停权的运行与军事强制手段的归属，区分既有项目已取得的有效官方英文XML、官方开发日志的设计回顾、外站对游戏百科文本的重新显示及汉化组旧版命名公告，不把它们混计为彼此独立的史实证人。
 
 ### 十二之一、专名校勘：先登记来源等级，再使用中文译名
-（1）Iyakis＝以亚基斯，为研究用户明确确认的现行官方译名；Quyaz＝古亚兹、Nahasa在现行聚落志中文引文中作“纳哈撒”，可由项目CGEO-MAP-RES-014同文证据回查。对独立聚落名键尚未实际打开的资料，分别标注其证据层级。
-（2）骑砍中文站汉化组成员在2020-04-20正式发表的e1.3Beta命名修订说明，给出Banu Hulyan＝本·胡勒延、Banu Qild＝本·吉勒德、Banu Sarran＝本·萨兰，且旧译“巴努胡利安”“奇尔德家族”“萨兰家族”已经进入修订序列。这是汉化人员的明确历史版本证据，不等于本次已对SandBox v1.4.8现行游戏语言表逐键回读，更不能推定后续版本绝无变化。旧调查稿的“巴努·胡里扬”已撤回。
-（3）Unqid在2018年中文开发日志中作“安奇德”，研究项目既有中文资料使用“温吉德”；当前未能对其人名独立翻译键完成跨版本核验，故正文仍以Unqid为准，不擅自裁定哪一种为当前官方标准。Hubyar、Sanala、Askar、Jawwal、Ghilman及有关Carasios、Banu Qaraz等未逐键核对的专名暂保留英文；旧调查稿中曾出现的自行音译不再视为官译。Nimr、Adram、Tais、Ghilad也暂用英文，避免以不同叙事源的称呼先行确认身份。
-（4）以上是本研究线内的译名管制，不修改CGEO公共地名标准或I-0003正式争议号。2020年汉化说明：https://www.mountblade.com.cn/news/Bannerlord/2020-04-20/410.html ；2018年中文开发日志：https://www.mountblade.com.cn/news/Bannerlord/2018-01-12/122.html ；项目地名规范路径：research/geo/90/EVD/CGEO-MAP-RES-014_settlement_chinese_name_register.csv 。
+（1）以亚基斯（Iyakis）沿用研究用户确认的官方中文名称；古亚兹（Quyaz）及纳哈撒（Nahasa）在2026-10-22的现行实装汉化地志中有同名中文出现。需要谨慎区分：本次保存的67份XML对town_A1、town_A3、town_A5、town_A6、town_A7等独立名称键并未提供相应简中值，不能以中文使用习惯伪造同键来源。
+（2）2020年汉化组曾公布Banu Hulyan＝“本·胡勒延”、Banu Qild＝“本·吉勒德”、Banu Sarran＝“本·萨兰”；它们仅代表当年的版本。2026-10-22本体v1.4.8实际CNs/std_spclans_xml-zho-CN.xml逐键显示Banu Hulyan／9Y1u2onl＝“巴努·胡勒延”，Banu Qild／wFR1ukg9＝“巴努·吉勒德”，Banu Sarran／fvYgmrjG＝“巴努·萨兰”。SandBox王国沿革qggtvf8Y也确实写“巴努·胡勒延”。因此本项目阿塞莱现行史稿以2026实装同键为准，2020译名不得再用作现行官译。
+（3）2026-10-22 SandBox/CNs/std_heroes_xml-zho-CN.xml的L90aSR5J明确写Unqid＝“温吉德”；同文件D3hGevbL写Nimr＝“尼姆尔”、其出自“萨兰部族”、后遭“吉勒德部族”处决。SandBox/CNs/std_spclans_xml-zho-CN.xml的ghilmanClanName直接写Ghilman＝“古拉姆”，RWOYui01团体背景写Jawwal＝“贾瓦勒”，lUfFxWlk写Banu Qaraz＝“巴努·卡拉兹”。本次均为官中原始同键或原始背景文本，不再标为待官中核验；Carasios及个别聚落等仍因独立名称键未见而保留英文。
+（4）名称裁决分为“2026-10-22同键查证”“2026原始汉化叙事有直接用例”“用户确认但当前截取文件缺独立名称键”“仅2020旧版公告”“尚无证据”五档；不得用旧公告覆盖新XML，不凭英文字面音译。2020公告仅用于变迁史：https://www.mountblade.com.cn/news/Bannerlord/2020-04-20/410.html ；2026本体v1.4.8与战帆v1.2.8发布信息：https://www.mountblade.com.cn/news/Bannerlord/2026-08-10/3289.html 。2026-10-09另有v1.5.5测试分支；本次没有取得该分支的中文XML，故不越权声称全分支同文。
 
 ### 十二之二、苏丹权力的三个层次：推举、仲裁与强制
 第一层是联盟推举。SandBox王国说明qggtvf8Y已由项目此前源级登记：帝国不愿深入Nahasa沙漠，资助把持绿洲、保护商队的客户统治者；帝国衰弱时，氏族同意建立confederacy，苏丹出自最富裕的Banu Hulyan。英文“chosen from richest of the clans”确认候选统治集团与财富结构的关联，却不说明具体投票制度、推举周期或无条件世袭。因此“苏丹出于富裕氏族”不等于“苏丹能自行征税、处决其他氏族领袖”。
@@ -133,9 +133,9 @@ TaleWorlds 2018-01-11官方开发日志把Ghilman描述为奴隶战士的兄弟�
 本轮暂以B+C的复合模型为首选解释、A作为不可排除的前置文化条件，置信度C级（受约束历史推论）。新的进展不是确认了完整国家，而是把权威来源细分为经济积累、跨身份议事、法律仲裁和有争议的地方惩罚权四种可证程度不同的机制。
 
 ### 十二之六、待核原文与反证任务
-P0｜取SandBox v1.4.8 heroes.xml/lord_3_1、spclans.xml/Banu Hulyan及中文对应键，审查Unqid法律仲裁措辞、负面批评者是否属作者转述、中文现行人名及“法律”“劝服”等语义是否损耗。
-P0｜比对SandBox与NavalDLC相同聚落ID town_A1（Quyaz）、town_A3（Iyakis）、town_A5（Hubyar）的有效正文，确认城市历史是否发生改写；取std_settlements_xml-zho-CN.xml同键，核定专名并分开先祖传说与近世家族事件。
-P0｜核对SandBox英雄dead_lord_3_1／D3hGevbL与town_A5对Nimr死因的描述，以及Ghilad、Banu Qild的语言形式、身份范围和史事共指关系；联络既有潘德拉克专题，不把二次转录提升为原始对白。
+P0｜已直接核实SandBox v1.4.8 heroes.xml/lord_3_1的L90aSR5J及中文对应文本，Unqid现行写“温吉德”、其司法叙述涉及巴努·阿塞拉习惯法和富豪利用贿赂与法律漏洞的批评；下一步应核查这些政治评价在叙事中由何种视角提出，以及与各氏族对苏丹的判断有何异同。
+P0｜已逐ID读取两版本town_A1（Quyaz）、town_A3（Iyakis）、town_A5（Hubyar）的英文有效正文，三者同键字面一致；不同地区仍有版本异文，不能据此推定全大陆同文。当前归档的CNs/std_settlements_xml-zho-CN.xml未找到上述三镇独立名称键及数段城志同键简中项；“以亚基斯”由用户确认，其他待获得有效名称源，不以音译填补。
+P0｜已核对SandBox英雄dead_lord_3_1／D3hGevbL英文写Nimr因与Ghilad年轻女子发生关系遭处决，对应中文为“尼姆尔／吉勒德部族”；Hubyar的town_A5英文则用Banu Qild，另有氏族名键wFR1ukg9＝“巴努·吉勒德”。二者经中文指向相同的吉勒德称谓且事件一致，支持同一氏族的强关联推断，但英文Ghilad与Qild词形分歧仍应保留作文本异文，不虚构统一拼写来源。联络潘德拉克专题时不把玩家转录升为原始对白。
 P1｜取Ghilman、Jawwal氏族有效原文和中文同键，考察各自契约、保护费与独立军权；在证明存在真实政治隶属之前不使用“苏丹私人军团”及“全国统一税权”。
 P1｜在可能取得明确原文时核实以亚基斯的“councils”究竟指复数会议传统、不同集会场景还是普通的贵族商谈，尽量寻找互相独立的制度事例而非对单一叙述反复解释。
 
@@ -144,3 +144,42 @@ P1｜在可能取得明确原文时核实以亚基斯的“councils”究竟指�
 官方开发日志（关于自然环境、部族均势、Ghilman设计参照）：https://www.taleworlds.com/en/Games/Bannerlord/Blog/41 ，不替代游戏内历史沿革。
 官方英文百科在第三方网站的重现（待原XML同键回验）：https://bannerlorddb.com/encyclopedia/kingdom/aserai 、https://bannerlorddb.com/encyclopedia/settlement/quyaz 、https://bannerlorddb.com/encyclopedia/settlement/iyakis 、https://bannerlorddb.com/encyclopedia/settlement/hubyar ；https://mountandblade.fandom.com/wiki/Unqid_Banu_Hulyan 、https://mountandblade.fandom.com/wiki/Ghilman 。外站网站之间的转抄不构成独立证据数量增加。
 汉化团队2020年公布的修订：https://www.mountblade.com.cn/news/Bannerlord/2020-04-20/410.html ；2018年官方博客中文译文：https://www.mountblade.com.cn/news/Bannerlord/2018-01-12/122.html 。两者均须注明版本，不以单篇早期汉化资料裁断2026年生效中文专名。
+
+
+## 十三、2026年10月22日实装简体中文专名逐键校勘（2026-10-24）
+本章对第十二节2020年公告所提供的译名作正式勘误，依据是本项目Library中的SandBox.zip、SandBoxCore.zip、NavalDLC.zip、Native.zip和StoryMode.zip原始资料。file_manifest.csv标记本体v1.4.8、战帆v1.2.8；五压缩包共67份XML，逐文件SHA-256校验结果67/67一致。馆藏提取日期2026-10-22；本轮复核日期2026-10-24。当前另有v1.5.5 beta，仅能说明存在该分支，未取得其语言文件；禁止将实装版本与beta混同。
+
+### 十三之一、阿塞莱氏族九家：有效英文名与现行简体中文同键
+Banu Hulyan｜巴努·胡勒延｜SandBox/spclans.xml，clan_aserai_1；CNs/std_spclans_xml-zho-CN.xml，9Y1u2onl。
+Banu Sarran｜巴努·萨兰｜clan_aserai_2；键fvYgmrjG。
+Banu Qild｜巴努·吉勒德｜clan_aserai_3；键wFR1ukg9。
+Banu Qaraz｜巴努·卡拉兹｜clan_aserai_4；键lUfFxWlk。
+Banu Arbas｜巴努·阿巴斯｜clan_aserai_5；键zY2TQC9t。
+Banu Atij｜巴努·阿提吉｜clan_aserai_6；键l6JtB97p。
+Banu Sarmal｜巴努·萨马勒｜clan_aserai_7；键Aft8nsgn。
+Banu Habbab｜巴努·哈巴卜｜clan_aserai_8；键o4wKMT9x。
+Banu Ruwaid｜巴努·鲁瓦｜clan_aserai_9；键NI1paia1。
+此表是本体2026-10-22实装档案的逐键翻译结果，不采用2020年“本·……”旧译；不能据中文前缀完全一致就推定九个氏族的血统、等级、继承制度全部相同。
+
+### 十三之二、当代人物、军团、游牧团体及文化称谓
+Unqid｜温吉德｜SandBox/heroes.xml，lord_3_1，CNs/std_heroes_xml-zho-CN.xml，L90aSR5J（人物传记内直接出现）；另见SandBox/wanderer_strings.xml的YWQlYXST叙述文本。
+Nimr｜尼姆尔｜SandBox/heroes.xml，dead_lord_3_1，键D3hGevbL；对应“萨兰部族”“吉勒德部族”的中文叙事；注意中文增加“作为预备队”，有效英文没有这一编成信息。
+Ghilman｜古拉姆｜SandBox/spclans.xml，id=ghilman，名称键ghilmanClanName；其组织历史键4TiYXBqK可同键查证成员“卖给组织”与共同所有权。
+Jawwal｜贾瓦勒｜SandBox/spclans.xml，id=jawwal，名称键8ba4tpRU在本次所存CNs同键缺项；团体历史键RWOYui01中文开头明确“贾瓦勒，又名漫游者”，故是官方原始叙事直接用例而非名字键直证。
+Beni Zilal｜暗影之子｜SandBox/spclans.xml，id=beni_zilal，名称键NObV048p；背景键dRaYhQva亦出现“巴努·奇拉勒”。此处英文团体名称、中文正式名称与背景内的历史称呼不同，须按场景使用，不得机械互换。
+Banu Asera｜巴努·阿塞拉｜SandBox/heroes.xml的L90aSR5J及Jawwal背景RWOYui01均有简中同文用例；它是共同体／谱系名，不是上述九个具体氏族之一。
+
+### 十三之三、城市名称与聚落背景的证据级别
+Quyaz｜古亚兹｜2026原始地理叙事JhBSnWAe及战帆水手对话有直接中文用例，但当前保存的同名聚落独立名称键Settlements.Settlement.name.town_A1没有CNs译文。
+Iyakis｜以亚基斯｜研究用户核定的官方中文译名；town_A3英文独立键NFIYqaab对应的城志可核，但当前归档没有同键简中正文或独立名称键，所以不能假称本轮对该中文形式完成游戏文件同键直证。
+Hubyar、Sanala、Askar｜当前仍无可直接引用的本归档独立名称键简体中文译文，学术文稿中暂以英文指认，不能重用旧稿自拟音译当作官中。
+Husn Fulq｜侯森·富勒格｜SandBox和NavalDLC的聚落志中文bnl7Va4c有同文用例；同ID英文地志两版有措辞变化，须保留版本。
+Razih｜拉齐赫｜SandBox与NavalDLC的城志中文jXBnf2hQ有直接同文用例；两版原文有异文。
+Qasira｜加西拉｜中文聚落志J4bgNT0r有直接同文用例；两版英文存在异文。
+
+### 十三之四、名称更替史与政治史结论
+2020年的“本·胡勒延／本·吉勒德／本·萨兰”与2026年的“巴努·胡勒延／巴努·吉勒德／巴努·萨兰”构成可证的汉化版本差异，而不是英语氏族实际改名。官方汉化对Banu的字面音译一致化，不构成阿塞莱氏族政治在游戏世界内部发生制度变革的证据。同样，2018年博客汉化Unqid为“安奇德”，现行v1.4.8人物传记为“温吉德”，是翻译史而非人物更替。研究应把翻译史另列，不得拿译名变化编造历史情节。
+
+本轮可确认的制度材料比此前更多：苏丹的推举源于富裕氏族的政治协调（spkingdoms/qggtvf8Y）；温吉德的合法性争论同时涉及共同习惯法、贿赂及法律漏洞的批评（heroes/L90aSR5J）；本·萨兰曾被放逐百年之类的传承叙述，应在2026现行译名下按巴努·萨兰相关家族访谈逐键阅读，而不是把早期汉化称谓当作另一派氏族。政治史研究在此基础上继续，不因命名审查替代机制分析。
+
+资料保存与互引：原始ZIP在项目Library“Calradia Geography Research Source Files”中；校验清单file_manifest.csv；对应GitHub研究稿本文件及Google Docs同名文档。公共I/Q登记与其他国家线的译名标准需要由协调对话另行审定，本线不越权改动。
