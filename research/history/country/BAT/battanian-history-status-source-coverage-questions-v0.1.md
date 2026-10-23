@@ -108,3 +108,12 @@ StoryMode v1.4.8：本轮已取得其模块ZIP并定向检查，主线19人完�
 新增史料缺口：TaleWorlds 2022-12-16 官方发布《数字伴侣》与《卡拉迪亚游记》（https://www.taleworlds.com/en/News/520）；目前维基对肖农贵族女性 Taseil 的二手整理记有先王嫁女、弑君与旧亲族受惩控诉，但尚未取得该篇直接文本及官方中文，故不列弑君为事实。优先取得它与 StoryMode 完整英文对白，比较婚姻事实、亲族控诉与国家叙事。对应完整专题工作稿：research/history/country/BAT/battanian-succession-and-kingship-working-paper-v0.1.md；Google Docs：https://docs.google.com/document/d/1GdUwdwrpDwC5peCA9bSGetqVF4UzrXyoK0T7NLP9sjs/edit 。
 
 第二轮反证约束：SandBox/heroes.xml 的 Hero.lord_5_1（卡拉多格）未记 spouse，其三条子女记录 lord_5_1_1、lord_5_7、lord_5_10 均未记 mother，而埃尔贡及梅利迪尔条目确有配偶字段。故王女婚配在官方政治言论〔wv2jPN3Q〕中得到明确主张，并不能据此补造已确认王后姓名、子女母系、婚姻结束日期或固定法定继承顺位。Taseil 的所谓旧王侄女身份和父母被处决仍停留在《卡拉迪亚游记》的二手简介；埃尔贡于1084年为现任芬·登吉尔族长，不得将Taseil直接指定为其女。王国概述〔ZjaaAoxd〕的匿名旧王与卡拉多格政治自述〔7poObaCF、Sy7dajDq〕共享牧群比喻，不能以此合并两位历史人物。另见退役巴旦尼亚籍帝国军人〔wH5GepOD、WmGxA0P1〕，其回忆引出新王是否重新定义对帝国服役为背叛的共同体身份研究，但属于有立场的个人证词，绝非统计事实。专题已详论上述约束并完成两端同步。
+
+
+附录｜第三轮制度史专题（2026-10-24）：氏族土地分配与王权可支配资源
+
+本轮独立核验 SandBox/spclans.xml 与 settlements.xml，初始巴旦尼亚共有8个已登记贵族氏族，分别持有5座城镇、8座城堡，旗下 Village/@bound 关联33处村庄；君主卡拉多格所属芬·格鲁芬多克持有马鲁纳斯、Rhemtoil Castle、Uthelaim Castle（三处中心、八村），邓格拉尼斯仍由先王亲族芬·登吉尔持有。领地分配与王位身份不重合，是解释中央王权依赖氏族承认、资源谈判和军事合作的制度证据，而非君主个人财产占比或真实税收账簿。八个登记氏族也非历史上一切巴旦尼亚氏族的封闭名单，人物口述尚有 fen Dairl、fen Aedeg 等名称。
+
+据本轮匹配，NavalDLC与SandBox中上述46处巴旦尼亚城堡、城镇、村庄 owner 与 bound 关系均一致；但 Tor Melina〔castle_village_B3_2〕在SandBox是黏土矿村，而NavalDLC改为小麦村，属于版本重写，不能当作古今农业变化。史料同时揭示粮食、葡萄酒、马匹、林木、黏土、矿产与对外贸易的地区差别；尚无直接各氏族向至高王定期交纳何种份额的税赋文书，不得从物产与领地所有权直接推算全国财政。
+
+新增专题《氏族领地、资源动员与巴旦尼亚至高王权》归 CHC-BAT-SOC（不分配 H 编号），路径：research/history/country/BAT/battanian-clan-land-power-and-high-kingship-v0.1.md；Google Docs：https://docs.google.com/document/d/1RZE-zT5AQOqx0Z7-TZUCc4ZtnQDXZ6v2xkgoXewqx5Y/edit 。研究模型调整为氏族财产自治—仪式承认—条件协作是目前最优长期结构，卡拉多格的战争式强王政治是建立在此结构之上的转化尝试，而不是已经证明的完成集权。
