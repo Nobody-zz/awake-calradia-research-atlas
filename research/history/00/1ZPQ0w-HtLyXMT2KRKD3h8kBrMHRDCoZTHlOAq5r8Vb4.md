@@ -133,7 +133,7 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 
 19. I-0001 v1.4英文语境与修辞校勘规范（2026-10-23）：新增强制性语境级校勘步骤，要求在原文词义、段落语境、叙述立场、反讽／委婉／限定语与历史解释之间分层；分别登记直接陈述、修辞暗示和历史推论，不把隐含批判升级为未经独立证明的客观事实。示例包括“holy poverty”“submit to it”“such as it is”与“civic elders/civic traditions”；I-0003 D-0068、P-0079/P-0080与D-0069/D-0070作为案例。该原则适用于全部H、Q、I研究：英文优先指语义校勘底本，不意味着英文叙述客观中立。I-0001升至v1.4，I-0002升至v3.21，已签发世界书正典不变。
 
-20. Q-0012 v0.1王国沿革与帝国内战政治主张的英汉语境校勘（2026-10-23）：对SandBox v1.4.8 spkingdoms.xml及英文／官方简中语言表逐键核查八个政治实体描述，I-0003升至v3.5，新增S-0065、P-0081—P-0084、D-0071—D-0074。重点差异：南帝国精英“claimed descent from...”被中文部分改写为直接自称国王／英雄；中文额外把拉盖娅描述为“乐于将这种顾虑付诸现实”，强于英文“would seem to confirm these fears”；西帝国“mostly forgotten”被强化为“消亡殆尽”；南方城镇“some of the richest and most populous”被绝对化。Q-0012 v0.1已建立Google Docs与GitHub同名档案，登记原始XML、英文语言表和官方简中语言表的SHA-256。将阵营概述视为官方叙事，不作独立互证，不把翻译新增的动机断言纳入人物动机正典；已签发世界书正典不变。
+20. Q-0012 v0.1王国沿革与帝国内战政治主张的英汉语境校勘（2026-10-23）：对SandBox v1.4.8 spkingdoms.xml及英文／官方简中语言表逐键核查八个政治实体描述，I-0003升至v3.5，新增S-0065、P-0081—P-0084、D-0071—D-0074。重点差异：南帝国精英“claimed descent from...”被中文部分改写为直接自称国王／英雄；中文额外把拉盖娅描述为“乐于将这种顾虑付诸现实”，强于英文“would seem to confirm these fears”；西帝国“mostly forgotten”被强化为“消亡殆尽”；南方城镇“some of the richest and most populous”被绝对化。Q-0012 v0.1已建立Google Docs与GitHub同名档案，登记原始XML、英文语言表和官方简中语言表的SHA-256。Google Docs：https://docs.google.com/document/d/1JkcbLRNaoVgmQlCvqvSNdAW0hopPg-X1ls8v7e_m1xM/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0012-kingdom-descriptions-localization-audit.md。将阵营概述视为官方叙事，不作独立互证，不把翻译新增的动机断言纳入人物动机正典；已签发世界书正典不变。
 
 ---
 
