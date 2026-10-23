@@ -1,6 +1,6 @@
 # 研究文档索引
 
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。最近同步：2026-10-23。统一史学规范I-0001 v1.2、总索引I-0002 v3.13、史料登记I-0003 v3.0、分类法I-0004 v2.1。Q-0011 v0.7第七轮正文机制审核：五篇H论文现行Docs/GitHub各78、132、146、128、131段，共615段逐段一致。H-0003在政治共同体吸纳问题中区分领土服从、保护性归附与地方精英进入中央的不同步过程，并在结论明确分层成员资格仅是可检验解释；H-0004 v0.10按费卡翁战时军令、城寨地方权力及密泽亚保护性归附区别政治行为尺度，比较地区霸权、临时联盟和文化网络。H-0001沙拉斯沿海首个殖民地而非确证首次登陆、H-0002赫塔尼亚Palaic/Dryatic文本异文和五案比较均维持已核改稿，H-0005 v1.2维持四判据与双方向因果检验而不定稿。阶段性状态：H-0001、H-0002、H-0004有条件通过；H-0003继续寻求共和初期实际议事和资格事件；H-0005的Q5-09保持开放。Q-0010 v0.2母系涅雷采斯说属于首选历史推论，非有效亲属字段明文。已签发世界书正典、H档案号和CHC分类法不变，H-0006未分配；比较史学引用尚未全部逐页核实。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。最近同步：2026-10-23。统一史学规范I-0001 v1.2、总索引I-0002 v3.14、史料登记I-0003 v3.0、分类法I-0004 v2.1。此前Q-0011 v0.7的五篇H论文审查共615段；本轮H-0005增至v1.3，新增达鲁索斯在位被将领推翻的组织历史事件，与潘德拉克后元老院另选阿雷尼科斯、阿雷尼科斯身后三方争位作不同权力转换机制比较，并将“二十年前即位”与1077年主线对白转录的冲突列作条件性年代问题（对白原始文件尚待核定），不为填补时间空白虚构新皇帝。经本轮H-0005 Docs/GitHub 144段逐段核对无差异，五篇现为628段。H-0001、H-0002、H-0004阶段性有条件通过，H-0003继续制度史复核；H-0005仍是研究稿，Q5-09开放。Q-0010 v0.2母系涅雷采斯说属于首选历史推论，非生效亲属字段明文。已签发世界书正典、H编号和CHC分类法均不变，H-0006未分配；比较史学引文并未全部逐页核实。
 
 ## geo/00
 
@@ -43,7 +43,7 @@
 ## history/00
 
 - [I-0001｜研究总纲、史学方法与交叉校验规范（v1.2）](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
-- [I-0002｜论文目录与研究进度总索引（v3.13）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
+- [I-0002｜论文目录与研究进度总索引（v3.14）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
 - [I-0003｜史料—事件—命题—争议总登记簿](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
 - [I-0004｜卡拉迪亚历史研究学术分类法（CHC v2.1）](history/00/I-0004-academic-classification.md) · [云盘原件](https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit)
 ## history/01
@@ -68,7 +68,7 @@
 - [Q-0011｜H-0001—H-0005历史学方法与论证质量综合审查（v0.7）](history/02/Q-0011-historical-method-cross-review.md) · [云盘原件](https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit)
 ## history/03
 
-- [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化（研究稿v1.2；CHC-EMP-POL）](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
+- [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化（研究稿v1.3；CHC-EMP-POL）](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
 ## history/90
 
 - [《卡拉迪亚之王》时间线二创文本梳理（公开仓库平行核对稿）](history/90/1TfweX-znEVL4mzd_Ct0l5fSj-0dQgIJ9kqBn7RUMXAs.md) · [云盘原件](https://docs.google.com/document/d/1TfweX-znEVL4mzd_Ct0l5fSj-0dQgIJ9kqBn7RUMXAs/edit)
