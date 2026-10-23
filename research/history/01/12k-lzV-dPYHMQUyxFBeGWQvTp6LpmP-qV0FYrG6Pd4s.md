@@ -110,9 +110,9 @@ Malkin 在研究早期地中海殖民网络时指出，跨海聚落与贸易站�
 
 ## 史料与参考文献
 
-〔1〕《西帝国沿革》与《沙拉斯城市记述》，《卡拉迪亚诸国与城镇志》（中文汇编），条目empire_w、town_V7。empire_w文本键mOZsbV8j有官方简体中文语言表条目；town_V7正文键0cZmKO76未出现在本资料包的SandBox或NavalDLC英文/简体中文settlements语言表中。本文对town_V7长篇正文所用中文应视为工作译文/既有中文汇编译文，尚不能标为已核实的官方游戏译文。 town_V7/SandBox v1.4.8英文原文“The city known today as Charas is traditionally reckoned to be the first Calradian colony on the shores of their new continent”；此句没有明言卡拉德人第一次上岸的具体地点。
+〔1〕《西帝国沿革》与《沙拉斯城市记述》，SandBox/ModuleData/spkingdoms.xml（empire_w，文本键mOZsbV8j）及SandBox/ModuleData/settlements.xml（town_V7，文本键0cZmKO76）。原文仅称沙拉斯“traditionally reckoned to be the first Calradian colony on the shores of their new continent”，没有指出首批移民实际登陆的地点。西帝国沿革键见官方简中语言表；沙拉斯长篇正文键不见于所核验的独立英／简中settlements语言表，本文对后者的中文释文属于工作译文，不伪称官方简中。
 
-〔2〕《帕拉汶德城市记述》：SandBox/ModuleData/settlements.xml，Settlement id=town_V3，英文正文键Nx0qK2g6；SandBox与NavalDLC英文主体相同，官方简体中文语言表含该键。英文称巴拉维诺斯是卡拉狄乌斯建立的第二座“重要”殖民地，并“soon succeeded Charasea as the capital of the Calradians”，后成为西部经济中心；当瓦兰迪亚奥斯里克入侵时，他与“local senators”谈判降服。这一复数称谓可证明在该次后期降服中有城市元老身份者参与协商，未明言地方元老院作为独立机关存在，也未说明这批人员与早期共和国元老院成员资格的连续关系。现存叙述既无建城、迁都和降服的绝对年份，也不表示“第二”包括所有非重要聚落。
+〔2〕《帕拉汶德城市记述》：SandBox/ModuleData/settlements.xml，Settlement id=town_V3，英文正文键Nx0qK2g6；SandBox与NavalDLC英文主体同文，官方简体中文语言表亦含此键。条目称巴拉维诺斯是卡拉狄乌斯建立的第二座“重要”殖民地，并迅速取代沙拉斯为首都；后又成为西部经济中心。巴拉维诺斯为早期名称，帕拉汶德为后世城市名。现存叙述既没有给出建城或迁都年份，也没有说明“第二”涵盖所有非重要聚落。
 
 〔3〕《俄耳堤西亚城市记述》：SandBox/ModuleData/settlements.xml，Settlement id=town_EW4，英文正文键JhBSnWAe；NavalDLC同ID正文主要史事同文，官方简体中文语言表亦含此键。英文称城塔为“towers”，官方简中将其具体化为“灯塔”并增加“光束”；该本地化增益不能独立证明具体建筑设施。NavalDLC英文把“Bay of Charas”修订为“Gulf of Charas”，是文献版本差异而非可直接证明的古代海湾变迁。条目所称古亚兹统治数世纪与此后共和国纳入，是局部相对顺序；其“soon”不能据以换算具体年份。
 
@@ -128,7 +128,7 @@ Malkin 在研究早期地中海殖民网络时指出，跨海聚落与贸易站�
 
 〔9〕《洛泰城市记述》，town\_EW6，SandBox/ModuleData/settlements.xml正文键5SpYVtie。该键不在本资料包SandBox或NavalDLC独立英文／简体中文settlements语言表中；本文中文释文为工作译文／既有汇编译文，不应标作已核实的官方简体中文游戏译文。
 
-〔10〕《费卡翁》《吕卡隆城市记述》，同上，town\_ES6、town\_ES4。
+〔10〕《费卡翁》与《吕卡隆》：SandBox/ModuleData/settlements.xml，Settlement id=town_ES6、正文键RL2vacqv；Settlement id=town_ES4、正文键WGtzBswe。二者均可在本资料包的官方英文与简体中文settlements语言表中查到对应键。费卡翁记帕拉部落联盟先抵抗帝国、后议和；吕卡隆记当地帕拉部落在帝国征服末期和平合邦，随后经历叛军夺城与围城。二者均属帝国扩张阶段的回顾，不是早期建城的同时代资料。
 
 〔11〕《南帝国沿革》，同上，empire\_s。
 
