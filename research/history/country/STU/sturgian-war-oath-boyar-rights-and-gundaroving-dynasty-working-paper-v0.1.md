@@ -183,3 +183,7 @@ NavalDLC／naval_dialog_strings.xml／d5lpGY8m 中一名诺德冒险者讲述自
 * SandBox／ModuleData／spclans.xml：clan_sturgia_1—clan_sturgia_9，A4wIVnM4、Eu932blQ、mddbprXj、AppNvfPv、s0AVQCbJ、EnZHNc2k、xw0eTkkb、W2HkbCeX、WssI6mOE；佣兵／边地团体 bsPd5zri、0u8ipbgn。
 * NavalDLC／ModuleData／naval_dialog_strings.xml：d5lpGY8m（领主 druzhina）。
 * 官方简中：SandBox／ModuleData／Languages／CNs／std_{spclans,settlements,heroes,world_lore_strings}_xml-zho-CN.xml；NavalDLC 对应 CNs 语言表。
+
+
+### 追加史料校勘：库洛夫家族瓦尔拉死亡时序（2026-10-24）
+SandBox／ModuleData／heroes.xml 的 dead_lord_2_2（瓦尔拉，Varra；QyFdfZrC）英文明确写“the year after the battle of Pendraic”，即**潘德拉克战役次年**，而同键官方简中写“潘德拉克战役发生当年”，属于实质年代误译，应以英文为准。人物 father=Hero.dead_lord_2_1 与现任奥列克（lord_2_3）具有相同父亲，故瓦尔拉是现任奥列克同父姊妹、年长奥列克之女；死因仅称“mysterious circumstances”，不能指认凶手。此处还需与 CHC-CAL-MIL 潘德拉克战役研究交叉校验。详见 CHC-STU-REL 《贡达罗夫王朝的婚姻、诺德亲族与雇佣武力》v0.1。
