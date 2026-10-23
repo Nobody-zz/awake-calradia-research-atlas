@@ -39,3 +39,13 @@
 - [全部可复核数据及脚本 ZIP](https://drive.google.com/file/d/1rgANNff1eAfpxxXgRxYiZ0DbGTrqj6Ye/view)
 
 本次以《战帆》独立 Navmesh 分类复核 v2.0 的高程平坦低值外海候选区：候选区仅覆盖 43.1% 的可识别 OpenSea / CoastalSea 类别像素；另有 3.2% 可识别 Navmesh 陆面像素与候选区重合。近似图像配准有误差，但足以说明候选区不是经过核验的海岸线；原版53城镇、《战帆》29港口锚点均未落入外海候选区。继续保留分版本工作图，不使用候选区作海陆面积测算。
+
+
+## CGEO-MAP-RES-016｜《战帆》港口与Navmesh图像配准核查（v2.2；2026-10-23）
+
+- [学术审计说明](geo/90/EVD/CGEO-MAP-RES-016.md)
+- [29港口逐点CSV](https://drive.google.com/file/d/1e8z29r9rZ0kaSmrYcpGReVAEAY3UQYa_/view)
+- [清理后的独立Navmesh类别与港口QA地图](https://drive.google.com/file/d/1a47JBgqUn6NoufCyL-7EOJdhY0X2U8rl/view)
+- [29港口最近同类水域颜色距离统计](https://drive.google.com/file/d/1sWPwUNSGtfZlfxYSVATk113dGxW2JAtc/view)
+
+重要发现：RES-012 的 29 个港口候选 XY 与 RES-006 Navmesh渲染图回标后，仅1个直接匹配已有面类型颜色，18个落于图像导航陆面颜色；11个距离任意可辨导航水域色块超过20近似场景单位。**这只是跨图配准检验，不说明游戏原始网格有误。**在取得原始Navmesh顶点/面ID数据前，不可把该港口叠加图作为准确港口区位或海岸线证据。
