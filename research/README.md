@@ -1,4 +1,4 @@
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。最近同步：2026-10-23。当前规范版本：I-0001 v1.4、I-0002 v3.38、I-0003 v3.12、I-0004 v2.1。五篇历史研究论文（H-0001—H-0005）已完成一次以章节结构、专题分工、关键事实一致性与引注体例为重点的全稿审读，意见详见Q-0011 v1.11（R21-1—R21-8）。本轮已实际纠正H-0002对密泽亚李图原有身份及入院时间的越界推断、拉革塔接受献纳被写成法定追认的问题；H-0004 v0.11同步纠正李图身份及先后关系；H-0001收紧拉革塔disavowed语义；H-0005统一使用官方中文译名“彭同”。H-0003暂不继续增加晚期帝国材料，Q-0011要求将其第五—七节缩减为早期共和制度解释所必需的回顾性检验与跨篇引用，详述后期军权和1084年继承政治以H-0005为主要论文，帕拉国家扩张的结果以H-0002为主，征服接触时帕拉地方社会能力以H-0004为主。H-0001应以三城殖民、主权与政治经济功能为中心。五篇已纠正的事实不代表已完成结构性改稿；H-0005注释顺序、H-0004聚合引注以及各篇校勘日志与正式正文混杂的问题继续待修。原始英文仍为英文官方文本的语义校勘底本，官方简中和同源世界观叙述均不作为独立互证，历史推论与项目已签发正典分轨。所有H编号及分类号不变，H-0006未分配；H-0005 Q5-09仍开放；五篇均未宣布发表级终审。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。最近同步：2026-10-23。当前规范版本：I-0001 v1.4、I-0002 v3.39、I-0003 v3.12、I-0004 v2.1。五篇历史研究论文的内容、结构和跨篇事实一致性审查见Q-0011 v1.11；按用户明确要求保留超出范围的研究成果并优先检验独立成篇的可能性，Q-0011 v1.12新增R22-1—R22-8素材分流与论文立项评估：候选A《1084年帝国继承危机中的政治合法性竞争》、B《潘德拉克战役后帝国军团改革的争议与职业军人记忆》为优先可独立成篇题；C《“神圣贫困”与复辟政治：火焰余烬的宗教语言和乡村财产关系》适合窄题个案论文；D帝国领土纳入及地方精英政治接口为条件立项；E军变、地方神王与复辟政治为先保存的比较研究札记。各候选是工作题名，尚未建成完整新论文，不占用H编号。H-0003第六节关于三种政治资源与1084年争位的论证不先删除，待新独立稿Google Docs和GitHub双端建立后再压缩重复并交叉引用；H-0005关于军团改革与holy poverty的原始语境亦暂保留。Q-0012已有王国沿革、政治对白与老兵叙述的英汉校勘；Q-0007 v0.5已有holy poverty语用审计，不另算独立史料。H-0002李图身份与拉革塔追认、H-0004 v0.11李图授职、H-0001的disavowed措辞和H-0005彭同译名的跨篇纠错已实际写入双端。原始英文仍为英语官方叙述的语义底本；人物自述、官方回顾、开发注释、中文版差异和项目正典分轨，不为未证年代补造事件。所有H编号、分类号和已签发世界书正典不变，H-0006尚未分配；H-0005 Q5-09继续开放，五篇均未宣布发表级终审。
 
 ## geo/00
 
@@ -41,7 +41,7 @@
 ## history/00
 
 - [I-0001｜研究总纲、史学方法与交叉校验规范（v1.4）](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
-- [I-0002｜论文目录与研究进度总索引（v3.38）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
+- [I-0002｜论文目录与研究进度总索引（v3.39）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
 - [I-0003｜史料—事件—命题—争议总登记簿（v3.12）](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
 - [I-0004｜卡拉迪亚历史研究学术分类法（CHC v2.1）](history/00/I-0004-academic-classification.md) · [云盘原件](https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit)
 ## history/01
@@ -63,7 +63,7 @@
 - [Q-0008｜H-0001—H-0004 逐句引注与英汉本地化复核（v1.1）](history/02/Q-0008-H0001-H0004-version-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit)
 - [Q-0009｜卡拉德帝国相对年代与分期约束审查（v0.4）](history/02/Q-0009-imperial-relative-chronology.md) · [云盘原件](https://docs.google.com/document/d/1Ny-pOnhZYWiR5ES91vsSAv_YbrJgcV8Tt-wtPq7c-Tw/edit)
 - [Q-0010｜彭同、拉盖娅与涅雷采斯家族政治分流：谱系及法统审查（v0.2）](history/02/Q-0010-neretzes-penton-rhagaea-succession-evidence.md) · [云盘原件](https://docs.google.com/document/d/14-HU9CH3hLPHVTxJl_i3ILtDh2vrvLfgp5g7Wq4bHaI/edit)
-- [Q-0011｜H-0001—H-0005历史学方法与论证质量综合审查（v1.11）](history/02/Q-0011-historical-method-cross-review.md) · [云盘原件](https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit)
+- [Q-0011｜H-0001—H-0005历史学方法与论证质量综合审查（v1.12）](history/02/Q-0011-historical-method-cross-review.md) · [云盘原件](https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit)
 - [Q-0012｜王国沿革与帝国内战政治主张：英汉语境校勘（v0.4）](history/02/Q-0012-kingdom-descriptions-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1JkcbLRNaoVgmQlCvqvSNdAW0hopPg-X1ls8v7e_m1xM/edit)
 - [Q-0013｜卡拉迪亚历史研究阶段性评估与工作重定向（v0.1）](history/02/Q-0013-stage-review-and-research-redirection.md) · [云盘原件](https://docs.google.com/document/d/1p9844oEQ-kO7I7h5R_ymuU8SJ3I4Al-0prXki6f27mc/edit)
 ## history/03
