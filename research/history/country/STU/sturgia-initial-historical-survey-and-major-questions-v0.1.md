@@ -153,3 +153,7 @@ SandBox/heroes.xml／dead_lord_2_1／bsOLRZyS 直接称老奥列克（Olek the O
 〔12〕NavalDLC/ModuleData/settlements.xml；同 ID town_S1、S2、S3、S4、S5、S6、S7；文本对照以官方 DLC 英文为先，空间更改不自动解释为历史地貌演化。NavalDLC/ModuleData/naval_dialog_strings.xml 的 DtEBwPpJ、p4OvT9BS 只是诺德水手的个别回忆，提及草原可汗与斯特吉亚在湖区的战争，不能据其独立编出王国间战争纪年。
 
 **共享档案关系：** 接续 I-0001、I-0002、I-0003、I-0004 v2.2、Q-0013 v0.4及《全大陆史料覆盖摸底与历史问题图谱》；潘德拉克战役过程引用既有 CHC-CAL-MIL 工作稿的史料边界。不改公共 I/Q、不新占全局 S/E/P/D 号；以上 STU-RQ 为本工作稿内部问题号。所有跨国争议留作共享登记建议，而非擅改帝国或诺德研究正文。
+
+
+### 追加史料校勘：库洛夫家族瓦尔拉死亡时序（2026-10-24）
+SandBox／ModuleData／heroes.xml 的 dead_lord_2_2（瓦尔拉，Varra；QyFdfZrC）英文明确写“the year after the battle of Pendraic”，即**潘德拉克战役次年**，而同键官方简中写“潘德拉克战役发生当年”，属于实质年代误译，应以英文为准。人物 father=Hero.dead_lord_2_1 与现任奥列克（lord_2_3）具有相同父亲，故瓦尔拉是现任奥列克同父姊妹、年长奥列克之女；死因仅称“mysterious circumstances”，不能指认凶手。此处还需与 CHC-CAL-MIL 潘德拉克战役研究交叉校验。详见 CHC-STU-REL 《贡达罗夫王朝的婚姻、诺德亲族与雇佣武力》v0.1。
