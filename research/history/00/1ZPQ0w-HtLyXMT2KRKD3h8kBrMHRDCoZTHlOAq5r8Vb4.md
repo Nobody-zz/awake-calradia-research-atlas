@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-版本：v3.27｜2026年10月23日
+版本：v3.28｜2026年10月23日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -14,7 +14,7 @@ Google Docs：https://docs.google.com/document/d/12k-lzV-dPYHMQUyxFBeGWQvTp6LpmP
 
 校验：H-0004应以该篇区分帕拉原有城市与卡拉德殖民据点，不得把后期市镇视为古代政区。
 
-H-0002｜征服、合邦与同化：卡拉德国家扩张中的帕拉诸部落｜正式分类号：CHC-OTH-PAL-REL
+H-0002｜征服、合邦与同化：卡拉德国家扩张中的帕拉诸部落｜正式分类号：CHC-OTH-PAL-REL｜五案例比较矩阵已在正文落实；独立谈判、财政或同时代行政材料仍不足，维持有条件通过，不视为发表级终审。
 
 主线A／早期大陆社会与共和国扩张｜状态：Q-0011 v0.9有条件通过；Q-0008 v1.2已完成定向DLC异文核查、正文限缩与误译校正，保留修订｜已在正文及脚注中限定厄诺伊萨圣湖记忆仅属SandBox基础版，并登记赫塔尼亚、卡诺洛斯、坎忒里翁与密泽亚的英文版本变化及中文本地化滞后。拉革塔、洛泰、阿弥塔堤斯、狄亚特马、萨涅俄帕、阿耳戈隆等缺少独立语言表键的长篇英文正文，其中文仍按工作译文／既有汇编译文处理。拉革塔英文原文“a rogue imperial mercenary”已校正为“不法的帝国雇佣兵”；密泽亚命名方向的中文反译已登记，但论文未据此推断；吕卡隆地形术语差异也已登记。地方政治集中度、跨地区年代及谈判机制仍待证；全部DLC聚落未逐条审校。
 
@@ -32,7 +32,7 @@ Google Docs：https://docs.google.com/document/d/1Vpu2yWtz\_QXl9oCfLBB\_4rm9c1xR
 
 ## 第四篇完成的阶段性研究（Q-0002审查通过）
 
-H-0004｜卡拉德征服前夕的帕拉诸部落：社会组织、政治结构与文化传统｜正式分类号：CHC-OTH-PAL-SOC
+H-0004｜卡拉德征服前夕的帕拉诸部落：社会组织、政治结构与文化传统｜正式分类号：CHC-OTH-PAL-SOC｜题名、时间剖面与多中心正面论证已在正文落实；跨代政治联系、圣湖网络和语言分布仍受独立证据及版本限制。
 
 主线A／早期大陆社会｜状态：现行v0.10（2026-10-23），Q-0011 v0.9阶段性有条件通过，已深化多中心地区权力模型；旧稿v0.6、Q-0008 v1.2已补入厄诺伊萨、卡诺洛斯、坎忒里翁与密泽亚的NavalDLC异文、中文本地化不同步及拉革塔误译校正记录｜圣湖命题已限定于SandBox v1.4.8基础版；吕卡里亚马业保留为前帝国马业／骑手的受限文本命题，但基础版南部／东部定位不作为跨版本稳定事实。赫塔尼亚语言、克里俄斯圣地、厄诺伊萨空间描述与密泽亚地貌均按版本分开登记；另记录卡诺洛斯英文“routed several Calradian armies”与官方中文“追逐卡拉德敌人”的语义差异，以及坎忒里翁DLC英文新增的战马命名句未同步到DLC简体中文。骑手族属、跨地区年代、统一帕拉政治组织仍待证；全部DLC聚落尚未逐条审校。
 
@@ -137,16 +137,16 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 
 21. Q-0012 v0.2政治哲学对白交叉校勘（2026-10-23）：新增核对SandBox/ModuleData/world_lore_strings.xml及其英文／官方简中语言表，I-0003升至v3.6，新增S-0066、P-0085—P-0088、D-0075—D-0078。新发现包括“quality of blood”被译为“人的本性”，淡化血统／出身的精英主义论证；“Play to the mob”被译为“把群众玩弄于掌心”，把迎合群众强化为操纵指控；“they cannot govern”被译为“他们不懂如何治国”，作为中等置信度的语义收窄候选。另以键SCogGc7N的角色对白交叉核验拉盖娅公开的继承原则立场；这加强的是角色政治修辞的解释，不是独立中立互证，也不支持译文额外添加的具体实施意图。Q-0012 v0.2已同步Google Docs与GitHub：https://docs.google.com/document/d/1JkcbLRNaoVgmQlCvqvSNdAW0hopPg-X1ls8v7e_m1xM/edit；https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0012-kingdom-descriptions-localization-audit.md。已签发世界书正典不变。
 
-
 22. Q-0012 v0.3跨文本制度史推论（2026-10-23）：新增彭同—德罗修斯—阿雷尼科斯继承危机的分析，区分皇子继位的惯例与卢孔阵营的元老院选帝法统主张；此处支持“惯例与法律主张可能冲突”的制度解释，但不证明存在完整成文宪法或元老院持续一百年有效控制皇位。另登记达鲁索斯被将领推翻与百年制度转折的时间关联假说，明确该假说低置信度，且不建立政变导致世袭化的因果链。I-0003升至v3.7，新增S-0067—S-0068、P-0089—P-0090、D-0079；Q-0012 v0.3已同步Google Docs与GitHub：https://docs.google.com/document/d/1JkcbLRNaoVgmQlCvqvSNdAW0hopPg-X1ls8v7e_m1xM/edit；https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0012-kingdom-descriptions-localization-audit.md。H-0005保持v1.6，Q5-09继续开放；未改动已签发世界书正典。
-
 
 23. Q-0012 v0.4运行时谱系核验与帝国军团老兵回忆（2026-10-23）：继续检查SandBox v1.4.8 heroes.xml、spclans.xml、world_lore_strings.xml与wanderer_strings.xml及对应官方语言表。新增I-0003 v3.8：S-0069—S-0070、P-0091—P-0092、D-0080—D-0081。结果一：拉盖娅的父母字段未在当前生效heroes.xml中定义；“皇帝侄女、国外长大、兼有Padishah血统”与“前任Padishah之女”只出现在XML开发注释，生效对白的“half-foreign adventuress”属于政治攻击，不能作为亲子关系证明。项目已采用的拉盖娅—达西身份绑定保留为正典前提，但母系涅雷采斯关系仍为开发注释支持的最佳工作谱系。结果二：帝国老兵背景称德罗修斯率军团精锐进入巴旦尼亚森林遭伏击，但说话者明确当时卧病，故非目击证词；其将阿雷尼科斯改革与军团衰退相连的解释须保留其怀旧与政治立场。当前仍未找到独立于现有官方文本链的达鲁索斯政变绝对年代、将领姓名或拉盖娅母亲姓名。Q-0012 v0.4与I-0003 v3.8已更新；H-0005保持v1.6，Q5-09继续开放，未改动已签发世界书正典。
 
-
 24. Q-0013 v0.1阶段性评估与研究重定向（2026-10-23）：基于I-0001 v1.4、I-0002 v3.25、I-0003 v3.8、I-0004 v2.1、Q-0011 v0.9、Q-0012 v0.4及H-0001—H-0005现行登记状态，将下一阶段主线从横向增加校勘条目重定向为证据链整合、竞争解释比较与论文正文实质修订。优先重构H-0003与H-0004，随后推进H-0005相对年代链与Q5-09，最后按未决清单核销H-0001与H-0002。规定停止条件、论文验收标准、英文原文优先的语义核验原则、同源材料独立性约束，以及历史—地理研究转介规则。Q-0013属于研究规划，不新增I-0003历史命题，不修改正典，不预分配H-0006。Google Docs：https://docs.google.com/document/d/1p9844oEQ-kO7I7h5R_ymuU8SJ3I4Al-0prXki6f27mc/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0013-stage-review-and-research-redirection.md。
 
-25. H-0003第七轮实质修订（2026-10-23）：已更新摘要、第六节三个时间剖面、第八节竞争性解释与结论，明确区分官方总体叙述直接保存的制度轮廓、城镇沿革提供的多中心／不同归附路径证据，以及“征服与协商并行的渐进重组”这一历史推论。总体过程暂评中等置信度，机构创设先后、权限与绝对年代保持低置信度。Q-0011 v1.0已记录本轮已落实与仍开放的缺口；H-0003不宣布终审通过。Google Docs：https://docs.google.com/document/d/1Vpu2yWtz_QXl9oCfLBB_4rm9c1xRsCbzW8LzoRH127s/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/01/1Vpu2yWtz_QXl9oCfLBB_4rm9c1xRsCbzW8LzoRH127s.md。ch-atlas/blob/main/research/history/02/Q-0013-stage-review-and-research-redirection.md。
+25. H-0003第七轮实质修订（2026-10-23）：已更新摘要、第六节三个时间剖面、第八节竞争性解释与结论，明确区分官方总体叙述直接保存的制度轮廓、城镇沿革提供的多中心／不同归附路径证据，以及“征服与协商并行的渐进重组”这一历史推论。总体过程暂评中等置信度，机构创设先后、权限与绝对年代保持低置信度。Q-0011 v1.1已记录本轮已落实与仍开放的缺口；H-0003不宣布终审通过。Google Docs：https://docs.google.com/document/d/1Vpu2yWtz_QXl9oCfLBB_4rm9c1xRsCbzW8LzoRH127s/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/01/1Vpu2yWtz_QXl9oCfLBB_4rm9c1xRsCbzW8LzoRH127s.md。
+
+26. Q-0011 v1.1与阶段复核（2026-10-23）：H-0003已完成第七轮实质修订，明确三层非等距时间剖面、竞争解释权重、正面多中心证据与不同置信度；仍待关键英文原文和脚注链复核。H-0002五案例比较矩阵已在正文落实，仍缺双方谈判／财政／同时代行政材料；H-0004题名、时间层次及多中心正面论证已落实，跨代关系仍待证。对SandBox v1.4.8原始XML作定向复查后，未发现足以关闭H-0005 Q5-09的独立中段制度事件；被弃者军团关于潘德拉克后废除常备军的记述是反改革组织的后世立场材料，不能补足早期皇权长期化的因果链。Q-0011已升至v1.1；H-0006未分配，已签发世界书正典不变。
+
 ---
 
 Source of truth: [Google Docs](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
