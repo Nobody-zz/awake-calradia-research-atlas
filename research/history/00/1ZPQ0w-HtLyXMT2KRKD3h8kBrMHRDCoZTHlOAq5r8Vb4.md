@@ -144,7 +144,7 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 23. Q-0012 v0.4运行时谱系核验与帝国军团老兵回忆（2026-10-23）：继续检查SandBox v1.4.8 heroes.xml、spclans.xml、world_lore_strings.xml与wanderer_strings.xml及对应官方语言表。新增I-0003 v3.8：S-0069—S-0070、P-0091—P-0092、D-0080—D-0081。结果一：拉盖娅的父母字段未在当前生效heroes.xml中定义；“皇帝侄女、国外长大、兼有Padishah血统”与“前任Padishah之女”只出现在XML开发注释，生效对白的“half-foreign adventuress”属于政治攻击，不能作为亲子关系证明。项目已采用的拉盖娅—达西身份绑定保留为正典前提，但母系涅雷采斯关系仍为开发注释支持的最佳工作谱系。结果二：帝国老兵背景称德罗修斯率军团精锐进入巴旦尼亚森林遭伏击，但说话者明确当时卧病，故非目击证词；其将阿雷尼科斯改革与军团衰退相连的解释须保留其怀旧与政治立场。当前仍未找到独立于现有官方文本链的达鲁索斯政变绝对年代、将领姓名或拉盖娅母亲姓名。Q-0012 v0.4与I-0003 v3.8已更新；H-0005保持v1.6，Q5-09继续开放，未改动已签发世界书正典。
 
 
-24. Q-0013 v0.1阶段性评估与研究重定向（2026-10-23）：基于I-0001 v1.4、I-0002 v3.25、I-0003 v3.8、I-0004 v2.1、Q-0011 v0.9、Q-0012 v0.4及H-0001—H-0005现行登记状态，将下一阶段主线从横向增加校勘条目重定向为证据链整合、竞争解释比较与论文正文实质修订。优先重构H-0003与H-0004，随后推进H-0005相对年代链与Q5-09，最后按未决清单核销H-0001与H-0002。规定停止条件、论文验收标准、英文原文优先的语义核验原则、同源材料独立性约束，以及历史—地理研究转介规则。Q-0013属于研究规划，不新增I-0003历史命题，不修改正典，不预分配H-0006。Google Docs与GitHub分开同步，正文修订完成后再更新审查和索引。。
+24. Q-0013 v0.1阶段性评估与研究重定向（2026-10-23）：基于I-0001 v1.4、I-0002 v3.25、I-0003 v3.8、I-0004 v2.1、Q-0011 v0.9、Q-0012 v0.4及H-0001—H-0005现行登记状态，将下一阶段主线从横向增加校勘条目重定向为证据链整合、竞争解释比较与论文正文实质修订。优先重构H-0003与H-0004，随后推进H-0005相对年代链与Q5-09，最后按未决清单核销H-0001与H-0002。规定停止条件、论文验收标准、英文原文优先的语义核验原则、同源材料独立性约束，以及历史—地理研究转介规则。Q-0013属于研究规划，不新增I-0003历史命题，不修改正典，不预分配H-0006。Google Docs：https://docs.google.com/document/d/1p9844oEQ-kO7I7h5R_ymuU8SJ3I4Al-0prXki6f27mc/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0013-stage-review-and-research-redirection.md。
 ---
 
 Source of truth: [Google Docs](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
