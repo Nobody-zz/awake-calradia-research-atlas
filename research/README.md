@@ -171,3 +171,15 @@
 - 已按原始图框像素边界重新裁切：原版高程面板与显式河流路径均使用 0–848 场景坐标；《战帆》高程面板使用 0–1040 场景坐标；《战帆》水域面板按原图刻度重新标定范围。
 - 重新输出的本地交付包：`卡拉迪亚地理地图_坐标配准修订_v1.5.zip`。四张图均为数据绘图，不是 AI 生图。
 - 限制：War Sails 水域面图仍来自先前渲染的 Navmesh PNG，当前按图上坐标刻度回标；取得原始 `navmesh.bin` 和其绘图脚本后，应再做像素级独立验证。港口 XY 仍沿用 RES-012 中明确标注的候选坐标解释。
+
+
+### CGEO-MAP-AUD-003 v1.5 — 坐标配准纠错
+
+- [修订包 v1.5（原版与《战帆》分版，四张地图及脚本）](https://drive.google.com/file/d/1lFhCTUe_i2IiMK_3wQd9gaqfza5iZu0v/view)
+- [原版地形图](https://drive.google.com/file/d/1qRbn2JqQmEFeyZLVZtzwTx3SJIXv37fN/view)
+- [原版水系图](https://drive.google.com/file/d/1tsx6G2G1EQzBY02rrZ8s0d6tX9suTKlk/view)
+- [《战帆》地形图](https://drive.google.com/file/d/1YbF6zMWsnov7e9XBUJmnlTKn7tr0eYHd/view)
+- [《战帆》水域—港口图](https://drive.google.com/file/d/1O-2VWngB_8sgDQZ1ckOTcb6f1B43gFZY/view)
+- [坐标配准审计 JSON](geo/90/EVD/CGEO-MAP-AUD-003_coordinate_registration_audit_v1.5.json)
+
+纠错说明：前版《战帆》地形图误裁双面板高程图区域；《战帆》水域图错误假定坐标范围为 0–1040。现已重新裁切底图，并按原始图上坐标刻度回标。原版与《战帆》仍分开绘制。注意：《战帆》水域图最终像素级验证仍需原始 navmesh.bin 和绘图脚本；港口 XY 是 RES-012 中标注的候选解释。
