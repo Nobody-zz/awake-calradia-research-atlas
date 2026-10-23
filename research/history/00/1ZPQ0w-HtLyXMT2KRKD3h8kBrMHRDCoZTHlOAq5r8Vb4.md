@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-版本：v3.18｜2026年10月23日
+版本：v3.19｜2026年10月23日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -24,7 +24,7 @@ Google Docs：https://docs.google.com/document/d/1CBSqXHw0m39FSSQUK9l1ARf2o9Nl32
 
 H-0003｜从部族联盟到共和国：卡拉德早期政治共同体的形成｜正式分类号：CHC-CAL-POL
 
-主线A／早期卡拉德国家形成｜状态：Q-0011 v0.7已经加强地方服从与中央资格不对称的制度机制，早期建制程序仍待独立史料复核；Q-0008 v0.8已补明关键聚落正文键、中文释文性质与文化术语本地化偏移，保留修订｜Culture.empire与《Empire – Part 1》仍按内容重叠的官方回顾处理，不作独立互证；阿耳戈隆、贾尔马律斯、拉革塔的中文释文已在脚注〔6〕〔8〕〔10〕标明为工作译文／既有汇编译文。当前补校不声称已重新抓取并逐句核验《Empire – Part 1》全文。Culture.empire的“civic elders/civic traditions”中文“民粹元老/民粹传统”已登记为语义偏移；共和国成形的精确年代、公民资格边界、联盟加入程序与因果链仍待证。
+主线A／早期卡拉德国家形成｜状态：Q-0011 v0.7已经加强地方服从与中央资格不对称的制度机制，早期建制程序仍待独立史料复核；Q-0008 v1.2已补明关键聚落正文键、中文释文性质与文化术语本地化偏移，保留修订｜Culture.empire与《Empire – Part 1》仍按内容重叠的官方回顾处理，不作独立互证；阿耳戈隆、贾尔马律斯、拉革塔的中文释文已在脚注〔6〕〔8〕〔10〕标明为工作译文／既有汇编译文。Culture.empire的“civic elders/civic traditions”中文“民粹元老/民粹传统”及“submit to it”被译为“接受卡拉德理想”的政治服从语义弱化，已登记并补入H-0003；Aserai文化键a2AjI8nc“such as it is”限定语省略亦已登记，但留待阿塞莱专题，不移作本篇论据。共和国成形的精确年代、公民资格边界、联盟加入程序与因果链仍待证。
 
 Google Docs：https://docs.google.com/document/d/1Vpu2yWtz\_QXl9oCfLBB\_4rm9c1xRsCbzW8LzoRH127s/edit
 
@@ -130,3 +130,4 @@ Source of truth: [Google Docs](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT
 
 
 16. I-0001 v1.3原始语言优先与翻译校勘规范（2026-10-23）：将英文原始文本及上下文明确为英文源材料的首要语义校勘底本，中文官方译文用于辅助阅读、术语比对和本地化名称确认；关键翻译差异须登记原文、译文、差异类型及其对论证的影响。该原则不把译文视作独立互证，也不将语言底本优先级等同于史料可信度。地理研究总索引CGEO同步升至v1.1，覆盖地名、地貌、水系、方向和空间关系的翻译校勘。GitHub历史总纲：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md；地理总索引：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/1KlBS4Lv27FR13ycc7hPqAWPhPinDcmzKVmLc1q8efeE.md。
+17. 官方文化概述英汉语义再校勘（2026-10-23）：复核SandBoxCore/ModuleData/spcultures.xml及官方简体中文对应表。Culture.empire键X0kKBzsW的“submit to it”被译为“接受卡拉德理想”，弱化以外部群体服从为条件的政治关系；与“civic elders/civic traditions”译为“民粹元老/民粹传统”合读，可进一步分析共和自我认同、帝国扩张和普遍和平话语之间的张力，H-0003与Q-0008已补入，但不将修辞分析升级为各时期实际政策的直接证明。Culture.aserai键a2AjI8nc的“such as it is”限定语被官方简中省略，使民族意识陈述更为肯定；已登记I-0003 P-0080/D-0070，作为未来阿塞莱政治共同体专题的校勘线索，不据此断言阿塞莱人缺乏共同身份。I-0003升级至v3.4，Q-0008升级至v1.2，H-0003完成第七轮语义校勘；原有H编号、CHC分类及已签发世界书正典不变。
