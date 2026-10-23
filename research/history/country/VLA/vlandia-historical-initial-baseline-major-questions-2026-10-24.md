@@ -1,5 +1,5 @@
 # 瓦兰迪亚历史初步摸底与重大研究问题
-**CHC-VLA-GEN｜首轮国别调查稿 v0.5（卡琉斯中文名称校勘）｜2026-10-24｜未分配 H 编号｜状态：已核对随附官中汇编；原始 XML 独立复核仍待完成**
+**CHC-VLA-GEN｜首轮国别调查稿 v0.6（原始模块源级复核）｜2026-10-24｜未分配 H 编号｜状态：文化／王国／德泰尔传记及氏族中英键源级已核，其他场景持续待核**
 
 ## 摘要
 瓦兰迪亚政治共同体的起点不是1084年的现成王国，也不是单一民族举国迁徙。官方文化史述追忆跨海而来、操多种语言的军事雇佣者与冒险家；帝国财政官员以土地、头衔代替现金报酬，军人定居、通婚、耕作，并据有附近帝国堡垒。地方志又记录若干并不从军饷制度产生的过程：奥斯蒂港的航海者与早期瓦兰迪亚定居，罗瓦尔地区瓦兰迪亚入侵前已占人口优势的诺德移民，萨哥特一带参加瓦兰迪亚征服的马萨（Massa；官中地志 town_V1 有“马萨语／马萨人”）盟部。王国沿革则将奥斯里克夺取帝国西部海岸、帝国为求和平承认王位、国王封认部属的男爵与伯爵及其战时效忠联系在一起。由此本稿暂择“帝国—边疆互动中的自主国家形成”为首选解释：帝国提供军事收入、土地权利和可侵占的城堡，跨海移民、地方生产和军事组织则赋予新共同体独立发展的能力；帝国继承及外交危机改变其合法性处境，但不自动制造这一社会基础。各环节未获独立编年记录，不得压成单一战争年份或从1084年边界倒推早期版图。
@@ -9,7 +9,7 @@
 ## 一、史料性质、边界与已有研究
 本调查继承 I-0001 v1.4、I-0004 v2.2、I-0003 v3.13、I-0002 v3.42、Q-0013 v0.4 和《全大陆史料覆盖摸底与历史问题图谱》v0.1；分类为 CHC-VLA-GEN，成熟政治史专题可另归 CHC-VLA-POL，但不预占 H 号，不修改公共 S/E/P/D 登记。
 
-**本轮实见：**（新增 e）用户在2026-10-24提供《游戏百科中文文本（简体中文）》encyclopedia-zh-cn.md：声明游戏版本 v1.4.8.119303，中文聚落名以 Native/CNs/std_common_strings_xml、王国及地志中文以 SandBox/CNs std_spkingdoms_xml/std_settlements_xml 由解析器逐键得出；覆盖53座城镇、141个村庄、8个王国，但不含城堡及 castle_village 型村落。该文件是本轮直接阅读的**有来源和版本声明的整理汇编**，不能混同于本轮直接取得原始 XML 字节。（a）TaleWorlds 2017-11-30 官方英文《Vlandia》原文；（b）标为游戏 vanilla 1.4.8 的 BannerlordDB 对 SandBoxCore 文化简介及 SandBox 聚落文本的公开数据呈现；（c）网络展示的一段 SandBox/spkingdoms.xml 英文文本，含王国 vlandia 键 IudGLWQZ；（d）项目 GitHub 的方法、登记和既有研究，以及 Google Drive 的全大陆摸底、Q-0012、CHC 法和《潘德拉克》工作稿。**本轮并未取得项目原始 SandBox/SandBoxCore/NavalDLC ZIP 字节；但新增中文汇编将对应版本的王国及部分聚落文本和 Native 聚落名称直接列出，文本内容可先行对校；英文镜像与原始 XML 字符串仍须独立复核。**前轮总调查曾直接读取三个模块的54份XML，但其工作结论并不能替代本轮逐条源级复验。Native 与 StoryMode 原文件也未取得。
+**本轮实见：**（新增 e）用户在2026-10-24提供《游戏百科中文文本（简体中文）》encyclopedia-zh-cn.md：声明游戏版本 v1.4.8.119303，中文聚落名以 Native/CNs/std_common_strings_xml、王国及地志中文以 SandBox/CNs std_spkingdoms_xml/std_settlements_xml 由解析器逐键得出；覆盖53座城镇、141个村庄、8个王国，但不含城堡及 castle_village 型村落。该文件是本轮直接阅读的**有来源和版本声明的整理汇编**，不能混同于本轮直接取得原始 XML 字节。（a）TaleWorlds 2017-11-30 官方英文《Vlandia》原文；（b）标为游戏 vanilla 1.4.8 的 BannerlordDB 对 SandBoxCore 文化简介及 SandBox 聚落文本的公开数据呈现；（c）网络展示的一段 SandBox/spkingdoms.xml 英文文本，含王国 vlandia 键 IudGLWQZ；（d）项目 GitHub 的方法、登记和既有研究，以及 Google Drive 的全大陆摸底、Q-0012、CHC 法和《潘德拉克》工作稿。**历次版本史料获取记录：**v0.1—v0.5 时本对话未获得原始 ZIP，只能使用整理汇编和镜像；至 v0.6 已从用户 Library 的《Calradia Geography Research Source Files》取得 Native、SandBox、SandBoxCore、StoryMode、NavalDLC 五个原始 ZIP，并已逐键核验本篇核心文化、王国、德泰尔人物、贵族氏族及部分DLC对白；尚未完成全部 XML 系统审计。
 
 证据标识：**A-直陈**＝所核文本明确这样记述（不保证传说/政治主张客观真实）；**A-镜像待核**＝出现于公开游戏数据转录，尚待原始XML同键核对；**B**＝受直接表述支持的相对次序；**C**＝比较后暂采的历史解释；**未知**＝尚不能断定。2017年开发者介绍和游戏文化文本具有共同叙事来源，不能统计为两个独立证人；游戏英文与中文译文亦非独立证人。开发者文中“built fortresses”，游戏文化文中“seized nearby imperial fortresses as their own”表明军事行动的不同表述，须作异文记录，不得默默拼合。2017年写“Osrac Iron-arm”，游戏王国沿革转录写“Osric Iron-Arm”，暂作同一人物异写的较强推定，而非建立两任开国国王。
 
@@ -17,19 +17,19 @@
 
 ## 二、可以成立的相对年代
 1. **瓦兰迪亚王国成立之前的西方多重人口史。**罗瓦尔（Rovalt/Rovalatys）地志称瓦兰迪亚入侵以前，因银矿传闻和皮毛资源而来之诺德移民已超过当地卡拉德人口；此地并未充分成为帝国城市。奥斯蒂港（Ostican）本为小帝国港，北方海员、曾受帝国不同派系雇用的海盗型船员活动于此，一些最早抵达海岸的瓦兰迪亚人在港区定居。上述前入侵移居并非都能排进同一顺序。[V5][V6]
-2. **海外军事输入及名称形成。**文化简介称最初的瓦兰迪亚人来自海外，操多地语言，以护卫帝国边疆换取银币；共同名号追溯至 英勇的威隆德（Wilund the Bold；卡拉德语瓦兰迪恩，Valandion）。不可据此断言所有来者原属一个部族或仅沿同一登陆口岸迁徙。[V1][V2]
+2. **海外军事输入及名称形成。**文化简介称最初的瓦兰迪亚人来自海外，操多地语言，以护卫帝国边疆换取银币；共同名号追溯至 “无畏的”维伦德（Wilund the Bold；卡拉德语瓦兰狄翁，Valandion）。不可据此断言所有来者原属一个部族或仅沿同一登陆口岸迁徙。[V1][V2]
 3. **军饷向土地/头衔补偿转变。**官方叙述以帝国财政不足解释支付替代。此时瓦兰迪亚军人的活动并不局限于今日西部疆界；早期军事服务的地理范围甚至指向阿塞莱沙漠至草原。财政原因是史述给出的解释，而非存在可审计的国库账本。[V1][V2]
 4. **定居、通婚、生产与军事据点取得。**文化简介直陈婚姻、耕作及帝国堡垒占取；萨哥特城志又叙述马萨（Massa）部落作为瓦兰迪亚同盟参加入侵、瓦兰迪亚人在帝国旧城废墟上重建聚落；说明发展中存在多部落联盟、武力占取和对先住社群记忆的取代，不限于和平授地。[V2][V7]
 5. **奥斯里克建国及对外承认。**2017年官方文章把他在一次未定年的“recent interregnum”中称王、夺取旧帝国西部都邑 Baravenos 和海岸地带相连；游戏王国沿革 IudGLWQZ 英文转录称他夺取西岸后获诸皇帝“as the price of peace”承认为王；同版中文汇编直接作“作为议和的代价，帝国被迫承认他为国王”。以文本当前最优解释，**实际夺地/称王先于帝国承认**；是否一次承认、由哪位皇帝、条约形式不明。对外承认不是对其既有军事征服的否认，也不是中央依旧能实际统辖新王国的证据。[V1][V3]
 6. **王权与封臣契约演变。**王国沿革把奥斯里克对追随者土地宗主权的认可、封为 barons/counts，同其战时向王旗下集结的义务相联系；又追述后来君王与贵族在中央权力扩大和地方私斗容忍之间摇摆。德泰尔传记呈现晚期国王频繁调停封臣土地纠纷、平乱与应付觊觎王位者。以上显示从领军首领到受约束国王的政治演化，但完整领地法和领主继承制度不可据此补造。[V3][V4]
 7. **潘德拉克及1084年前后的王国政治。**既有 CHC-CAL-MIL 工作稿把德泰尔与男爵对帝国援助誓约的分歧列为基于玩家转录、待 StoryMode 原文复核的政治主张；切不可把未核对白中的日期、战役细节与条约事实直接提升为A级。德泰尔调解男爵、强王期待与军事扩张诉求的冲突可作为较稳固的后期王国结构线索。[V4][V9]
 
-不能推出的年代：威隆德与奥斯里克之间的代数、定居究竟始于哪位帝王、北方商业迁徙与南方授地在何年并行、Baravenos夺取的绝对年份、王位承认和封臣称号颁授的具体日期；1084年领地图和现有氏族头衔不能填补这些空白。
+不能推出的年代：维伦德与奥斯里克之间的代数、定居究竟始于哪位帝王、北方商业迁徙与南方授地在何年并行、Baravenos夺取的绝对年份、王位承认和封臣称号颁授的具体日期；1084年领地图和现有氏族头衔不能填补这些空白。
 
 ## 三、国家形成的六项机制
 
 ### 3.1 军事雇佣：帝国边防需求与海外集团能力
-雇佣使流动武装获得工资、战斗声誉、帝国内部行动通道；“speaking the tongues of many lands”及 威隆德（Wilund）／瓦兰迪恩（Valandion）双名暗示共同身份更可能在军事领导与对外交往中形成，而非事先统一。帝国主动创造机会，不等于单方面发明这个军事社会。军队规模、战术编组、各雇佣领袖彼此关系均未知。【A-直陈、C】
+雇佣使流动武装获得工资、战斗声誉、帝国内部行动通道；“speaking the tongues of many lands”及 维伦德（Wilund）／瓦兰狄翁（Valandion）双名暗示共同身份更可能在军事领导与对外交往中形成，而非事先统一。帝国主动创造机会，不等于单方面发明这个军事社会。军队规模、战术编组、各雇佣领袖彼此关系均未知。【A-直陈、C】
 
 ### 3.2 土地化：一次酬佣还是治理权转移？
 “land grants and titles instead of silver”是关键机制：固定土地收益可能替代不稳定军饷，使军人供养家庭和长期驻军；头衔又可能赋予地位和争取服从的语言。可是受封的对象、土地处分权、赋税、司法、农民人身义务尚无记载；更不能把“授地”自动译成一套完备的世袭封建法。游戏文化介绍的“seized ... fortresses”反而提出**合法受封与后续武装侵占的边界**。应进一步查城堡历史辨别究竟哪些堡垒曾被授予，哪些是私占。【A-直陈、C】
@@ -51,7 +51,7 @@
 
 | 历史领域 | 已见直接叙述 | 当前较强推论 | 尚待证明 |
 | --- | --- | --- | --- |
-| 跨海来源与认同 | 多语佣兵、威隆德（Wilund）名号、港区早期移居 | 军事共同行动先于完整“民族”认同 | 迁出地、人口规模、统一语言出现年代 |
+| 跨海来源与认同 | 多语佣兵、维伦德（Wilund）名号、港区早期移居 | 军事共同行动先于完整“民族”认同 | 迁出地、人口规模、统一语言出现年代 |
 | 军役与财政 | 帝国付银；以土地与头衔替代 | 付酬形式变化提高部分军人的地方独立能力 | 国库数据、契约、授地地点及日期 |
 | 领土取得 | 堡垒占据；萨哥特重建、海岸夺取 | 授予、侵占、征服是不同路径 | 逐堡垒地权链、原居民命运 |
 | 王权与领主 | 和平承认王位；国王认领主土地并要求战时集结 | 双层承认构建协商性王权 | 条约、法定继承、税权及司法 |
@@ -73,7 +73,7 @@
 3. 若“recognised ... as the price of peace”经官方原始XML核查为旧版废弃、评论/模组替换或不同指代，王权双层认可模型须相应撤回或降级。不能用单份网络镜像强行解决国家主权合法性争议。
 
 ## 六、十个重大研究问题（按解释价值排列）
-**VLA-RQ01／最高优先｜身份形成：**海外操多语的集团是在受雇前已经认同“瓦兰迪亚”，还是在 威隆德（Wilund）的军事首领名号、雇佣关系、共同定居后才获得外界与内部一致名称？有何非贵族语言或通婚证据？
+**VLA-RQ01／最高优先｜身份形成：**海外操多语的集团是在受雇前已经认同“瓦兰迪亚”，还是在 维伦德（Wilund）的军事首领名号、雇佣关系、共同定居后才获得外界与内部一致名称？有何非贵族语言或通婚证据？
 
 **VLA-RQ02／最高优先｜土地与军权：**现金报酬改为土地与头衔后，获得的是耕地收益、军事屯田、封臣法权还是私人领地？如何区分帝国合法授予与后续占取堡垒？
 
@@ -94,19 +94,19 @@
 **VLA-RQ10／较高｜跨国关系与时序：**瓦兰迪亚同巴旦尼亚、斯特吉亚交战是否为持续边境活动、周期性同盟或不同区域的两套政治过程？是否能由混合语村庄、城镇易手记录与跨国婚姻找出独立纪年锚？
 
 ## 七、对协调对话的跨国接口（建议登记、不代替统一裁定）
-1. **VLA–EMP：王权外交承认与帝国继承空档。**需对齐 SandBox/spkingdoms.xml vlandia/IudGLWQZ、SandBoxCore/spcultures.xml vlandia/1Ww5lg6 和2017官方《Vlandia》的版本。先保留奥斯里克主动称王、帝国以和平为代价承认的并存模型；其时段不与1084年帝国内战、1077年潘德拉克自动同年。H-0005已收录 S-0020，请协调线视复核情况考虑 I-0003 的新争议登记，不自行占号。
+1. **VLA–EMP：王权外交承认与帝国继承空档。**需对齐 SandBox/spkingdoms.xml vlandia/IudGLWQZ、SandBoxCore/spcultures.xml vlandia/1Ww5lg6I 和2017官方《Vlandia》的版本。先保留奥斯里克主动称王、帝国以和平为代价承认的并存模型；其时段不与1084年帝国内战、1077年潘德拉克自动同年。H-0005已收录 S-0020，请协调线视复核情况考虑 I-0003 的新争议登记，不自行占号。
 2. **VLA–BAT：马萨、巴旦尼亚古老居民与瓦兰迪亚入侵。**Sargot 地志对“盟部留下创伤并取代旧城记忆”的叙述，须与 Battania 自述“original inhabitants”和后起王国侵袭比较；不可因现属于Vlandia便视为古瓦兰迪亚原生领土。
 3. **VLA–STU/NOR：北方海员、诺德移民与混合语村庄。**Rovalt、Ostican、Caleus 和 Deriat 作为贸易、迁入及语言接触样本，不将诺德／斯特吉亚社群吸收入瓦兰迪亚单一源流。
 4. **VLA–CHC-CAL-MIL：潘德拉克。**本线研究德泰尔与男爵的条约解释/战后内政；对战术、地点、先后顺序及1077纪年，引用共用战役工作稿并注明 StoryMode 缺件，不重写战役史或占有他线档案。
 
 ## 八、下一轮源级核查的三项关键任务
-1. 取得实际官方 SandBoxCore/spcultures.xml（vlandia 键1Ww5lg6）、SandBox/spkingdoms.xml（vlandia 键 IudGLWQZ）和版本对应英文/简中表，逐字校核 land grants / seized fortresses / recognised / suzerainty / barons / counts 的原始语义；补查 NavalDLC 有效同类文本及替换顺序。
+1. 取得实际官方 SandBoxCore/spcultures.xml（vlandia 键1Ww5lg6I）、SandBox/spkingdoms.xml（vlandia 键 IudGLWQZ）和版本对应英文/简中表，逐字校核 land grants / seized fortresses / recognised / suzerainty / barons / counts 的原始语义；补查 NavalDLC 有效同类文本及替换顺序。
 2. 从 SandBox/settlements.xml 与 NavalDLC/settlements.xml 逐 ID 校验 Ostican、Rovalt、Sargot、Caleus、Remental、Halisvust、Ormanfard、Charas、Pravend，排除版本地图改写与翻译滞后，核验“Vlandian invasion”“Massa”“northern seafarers”等关键措辞。
 3. 直接核对 SandBox/heroes.xml 的 Derthert（lord_4_1）、spclans.xml 的 dey Meroc（clan_vlandia_1）及其他具有背景正文的瓦兰迪亚氏族，并取得 StoryMode 潘德拉克有效人物对白；区分国王政治经历的传记叙述与受访者的自利辩护。
 
 ## 附录A：可追溯材料与史料限制
 [V1] TaleWorlds，《Vlandia》，2017-11-30，https://www.taleworlds.com/en/News/199；官方发布但属早期回顾，提到 Wilund/Valandion、Osrac、Baravenos、帝国支付军饷与土地、授封、定居、建堡、独立。
-[V2] SandBoxCore/ModuleData/spcultures.xml，Culture vlandia，项目旧调查键 **1Ww5lg6**；本轮网页镜像 https://bannerlorddb.com/encyclopedia/culture/vlandia（声称 vanilla 1.4.8，未直接核对本机 XML）。关键异文：“seized nearby imperial fortresses as their own”；未在此条独立证实 Osric 与帝国和平承认。
+[V2] SandBoxCore/ModuleData/spcultures.xml，Culture vlandia，项目旧调查键 **1Ww5lg6I**；本轮网页镜像 https://bannerlorddb.com/encyclopedia/culture/vlandia（声称 vanilla 1.4.8，未直接核对本机 XML）。关键异文：“seized nearby imperial fortresses as their own”；未在此条独立证实 Osric 与帝国和平承认。
 [V3] SandBox/ModuleData/spkingdoms.xml，Kingdom vlandia，网页可见 XML 文本键 **IudGLWQZ**，https://pastecode.io/s/u1p27b7k（第三方转录，模块/版本与有效性待官方原件核验）。王权源于 Osric Iron-Arm，帝国诸皇帝为求和平认可王位；男爵/伯爵对地权认可及战时集结，继承君主强权与容忍地方纷争间摇摆。此条为本轮新增加的关键待核镜像线索，不冒称直接读取原始ZIP。
 [V4] SandBox/heroes.xml lord_4_1、SandBox/spclans.xml clan_vlandia_1，德泰尔维系男爵与候位者、倾向仲裁的背景叙述；本轮见于公开文本转录 https://huggingface.co/datasets/TSEOsiris/bannerlord-lore-dataset/viewer/default/train?p=22 ，及 https://mountandblade.fandom.com/wiki/Derthert （后者混有玩家编纂内容，仅将与来源键相符的传记用作待核，非独立官方证据）。
 [V5] SandBox/settlements.xml，Rovalt/Rovalatys，第三方呈现 https://bannerlorddb.com/encyclopedia/settlement/rovalt；早于瓦兰迪亚入侵的诺德移民、探银与皮毛生计、后续谷地农耕及人口流入。
@@ -161,3 +161,15 @@
 
 ## 后续研究专题索引（2026-10-24）
 首轮总摸底继续作为 VLA 线的背景与问题索引，不再把全部城市和社会史研究内容堆入本文件。另立独立专题《西部征服、城市接收与地方权力形成：瓦兰迪亚的非均质建国过程》v0.1，对已取得的 v1.4.8.119303 中文百科八座瓦兰迪亚城市及相关村庄地志进行逐项分析，形成地方政体接收类型、地区经济、领主分歧、相对年代约束和十个 VLA-UR 问题；未申请 H 编号，也未改动全局登记。GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-conquest-urban-transfer-regional-power-study-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1SSX-QiNwj8IMVc4vq54KISKGZB4FRazVzuC5aP4rIrg/edit。
+
+
+## 源级复核与现行校勘裁定（v0.6，2026-10-24）
+用户在本对话中指出 `Native.zip` 等资料包含官方中文译名。经检索 Library 的 `/Calradia Geography Research Source Files/` 文件夹，现已实际取得 `Native.zip`、`SandBox.zip`、`SandBoxCore.zip`、`StoryMode.zip`、`NavalDLC.zip`，并按官方原始 XML 内 `{=key}` 与UTF-16 BE 编码的 `Languages/CNs/` 字符串表逐一配对。旧稿中声称“原始ZIP未取得”的说法**仅为 v0.1—v0.5 的历史过程记录，不再是当前资料状态**。
+
+本轮已直接确认：瓦兰迪亚文化简介在 `SandBoxCore/spcultures.xml` 的真实键为 `1Ww5lg6I`（末尾是大写字母 I），其官方中文明确是**“无畏的”维伦德／瓦兰狄翁**；先前“英勇的威隆德／瓦兰迪恩”来自早期译稿或误认，**不能代表该版官中**。王国 `IudGLWQZ` 和德泰尔传记 `EHiQI7ps` 已经在 SandBox 生效英文及CNs中复核。氏族 `dey Tihr` 同键 `qFntgcGy` 的官中是**戴·提哈**，但帕拉汶德城市地志 `Nx0qK2g6` 作“戴·提尔”，两种官方译名应按原文保留，实体研究主名使用氏族键译名。
+
+同一来源的 `SandBox/world_lore_strings.xml` 和官中分别核出 `rKKAYQkJ`（德泰尔自称奥斯里克为曾祖父，并讲皇帝赠金冠）、`yJQLtlXj`、`5mvtRbb8`（对王位及子孙争权的悲观陈述）。这些是**角色有据可查的官方话语**，却非独立编年／无缺环谱系。NavalDLC 新增沙拉斯港粮商、绿林兄弟会与戴·科尔坦男爵围城后追究海上供粮者的连续回忆文本，英中同键分别为 `TMdL4gJH`、`cc9JuNoL`、`9wYQGoha`。见新的独立政治史专题：
+GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-royal-vassal-power-primary-source-reappraisal-2026-10-24.md
+Google Docs：https://docs.google.com/document/d/1CzUP3AsVe9zvgSkWG1HfAt-STWS83lJGXcyWUOibjB8/edit
+
+保留边界：本次 `Native.zip` **没有** `std_common_strings_xml-zho-CN.xml`，因此仍**不能从当前这些文件验证 Caleus/卡琉斯独立名称键**；现用“卡琉斯”系有中文游戏使用记录的主名，并记录待核。当前 `StoryMode.zip` 不包括潘德拉克人物访谈的完整有效原文；不能对那些玩家誊录的战前话语升级。此前 `Ingalther`—`Calatild` 继承争议在所获有效贵族 `heroes.xml` 中**没有相关 `Hero.text`**，故不升为A级。
