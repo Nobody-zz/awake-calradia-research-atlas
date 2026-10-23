@@ -104,6 +104,8 @@ SandBox/wanderer_strings.xml的阿塞莱战士原始背景backstory_a.spc_wander
 
 ### 十之三、税与财政：现有文本的可证明程度
 qggtvf8Y确证帝国向绿洲客户氏族发补贴，以及绿洲保商队使氏族发财；RWOYui01与dRaYhQva则确证游牧联盟及暗影之子从过境商队抽取保护钱。上述款项流向不同政治主体，不能统称“苏丹国税收”。更不能把某氏族所有权、雇佣兵合同、战利品瓜分和国家预算当成同一制度。
+
+《战帆》补充了一条应谨慎处理的旁证：NavalDLC/naval_dialog_strings.xml／ybEKyqgq中，来自泽翁尼卡的造船匠假设加里俄斯企图同苏丹缔结条约，而苏丹宫廷中有因海上劫掠感到愤懑的商人。该话语以“suppose again”开头，是讲述走私、私掠与军舰改装技巧时的假想情境；它只表明这个世界的政治话语可以把苏丹宫廷、商人利益与跨海条约联系起来，绝不能据此断言加里俄斯曾与苏丹签订实际的条约。它对财政史的提示是：商人压力及外交议价可能属于苏丹权力的另一面，但目前缺乏对应的直接外交记录。
 wandering战士提到得到银币、土地及荣耀时，也没有明确是王廷常规军饷还是个人首领馈赠。world_lore_strings的三方政治陈述没有税赋章程，也未谈所有绿洲必须向苏丹上缴收入。因此，关于“苏丹拥有全国固定征税制度”只能保持开放；关于“苏丹完全不可能有征收权”也同样无据。政治权力解释应把财富优势、保护费、贡纳、个人战功赏赐、公共征税五者分开，并以未来明确征收对象、征收者、受益者和执行机构的档案作为判断依据。
 
 ## 十一、政治结构初步判断：复合权威而非单线中央化
@@ -128,3 +130,4 @@ wandering战士提到得到银币、土地及荣耀时，也没有明确是王�
 
 〔8〕SandBox/ModuleData/world_lore_strings.xml，lord_3_1第一人称政治发言PN8hNFek、ZIhocjnr、GwvxfXs3；lord_3_3萨兰政治发言gpuxIEBl、YWQlYXST、uvd3DYcI；lord_3_5吉勒德政治发言eylmGUOE。对应简中std_world_lore_strings_xml-zho-CN.xml。英雄归属见SandBox/heroes.xml；直接证明政治论述存在，不替代运行时触发核查。
 〔9〕SandBox/ModuleData/wanderer_strings.xml，阿塞莱小氏族战士TNOM6nuo／H8wpFACA／2BKMNXE7／lQ4PPsnT／q71Cbib7；对应简中std_wanderer_strings_xml-zho-CN.xml。此为角色自述和类型化人生经历，不是所有氏族统一征兵法律。
+〔10〕NavalDLC/ModuleData/naval_dialog_strings.xml，backstory_c.spc_wanderer_empire_0n／ybEKyqgq；官方CNs/std_naval_dialog_strings_xml-zho-CN.xml逐键对应。人物使用假设性“suppose”构造苏丹宫廷、商人、加里俄斯及和约情境，属B级世界观话语线索，不是已发生的外交事件。
