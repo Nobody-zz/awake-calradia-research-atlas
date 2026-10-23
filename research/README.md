@@ -223,3 +223,17 @@ v1.7 配色版已撤回：其海陆分类依据高程可视化 RGB 的蓝色色�
 - 《战帆》水域—港口图：[Drive](https://drive.google.com/file/d/1O-2VWngB_8sgDQZ1ckOTcb6f1B43gFZY/view)
 - v1.8 恢复包：[Drive](https://drive.google.com/file/d/1lFhCTUe_i2IiMK_3wQd9gaqfza5iZu0v/view)
 - 本地交付包文件名：`卡拉迪亚地理地图_海陆边界恢复_v1.8.zip`
+
+
+## 地图海陆误判纠正｜CGEO-MAP-AUD-004（2026-10-23）
+
+**状态调整：v1.6–v1.8 有关海陆边界与配色的相关图件不得用作正式论文海陆分界插图。** 将低海拔高程蓝色直接分类为海洋的做法错误，v1.8 亦未取得经过验证的海陆掩膜。
+
+- [CGEO-MAP-AUD-004 审计与复核说明](geo/90/EVD/CGEO-MAP-AUD-004.md)
+- [原版高程全域工作图 v1.9](https://drive.google.com/file/d/1WBIJ2VOKQ6HntE4HQxdkj4PO2Tvibaju/view)
+- [原版河流证据图 v1.9](https://drive.google.com/file/d/1AK2EEBftTrtGwT7fIEdrMg0yvbEeZWuD/view)
+- [《战帆》高程全域工作图 v1.9](https://drive.google.com/file/d/1nfgyZ89szStr0PUnPD0MtwCrbAULYyDP/view)
+- [《战帆》Navmesh 水域类型图 v1.9](https://drive.google.com/file/d/1rztHFI1OdfcIkvUFav-uncAt2zHuwZGy/view)
+- [v1.9 工作图与程序包](https://drive.google.com/file/d/1xYydTrMuPsp4xp5jXiwAqmOdm4G-rZef/view)
+
+v1.9 使用完整高程图绘图区和中性相对高程色带，不执行海陆二值分类；**不是**经验证的海岸线或浅海分布图。两版图独立。精确海陆图须等原始海陆、水面几何验证后再绘。
