@@ -1,0 +1,16 @@
+{
+  "version": "v1.8 recovery",
+  "status": "v1.7 recolor withdrawn",
+  "cause": "The v1.7 classifier treated blue hues in the decoded heightfield as ocean. The heightfield is an elevation visualization, and low-elevation land can also be blue; RGB hue alone is not a valid sea mask.",
+  "vanilla_maps": "Restored the pre-v1.7 coordinate-registered vanilla maps.",
+  "warsails_terrain": "Re-rendered from the original War Sails highfield panel cropped at pixels [1227,83,2003,859], 776x776. No guessed ocean mask was applied; its raw elevation palette must not be read as a binary land/sea classification.",
+  "warsails_water": "Restored the pre-v1.7 navmesh water-group map without palette reclassification. This is a separate navigation-water evidence layer, not the land-sea mask for the terrain raster.",
+  "files": {
+    "vanilla_terrain": "https://drive.google.com/file/d/1qRbn2JqQmEFeyZLVZtzwTx3SJIXv37fN/view",
+    "vanilla_hydrography": "https://drive.google.com/file/d/1tsx6G2G1EQzBY02rrZ8s0d6tX9suTKlk/view",
+    "warsails_terrain": "https://drive.google.com/file/d/1YbF6zMWsnov7e9XBUJmnlTKn7tr0eYHd/view",
+    "warsails_water_ports": "https://drive.google.com/file/d/1O-2VWngB_8sgDQZ1ckOTcb6f1B43gFZY/view",
+    "recovery_zip": "https://drive.google.com/file/d/1lFhCTUe_i2IiMK_3wQd9gaqfza5iZu0v/view"
+  },
+  "remaining_work": "A shared soft palette requires a validated, version-specific land/sea mask. Do not infer sea from elevation hue or use the War Sails navmesh water polygons as an unverified substitute for the terrain mask."
+}
