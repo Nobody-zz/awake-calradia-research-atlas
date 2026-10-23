@@ -2,7 +2,7 @@
 
 ## 扩张战争、政治集会的控制与共和制度的延续
 
-《卡拉迪亚大陆历史研究》制度史专题　研究稿 v1.3｜2026年10月23日原始史料增补修订：以军事授权连续化和公共认可场景变化作为首选双核心机制，晚期地产与军人酬赏机制另依年代限定；以彭同与拉盖娅的公开法统论述检验三方分裂解释，母系涅雷采斯说仍作条件性谱系。Q5-09继续开放。 本轮通过达鲁索斯废立事件补足成熟帝国军事干预的个案，区分在位废立、元老院选帝与皇帝身后争位，并登记阿雷尼科斯即位时间的条件性跨文本冲突；统帅延任与军营大会的早期因果先后仍未核定，Q5-09继续开放。
+《卡拉迪亚大陆历史研究》制度史专题　研究稿 v1.4｜2026年10月23日引文限额校正与源级登记修订：以军事授权连续化和公共认可场景变化作为首选双核心机制，晚期地产与军人酬赏机制另依年代限定；以彭同与拉盖娅的公开法统论述检验三方分裂解释，母系涅雷采斯说仍作条件性谱系。Q5-09继续开放。 本轮通过达鲁索斯废立事件补足成熟帝国军事干预的个案，区分在位废立、元老院选帝与皇帝身后争位，并登记阿雷尼科斯即位时间的条件性跨文本冲突；统帅延任与军营大会的早期因果先后仍未核定，Q5-09继续开放。
 
 2026年10月22日
 
@@ -240,7 +240,7 @@
 
 〔5〕《南帝国》王国沿革：SandBox/ModuleData/spkingdoms.xml，Kingdom id=empire_s，英文文本键Xtyb9Dyr；对应官方简体中文键Xtyb9Dyr见SandBox/ModuleData/Languages/CNs/std_spkingdoms_xml-zho-CN.xml。英文说南方贵族支持拉盖娅“would seem to confirm these fears”（似乎印证其他元老家族的担忧）；中文“也乐于将这种顾虑付诸现实”容易将主体转为拉盖娅本人有意兑现担忧。本文以英文为论证依据，将其作为官方沿革中的政治判断，不视为南方贵族真实意图的独立证明。
 
-〔12〕《火焰余烬》（Embers of the Flame）组织沿革，SandBox/ModuleData/spclans.xml，Faction id=embers_of_flame，英文正文键B8c2mNKj；对应官方简体中文为SandBox/ModuleData/Languages/CNs/std_spclans_xml-zho-CN.xml，同键。英文称“The Embers of the Flame are the descendants of a rebel movement that rose up nearly a century ago, after the saintly but ineffective teenaged Emperor Darusos was toppled by one of his generals.” 其中“近一个世纪前”修饰反叛运动兴起，达鲁索斯废立先于此事；“达鲁索斯”“火焰余烬”为核对过的官方简体中文译名。此为带有组织立场的后世记忆，不证明将领姓名、继位仪式或废帝之后的具体改朝次序。
+〔12〕《火焰余烬》（Embers of the Flame）组织沿革，SandBox/ModuleData/spclans.xml，Faction id=embers_of_flame，英文正文键B8c2mNKj；对应官方简体中文为SandBox/ModuleData/Languages/CNs/std_spclans_xml-zho-CN.xml，同键。英文关键措辞为“was toppled by one of his generals”与“nearly a century ago”；前者说明废立由将领实施，后者修饰反叛运动兴起的时间。 其中“近一个世纪前”修饰反叛运动兴起，达鲁索斯废立先于此事；“达鲁索斯”“火焰余烬”为核对过的官方简体中文译名。此为带有组织立场的后世记忆，不证明将领姓名、继位仪式或废帝之后的具体改朝次序。
 
 〔13〕TaleWorlds Entertainment, “Empire – Part 1” / “Dev Blog 08/02/18”, 2018-02-08，https://www.taleworlds.com/en/Games/Bannerlord/Blog/45 ，有“Twenty years ago, a general named Arenicos donned the purple mantle...”表述；SandBox/ModuleData/heroes.xml，Hero id=lord_1_5，正文键04xAg0yN，记德罗修斯在潘德拉克战死后元老院选立阿雷尼科斯。关于1077年的表述，本轮仅复见玩家整理的主线对白转录，https://www.reddit.com/r/mountandblade/comments/1uil8vt/ ，当前项目ZIP未收齐对应对话，仍待原始文件核对；二级转录不作为独立官方第一手见证。
 
@@ -285,3 +285,6 @@ v0.9（2026年10月22日）：完成H-0005核心断言首轮逐句引注与英�
 v1.0（2026年10月22日）：在第九节新增“权力长期化的四项制度判据与非同步性”，将授权期限、集会条件、资源整合与权位传递分开观察；限定同源官方概述及带地域立场的后世沿革的证据强度，明确“政治机关仍存在”不等于“仍具可证撤回军权的能力”。本次未能重新打开原始XML源包；不提升Q5-09所涉长时段因果链的证据等级。
 
 v1.3（2026年10月23日）：本轮重新提取Library所存SandBox.zip、SandBoxCore.zip、NavalDLC.zip与StoryMode.zip并实查官方组织沿革和英中语言表，新增火焰余烬B8c2mNKj关于达鲁索斯被将领废黜及随后兴起反叛运动的直接文本，讨论在位废立与帝位继承的不同机制；依据人物传记lord_1_5比较潘德拉克后元老院择君及阿雷尼科斯身后内战；记录2018年“二十年前”与1077年玩家对白转录之间的条件性年代冲突，等待主线对白原件复核。未虚构废帝将领、绝对年份或补缀皇帝，Q5-09仍开放。
+
+
+v1.4（2026年10月23日）：对〔12〕的原始英文引文作引文限额校正，保留两个短语引述，其余改为转述；未改变来源性质、事件顺序判断、相对年代边界或Q5-09状态。
