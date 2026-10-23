@@ -287,3 +287,14 @@ v1.9 使用完整高程图绘图区和中性相对高程色带，不执行海陆
 - [RES-012：留存港口与导航网络源程序、派生数据](geo/90/EVD/CGEO-MAP-RES-012.md)
 
 本次重读 RES-012 ZIP 中29条港口与summary.json：23 CoastalSea(18)、6 River(11)一致，保有navmesh_reference.py解析器，但该ZIP不含完整顶点/面或原始导航二进制。RES-001记录有原版及《战帆》地图资源的完整前序SHA-256；本轮尚未取得二进制原件进行重哈希。继续恢复可靠海岸线之前，不再把二次绘图海域分类冒充直接地图几何。GitHub仓库中的原始资源研究索引不代表已备份游戏二进制本体。
+
+
+## CGEO 论文主线恢复｜2026-10-23
+
+三篇新立**正式研究初稿 v0.1**，每篇均有 Google Docs 正文与 GitHub Markdown 快照：
+
+- [CGEO-S-GEO-001｜卡拉迪亚大陆地形与地貌研究](geo/03/GEO/CGEO-S-GEO-001.md) · [Google Docs](https://docs.google.com/document/d/1pDODiOQ2PR0zz9q2Ximt4MBJwnl_EmZOXvwFdnXsTL0/edit)
+- [CGEO-S-TRN-001｜卡拉迪亚大陆交通地理研究](geo/03/TRN/CGEO-S-TRN-001.md) · [Google Docs](https://docs.google.com/document/d/14GSDxuoxL26gnlT9ZG66VPkpRD79avovBlbwub4m7QM/edit)
+- [CGEO-N-N001-001｜卡拉德帝国历史政治地理研究](geo/05/N001/CGEO-N-N001-001.md) · [Google Docs](https://docs.google.com/document/d/1dQTGRCmNPolxcENMKy2XWnnAr1uQB2w1BpPd35VbCng/edit)
+
+现有 [CGEO-O-GEN-001](geo/02/GEN/13SUKPrj1jBJJ2LzPwMgnBJK6xoxuG8kLIaVSEHkX5IA.md)、[CGEO-O-REG-001](geo/02/REG/1H5CZKgad7YI60WnZu3t7W0PSBuNUd80tw8LMgCMWx_0.md) 与 [CGEO-S-HYD-001](geo/03/HYD/1Cl-YL13V_bHN9qOnSgSJmQ40Y2AtOXk5O-xvFd8RYco.md) 同日增加阶段补论；原稿v0.3/v0.1/v0.2修订号暂不提升。新论文及补论将地图资源前序分析、自然地貌、引擎导航与历史实际往来分别立论。CGEO-MAP地图工程继续独立核验，不得再由渲染图颜色猜测海岸线或将版本差异写成世界内部历史地貌变化。
