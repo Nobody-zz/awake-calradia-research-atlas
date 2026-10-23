@@ -202,3 +202,8 @@ Baltakhand项目统一译为巴尔塔罕，而不再沿用研究暂译巴尔塔�
 **新经济地理专题：** [《纳哈撒的水土利用与乡村生产地域》独立论文研究初稿 v0.1](../03/ECO/nahasa-rural-production-working-draft-2026-10-24.md)，讨论达玛尔河洪泛耕作、山地与滨海集雨、井泉绿洲、春季牧马、渔业与采矿的生产地域组合；以多生产地域解释暂胜单纯河谷决定或商队中心模型。Google Docs对应版：https://docs.google.com/document/d/16M4u405APemx5MDvhnc3tcsRUL4TSqH6VpQAZCeyjsI/edit
 
 **编号纪律：** 纳哈撒新稿作为 CGEO-S-ECO 研究方向内的区域经济地理工作稿，不占拟定用于全大陆历史经济地理总论的正式编号CGEO-S-ECO-001；不改变分类体系与证据等级。原始官方ZIP已定位，当前研究稿主要基于先前的英文同键审计与可核对英文转录，暂未逐字回读ZIP全部内容；保留分版本地貌冲突和水权、制度、人口、市场规模的证据缺口。
+
+
+### 植被自然地理新稿登记（2026-10-24）
+CGEO-S-BIO-001《卡拉迪亚大陆植被与自然景观研究——森林类型、草地季相、湿地分布与景观改造的比较》已形成研究初稿 v0.1，并同步Google Docs与GitHub。论文研究多树种山林、北方老龄林、伊尔卡里亚林地与开垦地镶嵌、伊察拉平原盐渍疏草、纳哈撒短命春草、加隆托海岸耐盐草甸及人工排水湿地。自然景观的历史变化只有在同版地志明确记载砍伐、开垦、排水等过程时才予以承认，不以跨版地志改写为演替年代证据。
+正文：[GitHub](../03/BIO/CGEO-S-BIO-001.md)；[Google Docs](https://docs.google.com/document/d/1MzHUgiMoIIn35bwU4S5aWlM-OHIEn4r53v7LBD-mGzw/edit)。
