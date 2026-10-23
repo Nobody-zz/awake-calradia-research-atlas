@@ -205,3 +205,9 @@ Drive 中的原有 PNG 文件 ID 已被 v1.6 成品实际覆盖，并改名标�
 - [完整交付包 ZIP](https://drive.google.com/file/d/1lFhCTUe_i2IiMK_3wQd9gaqfza5iZu0v/view) — 4,538,085 B
 
 统一配色为深蓝外海、浅蓝近岸、浅绿低地、绿色中低地/丘陵、赭黄高地。原版与《战帆》继续分开记录；《战帆》港口坐标仍受 RES-012 候选坐标解释限制。
+
+
+## geo/90/EVD 最新地图修订
+
+- [CGEO-MAP-AUD-002｜地形图与水系图绘图说明 v1.7](geo/90/EVD/CGEO-MAP-AUD-002.md) · [Google Drive 原件](https://docs.google.com/document/d/1MMTodRv647wt4OzmGuKdGWwDRkEDEanBpl6StW63KeQ/edit)
+- [CGEO-MAP-AUD-003｜坐标配准与配色审计 v1.7](geo/90/EVD/CGEO-MAP-AUD-003_coordinate_palette_audit_v1.7.json)
