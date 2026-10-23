@@ -216,3 +216,14 @@ CGEO-S-BIO-001《卡拉迪亚大陆植被与自然景观研究——森林类型
 中心发现：乌兰（village_K1_2）的可汗强制定居与亚麻种植、努丘克（village_K6_2）及兰萨木（village_K4_2）定居后持续牧业、喀拉罕（village_K6_1）向迁徙部落购马并供应军队、帖斯密勒（village_K2_2）的地方保护、喀拉卡拉特（village_K2_1）的育马延续，分别代表政治强制、生产转型、生产延续、市场中介及治安保障，不能归成同一条普遍农业化道路。另以湖岸麦作、渔业与盐湖生产说明草原地域的经济非均质性。
 
 史料用SandBox v1.4.8官方简中聚落描述与相应基础版英文文本公开转录逐条对照，英文语义优先。严格采用已核中文“喀拉卡拉特”“帖斯密勒”等，不沿用上一轮审计草案中的“卡拉卡拉特”“蒂斯米尔”等未经核验写法。《战帆》版本尚需就具体村落完成逐键回读，不能把文本改写当成世界内部地貌与定居进程。研究与CHC-KHU-GEN交叉引用，但不重写汗国建国、征服及封地政治史。下一优先问题仍为帝国北方土地开垦、产权与农业地域组织。
+
+
+### 历史人文地理线第三轮（2026-10-24）｜卡拉德北方边疆的土地改造与农业地域
+
+论文研究初稿v0.1：《卡拉德北方边疆的土地改造与农业地域——从元老院授地、河谷耕作到林地牧场的历史地理分析》。[GitHub正文](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/imperial-northern-frontier-landscape-and-estates-2026-10-24.md)；[Google Docs正文](https://docs.google.com/document/d/1yH8EtspASm4a9LYwph4AwUIZki7x_212KZALNC4FIK4/edit)。作为CGEO-S-HUM方向的**独立工作论文**，仍不占正式新CGEO编号，不修改CGEO-S-HUM-001的既定内容。
+
+依据SandBox北帝国aEfsyVH4的原始英语“marcher lords”“pacified”“They drained marshes ...”等，以及聚落village_EN1_2、EN3_1、EN4_2、EN5_1、EN5_2、EN5_4、EN6_1、EN4_4。主结论：王国史述直接将授地、防边、排沼垦谷、伐林改牧相联，但微观村志无法逐村定位排沼工程；北方雨养麦地、肥土冲积谷地、尚存森林的牧马坡地、军用育马场、桑树梯田、灌丛清理、湖岸渔业与帕拉语林农共同构成多样农业地域。西部涅俄科律斯的地主近期清林建马场只能作外部比较，不能伪作北方工程证据。与CHC-EMP-GEN土地—军役研究交叉，却不重复元老院产权政治史。
+
+**关键源级校勘**：斯塔堤摩斯英文“highland streams wash fertile soil down the hillsides”是山溪携带肥土，不等于官方简中“溪流灌溉”；俄耳特拉英文“breed imperial horses with steppe stock from the east”是用东部草原育种牲畜配种，而不是官方简中“从东方草原运来牧草”。如不校正会虚构灌渠史或长途干草贸易。英文语义本轮经有效v1.4.8转录校核；完整官方SandBox ZIP本轮未重新逐条解包，NavalDLC文本变动需分版核验。新增校勘记入CGEO-TOP-AUD-002，外部文学对照不能算独立第二史料。
+
+同卷下一优先：西部港市—农村供应与地方精英；东北森林采集—河谷市场及北方海岸食品贸易保持队列，避免过度集中一个国家。
