@@ -211,3 +211,15 @@ Drive 中的原有 PNG 文件 ID 已被 v1.6 成品实际覆盖，并改名标�
 
 - [CGEO-MAP-AUD-002｜地形图与水系图绘图说明 v1.7](geo/90/EVD/CGEO-MAP-AUD-002.md) · [Google Drive 原件](https://docs.google.com/document/d/1MMTodRv647wt4OzmGuKdGWwDRkEDEanBpl6StW63KeQ/edit)
 - [CGEO-MAP-AUD-003｜坐标配准与配色审计 v1.7](geo/90/EVD/CGEO-MAP-AUD-003_coordinate_palette_audit_v1.7.json)
+
+
+## v1.8 海陆边界恢复（2026-10-23）
+
+v1.7 配色版已撤回：其海陆分类依据高程可视化 RGB 的蓝色色相阈值，但该高程图中蓝色同时表示低海拔地形，不能作为可靠海洋掩膜，导致部分陆地被误判为海域。v1.8 回退到经过坐标配准的 v1.5 地图输出，暂时放弃 v1.7 的重着色；在取得独立有效的海陆分类掩膜并通过逐图目视检查前，不再发布新的配色版。
+
+- 原版地形图：[Drive](https://drive.google.com/file/d/1qRbn2JqQmEFeyZLVZtzwTx3SJIXv37fN/view)
+- 原版水系图：[Drive](https://drive.google.com/file/d/1tsx6G2G1EQzBY02rrZ8s0d6tX9suTKlk/view)
+- 《战帆》地形图：[Drive](https://drive.google.com/file/d/1YbF6zMWsnov7e9XBUJmnlTKn7tr0eYHd/view)
+- 《战帆》水域—港口图：[Drive](https://drive.google.com/file/d/1O-2VWngB_8sgDQZ1ckOTcb6f1B43gFZY/view)
+- v1.8 恢复包：[Drive](https://drive.google.com/file/d/1lFhCTUe_i2IiMK_3wQd9gaqfza5iZu0v/view)
+- 本地交付包文件名：`卡拉迪亚地理地图_海陆边界恢复_v1.8.zip`
