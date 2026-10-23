@@ -127,7 +127,7 @@ NavalDLC／naval_dialog_strings.xml／d5lpGY8m 中一名诺德冒险者讲述自
 | --- | --- | --- |
 | 贡达罗夫（Gundaroving；A4wIVnM4） | 朗瓦德（lord_2_1）／瓦尔切格 | 瓦尔切格、巴尔加德、castle_S2、castle_S3 |
 | 库洛夫（Kuloving；Eu932blQ） | 奥列克（lord_2_3）／奥莫尔 | 奥莫尔 |
-| 瓦吉罗夫（Vagiroving；mddbprXj） | 戈敦（lord_2_5）／堤亚尔 | 堤亚尔、castle_S7 |
+| 瓦吉罗夫（Vagiroving；mddbprXj） | 戈敦（lord_2_5）／蒂亚尔 | 蒂亚尔、castle_S7 |
 | 奥米多夫（Ormidoving；AppNvfPv） | lord_2_16／瓦尔诺瓦波尔 | 瓦尔诺瓦波尔、castle_S8 |
 | 托加罗夫（Togaroving；s0AVQCbJ） | lord_2_17／雷维尔 | 雷维尔、castle_S1 |
 | 伊夏罗夫（Isyaroving；EnZHNc2k） | lord_2_18／西比尔 | 西比尔 |
@@ -143,7 +143,7 @@ NavalDLC／naval_dialog_strings.xml／d5lpGY8m 中一名诺德冒险者讲述自
 
 **模型乙｜初始全面效忠、后世贵族反悔论。** 朗瓦德“祖父接受誓约”与对贵族后嗣的谴责，是这一模型的重要内部支持；戈敦维护盟约也可能相容。但其需解释王国沿革明确标示战争统帅的特殊形成背景，以及传记为何专门强调大公战争外权力是当代争议。**当前证据权重略低于甲。**
 
-**模型丙｜地区性不同宗主关系的拼合论。** 巴尔加德地方承认、雷维尔怨恨、瓦尔切格雇佣军夺城、西比尔避役、堤亚尔草原婚盟及外族共居，显示各地区与王公的结合有不同前史和资源基础；一套全国统一盟约或许后来叙述得比实际更整齐。此说解释地方差异很好，但还缺少各地区接受同一王公时的条件记录，**目前可与甲兼容，不能单独取代甲**。
+**模型丙｜地区性不同宗主关系的拼合论。** 巴尔加德地方承认、雷维尔怨恨、瓦尔切格雇佣军夺城、西比尔避役、蒂亚尔草原婚盟及外族共居，显示各地区与王公的结合有不同前史和资源基础；一套全国统一盟约或许后来叙述得比实际更整齐。此说解释地方差异很好，但还缺少各地区接受同一王公时的条件记录，**目前可与甲兼容，不能单独取代甲**。
 
 当代结论宜采用“**战争联盟大公的王朝化，伴随地方氏族统治的延续与最高权的持续扩张**”这一受限制表述。并非所有地方法律都已知，也不存在可以据此推断的完整中央集权或绝对分封制。
 
@@ -169,7 +169,7 @@ NavalDLC／naval_dialog_strings.xml／d5lpGY8m 中一名诺德冒险者讲述自
 
 贡达罗夫不是贡达尔本人，而是以贡达尔为祖源传统的统治家族；当代持有瓦尔切格、巴尔加德等地，王朝叙事既保留当地跨族调停的合法化记忆，也面对雷维尔等地方势力的怨恨。斯特吉亚共同大公并非仅因一纸君主头衔而自然成为整个北方的土地所有者；其最高军事统帅地位、家族的直接领地、亲族与雇佣兵联络，是性质不同的权力资源。其他波耶并不因王公世袭化而消失，仍保有地方领地、自己的武装和对臣民的财政索取能力；大公与博雅尔争论的焦点，恰是既有战时从属关系能否扩大为平时全面命令及持续税权。
 
-**下一轮应聚焦 CHC-STU-ECO：** 结合奥莫尔、瓦尔诺瓦波尔、堤亚尔、西比尔、巴尔加德和海湾／湖区转运地志，把资源、控制者、贸易通道和可以证实的赋税义务分成四个不同字段，检验何种经济形态促进大公财政，何种经济形态强化地方氏族；在无贸易量账册前避免“国家财政依赖某产业”的定量断言。CHC-STU-POL 本文可在审核后升版，不提前分配 H-000x 编号。
+**下一轮应聚焦 CHC-STU-ECO：** 结合奥莫尔、瓦尔诺瓦波尔、蒂亚尔、西比尔、巴尔加德和海湾／湖区转运地志，把资源、控制者、贸易通道和可以证实的赋税义务分成四个不同字段，检验何种经济形态促进大公财政，何种经济形态强化地方氏族；在无贸易量账册前避免“国家财政依赖某产业”的定量断言。CHC-STU-POL 本文可在审核后升版，不提前分配 H-000x 编号。
 
 ---
 
@@ -179,7 +179,7 @@ NavalDLC／naval_dialog_strings.xml／d5lpGY8m 中一名诺德冒险者讲述自
 * SandBox／ModuleData／spkingdoms.xml：Kingdom.sturgia，bVihnRUu。
 * SandBox／ModuleData／world_lore_strings.xml：He0b6FpY，aifXT4E1，nz6ff0nw，nQn87o0F，oUKWHMDq。
 * SandBox／ModuleData／heroes.xml：LW92PgZz（朗瓦德），5939sUCg（奥列克），6lZGNChB（戈敦），bsOLRZyS（年长奥列克）。
-* SandBox／ModuleData／settlements.xml：Xom9DeXZ（巴尔加德），T2E4xKVn（雷维尔），i2VkRLBg（瓦尔切格），PPadNxa6（西比尔），pbHXtJ82（奥莫尔），F5HlQdgf（堤亚尔）；同 ID 对照 NavalDLC settlements.xml。
+* SandBox／ModuleData／settlements.xml：Xom9DeXZ（巴尔加德），T2E4xKVn（雷维尔），i2VkRLBg（瓦尔切格），PPadNxa6（西比尔），pbHXtJ82（奥莫尔），F5HlQdgf（蒂亚尔）；同 ID 对照 NavalDLC settlements.xml。
 * SandBox／ModuleData／spclans.xml：clan_sturgia_1—clan_sturgia_9，A4wIVnM4、Eu932blQ、mddbprXj、AppNvfPv、s0AVQCbJ、EnZHNc2k、xw0eTkkb、W2HkbCeX、WssI6mOE；佣兵／边地团体 bsPd5zri、0u8ipbgn。
 * NavalDLC／ModuleData／naval_dialog_strings.xml：d5lpGY8m（领主 druzhina）。
 * 官方简中：SandBox／ModuleData／Languages／CNs／std_{spclans,settlements,heroes,world_lore_strings}_xml-zho-CN.xml；NavalDLC 对应 CNs 语言表。
