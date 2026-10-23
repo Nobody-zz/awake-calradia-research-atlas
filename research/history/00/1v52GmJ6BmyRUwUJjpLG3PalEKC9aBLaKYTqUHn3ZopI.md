@@ -1,6 +1,6 @@
 # I-0003｜史料—事件—命题—争议登记簿
 
-第一轮登记：H-0004及既有帕拉史研究｜基础版v1.0；追加校勘v3.5｜2026年10月23日｜保留既有S-0052—S-0064、E-0026—E-0027、P-0057—P-0080、D-0043—D-0070；新增S-0065、P-0081—P-0084、D-0071—D-0074。已重新读取项目对话资料库中的SandBox.zip与file_manifest.csv，并核验SandBox v1.4.8的spkingdoms.xml、英文语言表和官方简中语言表的SHA-256；逐条检查八个政治实体描述。本轮登记南帝国谱系宣称被翻译为直接自称国王／英雄、拉盖娅的动机被译文具体化、西帝国帕拉语言习俗“mostly forgotten”被强化为“消亡殆尽”，以及南帝国城镇经济排名范围被绝对化。该批材料属于同一官方世界观的基础XML与语言表，不作独立互证；阵营概述中的政治主张仍须与人物自述、制度史及其他文类分开。H-0005现行稿v1.6；Q-0007 v0.5；Q-0008 v1.2；Q-0009 v0.4；Q-0010 v0.2；Q-0012 v0.1新建。Q5-09仍开放，未改动已签发世界书正典。
+第一轮登记：H-0004及既有帕拉史研究｜基础版v1.0；追加校勘v3.6｜2026年10月23日｜保留既有S-0052—S-0064、E-0026—E-0027、P-0057—P-0080、D-0043—D-0070；新增S-0065—S-0066、P-0081—P-0088、D-0071—D-0078。已核验项目对话资料库中的SandBox v1.4.8原始XML及英中语言表：先逐条检查spkingdoms.xml八个政治实体描述，再对world_lore_strings.xml的50条政治哲学文本作定向语境校勘。新增南帝国谱系主张、拉盖娅动机表述、西帝国帕拉文化存续程度、城镇经济排名范围，以及“quality of blood”“Play to the mob”“they cannot govern”等英汉差异；另以拉盖娅的角色政治哲学对白交叉核验其公开的继承原则立场。相关原文与语言表属于同一官方来源链，角色对白也具有立场，不作独立中立互证。H-0005现行稿v1.6；Q-0007 v0.5；Q-0008 v1.2；Q-0009 v0.4；Q-0010 v0.2；Q-0012现行v0.2。Q5-09仍开放，未改动已签发世界书正典。
 
 ## A. 来源声明
 
@@ -598,6 +598,24 @@ D-0072｜拉盖娅政治意图的译文强化：Xtyb9Dyr英文称拉盖娅坚定
 D-0073｜帕拉语言与习俗存续程度的译文强化：mOZsbV8j英文“mostly forgotten”被官方简中处理为“消亡殆尽”。前者说大多被遗忘，后者暗示近乎灭绝；此差异会影响文化同化叙述的确定程度。不得将此条直接作为帕拉语已经灭绝的证据。
 
 D-0074｜南帝国城镇经济排名范围的译文绝对化：Xtyb9Dyr英文“some of the richest and most populous”表示跻身最富裕、人口最多的一部分城镇，官方简中“人口最多且最富裕”省去了some of的范围限制。该描述不提供量化排名；后续论文应保留相对性表达。
+
+S-0066｜SandBox/ModuleData/world_lore_strings.xml；SandBox/ModuleData/Languages/std_world_lore_strings_xml.xml；SandBox/ModuleData/Languages/CNs/std_world_lore_strings_xml-zho-CN.xml｜Bannerlord v1.4.8｜政治哲学对白与阵营立场文本，共50条对应字符串。相关键：2DpewE0u（str_political_philosophy_lord_1_5_for_lord_1_1_b）、uJeoa6u1（str_political_philosophy_lord_1_1_for_lord_1_1_c）、SCogGc7N（str_political_philosophy_lord_1_14_for_lord_1_14）。SHA-256：原始英文=FA30CE156B89DB56069E61FA88FCE88CB9C83AF55FCC7A27BFD0AC3C8A8472D1；英文语言表=6558FBF323C0D42C18516DACE260E7D2D560515AAE6756959A813D55D6A17FBC；官方简中语言表=A571185EA4258F4427053893B688590C576824E9A2D203BD5A90A885577A5B36。本轮已读取项目对话资料库中的SandBox.zip与file_manifest.csv并校验文件哈希。引用键的英文原始文本与英文语言表一致；人物政治哲学对白是带立场的角色话语，不作为中立史料。
+
+P-0085【A：英汉本地化差异；B：血统政治修辞解释】SandBox/ModuleData/world_lore_strings.xml，键2DpewE0u，字符串ID str_political_philosophy_lord_1_5_for_lord_1_1_b。英文“The quality of blood will always show itself.”官方简中“人的本性是隐藏不住的”。该句位于对加里俄斯与拉盖娅的贬抑性评价中；quality of blood在语境中调用血统、出身与贵族等级判断，中文则泛化为一般人性／性格判断，弱化了说话者以血统区分政治资格的精英主义修辞。此项说明角色如何使用血统论证，不证明其血统优劣判断真实。
+
+P-0086【A：英汉本地化差异；B：政治指控力度变化】SandBox/ModuleData/world_lore_strings.xml，键2DpewE0u，字符串ID str_political_philosophy_lord_1_5_for_lord_1_1_b。英文“Play to the mob.”通常指迎合群众、利用或讨好大众情绪；官方简中“把群众玩弄于掌心”更明确地指向操纵或欺骗。结合上下文，这使对加里俄斯的批评从依赖／迎合群众政治强化为有意操纵群众的指控。此为角色的政治修辞，不证明加里俄斯实际实施了操纵。
+
+P-0087【A：英汉本地化差异；B：制度论证语义收窄候选】SandBox/ModuleData/world_lore_strings.xml，键uJeoa6u1，字符串ID str_political_philosophy_lord_1_1_for_lord_1_1_c。英文“I respect our soldiers but they cannot govern.”官方简中“我尊重我们的士兵，但他们不懂如何治国”。该句前文强调参议员必须理解法律，后文主张重建元老院对皇帝的权威；因此英文可读作对军人掌权资格的制度性／政治性否定，中文则具体化为缺乏治国知识或能力。鉴于cannot govern也可能包含能力判断，本项只登记为中等置信度的语义收窄，不判定为无争议的硬性误译。
+
+P-0088【A：角色政治立场的直接陈述；B：同一官方文本链中的语境交叉核验】SandBox/ModuleData/world_lore_strings.xml，键SCogGc7N，字符串ID str_political_philosophy_lord_1_14_for_lord_1_14。英文称“The universal principle of inheritance, not the obscure laws of the Senate, is what makes an Emperor in the eyes of the people.”官方简中对应为“继承的普遍原则，而不是元老院模糊的法律，造就了人民眼中的皇帝”。该角色话语直接把继承原则置于元老院法律之上，可与spkingdoms.xml中“拉盖娅是王朝原则倡导者”的描述互相对照，支持官方叙事将继承论作为其政治正当性核心的解释；但这只是同一官方世界观内部的文类交叉，不是独立中立互证，也不能证明拉盖娅“乐于将其他家族的担忧付诸现实”这一更具体的个人意图。
+
+D-0075｜“quality of blood”被译为“人的本性”的政治概念框架变化：键2DpewE0u的英文把评价锚定在血统／出身，官方简中改为一般人性判断。此差异可能遮蔽角色论证中的世袭精英主义；不能将角色的血统论当作客观事实。
+
+D-0076｜“Play to the mob”被译为“把群众玩弄于掌心”的指控强化：键2DpewE0u英文更接近迎合或讨好群众，简中则明确指向操纵／欺骗。后续引用须将其作为对手的政治指控，不写成加里俄斯行为已获证实。
+
+D-0077｜“they cannot govern”被译为“他们不懂如何治国”的语义收窄候选：键uJeoa6u1的上下文围绕法律知识、元老院资格及军人政治权力。英文可指军人不应／不能掌权，中文把论点收窄为缺乏治国知识。由于两者有语义重叠，保留为中等置信度校勘，不将其定为确定误译。
+
+D-0078｜拉盖娅继承原则的角色话语交叉核验：键SCogGc7N明确把普遍继承原则作为皇帝正当性的依据，与spkingdoms.xml键Xtyb9Dyr对她的“dynastic principle”描述相互呼应。该材料加强“她公开倡导王朝继承原则”的文本判断，但不支持中文新增的具体实施意图，也不构成独立史料互证。
 
 ---
 
