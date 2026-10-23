@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-版本：v3.19｜2026年10月23日
+版本：v3.20｜2026年10月23日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -8,7 +8,7 @@
 
 H-0001｜卡拉德人的早期建城与殖民网络：沙拉斯、巴拉维诺斯与俄耳堤西亚｜正式分类号：CHC-CAL-SET
 
-主线A／早期大陆社会｜状态：Q-0011 v0.7有条件通过；Q-0008 v0.8已完成定向引注、版本与本地化补校，保留修订｜已复核town\_V7、town\_V3、town\_EW4、town\_EW3及empire\_w、Culture.empire。脚注〔8〕〔9〕现明确town\_EW1/ZAGUIKOn与town\_EW6/5SpYVtie的中文为工作译文／既有汇编译文；新增“mostly forgotten／已消亡殆尽”语义边界说明。三处城市沿革总体稳定的结论仅限已对读ID，不外推至全部DLC聚落；拉革塔人物身份误译和俄耳堤西亚“towers/灯塔”本地化差异已在正文与脚注校正。迁都相对年代、海上流亡者与内陆部族的人口连接、俄耳堤西亚早期殖民与后期海巡的断代仍未解决；全文逐句断言—脚注核销未完成。
+主线A／早期大陆社会｜状态：Q-0011 v0.9有条件通过；Q-0008 v1.2已完成定向引注、版本与本地化补校，保留修订｜已复核town\_V7、town\_V3、town\_EW4、town\_EW3及empire\_w、Culture.empire。脚注〔8〕〔9〕现明确town\_EW1/ZAGUIKOn与town\_EW6/5SpYVtie的中文为工作译文／既有汇编译文；新增“mostly forgotten／已消亡殆尽”语义边界说明。三处城市沿革总体稳定的结论仅限已对读ID，不外推至全部DLC聚落；拉革塔人物身份误译和俄耳堤西亚“towers/灯塔”本地化差异已在正文与脚注校正。迁都相对年代、海上流亡者与内陆部族的人口连接、俄耳堤西亚早期殖民与后期海巡的断代仍未解决；全文逐句断言—脚注核销未完成。
 
 Google Docs：https://docs.google.com/document/d/12k-lzV-dPYHMQUyxFBeGWQvTp6LpmP-qV0FYrG6Pd4s/edit
 
@@ -16,7 +16,7 @@ Google Docs：https://docs.google.com/document/d/12k-lzV-dPYHMQUyxFBeGWQvTp6LpmP
 
 H-0002｜征服、合邦与同化：卡拉德国家扩张中的帕拉诸部落｜正式分类号：CHC-OTH-PAL-REL
 
-主线A／早期大陆社会与共和国扩张｜状态：Q-0011 v0.7有条件通过；Q-0008 v0.8已完成定向DLC异文核查、正文限缩与误译校正，保留修订｜已在正文及脚注中限定厄诺伊萨圣湖记忆仅属SandBox基础版，并登记赫塔尼亚、卡诺洛斯、坎忒里翁与密泽亚的英文版本变化及中文本地化滞后。拉革塔、洛泰、阿弥塔堤斯、狄亚特马、萨涅俄帕、阿耳戈隆等缺少独立语言表键的长篇英文正文，其中文仍按工作译文／既有汇编译文处理。拉革塔英文原文“a rogue imperial mercenary”已校正为“不法的帝国雇佣兵”；密泽亚命名方向的中文反译已登记，但论文未据此推断；吕卡隆地形术语差异也已登记。地方政治集中度、跨地区年代及谈判机制仍待证；全部DLC聚落未逐条审校。
+主线A／早期大陆社会与共和国扩张｜状态：Q-0011 v0.9有条件通过；Q-0008 v1.2已完成定向DLC异文核查、正文限缩与误译校正，保留修订｜已在正文及脚注中限定厄诺伊萨圣湖记忆仅属SandBox基础版，并登记赫塔尼亚、卡诺洛斯、坎忒里翁与密泽亚的英文版本变化及中文本地化滞后。拉革塔、洛泰、阿弥塔堤斯、狄亚特马、萨涅俄帕、阿耳戈隆等缺少独立语言表键的长篇英文正文，其中文仍按工作译文／既有汇编译文处理。拉革塔英文原文“a rogue imperial mercenary”已校正为“不法的帝国雇佣兵”；密泽亚命名方向的中文反译已登记，但论文未据此推断；吕卡隆地形术语差异也已登记。地方政治集中度、跨地区年代及谈判机制仍待证；全部DLC聚落未逐条审校。
 
 Google Docs：https://docs.google.com/document/d/1CBSqXHw0m39FSSQUK9l1ARf2o9Nl324PP8qwQrqUYVI/edit
 
@@ -24,7 +24,7 @@ Google Docs：https://docs.google.com/document/d/1CBSqXHw0m39FSSQUK9l1ARf2o9Nl32
 
 H-0003｜从部族联盟到共和国：卡拉德早期政治共同体的形成｜正式分类号：CHC-CAL-POL
 
-主线A／早期卡拉德国家形成｜状态：Q-0011 v0.7已经加强地方服从与中央资格不对称的制度机制，早期建制程序仍待独立史料复核；Q-0008 v1.2已补明关键聚落正文键、中文释文性质与文化术语本地化偏移，保留修订｜Culture.empire与《Empire – Part 1》仍按内容重叠的官方回顾处理，不作独立互证；阿耳戈隆、贾尔马律斯、拉革塔的中文释文已在脚注〔6〕〔8〕〔10〕标明为工作译文／既有汇编译文。Culture.empire的“civic elders/civic traditions”中文“民粹元老/民粹传统”及“submit to it”被译为“接受卡拉德理想”的政治服从语义弱化，已登记并补入H-0003；Aserai文化键a2AjI8nc“such as it is”限定语省略亦已登记，但留待阿塞莱专题，不移作本篇论据。共和国成形的精确年代、公民资格边界、联盟加入程序与因果链仍待证。
+主线A／早期卡拉德国家形成｜状态：Q-0011 v0.9已经加强地方服从与中央资格不对称的制度机制，早期建制程序仍待独立史料复核；Q-0008 v1.2已补明关键聚落正文键、中文释文性质与文化术语本地化偏移，保留修订｜Culture.empire与《Empire – Part 1》仍按内容重叠的官方回顾处理，不作独立互证；阿耳戈隆、贾尔马律斯、拉革塔的中文释文已在脚注〔6〕〔8〕〔10〕标明为工作译文／既有汇编译文。Culture.empire的“civic elders/civic traditions”中文“民粹元老/民粹传统”及“submit to it”被译为“接受卡拉德理想”的政治服从语义弱化，已登记并补入H-0003；Aserai文化键a2AjI8nc“such as it is”限定语省略亦已登记，但留待阿塞莱专题，不移作本篇论据。共和国成形的精确年代、公民资格边界、联盟加入程序与因果链仍待证。
 
 Google Docs：https://docs.google.com/document/d/1Vpu2yWtz\_QXl9oCfLBB\_4rm9c1xRsCbzW8LzoRH127s/edit
 
@@ -34,13 +34,13 @@ Google Docs：https://docs.google.com/document/d/1Vpu2yWtz\_QXl9oCfLBB\_4rm9c1xR
 
 H-0004｜卡拉德征服前夕的帕拉诸部落：社会组织、政治结构与文化传统｜正式分类号：CHC-OTH-PAL-SOC
 
-主线A／早期大陆社会｜状态：现行v0.10（2026-10-23），Q-0011 v0.7阶段性有条件通过，已深化多中心地区权力模型；旧稿v0.6、Q-0008 v0.8已补入厄诺伊萨、卡诺洛斯、坎忒里翁与密泽亚的NavalDLC异文、中文本地化不同步及拉革塔误译校正记录｜圣湖命题已限定于SandBox v1.4.8基础版；吕卡里亚马业保留为前帝国马业／骑手的受限文本命题，但基础版南部／东部定位不作为跨版本稳定事实。赫塔尼亚语言、克里俄斯圣地、厄诺伊萨空间描述与密泽亚地貌均按版本分开登记；另记录卡诺洛斯英文“routed several Calradian armies”与官方中文“追逐卡拉德敌人”的语义差异，以及坎忒里翁DLC英文新增的战马命名句未同步到DLC简体中文。骑手族属、跨地区年代、统一帕拉政治组织仍待证；全部DLC聚落尚未逐条审校。
+主线A／早期大陆社会｜状态：现行v0.10（2026-10-23），Q-0011 v0.9阶段性有条件通过，已深化多中心地区权力模型；旧稿v0.6、Q-0008 v1.2已补入厄诺伊萨、卡诺洛斯、坎忒里翁与密泽亚的NavalDLC异文、中文本地化不同步及拉革塔误译校正记录｜圣湖命题已限定于SandBox v1.4.8基础版；吕卡里亚马业保留为前帝国马业／骑手的受限文本命题，但基础版南部／东部定位不作为跨版本稳定事实。赫塔尼亚语言、克里俄斯圣地、厄诺伊萨空间描述与密泽亚地貌均按版本分开登记；另记录卡诺洛斯英文“routed several Calradian armies”与官方中文“追逐卡拉德敌人”的语义差异，以及坎忒里翁DLC英文新增的战马命名句未同步到DLC简体中文。骑手族属、跨地区年代、统一帕拉政治组织仍待证；全部DLC聚落尚未逐条审校。
 
 Google Docs：https://docs.google.com/document/d/1vjDCwnByypArSpeNcUe0-UKkdlr0nD4dJm7Q4PwcA3Y/edit
 
 ## 进行中研究与后续计划（题名可调整；H编号仅在完整稿完成后分配）
 
-H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化｜正式分类号：CHC-EMP-POL｜辅线B·制度史｜现行研究稿 v1.5（2026-10-23，I-0003 v3.2已登记达鲁索斯史料及两处英汉语义偏移，Q5-09仍开放，未定稿）。本轮直接读取Library中的SandBox v1.4.8英文原始XML与官方英中语言表，确认火焰余烬B8c2mNKj所述达鲁索斯遭将领废黜及其后反叛运动；与潘德拉克后元老院选立阿雷尼科斯、阿雷尼科斯身后三方争位区分为三类权力更替。校勘发现官方简中将ineffective强化为“无能”、将teenaged弱化为“年轻”，H-0005已按英文底本修正为“施政乏力的少年皇帝”。另发现同伴自述QNVJgFbF的“coaxing their tenants into holy poverty”被简中改写为“以朝圣的名义诱骗佃农财物”；该偏移只影响组织社会冲突的描述，不增加独立史料。Q-0007 v0.4、Q-0009 v0.4及Q-0011 v0.9已补审；早期皇权长期化的双核心假说仍为首选但未完成中段年代链，Q5-09保持开放。
+H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化｜正式分类号：CHC-EMP-POL｜辅线B·制度史｜现行研究稿 v1.6（2026-10-23，I-0003 v3.4已登记达鲁索斯史料与英汉语义校勘，Q5-09仍开放，未定稿）。本轮依据SandBox v1.4.8英文spclans.xml及官方英中语言表，保留“ineffective teenaged Emperor”应译为“施政乏力的少年皇帝”的校正；继续结合companion\_strings.xml键FkhUMTpJ与QNVJgFbF的连续语境，明确“holy poverty”与村民卖地、无尽朝圣、组织依赖捐赠和佃农贫困化之间的反讽关系。官方简中“以朝圣的名义诱骗佃农财物”把隐含批判具体化为原文未直接明说的欺诈指控；H-0005 v1.6已将其作为叙事修辞与社会冲突分析写入正文，不升格为独立证实的系统性诈骗或强制剥夺。Q-0007 v0.5、Q-0009 v0.4及Q-0011 v0.9已补审；早期皇权长期化的双核心假说仍为首选但未完成中段年代链，Q5-09保持开放。
 
 Google Docs：https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit
 
@@ -118,9 +118,6 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 
 13. I-0003 v3.1达鲁索斯专题证据入库（2026-10-23）：源编号S-0062—S-0064分别对应火焰余烬组织沿革B8c2mNKj、组织对白iOnsulPb及相关同伴宗教政治自述；E-0027登记先废帝后出现反叛运动的最低事件顺序；P-0076—P-0077分别标识废立历史叙述与复辟宗教政治主张；D-0066登记“近一世纪”具体指反叛运动而非精确政变年份，以及组织立场与独立性限制。既有阿雷尼科斯相对纪年问题沿用P-0065/D-0053，不设新重复编号。I-0003 Google Docs：https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md。
 
----
-
-Source of truth: [Google Docs](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
 
 
 14. H-0005 v1.4引文与证据审查（2026-10-23）：在v1.3达鲁索斯事件增补基础上，将〔12〕长引缩减为“was toppled by one of his generals”与“nearly a century ago”两个短语，其余转述；Q-0007更新至v0.3，明确主证、英中本地化、相关组织对白/同伴自述的文类边界及事件类型比较；Q-0009更新至v0.3，登记反叛运动相对年代不得直接换算为政变绝对年份；Q-0011更新至v0.8，确认该案例不关闭Q5-09、不改变H-0001—H-0004的审查状态。I-0003 v3.1已登记S-0062—S-0064、E-0027、P-0076—P-0077、D-0066。H-0005仍为CHC-EMP-POL研究稿，H-0006不预分配，已签发时间线正典不改。
@@ -131,3 +128,9 @@ Source of truth: [Google Docs](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT
 
 16. I-0001 v1.3原始语言优先与翻译校勘规范（2026-10-23）：将英文原始文本及上下文明确为英文源材料的首要语义校勘底本，中文官方译文用于辅助阅读、术语比对和本地化名称确认；关键翻译差异须登记原文、译文、差异类型及其对论证的影响。该原则不把译文视作独立互证，也不将语言底本优先级等同于史料可信度。地理研究总索引CGEO同步升至v1.1，覆盖地名、地貌、水系、方向和空间关系的翻译校勘。GitHub历史总纲：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md；地理总索引：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/1KlBS4Lv27FR13ycc7hPqAWPhPinDcmzKVmLc1q8efeE.md。
 17. 官方文化概述英汉语义再校勘（2026-10-23）：复核SandBoxCore/ModuleData/spcultures.xml及官方简体中文对应表。Culture.empire键X0kKBzsW的“submit to it”被译为“接受卡拉德理想”，弱化以外部群体服从为条件的政治关系；与“civic elders/civic traditions”译为“民粹元老/民粹传统”合读，可进一步分析共和自我认同、帝国扩张和普遍和平话语之间的张力，H-0003与Q-0008已补入，但不将修辞分析升级为各时期实际政策的直接证明。Culture.aserai键a2AjI8nc的“such as it is”限定语被官方简中省略，使民族意识陈述更为肯定；已登记I-0003 P-0080/D-0070，作为未来阿塞莱政治共同体专题的校勘线索，不据此断言阿塞莱人缺乏共同身份。I-0003升级至v3.4，Q-0008升级至v1.2，H-0003完成第七轮语义校勘；原有H编号、CHC分类及已签发世界书正典不变。
+
+18. 本轮英汉语义校勘与索引状态同步（2026-10-23）：H-0005升至v1.6，结合FkhUMTpJ与QNVJgFbF连续语境深化“holy poverty”的反讽分析，Q-0007升至v0.5；H-0003补入Culture.empire键X0kKBzsW中“submit to it”被简中淡化的政治服从语义；I-0003升至v3.4，新增P-0079/P-0080与D-0069/D-0070，分别记录帝国自我合法化话语和Aserai“such as it is”限定语的本地化差异；Q-0008升至v1.2。同步更新H-0001—H-0004当前状态行的Q-0011/Q-0008版本号，并更新H-0005当前稿版本，避免索引保留过期状态。历史记录项15—17仍按当时版本保留，不改写既往过程；Q5-09继续开放，已签发世界书正典不变。
+
+---
+
+Source of truth: [Google Docs](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
