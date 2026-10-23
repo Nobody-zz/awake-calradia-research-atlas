@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-版本：v3.23｜2026年10月23日
+版本：v3.24｜2026年10月23日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -40,7 +40,7 @@ Google Docs：https://docs.google.com/document/d/1vjDCwnByypArSpeNcUe0-UKkdlr0nD
 
 ## 进行中研究与后续计划（题名可调整；H编号仅在完整稿完成后分配）
 
-H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化｜正式分类号：CHC-EMP-POL｜辅线B·制度史｜现行研究稿 v1.6（2026-10-23，I-0003 v3.6已登记达鲁索斯史料、“holy poverty”语境与王国沿革／政治哲学对白英汉语义校勘，Q5-09仍开放，未定稿）。本轮依据SandBox v1.4.8英文spclans.xml及官方英中语言表，保留“ineffective teenaged Emperor”应译为“施政乏力的少年皇帝”的校正；继续结合companion_strings.xml键FkhUMTpJ与QNVJgFbF的连续语境，明确“holy poverty”与村民卖地、无尽朝圣、组织依赖捐赠和佃农贫困化之间的反讽关系。官方简中“以朝圣的名义诱骗佃农财物”把隐含批判具体化为原文未直接明说的欺诈指控；H-0005 v1.6已将其作为叙事修辞与社会冲突分析写入正文，不升格为独立证实的系统性诈骗或强制剥夺。Q-0007 v0.5、Q-0009 v0.4及Q-0011 v0.9已补审；Q-0012 v0.2另行登记南帝国阵营概述对拉盖娅动机的翻译强化，以及政治哲学对白对血统论、群众政治和军人治国资格的语义改写，不作为人物实际行为的独立证据；早期皇权长期化的双核心假说仍为首选但未完成中段年代链，Q5-09保持开放。
+H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化｜正式分类号：CHC-EMP-POL｜辅线B·制度史｜现行研究稿 v1.6（2026-10-23，I-0003 v3.7已登记达鲁索斯史料、“holy poverty”语境、王国沿革／政治哲学对白英汉语义校勘，以及彭同—德罗修斯—阿雷尼科斯继承危机的制度史分析和达鲁索斯政变时间关联假说；后者仅为低置信度研究问题，尚未纳入论文定稿）。本轮依据SandBox v1.4.8英文spclans.xml及官方英中语言表，保留“ineffective teenaged Emperor”应译为“施政乏力的少年皇帝”的校正；继续结合companion_strings.xml键FkhUMTpJ与QNVJgFbF的连续语境，明确“holy poverty”与村民卖地、无尽朝圣、组织依赖捐赠和佃农贫困化之间的反讽关系。官方简中“以朝圣的名义诱骗佃农财物”把隐含批判具体化为原文未直接明说的欺诈指控；H-0005 v1.6已将其作为叙事修辞与社会冲突分析写入正文，不升格为独立证实的系统性诈骗或强制剥夺。Q-0007 v0.5、Q-0009 v0.4及Q-0011 v0.9已补审；Q-0012 v0.3新增继承惯例与元老院法统的制度史分析，以及达鲁索斯政变与百年制度转折的低置信度时间关联假说。早期皇权长期化的双核心假说仍为首选但未完成中段年代链，Q5-09保持开放。
 
 Google Docs：https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit
 
@@ -136,6 +136,9 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 20. Q-0012 v0.1王国沿革与帝国内战政治主张的英汉语境校勘（2026-10-23）：对SandBox v1.4.8 spkingdoms.xml及英文／官方简中语言表逐键核查八个政治实体描述，I-0003升至v3.5，新增S-0065、P-0081—P-0084、D-0071—D-0074。重点差异：南帝国精英“claimed descent from...”被中文部分改写为直接自称国王／英雄；中文额外把拉盖娅描述为“乐于将这种顾虑付诸现实”，强于英文“would seem to confirm these fears”；西帝国“mostly forgotten”被强化为“消亡殆尽”；南方城镇“some of the richest and most populous”被绝对化。Q-0012 v0.1已建立Google Docs与GitHub同名档案，登记原始XML、英文语言表和官方简中语言表的SHA-256。Google Docs：https://docs.google.com/document/d/1JkcbLRNaoVgmQlCvqvSNdAW0hopPg-X1ls8v7e_m1xM/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0012-kingdom-descriptions-localization-audit.md。将阵营概述视为官方叙事，不作独立互证，不把翻译新增的动机断言纳入人物动机正典；已签发世界书正典不变。
 
 21. Q-0012 v0.2政治哲学对白交叉校勘（2026-10-23）：新增核对SandBox/ModuleData/world_lore_strings.xml及其英文／官方简中语言表，I-0003升至v3.6，新增S-0066、P-0085—P-0088、D-0075—D-0078。新发现包括“quality of blood”被译为“人的本性”，淡化血统／出身的精英主义论证；“Play to the mob”被译为“把群众玩弄于掌心”，把迎合群众强化为操纵指控；“they cannot govern”被译为“他们不懂如何治国”，作为中等置信度的语义收窄候选。另以键SCogGc7N的角色对白交叉核验拉盖娅公开的继承原则立场；这加强的是角色政治修辞的解释，不是独立中立互证，也不支持译文额外添加的具体实施意图。Q-0012 v0.2已同步Google Docs与GitHub：https://docs.google.com/document/d/1JkcbLRNaoVgmQlCvqvSNdAW0hopPg-X1ls8v7e_m1xM/edit；https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0012-kingdom-descriptions-localization-audit.md。已签发世界书正典不变。
+
+
+22. Q-0012 v0.3跨文本制度史推论（2026-10-23）：新增彭同—德罗修斯—阿雷尼科斯继承危机的分析，区分皇子继位的惯例与卢孔阵营的元老院选帝法统主张；此处支持“惯例与法律主张可能冲突”的制度解释，但不证明存在完整成文宪法或元老院持续一百年有效控制皇位。另登记达鲁索斯被将领推翻与百年制度转折的时间关联假说，明确该假说低置信度，且不建立政变导致世袭化的因果链。I-0003升至v3.7，新增S-0067—S-0068、P-0089—P-0090、D-0079；Q-0012 v0.3已同步Google Docs与GitHub：https://docs.google.com/document/d/1JkcbLRNaoVgmQlCvqvSNdAW0hopPg-X1ls8v7e_m1xM/edit；https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0012-kingdom-descriptions-localization-audit.md。H-0005保持v1.6，Q5-09继续开放；未改动已签发世界书正典。
 
 ---
 
