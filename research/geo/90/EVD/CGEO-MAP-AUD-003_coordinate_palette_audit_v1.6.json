@@ -1,14 +1,92 @@
 {
   "version": "v1.6 color palette revision",
-  "vanilla_terrain_crop_pixels": [217, 83, 993, 859],
-  "vanilla_terrain_scene_extent": [0, 848, 0, 848],
-  "vanilla_river_crop_pixels": [122, 36, 1173, 1085],
-  "vanilla_river_scene_extent": [0, 848, 0, 848],
-  "warsails_terrain_crop_pixels": [1227, 83, 2003, 859],
-  "warsails_terrain_scene_extent": [0, 1040, 0, 1040],
-  "warsails_water_crop_pixels": [112, 53, 1322, 1230],
-  "warsails_water_scene_extent_calibrated": [43, 1050, -20, 962],
-  "name_fixes": {"Seonon": "肖农", "Epicrotea": "厄庇克洛忒亚"},
+  "vanilla_terrain_crop_pixels": [
+    217,
+    83,
+    993,
+    859
+  ],
+  "vanilla_terrain_scene_extent": [
+    0,
+    848,
+    0,
+    848
+  ],
+  "vanilla_river_crop_pixels": [
+    122,
+    36,
+    1173,
+    1085
+  ],
+  "vanilla_river_scene_extent": [
+    0,
+    848,
+    0,
+    848
+  ],
+  "warsails_terrain_crop_pixels": [
+    1227,
+    83,
+    2003,
+    859
+  ],
+  "warsails_terrain_scene_extent": [
+    0,
+    1040,
+    0,
+    1040
+  ],
+  "warsails_water_crop_pixels": [
+    112,
+    53,
+    1322,
+    1230
+  ],
+  "warsails_water_scene_extent_calibrated": [
+    43,
+    1050,
+    -20,
+    962
+  ],
+  "name_fixes": {
+    "Seonon": "肖农",
+    "Epicrotea": "厄庇克洛忒亚"
+  },
   "palette": "Matched to approved vanilla atlas palette: deep blue sea, light-blue shallow coastal band, pale-green lowlands, green middle elevations, ochre highlands. Vanilla coastline mask follows the prior approved map; War Sails land/water classes are harmonized with its navigation-water classification.",
-  "limitations": "War Sails water map uses a previously rendered navmesh plot, calibrated from visible axis ticks; exact pixel-to-scene validation still requires original navmesh.bin/rendering script. War Sails port XY remains the candidate coordinate interpretation documented in RES-012."
+  "limitations": "War Sails water map uses a previously rendered navmesh plot, calibrated from visible axis ticks; exact pixel-to-scene validation still requires original navmesh.bin/rendering script. War Sails port XY remains the candidate coordinate interpretation documented in RES-012.",
+  "drive_binary_replaced": true,
+  "drive_sync_verified_at": "2026-10-23T03:58:47Z",
+  "drive_assets": {
+    "vanilla_terrain": {
+      "name": "卡拉迪亚大陆地形图_原版_配色修订_v1.6.png",
+      "id": "1qRbn2JqQmEFeyZLVZtzwTx3SJIXv37fN",
+      "url": "https://drive.google.com/file/d/1qRbn2JqQmEFeyZLVZtzwTx3SJIXv37fN/view",
+      "size_bytes": 1078557
+    },
+    "vanilla_hydrography": {
+      "name": "卡拉迪亚大陆水系图_原版_配色修订_v1.6.png",
+      "id": "1tsx6G2G1EQzBY02rrZ8s0d6tX9suTKlk",
+      "url": "https://drive.google.com/file/d/1tsx6G2G1EQzBY02rrZ8s0d6tX9suTKlk/view",
+      "size_bytes": 1217343
+    },
+    "warsails_terrain": {
+      "name": "卡拉迪亚大陆地形图_战帆版_配色修订_v1.6.png",
+      "id": "1YbF6zMWsnov7e9XBUJmnlTKn7tr0eYHd",
+      "url": "https://drive.google.com/file/d/1YbF6zMWsnov7e9XBUJmnlTKn7tr0eYHd/view",
+      "size_bytes": 993198
+    },
+    "warsails_water_port": {
+      "name": "卡拉迪亚大陆水域港口图_战帆版_配色修订_v1.6.png",
+      "id": "1O-2VWngB_8sgDQZ1ckOTcb6f1B43gFZY",
+      "url": "https://drive.google.com/file/d/1O-2VWngB_8sgDQZ1ckOTcb6f1B43gFZY/view",
+      "size_bytes": 1440705
+    },
+    "delivery_zip": {
+      "name": "卡拉迪亚地理地图_原版配色统一修订_v1.6_交付.zip",
+      "id": "1lFhCTUe_i2IiMK_3wQd9gaqfza5iZu0v",
+      "url": "https://drive.google.com/file/d/1lFhCTUe_i2IiMK_3wQd9gaqfza5iZu0v/view",
+      "size_bytes": 4538085
+    }
+  },
+  "palette_description": "深蓝外海、浅蓝近岸浅海、浅绿低地、绿色中低地/丘陵、赭黄高地/山地；原版与《战帆》分版绘制。"
 }
