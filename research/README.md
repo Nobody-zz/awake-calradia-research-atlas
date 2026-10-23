@@ -144,3 +144,13 @@
 - [完整制图包 v1.1](https://drive.google.com/file/d/1lFhCTUe_i2IiMK_3wQd9gaqfza5iZu0v/view)
 - 地形图与水系图的海域统一改为深蓝、近岸显示浅蓝制图带，陆地相对低地使用浅绿，中低地/丘陵使用绿色，高地使用赭黄/灰褐色。
 - 浅蓝近岸带是阅读辅助，不代表测深数据或真实水深；地形色带是相对分类，不表示米制海拔。当前底图仍取自已归档高程分析图的坐标面板裁切与程序化重着色。
+
+
+### CGEO-MAP-RES-014 — 聚落中文地名规范表（2026-10-23）
+
+- [CSV：原版53个城镇的名称证据与当前地图标注](geo/90/EVD/CGEO-MAP-RES-014_settlement_chinese_name_register.csv)
+- [Markdown：标注译名清单与判定规则](geo/90/EVD/CGEO-MAP-RES-014_settlement_chinese_name_register.md)
+- [Google Drive CSV](https://drive.google.com/file/d/1-jGBsvgz3Gj6DuxiCAzTKrf6Y7Mi2Avh/view)
+- [地图包 v1.2（含修订地图、脚本和规范表）](https://drive.google.com/file/d/1lFhCTUe_i2IiMK_3wQd9gaqfza5iZu0v/view)
+
+本版按官方简体中文地理/百科文本对中文标签进行证据分级。†表示当前官方CN资料未检出同形译名，仍为研究暂译。现有档案没有可逐一对应53个城镇的独立名称中文键，因此不把文本中出现过的中文形式夸大为独立名称键已确认。
