@@ -110,3 +110,8 @@ v1.7 配色版已撤回：其海陆分类依据高程可视化 RGB 的蓝色色�
 - 《战帆》水域—港口图：[Drive](https://drive.google.com/file/d/1O-2VWngB_8sgDQZ1ckOTcb6f1B43gFZY/view)
 - v1.8 恢复包：[Drive](https://drive.google.com/file/d/1lFhCTUe_i2IiMK_3wQd9gaqfza5iZu0v/view)
 - 本地交付包文件名：`卡拉迪亚地理地图_海陆边界恢复_v1.8.zip`
+
+
+## 后续事故校正｜CGEO-MAP-AUD-004（2026-10-23）
+
+此前 v1.6–v1.8 对海陆填色的相关宣称需要纠正：高程图 RGB 蓝色色相不是海洋掩膜，曾掩盖大面积低高程陆地。v1.8 仅恢复旧图颜色，并未验证水陆边界，不能作为最终海陆图。请以 [AUD-004 全域高程工作图审计](CGEO-MAP-AUD-004.md) 和 [Google Drive v1.9 独立工作图](https://drive.google.com/drive/folders/1eJjV3BJr2AOS3N3_d-6lY8sQHOGSqPVT)为准。暂不将任何版本的猜测海陆填色引入正式论文。
