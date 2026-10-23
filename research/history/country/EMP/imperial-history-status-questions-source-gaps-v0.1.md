@@ -3,6 +3,7 @@
 **性质**：卡拉德帝国史国别研究线独立工作调查；第一阶段 v0.1（2026-10-24）；不占 H 编号，不修改 I/Q 公共登记，不视为世界书正典裁定。  
 **研究对象**：卡拉德政治共同体至1084年政治分裂。帕拉、坎尼等被征服者具有独立历史；本报告仅研究其与帝国的关系接口。  
 **继承规范**：I-0001 v1.4、I-0004 v2.2、I-0002、I-0003、Q-0013 v0.4；既有 H-0001—H-0005 与 Q-0009、Q-0011、并行研究启动包。  
+**译名校订**：2026-10-24按项目使用者明确确认，将Jalmarys的既有研究暂译统一订正为官方译名“贾尔马律斯”；当前资料包未独立核得名称键，保留出处区分。  
 **主要原始底本**：项目 Library 保存的 SandBox.zip、SandBoxCore.zip、NavalDLC.zip、Native.zip、StoryMode.zip，已经重新取得并直接检索 XML 元素与文本键。归档清单登记 SandBox/SandBoxCore/Native/StoryMode 为 v1.4.8 体系，NavalDLC 为 v1.2.8 体系；这些属于归档版材料，不能自动声称与2026-10-24在线最新游戏版本一致。英文原始描述优先，官方简中作校勘。2018-02-08 TaleWorlds《Empire – Part 1》为官方回顾性史述，不与现行XML混作同一时间层级。
 
 ## 摘要：首轮历史判断
@@ -41,7 +42,7 @@
 | 俄耳堤西亚，同文件 town_EW4 / JhBSnWAe | “under the authority of the Kannic city-state of Quyaz”; “mother republic” | 殖民地曾受坎尼城邦统治、后被共和国纳入；mother republic是亲缘/主权修辞，不等于早期成文隶属关系 |
 | 拉革塔，同文件 town_EW1 / ZAGUIKOn | “The Senate disavowed his action but accepted the bequest.” | 元老院可以否定暴力取得方式而接受领土献纳结果；不证明明确的法定追认程序 |
 | 密泽亚，同文件 town_EN5 / 8UJ3cPrZ | “the senator Litos”; “a rival 'barbarian' republic” | 元老李图通过保护促成归附，后又试图组织竞争共和国；说明“共和”也能是帝国统治的地方政治竞争语言 |
-| 雅尔马里斯，同文件 town_EW3 / TI3fS2xN | “the Jalmaryan general Carsos staged a military coup” | 扩张时期的军人政变个案；无法据此给皇权第一次长期化定年 |
+| 贾尔马律斯，同文件 town_EW3 / TI3fS2xN | “the Jalmaryan general Carsos staged a military coup” | 扩张时期的军人政变个案；无法据此给皇权第一次长期化定年 |
 | 沃斯特鲁姆，同文件 town_ES2 / ytBRXqt8 | “rogue commanders who broke away”; “rule as a god-king” | 军人分离与世代延续的地方王朝，并非每一种统帅独立化都走向共和—皇帝同一通道 |
 | 彭同，SandBox/ModuleData/heroes.xml，lord_1_5 / 04xAg0yN | “custom, not law”; “the Senate chose the general Arenicos instead” | 皇子继位通常发生但非法律；德罗修斯之子彭同在世而元老院另择阿雷尼科斯；该传记不是法律原件 |
 | 被弃者军团，SandBox/ModuleData/spclans.xml，legion_of_the_betrayed / bhxVA9w7 | “in the wake of the battle of Pendraic”; “archons' private retinues”; “significantly cheaper” | 潘德拉克后废除最后常备军、转用私人扈从的派系组织史述；成本/控制效益是该文本判断，并无预算总账 |
@@ -71,7 +72,7 @@
 
 **解释乙：土地寡头与地方统治网络将共和国改造为地产国家。** 正面证据是北方元老家族获边地、垦殖、担忧向军人再分配土地；西部募兵/乡村贫困、南方商贸与婚盟构成不同财产基础。可检验预测：土地授予、军事酬赏、元老会议选择应在地方政治行动中持续相互影响。反例：关键军权延任并不依赖土地资源，或元老家族与地方地主并非利益同一。局限：这些地方史述大多描述成熟帝国，不能证明是早期皇权的原始驱动力。
 
-**解释丙：帝国扩张并非单向国家形成，而是反复发生中央化与独立化的竞争过程。** 雅尔马里斯政变、沃斯特鲁姆神王王朝、密泽亚竞争共和国显示同一政治传统可导向不同形态；可以解释为何“共和/帝国”不是相继替换的两座制度房屋。反例：若各例实际上只属于彼此无关的少数叛乱，不能作为长时段基本机制。现有最佳判断：此解释对单一路径叙事构成实质修正，具有高研究价值，但不能因此宣布帝国恒处于分裂状态。
+**解释丙：帝国扩张并非单向国家形成，而是反复发生中央化与独立化的竞争过程。** 贾尔马律斯政变、沃斯特鲁姆神王王朝、密泽亚竞争共和国显示同一政治传统可导向不同形态；可以解释为何“共和/帝国”不是相继替换的两座制度房屋。反例：若各例实际上只属于彼此无关的少数叛乱，不能作为长时段基本机制。现有最佳判断：此解释对单一路径叙事构成实质修正，具有高研究价值，但不能因此宣布帝国恒处于分裂状态。
 
 **解释丁：后世政治集团通过重述历史制造连续性。** 2018回顾、1084年派系对白、地方志的价值首先是它们如何描绘过去；每方可能将自身权利说成古老法统。尤其“never written down”与卢孔的“our law”“written word”不应粗暴化解。反例：如果发现同时代制度文书、任命法令及反复运作记录，并与回顾相合，则后世拼合说范围须缩减。最佳判断：史料塑形作用显著，但不能以怀疑抹除现行文本明确叙述的历史事实核心。
 
