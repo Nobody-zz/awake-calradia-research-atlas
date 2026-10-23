@@ -193,3 +193,15 @@
 - 地形/水系图视觉色阶现统一为深蓝外海、浅蓝近岸浅海、浅绿低地、绿色中低地/丘陵、赭黄高地/山地。
 - 原版和《战帆》仍分版绘制；《战帆》水域—港口图表示导航水域面类型，不等同于原版显式河流路径。
 - 《战帆》港口 XY 仍有 RES-012 所述候选坐标解释限制。
+
+
+### v1.6 配色修订｜Drive 二进制文件已同步（2026-10-23）
+
+Drive 中的原有 PNG 文件 ID 已被 v1.6 成品实际覆盖，并改名标记版本；交付 ZIP 也已覆盖。链接：
+- [原版地形图 PNG](https://drive.google.com/file/d/1qRbn2JqQmEFeyZLVZtzwTx3SJIXv37fN/view) — 1,078,557 B
+- [原版水系图 PNG](https://drive.google.com/file/d/1tsx6G2G1EQzBY02rrZ8s0d6tX9suTKlk/view) — 1,217,343 B
+- [《战帆》地形图 PNG](https://drive.google.com/file/d/1YbF6zMWsnov7e9XBUJmnlTKn7tr0eYHd/view) — 993,198 B
+- [《战帆》水域—港口图 PNG](https://drive.google.com/file/d/1O-2VWngB_8sgDQZ1ckOTcb6f1B43gFZY/view) — 1,440,705 B
+- [完整交付包 ZIP](https://drive.google.com/file/d/1lFhCTUe_i2IiMK_3wQd9gaqfza5iZu0v/view) — 4,538,085 B
+
+统一配色为深蓝外海、浅蓝近岸、浅绿低地、绿色中低地/丘陵、赭黄高地。原版与《战帆》继续分开记录；《战帆》港口坐标仍受 RES-012 候选坐标解释限制。
