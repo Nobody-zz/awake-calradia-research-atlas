@@ -20,7 +20,7 @@
 
 ## 二、在汗国之前：诸部、草场与多中心城市世界
 
-spcultures.xml 的 Culture.khuzait（v5bWtXj1）枚举纳察罕（Nachaghan）、阿契特（Arkits）、库吉特（Khergits）、喀拉库吉特（Karakhergits），明确用“Outsiders, however, usually refer to them collectively as the Khuzaits”指出“库赛特”也可能是外部概括名称，且指向近两代居支配地位的一个部族。它能证明现行叙述如何分类诸部，不能倒证数世纪前诸部已有统一自称、同一宗谱或持久国家。文化相似性至少表现为畜群、骑战、毡帐与亲属传统；政治联盟要求共同出征和服从战时命令；持续统治的国家则须有可连续动员兵员、课取资源、控制城市和安排继承的制度迹象。三者并不同时出现。
+spcultures.xml 的 Culture.khuzait（v5bWtXj1）枚举纳察罕（Nachaghan）、阿契特（Arkits）、库吉特（Khergits）、喀拉库吉特（Karakhergits），明确用“Outsiders, however, usually refer to them collectively as the Khuzaits”指出“库赛特”也可能是外部概括名称，且指向近两代居支配地位的一个部族。它能证明现行叙述如何分类诸部，不能倒证数世纪前诸部已有统一自称、同一宗谱或持久国家。所谓乌怀特人（Uvait）并不见于本条所列部族，也未见于现有王国、氏族、人物及聚落叙述；仅在一则流浪者故事中独见，暂不列为可独立考证的政治部族。文化相似性至少表现为畜群、骑战、毡帐与亲属传统；政治联盟要求共同出征和服从战时命令；持续统治的国家则须有可连续动员兵员、课取资源、控制城市和安排继承的制度迹象。三者并不同时出现。
 
 spkingdoms.xml 的 khuzait（fGNdo1BK）描述诸部“for centuries”越境劫掠和贸易，返回草原生活；两代人前远东出现不确定变故，可为气候、也可为征服者，史料有意留下疑问。因而“外来的可怕征服者驱赶库赛特西迁”仅为文本列举的一种可能，不是已证事件。随后兀儿浑率邻近帝国的游牧者进入东部行省并征服城邑，强制各部依令出征；这才是可见政治跃迁的开始。
 
@@ -34,7 +34,7 @@ spkingdoms.xml 的 khuzait（fGNdo1BK）描述诸部“for centuries”越境劫
 
 阶段丙｜征服、处分城市和固化地方权利。马凯布末代统治者拒纳贡而遭兀儿浑处决，其城市为兀儿浑部统治家族所得；奥通加德城墙与雇佣兵抵御失败，文本称赠予库吉特部；巴尔塔罕说约“四十年前”被兀儿浑迫服；柴坎归兀儿浑部封地；阿克卡拉特的帕迪沙阿标识被可汗马尾旌旗替换（各城地志 A）。这些是不同地区事件；不能假定全部同日或同一条约完成。
 
-阶段丁｜强制定居、筑堡与兵税征发。文化介绍明确把封地、筑堡资金、农业人口佃户化与兀儿浑的命令相联。一名自称出身乌怀特部族（Uvait；官方简中称“乌怀特人”）的库赛特流浪者在 wanderer_strings.xml（mSQSZyEF、phhXgKRm）声称“三十年前”兀儿浑命令诸部在固定地点生活，以计算兵员、征集部队、计数畜群并纳税；部分部众接受安置，部分遭镇压、人质和剥夺。该人经历可能提供约略相对次序，但其“伟大或残酷”的褒贬及时间精确度不能视为无立场的王廷法令。不能将“四十年前降城”和“三十年前定居”直接当成精确纪年。
+阶段丁｜分封、筑堡与兵税义务。文化介绍（v5bWtXj1）明确把那颜停止游牧、获得封地和筑堡资金、控制农业佃户与兀儿浑的命令相联。喀拉库吉特氏族介绍（XJbDRBfd）又将农田、农奴的授予同纳税及提供军事征召联系起来，并明确写到拒绝这些义务的群体。由此可确立官方叙事中存在制度转向及抵抗，但尚不能推定具体施行年代、所有部族的服从程度或统一税兵制度已经落实。涉及具体受害部族与“三十年前”的流浪者说法，暂不用于重建此阶段。
 
 阶段戊｜兀儿浑死后至1084年前后：世系保留、联盟离心。王国史称其后代仍掌汗国，但昔日统一精神不再；蒙楚格希望进一步征服定居区，若干氏族指责出兵损失与封地赏赐失衡（fGNdo1BK；heroes.xml/CzM6y3MT、ALtZaRzc）。潘德拉克战役造成库吉特大那颜岁仑死亡（heroes.xml/dfmSNTZk）；战事在氏族继承与敌对掠夺中的影响需要与未核验主线证言分开。王位继承延续不等于诸部已无自治权。
 
@@ -101,7 +101,7 @@ RQ-KHU-03｜兀儿浑统合诸部靠战功分配、俘虏人质、婚盟、税�
 
 RQ-KHU-04｜马凯布通行费、柴坎旧湖贸、奥通加德牲畜出口、银矿与牧场收益中，哪些实际被可汗直接控制，哪些为那颜和地方商人支配？
 
-RQ-KHU-05｜“封地+堡垒资金+农民佃户”是否带有可汗可撤销义务，抑或构成世袭氏族权利？这名流浪者对本部族分裂、牧群被夺及部众遭胁迫定居的记忆，可提供什么反面观察？
+RQ-KHU-05｜“封地+堡垒资金+农民佃户”是否带有可汗可撤销义务，抑或构成世袭氏族权利？应优先从文化总述、氏族史及城镇统治权变动中检验这些制度，而非凭单一流浪者叙述重建全体部族遭遇。
 
 RQ-KHU-06｜为什么喀拉库吉特可拒服定居义务而仍贸易、通婚？他们的抵抗是早期遗留、后期分裂还是围绕税兵约定的持续议价？
 
@@ -131,7 +131,7 @@ A01｜SandBoxCore v1.4.8／ModuleData/spcultures.xml／Culture.khuzait／v5bWtXj
 A02｜SandBox v1.4.8／ModuleData/spkingdoms.xml／Kingdom.khuzait／fGNdo1BK；官方简中同键。两代迁徙、征服、强制征战、继承者离心。
 A03｜SandBox v1.4.8／ModuleData/heroes.xml／dead_lord_6_1／L4b5EWdD；lord_6_1／CzM6y3MT；lord_6_4／ALtZaRzc；dead_lord_6_2／dfmSNTZk；dead_lord_6_3／CCfjl9eU；官方简中同键。兀儿浑、蒙楚格、墨速宜、岁仑、库由格。
 A04｜SandBox v1.4.8／ModuleData/spclans.xml／karakhuzaits／XJbDRBfd；官方简中同键。喀拉库吉特抵制以农奴土地换取兵税。
-A05｜SandBox v1.4.8／ModuleData/wanderer_strings.xml／backstory_a.spc_wanderer_khuzait_6／mSQSZyEF；backstory_b／phhXgKRm；同库相关流浪者故事。个人回忆：“thirty years ago”；不可直接视为公共财政档案。
+A05（证据暂挂）｜SandBox v1.4.8／ModuleData/wanderer_strings.xml／backstory_a.spc_wanderer_khuzait_6／mSQSZyEF；backstory_b／phhXgKRm；同库相关流浪者故事。Uvait／乌怀特人仅见于 backstory_b（phhXgKRm）及其英文、中文语言表同键副本；本次对 SandBoxCore、SandBox、NavalDLC 归档的交叉检索未在其他文化、王国、氏族、人物或聚落正文中发现其独立记载。fen Uvain 为巴旦尼亚氏族专名，与 Uvait 不可混同。该组主观证言暂不参与部族名单、年代与制度因果链的构建。
 A06｜SandBox v1.4.8／ModuleData/settlements.xml／town_K1 YNm9vaHw；town_K2 4UNOQQRa；town_K3 bPDqyqkb；town_K4 Dxnj5JQE；town_K5 SUnaVliN；town_K6 ygJkPxyc；以及 town_ES7 UHvEEEBb、town_S4 aTMypBiY、town_S5 F5HlQdgf。土地与城市多样性。
 A07｜NavalDLC v1.2.8／ModuleData/settlements.xml／town_K1、K2、K3、K4、K5、K6、ES7、S4、S5；K4 历史文本更换为 jlLJSudl、位置措辞有异，不把不同地图坐标当历史迁移。
 A08｜跨专题既有登记：I-0003 S-0021、S-0026、S-0028、S-0029、E-0026、P-0067、P-0068、D-0056、D-0087；《全大陆史料覆盖摸底与历史问题图谱》v0.1；CHC-CAL-MIL《潘德拉克战役》工作稿。此处 A01—A08 为本稿附录脚注索引，不是新增项目 S、E、P、D 正式编号。
