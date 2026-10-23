@@ -1,4 +1,4 @@
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。最近同步：2026-10-23。当前规范版本：I-0001 v1.4、I-0002 v3.36、I-0003 v3.11、I-0004 v2.1。H-0001第十一轮完成俄耳堤西亚“mother republic”英汉修辞与主权证据边界修订，并清除Google Docs重复的三城比较段。H-0003第十三轮直接核销阿耳戈隆、拉革塔、密泽亚、巴拉维诺斯四个地方沿革及1084年皇位合法性对白：Lageta的disavowed表示与雇佣兵行为划清界限而非否认事实，元老院接受献纳不能证明法定追认；Myzea简中对Litos身份与“old stomping grounds”的表达存在语义偏移；Paravenos的“local senators”不证明独立地方元老院。卢孔的元老院选帝法统、加里俄斯的军队选帝主张、拉盖娅的继承主张均属当事人政治论辩，“100 years”不是独立纪年锚。Q-0011 v1.9登记本轮，I-0003 v3.11新增S-0073、P-0097、D-0084。Culture.empire与《Empire – Part 1》仍是内容重叠的官方回顾，不作独立互证；后期城镇沿革仅证明各自阶段的政治实践，不能替代初创制度档案。H-0001与H-0003仍未通过发表级终审；H-0002五案例比较矩阵已落实但缺独立双方谈判与财政行政材料，H-0004时间分层与多中心政治论证保持有条件通过。H-0005现行研究稿v1.7，Q5-09继续开放；Q-0012 v0.4保持既有谱系校勘，Q-0013 v0.1要求以论文正文与可反驳证据链为中心。官方英文为语义校勘底本，但回顾性地志不是同时代独立证词；开发注释不作现行有效谱系，版本差异不作世界内部历史变迁。历史—地理分工、H-0006未分配及已签发世界书正典均保持不变。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。最近同步：2026-10-23。当前规范版本：I-0001 v1.4、I-0002 v3.37、I-0003 v3.12、I-0004 v2.1。H-0001第十一轮完成俄耳堤西亚“mother republic”英汉修辞与主权证据边界修订，并清除Google Docs重复的三城比较段。H-0003第十四轮补入两项可直接核验的晚期政治证据：彭同传记（heroes.xml键04xAg0yN）称皇子继位是惯例而非法定规则、元老院选择阿雷尼科斯；加里俄斯传记（键niI9dpuu）称其“人民集会”实际由士兵组成，老兵能压制反对。TaleWorlds《Empire – Part 1》明确称政治传统从未写成文字、继承规则从未固定成文，并概括晚期提名—元老院认可—军队欢呼的常见顺序。这些材料补强了晚期继承惯例与政治集会的具体分析，但没有提供早期共和时代的成文选帝法、元老院入席规则或献纳追认条文；此结论限于已检资料，不宣称这些材料在任何地方绝不存在。H-0003仍未通过发表级终审。Q-0011 v1.10登记本轮，I-0003 v3.12新增S-0074、P-0098、D-0085，并完善S-0049/P-0089的来源核验。Culture.empire与《Empire – Part 1》仍是内容重叠的官方回顾，不作独立互证；后期城镇沿革仅证明各自阶段的政治实践，不能替代初创制度档案。H-0002五案例比较矩阵已落实但缺独立双方谈判与财政行政材料，H-0004时间分层与多中心政治论证保持有条件通过。H-0005现行研究稿v1.7，Q5-09继续开放；Q-0012 v0.4保持既有谱系校勘，Q-0013 v0.1要求以论文正文与可反驳证据链为中心。官方英文为语义校勘底本，但回顾性地志不是同时代独立证词；开发注释不作现行有效谱系，版本差异不作世界内部历史变迁。历史—地理分工、H-0006未分配及已签发世界书正典均保持不变。
 
 ## geo/00
 
@@ -41,14 +41,14 @@
 ## history/00
 
 - [I-0001｜研究总纲、史学方法与交叉校验规范（v1.4）](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
-- [I-0002｜论文目录与研究进度总索引（v3.36）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
-- [I-0003｜史料—事件—命题—争议总登记簿（v3.11）](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
+- [I-0002｜论文目录与研究进度总索引（v3.37）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
+- [I-0003｜史料—事件—命题—争议总登记簿（v3.12）](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
 - [I-0004｜卡拉迪亚历史研究学术分类法（CHC v2.1）](history/00/I-0004-academic-classification.md) · [云盘原件](https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit)
 ## history/01
 
 - [H-0001｜卡拉德人的早期建城与殖民网络：沙拉斯、巴拉维诺斯与俄耳堤西亚（CHC-CAL-SET）｜第十一轮英汉语境源级修订完成，mother republic主权证据边界已补](history/01/12k-lzV-dPYHMQUyxFBeGWQvTp6LpmP-qV0FYrG6Pd4s.md) · [云盘原件](https://docs.google.com/document/d/12k-lzV-dPYHMQUyxFBeGWQvTp6LpmP-qV0FYrG6Pd4s/edit)
 - [H-0002｜征服、合邦与同化：卡拉德国家扩张中的帕拉诸部落（CHC-OTH-PAL-REL）](history/01/1CBSqXHw0m39FSSQUK9l1ARf2o9Nl324PP8qwQrqUYVI.md) · [云盘原件](https://docs.google.com/document/d/1CBSqXHw0m39FSSQUK9l1ARf2o9Nl324PP8qwQrqUYVI/edit)
-- [H-0003｜从部族联盟到共和国：卡拉德早期政治共同体的形成（CHC-CAL-POL）｜第十三轮地方精英与皇位认可程序核销完成，早期建制程序仍待证](history/01/1Vpu2yWtz_QXl9oCfLBB_4rm9c1xRsCbzW8LzoRH127s.md) · [云盘原件](https://docs.google.com/document/d/1Vpu2yWtz_QXl9oCfLBB_4rm9c1xRsCbzW8LzoRH127s/edit)
+- [H-0003｜从部族联盟到共和国：卡拉德早期政治共同体的形成（CHC-CAL-POL）｜第十四轮继承惯例与元老院选帝案例补证完成，早期建制程序仍待证](history/01/1Vpu2yWtz_QXl9oCfLBB_4rm9c1xRsCbzW8LzoRH127s.md) · [云盘原件](https://docs.google.com/document/d/1Vpu2yWtz_QXl9oCfLBB_4rm9c1xRsCbzW8LzoRH127s/edit)
 - [H-0004｜卡拉德征服前夕的帕拉诸部落：社会组织、政治结构与文化传统（v0.10；CHC-OTH-PAL-SOC）](history/01/1vjDCwnByypArSpeNcUe0-UKkdlr0nD4dJm7Q4PwcA3Y.md) · [云盘原件](https://docs.google.com/document/d/1vjDCwnByypArSpeNcUe0-UKkdlr0nD4dJm7Q4PwcA3Y/edit)
 ## history/02
 
@@ -63,7 +63,7 @@
 - [Q-0008｜H-0001—H-0004 逐句引注与英汉本地化复核（v1.1）](history/02/Q-0008-H0001-H0004-version-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit)
 - [Q-0009｜卡拉德帝国相对年代与分期约束审查（v0.4）](history/02/Q-0009-imperial-relative-chronology.md) · [云盘原件](https://docs.google.com/document/d/1Ny-pOnhZYWiR5ES91vsSAv_YbrJgcV8Tt-wtPq7c-Tw/edit)
 - [Q-0010｜彭同、拉盖娅与涅雷采斯家族政治分流：谱系及法统审查（v0.2）](history/02/Q-0010-neretzes-penton-rhagaea-succession-evidence.md) · [云盘原件](https://docs.google.com/document/d/14-HU9CH3hLPHVTxJl_i3ILtDh2vrvLfgp5g7Wq4bHaI/edit)
-- [Q-0011｜H-0001—H-0005历史学方法与论证质量综合审查（v1.9）](history/02/Q-0011-historical-method-cross-review.md) · [云盘原件](https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit)
+- [Q-0011｜H-0001—H-0005历史学方法与论证质量综合审查（v1.10）](history/02/Q-0011-historical-method-cross-review.md) · [云盘原件](https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit)
 - [Q-0012｜王国沿革与帝国内战政治主张：英汉语境校勘（v0.4）](history/02/Q-0012-kingdom-descriptions-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1JkcbLRNaoVgmQlCvqvSNdAW0hopPg-X1ls8v7e_m1xM/edit)
 - [Q-0013｜卡拉迪亚历史研究阶段性评估与工作重定向（v0.1）](history/02/Q-0013-stage-review-and-research-redirection.md) · [云盘原件](https://docs.google.com/document/d/1p9844oEQ-kO7I7h5R_ymuU8SJ3I4Al-0prXki6f27mc/edit)
 ## history/03
