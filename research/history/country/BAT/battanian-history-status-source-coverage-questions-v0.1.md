@@ -106,3 +106,5 @@ StoryMode v1.4.8：本轮已取得其模块ZIP并定向检查，主线19人完�
 另见 SandBox/wanderer_strings.xml〔wH5GepOD、WmGxA0P1、7QFCINsI〕：一名巴旦尼亚籍旧帝国军人回忆为帝国服役曾获普遍尊重，却指卡拉多格登位后新一代把它视为背叛巴旦尼亚。这是有立场的个体证词，不是人口统计或法律条文，但使“巴旦尼亚共同体身份的重新界定”成为值得检验的王权建构机制。
 
 新增史料缺口：TaleWorlds 2022-12-16 官方发布《数字伴侣》与《卡拉迪亚游记》（https://www.taleworlds.com/en/News/520）；目前维基对肖农贵族女性 Taseil 的二手整理记有先王嫁女、弑君与旧亲族受惩控诉，但尚未取得该篇直接文本及官方中文，故不列弑君为事实。优先取得它与 StoryMode 完整英文对白，比较婚姻事实、亲族控诉与国家叙事。对应完整专题工作稿：research/history/country/BAT/battanian-succession-and-kingship-working-paper-v0.1.md；Google Docs：https://docs.google.com/document/d/1GdUwdwrpDwC5peCA9bSGetqVF4UzrXyoK0T7NLP9sjs/edit 。
+
+第二轮反证约束：SandBox/heroes.xml 的 Hero.lord_5_1（卡拉多格）未记 spouse，其三条子女记录 lord_5_1_1、lord_5_7、lord_5_10 均未记 mother，而埃尔贡及梅利迪尔条目确有配偶字段。故王女婚配在官方政治言论〔wv2jPN3Q〕中得到明确主张，并不能据此补造已确认王后姓名、子女母系、婚姻结束日期或固定法定继承顺位。Taseil 的所谓旧王侄女身份和父母被处决仍停留在《卡拉迪亚游记》的二手简介；埃尔贡于1084年为现任芬·登吉尔族长，不得将Taseil直接指定为其女。王国概述〔ZjaaAoxd〕的匿名旧王与卡拉多格政治自述〔7poObaCF、Sy7dajDq〕共享牧群比喻，不能以此合并两位历史人物。另见退役巴旦尼亚籍帝国军人〔wH5GepOD、WmGxA0P1〕，其回忆引出新王是否重新定义对帝国服役为背叛的共同体身份研究，但属于有立场的个人证词，绝非统计事实。专题已详论上述约束并完成两端同步。
