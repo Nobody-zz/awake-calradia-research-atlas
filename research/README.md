@@ -42,8 +42,8 @@
 
 ## history/00
 
-- [I-0001｜研究总纲、史学方法与交叉校验规范（v1.2）](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
-- [I-0002｜论文目录与研究进度总索引（v3.17）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
+- [I-0001｜研究总纲、史学方法与交叉校验规范（v1.3）](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
+- [I-0002｜论文目录与研究进度总索引（v3.18）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
 - [I-0003｜史料—事件—命题—争议总登记簿（v3.2）](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
 - [I-0004｜卡拉迪亚历史研究学术分类法（CHC v2.1）](history/00/I-0004-academic-classification.md) · [云盘原件](https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit)
 ## history/01
