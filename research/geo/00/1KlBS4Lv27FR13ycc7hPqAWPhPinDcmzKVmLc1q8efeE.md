@@ -234,3 +234,16 @@ CGEO-S-BIO-001《卡拉迪亚大陆植被与自然景观研究——森林类型
 直接比对旧版百科（v1.4.8.119303）、当前提供的 Native.zip 实际内容、SandBox与NavalDLC两版英汉同键地志及NavalDLC新增诺德聚落名称键。CGEO-S-BIO-001订正拉诺克·亨（Llanoc Hen）、本盖兹（Bunqaz）、伊卡拉荒原（Irkaria／Ircara）与艾塔·德鲁因（Ailta Druin）。CGEO-S-CLM-001中“伊卡拉平原”属于误将Plain of Ichala与Ircara/Irkaria混同，已在可下载修订稿改成“伊察拉平原（研究暂译）”。埃博半岛为多数同键官方中文用法，官方内部亦存埃伯、伊博异译；新增诺德四处地名已获NavalDLC独立中文name键确认。
 
 **方法性发现：** 当前Native.zip无std_common_strings_xml简体中文表；旧百科虽注明其标题译名经该表解析，不能据此假装当前压缩包包含这份表。校勘矩阵见[CGEO-TOP-AUD-002](../90/EVD/CGEO-TOP-AUD-002.md)，所校勘的BIO论文已完成Google Docs和GitHub同步。
+
+
+### 历史人文地理线第四轮（2026-10-24）｜西部港市与乡村腹地
+
+**完整研究初稿 v0.1**：《西部港市与乡村腹地的历史组织——沙拉斯、巴拉维诺斯、加伦及俄耳堤西亚的粮食、物产与权力》。
+GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/western-port-cities-rural-hinterlands-and-seaborne-provisioning-2026-10-24.md
+Google Docs：https://docs.google.com/document/d/1r2hWEgZp0QlYyaF2gNkHbHVnNhNEVXyiBx4rYQ_MO1M/edit
+
+本稿是CGEO-S-HUM方向独立专题，不预占新正式编码，且不取代既有CGEO-S-HUM-001或历史H-0001。定向比较四种经地方原文限定的经济联系：（1）拉尔纳克（village_V3_3）明确将黑麦、大麦和小麦卖给帕拉汶德城市消费者；（2）加伦（town_V5／79R6gi4l）直接**接纳**比斯坎渔民渔获和丘陵羊毛，而非简单“远远看见”两地风物，官方简中在此丢失经济地理核心动作；（3）沙拉斯港口贸易与《战帆》同一航海者对围城期间船民因高价供粮的单方回忆说明海港供给的战时形态，不据此推断全年自给率；（4）俄耳堤西亚的阿耳波提斯、维尼拉、伽伦戈利亚有梯田、渔业及帝国货币用银矿，未证它们各自所有产出只卖该城。并以埃蒂尔菲德出售小麦给驻军、马雷汶向多个沿海城镇销售木材作为军需及多城市市场的强对照。
+
+重要区分：现有Larnac的出售对象确切；Savinth养马、Vesin种橄榄只能证明沙拉斯周边生产，不能确认全城平日粮食来源；Galend英文“takes in the catch ... as well as the wool”与官中视觉叙述不一致；NavalDLC的家族故事不是独立商税档案。已向CGEO-TOP-AUD-002增补英汉语义损耗记录。分版严格区分SandBox v1.4.8聚落志和NavalDLC航海对话；新版地图与文本更动不当作世界内部的年代事实。
+
+**下一优先问题**：东北森林的生产、采集劳工与沿河市镇经济联系（原人文地理摸底问题5）；再后为北方诺德港市与内陆资源供应。
