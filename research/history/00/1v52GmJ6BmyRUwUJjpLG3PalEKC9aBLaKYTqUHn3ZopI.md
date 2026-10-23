@@ -643,7 +643,7 @@ D-0081｜德罗修斯伏击与阿雷尼科斯改革的叙述者限制：帝国�
 
 S-0071｜《沃斯特鲁姆》town_ES2／ytBRXqt8｜SandBox/ModuleData/settlements.xml（SHA-256 E92BB2079526DCC4A125B6A7AE21B76240E5176D143ACA98D083BE9CE8C32524），NavalDLC同ID英文文本（SHA-256 4F2924A0B236062D1720E0AD48131D23FA4863E5C0AA7FE475F36B0056B9E436）；两版官方简体中文聚落语言表均含该键。记阿耳卡科斯为帝国扩张期叛离中央的佣兵指挥官，建立地方神王王朝，传数代后为帝国军队消灭；同条称其他叛离指挥官曾尝试复制帝国共和传统。该条属于回顾性城市沿革，不提供年份、确切叛离地点以外的组织网络或成文宪制。
 
-S-0072｜SandBox/ModuleData/world_lore_strings.xml及Languages/std_world_lore_strings_xml.xml、Languages/CNs/std_world_lore_strings_xml-zho-CN.xml｜Bannerlord v1.4.8。原始文件SHA-256：FA30CE156B89DB56069E61FA88FCE88CB9C83AF55FCC7A27BFD0AC3C8A8472D1；英文语言表：6558FBF323C0D42C18516DACE260E7D2D560515AAE6756959A813D55D6A17FBC；官方简中语言表：A571185EA4258F4427053893B688590C576824E9A2D203BD5A90A885577A5B36。有效政治哲学对话字符串id=str\_political\_philosophy\_lord\_1\_20\_for\_lord\_1\_1，本地化键8faAcjLz。说话者以“Echerion the Tyrant-Slayer was my ancestor”作为不支持Garios或Rhagaea的理由。该键证明角色政治话语调用埃刻里翁记忆，不是早期事件的独立见证。
+S-0072｜SandBox/ModuleData/world\_lore\_strings.xml及Languages/std\_world\_lore\_strings\_xml.xml、Languages/CNs/std\_world\_lore\_strings\_xml-zho-CN.xml｜Bannerlord v1.4.8。原始文件SHA-256：FA30CE156B89DB56069E61FA88FCE88CB9C83AF55FCC7A27BFD0AC3C8A8472D1；英文语言表：6558FBF323C0D42C18516DACE260E7D2D560515AAE6756959A813D55D6A17FBC；官方简中语言表：A571185EA4258F4427053893B688590C576824E9A2D203BD5A90A885577A5B36。有效政治哲学对话字符串id=str\_political\_philosophy\_lord\_1\_20\_for\_lord\_1\_1，本地化键8faAcjLz。说话者以“Echerion the Tyrant-Slayer was my ancestor”作为不支持Garios或Rhagaea的理由。该键证明角色政治话语调用埃刻里翁记忆，不是早期事件的独立见证。
 
 E-0028｜沃斯特鲁姆地方王朝：帝国扩张期间佣兵指挥官阿耳卡科斯脱离中央并建立神王政权 → 其王朝延续数代 → 帝国军队征服该王朝｜S-0071。只支持该地区内部的相对顺序，不证明与贾尔马律斯卡尔索斯政变、达鲁索斯废立、潘德拉克或1084年危机共时。
 
