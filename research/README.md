@@ -154,3 +154,12 @@
 - [地图包 v1.2（含修订地图、脚本和规范表）](https://drive.google.com/file/d/1lFhCTUe_i2IiMK_3wQd9gaqfza5iZu0v/view)
 
 本版按官方简体中文地理/百科文本对中文标签进行证据分级。†表示当前官方CN资料未检出同形译名，仍为研究暂译。现有档案没有可逐一对应53个城镇的独立名称中文键，因此不把文本中出现过的中文形式夸大为独立名称键已确认。
+
+
+### CGEO-MAP-AUD-002 v1.3 — 地名校正与标签避让
+
+- [地名规范表 CSV](geo/90/EVD/CGEO-MAP-RES-014_settlement_chinese_name_register.csv)
+- [地名规范表 Markdown](geo/90/EVD/CGEO-MAP-RES-014_settlement_chinese_name_register.md)
+- [制图报告](geo/90/EVD/CGEO-MAP-AUD-002.md)
+- Seonon 已按用户校正为“肖农”，Epicrotea 改为“厄庇克洛忒亚”。当前随档语言文件未包含对应独立中文名称键，规范表记录了校正来源。
+- 地形图与水系图使用碰撞检测选择标注偏移，并在偏移较大时绘制细引线，以降低地名互相遮挡。
