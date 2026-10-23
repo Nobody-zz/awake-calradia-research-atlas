@@ -1,0 +1,33 @@
+# CGEO-MAP-RES-018｜原始地图资源可恢复性与《战帆》港口衍生几何复审
+
+日期：2026-10-23。性质：原始资料追溯与保留数据复核；**不是新一轮原始二进制解析或精确海岸线测绘**。
+
+## 第一、第二手数据分级
+
+CGEO-MAP-RES-001 曾直接读取原版和《战帆》的 scene.xscene / terrain.bin / navmesh.bin；其原始字节数、SHA-256 见[原始资产资源清单](https://docs.google.com/document/d/1RchZ3Q87ii5CmrIkqJjl8IDFG-ZTe8jAsJOcpEnXB0s/edit)。RES-003 从 terrain.bin 恢复两套 4097×4097 16-bit HGHT 栅格；RES-008 从原始 Navmesh 多边形核验《战帆》29/29 港口和144/144登陆标记位于候选可航面。这些属于**已归档的前序直接分析**，本轮未再次读取这些二进制原件，不能写作已复算。
+
+本轮重新读取当前可访问的 `CGEO-MAP-RES-012_港口村庄导航网络复核数据.zip`，ZIP CRC通过；其中有 `navmesh_reference.py`、`town_port_network_access.csv`、`summary.json`、网络距离表等八项派生研究文件，**不包含完整 navmesh 顶点、面或原始 bin 字节**。对照原 CSV 和 summary.json，29 条城镇港口记录全部可读，CoastalSea(18) 23 条、River(11) 6 条；这一核对是针对保留的派生数据，不是再次执行多边形包含测试。
+
+## 港口空间统计（仅描述保留的派生表）
+
+CoastalSea 类港口场景 Z 中位数2.580，范围2.5698—3.327；其中20/23位于2.569—2.581。River 类六港口 Z 中位数5.736，范围3.885—9.996。River 父级ID：town_A7、town_ES3、town_EW1、town_EW6、town_N4、town_V3。上述Z是场景标记候选坐标，不能直接断言自然地理海拔、水面高度差或河床坡度。前序重心图距离是路径代理，非实际航程。
+
+## 仓库与云盘存储核查
+
+已检查 GitHub `Nobody-zz/AWAKE` 与 `Nobody-zz/awake-calradia-research-atlas` 的可见分支及文件树；研究库实际保存文本报告与校验清单，并明确说明不上传游戏版权二进制。Google Drive 的 `NavalDLC.zip` 是官方文本XML摘录，不能作为 Main_map 二进制镜像。Google Drive 保存 RES-001—017 研究档案及中间图表，不等于保存可再下载的 scene/terrain/navmesh 原件。项目早期直接读取过的原件是否仍在旧附件其他存储层，尚未确证；不能说用户从未上传，也不能说本轮已经找回。
+
+## 恢复路线
+
+1. 恢复二进制原件后先逐一验证大小与 RES-001 的 SHA-256（前序指纹，本轮未重测）。
+2. 调用已保存的 `navmesh_reference.py` 从原始 RNM1/NMG9 重建全部顶点、面和地形/水域类，并以官方港口场景标记重新做点在多边形核验；拒用 PNG 像素分类替代几何。
+3. 对原版与《战帆》分别恢复完整16-bit HGHT 栅格，整合独立解析的场景 water_plane/真实水域边界；导航可航区域并非精确天然海岸线。
+4. 正式地图只有在陆海掩膜来自可靠源几何、并对低洼陆地与岛屿进行独立验证之后才可发布。v1.6—v1.8 错误陆海填色不复用，v2.0 海水候选色块仍属于猜测。
+
+## 关联原件与边界
+
+- [RES-001 原始资源指纹](https://docs.google.com/document/d/1RchZ3Q87ii5CmrIkqJjl8IDFG-ZTe8jAsJOcpEnXB0s/edit)
+- [RES-003 16-bit 高程图块解析](https://docs.google.com/document/d/1pTiVx_yOJpP6IVFzUcwr2Yeni3m2xb1Y-rbdcNj9HsM/edit)
+- [RES-008 港口原始网格核验](https://docs.google.com/document/d/1aL-g-FRDguFHEAFbMZ2ypz5uWMIEcHXnd3HS5mmMYVw/edit)
+- [RES-012 留存港口与导航数据 ZIP](https://drive.google.com/file/d/1GMG8gXe70m376txGvIcZH0lQrSz5552G/view)
+
+本条记录是研究证据链恢复，不声明已找到全部地图二进制；不得以此报告推断任何实际海岸线细节。
