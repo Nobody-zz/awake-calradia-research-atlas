@@ -1,0 +1,17 @@
+village_parent,village_class,euclidean_nearest_port,euclidean_distance_scene_units,navmesh_proxy_nearest_port,navmesh_proxy_distance_scene_units,two_marker_stability_verified
+castle_village_B1_2,castle_village,town_V7,75.93332567955422,town_V3,175.35178894277178,true
+castle_village_ES8_1,castle_village,town_ES2,94.00237078370863,town_ES3,140.32175683673154,true
+castle_village_N1_2,castle_village,town_N4,73.3225295949274,town_S2,117.45884192998405,true
+castle_village_N5_1,castle_village,town_N2,106.69067265386076,town_N3,140.21459631581754,true
+castle_village_N8_1,castle_village,town_N4,73.82654529058095,town_S2,131.2632252475501,true
+castle_village_S7_1,castle_village,town_K3,88.00505902904018,town_S4,131.50656619226442,true
+castle_village_V2_1,castle_village,town_V5,53.94407146484367,town_V3,98.0785394887485,true
+castle_village_V3_1,castle_village,town_V3,31.67832923417667,town_V8,57.17061628857116,true
+village_ES2_2,village,town_ES2,36.65873948606538,town_ES3,63.81262241092002,true
+village_ES4_1,village,town_ES2,87.69929439640437,town_ES3,136.7649958368156,true
+village_ES4_3,village,town_ES2,37.04284230572701,town_ES3,70.42933932068131,true
+village_ES6_2,village,town_ES2,87.01915742793119,town_ES3,132.89314118042694,true
+village_EW4_1,village,town_EW4,39.44540070942777,town_EW1,71.09535450372928,true
+village_S6_1,village,town_S4,69.1555652792441,town_N2,146.2052984086477,true
+village_S6_2,village,town_S4,77.482435475561,town_N2,141.93723230459793,true
+village_V3_2,village,town_V3,28.248983412455498,town_V8,65.80283859355146,true
