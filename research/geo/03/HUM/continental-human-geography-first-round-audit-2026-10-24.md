@@ -113,3 +113,26 @@ Google Docs：https://docs.google.com/document/d/1yH8EtspASm4a9LYwph4AwUIZki7x_2
 **解释模型**：元老军殖式大规模农业化、生态条件自发生计分化、军事产权选择性改造与既有多产业地域并存三说对照，以第三说为C级优先假说。政治地理学所见统治权，不等于劳作者身份、用益权和个人语言；不得从北方军殖的区域回顾倒证所有帕拉村庄是无人荒地或已彻底同化。
 
 **队列维护**：原优先问题3标记“研究初稿完成”；当前优先改为西部港市—农村供应关系（原4），其后东北林地经济（原5）、北方海岸—内陆资源交换（原6），未擅自放弃未研究区。
+
+
+## 九、第四轮已完成：西部港市的商品腹地及围城补给（2026-10-24）
+
+按原优先问题4完成独立论文v0.1：《西部港市与乡村腹地的历史组织——沙拉斯、巴拉维诺斯、加伦及俄耳堤西亚的粮食、物产与权力》。
+GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/western-port-cities-rural-hinterlands-and-seaborne-provisioning-2026-10-24.md
+Google Docs：https://docs.google.com/document/d/1r2hWEgZp0QlYyaF2gNkHbHVnNhNEVXyiBx4rYQ_MO1M/edit
+
+**源级新贡献而非重复H-0001**：
+
+（1）拉尔纳克Larnac／village_V3_3，基础版原文明确：村民种rye、barley、wheat，**for sale to ... urban population ... Pravend**。其农业生产与帕拉汶德市民买方联系为A级地点史述。鲁兰德养猪、帕利松葡萄仅列“附近生产”，没有同等具体销路证据；不同版本鲁兰德橡林物产有显著改写。
+
+（2）加伦Galend／town_V5／79R6gi4l，英文明确“**takes in** the catch [of Biscan fishermen] ... **as well as the wool** of sheep ...”。用户存档官中把这段错译为渔民与绵羊“都能瞥见加伦”，使城市接收渔获及羊毛的事实消失。英文可检索来源见 https://mountandblade.fandom.com/wiki/Galend 。同版梅罗克海鱼、诺格伦羊产可以对照，但不能逐笔锁定为同一城市的所有供应方。此校勘已增列CGEO-TOP-AUD-002，应在将来修订CGEO-S-HUM-001时发挥效力。
+
+（3）沙拉斯Charas／town_V7港口商业已述，周边萨万特village_V7_1育马、韦桑village_V7_2产橄榄，没有明确平日城市主粮的源村与商品流；不写“沙拉斯没有粮食”。NavalDLC／naval_dialog_strings.xml／TMdL4gJH、cc9JuNoL、9wYQGoha是同一航海者的连续家族证词：沙拉斯围城时船民以高价出售城内粮食、随后遭领主追查及流亡。它可提示战时价格、供粮与贵族暴力的关系，**不能当三份独立事件史料**或定年为奥斯里克开国战争。
+
+（4）俄耳堤西亚Ortysia／town_EW4保存早期归属古亚兹与后期帝国海上巡逻标志的差异，阿耳波提斯EW4_1梯田蓄水、维尼拉EW4_3鱼、伽伦戈利亚EW4_4银矿供帝国铸币，不证明俄耳堤西亚存在已证皇家铸币厂或独占鱼市场。
+
+（5）横向证据：埃蒂尔菲德village_V1_2直接向附近驻军出售小麦；马雷汶village_V2_1向**沿海城镇（复数）**卖木材。不可凭此指定收木城市只有沙拉斯，也不可未经造船记载便说全部木料进入军港。
+
+**模型判断**：对“港口地理决定论”“领主单向征粮论”“分商品、城市购买者及战时价格交织的多重腹地论”进行对比，第三说暂作C级首选。最强缺口仍是分时期供粮账簿、实际征收权、定量交易、航运来源和人物证词的独立校验。
+
+**队列**：原问题4标记“研究初稿完成”，原问题5（东北林地—城镇市场）标“下一优先”，其后为问题6（北方港市—内陆物资联系）；不得为了连续写西部史而长期跳过东北、北方海域。
