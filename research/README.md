@@ -1,4 +1,4 @@
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。最近同步：2026-10-23。当前规范版本：I-0001 v1.4、I-0002 v3.39、I-0003 v3.12、I-0004 v2.1。五篇历史研究论文的内容、结构和跨篇事实一致性审查见Q-0011 v1.11；按用户明确要求保留超出范围的研究成果并优先检验独立成篇的可能性，Q-0011 v1.12新增R22-1—R22-8素材分流与论文立项评估：候选A《1084年帝国继承危机中的政治合法性竞争》、B《潘德拉克战役后帝国军团改革的争议与职业军人记忆》为优先可独立成篇题；C《“神圣贫困”与复辟政治：火焰余烬的宗教语言和乡村财产关系》适合窄题个案论文；D帝国领土纳入及地方精英政治接口为条件立项；E军变、地方神王与复辟政治为先保存的比较研究札记。各候选是工作题名，尚未建成完整新论文，不占用H编号。H-0003第六节关于三种政治资源与1084年争位的论证不先删除，待新独立稿Google Docs和GitHub双端建立后再压缩重复并交叉引用；H-0005关于军团改革与holy poverty的原始语境亦暂保留。Q-0012已有王国沿革、政治对白与老兵叙述的英汉校勘；Q-0007 v0.5已有holy poverty语用审计，不另算独立史料。H-0002李图身份与拉革塔追认、H-0004 v0.11李图授职、H-0001的disavowed措辞和H-0005彭同译名的跨篇纠错已实际写入双端。原始英文仍为英语官方叙述的语义底本；人物自述、官方回顾、开发注释、中文版差异和项目正典分轨，不为未证年代补造事件。所有H编号、分类号和已签发世界书正典不变，H-0006尚未分配；H-0005 Q5-09继续开放，五篇均未宣布发表级终审。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。最近同步：2026-10-23。当前规范版本：I-0001 v1.4、I-0002 v3.40、I-0003 v3.13、I-0004 v2.1。已完成《潘德拉克战役：多国联盟、战场失利与胜利后的政治分裂》独立论文工作稿v0.1，Google Docs与GitHub双端保存；不占H编号，不立即删除H-0003/H-0005原始材料。此文系统比较帝国与斯特吉亚—巴旦尼亚—瓦兰迪亚多方交战、两侧佣兵军队、林地伏击与营地强攻、双方战后权力争执及阿雷尼科斯继位，并从《War Sails》海员背景发现欠饷、弃船与舰船维护崩解的军旅记忆。已登记SandBox有效heroes.xml中的老奥列克战死与主线转录中折龙旗的表面时序矛盾、墨速宜前夫Solun与蒙楚格转录中Gotug的姓名异同、尼姆尔阿塞莱“预备队”的简中增译、Panderaic村落SandBox/NavalDLC英文地理改写但DLC中文沿用旧文，以及1077年玩家转录纪年同2018官方博客“Twenty years ago”的相对年代张力。主线19人对白目前仅有2020及2026玩家转录，尚未取得本项目可直接核验的完整有效主线逐字对话文件；战术重建是分级的B级转录史料综合，不能升格为已源级核销的A级官方XML事件。I-0003 v3.13新增S-0075—S-0080、E-0029、P-0099—P-0102、D-0086—D-0090；Q-0011 v1.13登记R23-1—R23-5并维持发表级终审未完成。此前审查发现H-0003的第五—七节范围偏宽，另有1084年继承合法性竞争、军团改革及火焰余烬宗教财产冲突适宜独立研究，详见Q-0011 v1.12 R22。现行论文H-0001—H-0005的序号及分类号不变，H-0006未分配；项目已签发正典保持独立于史学命题的证据等级，H-0005 Q5-09继续开放。
 
 ## geo/00
 
@@ -41,8 +41,8 @@
 ## history/00
 
 - [I-0001｜研究总纲、史学方法与交叉校验规范（v1.4）](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
-- [I-0002｜论文目录与研究进度总索引（v3.39）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
-- [I-0003｜史料—事件—命题—争议总登记簿（v3.12）](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
+- [I-0002｜论文目录与研究进度总索引（v3.40）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
+- [I-0003｜史料—事件—命题—争议总登记簿（v3.13）](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
 - [I-0004｜卡拉迪亚历史研究学术分类法（CHC v2.1）](history/00/I-0004-academic-classification.md) · [云盘原件](https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit)
 ## history/01
 
@@ -63,11 +63,12 @@
 - [Q-0008｜H-0001—H-0004 逐句引注与英汉本地化复核（v1.1）](history/02/Q-0008-H0001-H0004-version-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1wfwd2clfqR95v2xaWUZjo90-hPGNOOjMfD0fOCpeqnY/edit)
 - [Q-0009｜卡拉德帝国相对年代与分期约束审查（v0.4）](history/02/Q-0009-imperial-relative-chronology.md) · [云盘原件](https://docs.google.com/document/d/1Ny-pOnhZYWiR5ES91vsSAv_YbrJgcV8Tt-wtPq7c-Tw/edit)
 - [Q-0010｜彭同、拉盖娅与涅雷采斯家族政治分流：谱系及法统审查（v0.2）](history/02/Q-0010-neretzes-penton-rhagaea-succession-evidence.md) · [云盘原件](https://docs.google.com/document/d/14-HU9CH3hLPHVTxJl_i3ILtDh2vrvLfgp5g7Wq4bHaI/edit)
-- [Q-0011｜H-0001—H-0005历史学方法与论证质量综合审查（v1.12）](history/02/Q-0011-historical-method-cross-review.md) · [云盘原件](https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit)
+- [Q-0011｜H-0001—H-0005历史学方法与论证质量综合审查（v1.13）](history/02/Q-0011-historical-method-cross-review.md) · [云盘原件](https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit)
 - [Q-0012｜王国沿革与帝国内战政治主张：英汉语境校勘（v0.4）](history/02/Q-0012-kingdom-descriptions-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1JkcbLRNaoVgmQlCvqvSNdAW0hopPg-X1ls8v7e_m1xM/edit)
 - [Q-0013｜卡拉迪亚历史研究阶段性评估与工作重定向（v0.1）](history/02/Q-0013-stage-review-and-research-redirection.md) · [云盘原件](https://docs.google.com/document/d/1p9844oEQ-kO7I7h5R_ymuU8SJ3I4Al-0prXki6f27mc/edit)
 ## history/03
 
+- [潘德拉克战役专题｜多国联盟、战场失利与胜利后的政治分裂（独立论文工作稿v0.1，未签发H号）](history/03/Pendraic-Battle-Research-Working-Draft.md) · [Google Docs原件](https://docs.google.com/document/d/1hc4HEGsIcvZ-y3sAwSlxAg-08yFbcUk4xA0hujGnDoM/edit)
 - [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化（研究稿v1.7；CHC-EMP-POL）](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
 ## history/90
 
