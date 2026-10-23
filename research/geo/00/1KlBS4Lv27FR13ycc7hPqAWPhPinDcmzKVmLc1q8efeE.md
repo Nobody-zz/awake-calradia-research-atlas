@@ -22,11 +22,11 @@ CGEO-O-REG-001　卡拉迪亚大陆地理区域划分与地域结构｜论文初
 
 # 四、正式研究目录：第三编（系统地理）
 
-CGEO-S-GEO-001　卡拉迪亚大陆地形与地貌研究｜拟研究  
+CGEO-S-GEO-001　卡拉迪亚大陆地形与地貌研究｜研究初稿 v0.1（2026-10-23）  
 CGEO-S-CLM-001　卡拉迪亚大陆气候与自然环境研究｜拟研究  
 CGEO-S-HYD-001　卡拉迪亚大陆河流水系与湖泊研究｜论文初稿 v0.1（2026-10-22；部分百科转录尚待原档与地图核验）  
 CGEO-S-BIO-001　卡拉迪亚大陆植被与自然景观研究｜拟研究  
-CGEO-S-TRN-001　卡拉迪亚大陆交通地理研究｜拟研究  
+CGEO-S-TRN-001　卡拉迪亚大陆交通地理研究｜研究初稿 v0.1（2026-10-23）  
 CGEO-S-ECO-001　卡拉迪亚大陆历史经济地理研究｜拟研究  
 CGEO-S-HUM-001　卡拉迪亚大陆历史人文地理研究｜拟研究  
 CGEO-S-POL-001　卡拉迪亚大陆历史政治地理研究｜拟研究
@@ -102,3 +102,14 @@ CGEO-S-HYD-001《卡拉迪亚大陆河流水系与湖泊研究——湖盆汇流
 四、证据权重不因翻译增加。英文原文与中文译文属于同一来源链，不是两份独立互证。英文作为语义底本也不意味着叙述必然真实或中立；官方开发说明、组织自述、机制说明与地图资源仍需按文类、版本和证据性质分别评价。
 
 五、现有案例与执行。Jumne River在中文译文中出现“朱姆内河／尤姆讷河”，应归并为同一英文对象；Gretysfjord在官方文献名单中是城镇专名，不得仅凭名称推定自然峡湾。历史研究中D-0067、D-0068所登记的“ineffective teenaged Emperor”与“coaxing their tenants into holy poverty”英汉差异同样说明：翻译损耗可能改变评价强度、年龄精度与社会关系解释。地理论文、证据登记与地名索引均须遵守这一原则。
+
+
+## 三十四、论文主线恢复（2026-10-23）
+
+按照既有CGEO分类编号，正式新增三篇**研究初稿 v0.1**，并保存为 Google Docs及GitHub Markdown双端文件：
+
+- **CGEO-S-GEO-001｜卡拉迪亚大陆地形与地貌研究**：[正文](https://docs.google.com/document/d/1pDODiOQ2PR0zz9q2Ximt4MBJwnl_EmZOXvwFdnXsTL0/edit)；[版本化快照](../03/GEO/CGEO-S-GEO-001.md)
+- **CGEO-S-TRN-001｜卡拉迪亚大陆交通地理研究**：[正文](https://docs.google.com/document/d/14GSDxuoxL26gnlT9ZG66VPkpRD79avovBlbwub4m7QM/edit)；[版本化快照](../03/TRN/CGEO-S-TRN-001.md)
+- **CGEO-N-N001-001｜卡拉德帝国历史政治地理研究**：[正文](https://docs.google.com/document/d/1dQTGRCmNPolxcENMKy2XWnnAr1uQB2w1BpPd35VbCng/edit)；[版本化快照](../05/N001/CGEO-N-N001-001.md)
+
+既有CGEO-O-GEN-001（v0.3）、CGEO-O-REG-001（v0.1）与CGEO-S-HYD-001（v0.2）增加阶段补论，不改变正式修订号，下一轮全文修订吸收本轮命题。研究主线恢复以自然地理、交通地理、区域及国家论文为中心。CGEO-MAP原始几何工程持续独立检核，不因地图海陆边界未完成而停止历史与区域地理论证；不得将PNG颜色解释为经过验证的海岸线。
