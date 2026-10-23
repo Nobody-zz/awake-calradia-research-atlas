@@ -125,3 +125,18 @@
 另外：两版都直接记载乌瑟莱姆（`castle_village_B8_1`）的橡、紫杉、松林及福林（`village_S1_2`）的林地转马场；加隆托（`castle_village_EW1_1`）的海岸耐盐草甸；阿利斯维斯特（`village_V9_2`）的沼泽排水种谷。它们可作为跨版本较稳定的局地描述，但版本文本同源，不能计作彼此完全独立的自然调查。
 
 **解释规则**：相同聚落键不等于相同景观文本；同一中文键沿用旧叙述也不代表新版英文可由之补证。森林树种、天然植被、农业经营、季节牧草及变更后的土地覆盖应分别立项，而不以经济活动标签直接绘制天然植被带。
+
+
+## 2026-10-24｜基础版北帝国聚落英文—简中语义偏差补录（CGEO-S-HUM 第三轮）
+
+本轮核查发现**同键对应、中文地名可用、但地理经济语义被误译**的两条风险。它与前文的“同键译文完全错置”不同：中文句子仍描述同一地点，只是关键动作或对象发生了偏移。校勘材料范围为用户文库 v1.4.8.119303 官方简中聚落条目与可检索同版本官方英语转录；本轮尚未重新完整解包 SandBox ZIP 逐字符串比对，暂作为**高可信待原包回读**的语义审校记录，不称已完成全部官方源档核验。
+
+| 聚落与字符串键 | 官方简中关键语义 | 对应基础版英文语义 | 对历史地理的影响 | 核查等级 |
+| --- | --- | --- | --- | --- |
+| 斯塔堤摩斯 Stathymos／`Settlements.Settlement.text.village_EN1_2` | “高地的溪流灌溉着山坡上的沃土” | “The highland streams wash fertile soil down the hillsides”：山溪向坡下冲运肥沃土壤 | 不应因中文“灌溉”就创设人工灌渠、地主灌溉工程史；当地谷地麦作仍有直接文字支持 | 英汉语义复核确认；原包本轮未复解 |
+| 俄耳特拉 Orthra／`Settlements.Settlement.text.village_EN5_2` | “从东方草原运来牧草，为帝国骑兵部队提供马匹” | “It was founded as a stud farm to breed imperial horses with steppe stock from the east”：较新军用育马场使用来自东部草原的育种牲畜／马种 | 被误译的贸易对象从活畜／马种变为草料；禁止据此建立东方向西长途干草路线；可以提出跨地域种畜育种联系但规模与路线仍未证 | 英汉语义复核确认；原包本轮未复解 |
+
+比较示范：CGEO-S-HUM北方新稿已依据这两处英文语义重写了麦田水土机制和军马供应机制；阿瓦辛顿村的英文“cleared away the thickets and thornbrush”是清除灌木与荆棘，不能无来源改写为伐尽成熟森林。以上风险无须否认官方译名的有效性，错误集中在动词和贸易对象，正是本项目“英语决定内涵、中文决定专名”的适用案例。
+
+英文对照页面：https://mountandblade.fandom.com/wiki/Stathymos ；https://huggingface.co/datasets/TSEOsiris/bannerlord-lore-dataset/viewer/default/train?p=24 。后者与前者均为文本再现或资料转录，不能视为来源相互独立的第二/第三官方证词。
+完整专题论文：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/imperial-northern-frontier-landscape-and-estates-2026-10-24.md ；https://docs.google.com/document/d/1yH8EtspASm4a9LYwph4AwUIZki7x_212KZALNC4FIK4/edit
