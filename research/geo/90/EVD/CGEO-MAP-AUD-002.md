@@ -81,3 +81,20 @@ Drive 中的原有 PNG 文件 ID 已被 v1.6 成品实际覆盖，并改名标�
 - [完整交付包 ZIP](https://drive.google.com/file/d/1lFhCTUe_i2IiMK_3wQd9gaqfza5iZu0v/view) — 4,538,085 B
 
 统一配色为深蓝外海、浅蓝近岸、浅绿低地、绿色中低地/丘陵、赭黄高地。原版与《战帆》继续分开记录；《战帆》港口坐标仍受 RES-012 候选坐标解释限制。
+
+
+## v1.7 配色重制（2026-10-23）
+
+v1.6 的配色结果不合格：低地偏白、海陆边界层次不稳定，且《战帆》地形曾错误地借用导航水域掩膜。v1.7 改为直接依据 RES-005 已解码高程分析面板的色相进行地形重渲染，外海使用较柔和的深蓝，近岸使用浅蓝制图带，低地使用浅鼠尾草绿，中高地采用分级绿，高地采用低饱和赭黄。
+
+- 原版高程面板裁切框：`[186, 71, 855, 740]`，映射到 `0–848` 场景单位。
+- 《战帆》高程面板裁切框：`[1054, 71, 1724, 740]`，映射到 `0–1040` 场景单位。
+- 不再把《战帆》导航水域掩膜套到高程图上；海域主体从高程面板蓝色分量与图框连通关系识别，近岸带是视觉强调，不代表实测水深。
+- 《战帆》水域—港口图仍为导航水域类别图，与原版显式河流 Paths 保持证据类别分离。
+
+四张地图原位更新在 Google Drive：
+- [原版地形图 v1.7](https://drive.google.com/file/d/1qRbn2JqQmEFeyZLVZtzwTx3SJIXv37fN/view)
+- [原版水系图 v1.7](https://drive.google.com/file/d/1tsx6G2G1EQzBY02rrZ8s0d6tX9suTKlk/view)
+- [《战帆》地形图 v1.7](https://drive.google.com/file/d/1YbF6zMWsnov7e9XBUJmnlTKn7tr0eYHd/view)
+- [《战帆》水域—港口图 v1.7](https://drive.google.com/file/d/1O-2VWngB_8sgDQZ1ckOTcb6f1B43gFZY/view)
+- [Google Drive 制图说明 v1.7](https://docs.google.com/document/d/1MMTodRv647wt4OzmGuKdGWwDRkEDEanBpl6StW63KeQ/edit)
