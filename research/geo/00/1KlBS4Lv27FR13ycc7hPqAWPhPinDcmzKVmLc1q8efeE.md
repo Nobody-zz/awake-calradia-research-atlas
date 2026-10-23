@@ -205,7 +205,7 @@ Baltakhand项目统一译为巴尔塔罕，而不再沿用研究暂译巴尔塔�
 
 
 ### 植被自然地理新稿登记（2026-10-24）
-CGEO-S-BIO-001《卡拉迪亚大陆植被与自然景观研究——森林类型、草地季相、湿地分布与景观改造的比较》已形成研究初稿 v0.1，并同步Google Docs与GitHub。论文研究多树种山林、北方老龄林、伊尔卡里亚林地与开垦地镶嵌、伊察拉平原盐渍疏草、纳哈撒短命春草、加隆托海岸耐盐草甸及人工排水湿地。自然景观的历史变化只有在同版地志明确记载砍伐、开垦、排水等过程时才予以承认，不以跨版地志改写为演替年代证据。
+CGEO-S-BIO-001《卡拉迪亚大陆植被与自然景观研究——森林类型、草地季相、湿地分布与景观改造的比较》已形成研究初稿 v0.1，并同步Google Docs与GitHub。论文研究多树种山林、北方老龄林、伊卡拉荒原林地与开垦地镶嵌、伊察拉平原盐渍疏草、纳哈撒短命春草、加隆托海岸耐盐草甸及人工排水湿地。自然景观的历史变化只有在同版地志明确记载砍伐、开垦、排水等过程时才予以承认，不以跨版地志改写为演替年代证据。
 正文：[GitHub](../03/BIO/CGEO-S-BIO-001.md)；[Google Docs](https://docs.google.com/document/d/1MzHUgiMoIIn35bwU4S5aWlM-OHIEn4r53v7LBD-mGzw/edit)。
 
 
@@ -227,3 +227,10 @@ CGEO-S-BIO-001《卡拉迪亚大陆植被与自然景观研究——森林类型
 **关键源级校勘**：斯塔堤摩斯英文“highland streams wash fertile soil down the hillsides”是山溪携带肥土，不等于官方简中“溪流灌溉”；俄耳特拉英文“breed imperial horses with steppe stock from the east”是用东部草原育种牲畜配种，而不是官方简中“从东方草原运来牧草”。如不校正会虚构灌渠史或长途干草贸易。英文语义本轮经有效v1.4.8转录校核；完整官方SandBox ZIP本轮未重新逐条解包，NavalDLC文本变动需分版核验。新增校勘记入CGEO-TOP-AUD-002，外部文学对照不能算独立第二史料。
 
 同卷下一优先：西部港市—农村供应与地方精英；东北森林采集—河谷市场及北方海岸食品贸易保持队列，避免过度集中一个国家。
+
+
+### 气候与植被专题：官方中文名称复核（2026-10-24）
+
+直接比对旧版百科（v1.4.8.119303）、当前提供的 Native.zip 实际内容、SandBox与NavalDLC两版英汉同键地志及NavalDLC新增诺德聚落名称键。CGEO-S-BIO-001订正拉诺克·亨（Llanoc Hen）、本盖兹（Bunqaz）、伊卡拉荒原（Irkaria／Ircara）与艾塔·德鲁因（Ailta Druin）。CGEO-S-CLM-001中“伊卡拉平原”属于误将Plain of Ichala与Ircara/Irkaria混同，已在可下载修订稿改成“伊察拉平原（研究暂译）”。埃博半岛为多数同键官方中文用法，官方内部亦存埃伯、伊博异译；新增诺德四处地名已获NavalDLC独立中文name键确认。
+
+**方法性发现：** 当前Native.zip无std_common_strings_xml简体中文表；旧百科虽注明其标题译名经该表解析，不能据此假装当前压缩包包含这份表。校勘矩阵见[CGEO-TOP-AUD-002](../90/EVD/CGEO-TOP-AUD-002.md)，所校勘的BIO论文已完成Google Docs和GitHub同步。
