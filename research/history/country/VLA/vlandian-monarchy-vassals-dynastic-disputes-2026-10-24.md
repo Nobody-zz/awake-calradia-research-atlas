@@ -139,3 +139,6 @@ SandBox/spclans.xml 的 XML 开发注释写：卡拉蒂尔德（Calatild）为�
 - **前置工作**：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-conquest-urban-transfer-regional-power-study-2026-10-24.md ；https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-historical-initial-baseline-major-questions-2026-10-24.md 。
 
 **结论**：国王既不能被还原为无制约的独裁者，也不能因经常调停就被判为软弱无能。官方生效文本证明了以封臣地权换取军役的王权起源、德泰尔时期反复领地冲突与仲裁政治、王室对帝国赠冠的复杂记忆。因加泰尔—卡拉蒂尔德之争极适于提出具体的限制大贵族兼并的研究问题，但作为历史事件必须等待有效叙事而非开发注释。
+
+## 瓦兰迪亚社会史新专题索引（2026-10-24）
+新增《瓦兰迪亚乡村地权、绿林兄弟会与沙拉斯叛乱：王国政治整合的社会成本》v0.1：依据已核官方英文 XML 与同键简中，比较佃农地权、绿林兄弟会转型、杰屈朗异见、沙拉斯行会反王室围城、海运粮商营利与贵族海岸搜捕、码头帮派及流民。特别注明 DLC 只记“戴·科尔坦男爵”而不记具体姓名，不能直接认定为因加泰尔；目前 StoryMode 包也未收录潘德拉克十九人访谈。GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandian-peasant-tenure-brotherhood-charas-rebellion-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1A0DVKq8f9fULHQhtsnr9v6N3lE9dQy3L2ZMORGLcHKI/edit。不分配 H 编号，不修改中央 S/E/P/D 登记。
