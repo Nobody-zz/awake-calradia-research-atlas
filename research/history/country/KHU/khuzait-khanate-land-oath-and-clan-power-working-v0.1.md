@@ -58,6 +58,10 @@
 
 （三）资深氏族的优先权与条件誓约论。阿契特贵族在 world_lore_strings.xml／yqn4Wtwr 宣称本部是库赛特诸部诞生传说中母狼的长子后代，因而原本应领导征服战争，但仍承认向兀儿浑所立的誓约；继承者也须守信，他们才继续守信。这里可观察到有别于汗室“土地受赐”论的另一种合法性语言：出身的优先权、先代盟誓和君主—氏族双方履约。母狼谱系是角色提出的起源神话，不是可按史实证明的共同祖先，也不能由此直接推导成某种固定选汗宪法。
 
+新增校验｜阿契特的旧有等级与兀儿浑乃特的后起统治。SandBox／ModuleData/spclans.xml 在 clan_khuzait_3（Arkit）定义后保留了一段 XML 开发注释，称阿契特为“天空之子”（Children of the Sky），是库赛特故地原来最富有、最具威望的部族；兀儿浑及其追随者起初只是地位卑微的旁支（a humble offshoot）。注释又记述阿契特西迁后不满居于历史较浅的统治谱系之下。这个未进入生效字段的编辑层材料，比单独的狼祖神话更明确地指出“旧贵族优势—新军事集团夺得汗位”的地位倒置。与之相对，spkingdoms.xml／fGNdo1BK 及 spcultures.xml／v5bWtXj1 作为生效叙述确认：兀儿浑率领近帝国边境诸部，在近两代组织征服、建立汗国；world_lore_strings.xml／yqn4Wtwr 中阿契特首领对本部本应主持征服的抱怨，在政治动机上与开发注释相合。因此，阿契特的地位不应被削弱为一般氏族单方面的“自夸”：至少在叙事设计中，它代表征服前的资深强宗；兀儿浑乃特则代表以征服军功取得最高统治权的新兴汗室（C级结构推论）。然而这**不能**推出兀儿浑乃特血缘共同体是在近两代才形成，也不能仅凭“旁支”确定它在生物谱系上必属于阿契特。
+
+证据限制｜spclans.xml 的这段文字是 XML 注释，不是生效的氏族 description 或独立历史文献；其中把“图拉格（Tulag）”写成当时可汗，又把“蒙楚格（Monchug）”写成阿契特首领，恰与生效 heroes.xml、spclans.xml 所列蒙楚格执掌兀儿浑乃特、阿契特由 Tulag 执掌不符。这显示开发注释包含早期人物安排，不能把它叙述的每一位首领关系或具体事件直接移植到1084年正式设定。它与世界观对白同属官方制作体系，不应按两名彼此独立的历史证人加权；能够相互校验的是旧宗资历与后来战争领袖掌权这一持续保留下来的叙事结构。
+
 三种陈述构成一幅更复杂的政治图景：可汗声称征服地赋予其统治资格，较弱氏族需要汗权保护既得权益，强势或自视资深的氏族则保留对君主履约提出条件的权利。是否会叛乱取决于保护和赏罚如何运作，不能直接从“部族传统自由”推出人人反对强汗。
 
 ## 六、分裂的结构条件与不宜过度解释的因果关系
@@ -113,7 +117,7 @@ A04 SandBox／ModuleData/heroes.xml／dead_lord_6_1／L4b5EWdD；lord_6_1／CzM6
 A05 SandBox／ModuleData/world_lore_strings.xml／YZyaxSbH、zR1ONwM8、6roMVNMW：蒙楚格自述的征服与土地权力主张。
 A06 同文件／dpYb59BB、RyrdJI5j、l4quU1x3：墨速宜对损失、氏族争地与强汗保护的政治解释。
 A07 同文件／yqn4Wtwr：阿契特贵族的资深神话与有条件效忠誓约。
-A08 SandBox／ModuleData/settlements.xml／town_K1 YNm9vaHw、town_K2 4UNOQQRa、town_K3 bPDqyqkb、town_K4 Dxnj5JQE、town_K5 SUnaVliN、town_K6 ygJkPxyc；另与 NavalDLC／ModuleData/settlements.xml／town_K4 jlLJSudl 校核。
+A13（开发注释与史料层级）SandBox v1.4.8／ModuleData/spclans.xml／clan_khuzait_3 后 XML 注释：Arkit 原为最富有且最有威望的故地部族；兀儿浑与追随者起初为 modest/humble offshoot；注释所述 Tulag／Monchug 身份与生效人物数据冲突，仅作设计史辅助证据。与 SandBox／ModuleData/world_lore_strings.xml／yqn4Wtwr、spkingdoms.xml／fGNdo1BK 对读，不计为独立互证。\nA08 SandBox／ModuleData/settlements.xml／town_K1 YNm9vaHw、town_K2 4UNOQQRa、town_K3 bPDqyqkb、town_K4 Dxnj5JQE、town_K5 SUnaVliN、town_K6 ygJkPxyc；另与 NavalDLC／ModuleData/settlements.xml／town_K4 jlLJSudl 校核。
 A09 同目录相关农村地志／castle_village_K3_1、village_K5_2、village_K6_1；权属字段仅用作当前配置，不直接充当历史产权证据。
 A10 以上相应官方简中存于各模块 Languages/CNs/std_*_xml-zho-CN.xml；关键解释均核对英文原义，文本复载不算独立互证。
 
