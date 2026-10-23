@@ -136,6 +136,6 @@ SandBox/spclans.xml 的 XML 开发注释写：卡拉蒂尔德（Calatild）为�
 - **氏族**：\`spclans.xml\` → clan_vlandia_1...9；氏族官方简中：\`Languages/CNs/std_spclans_xml-zho-CN.xml\`；具体附属注释位于这些 Faction 定义之前/之后，须识别 XML 注释节点。
 - **因加泰尔英文通用名**：\`SandBoxCore/ModuleData/spcultures.xml\`，\`iaUQ9lt9\` → Ingalther；同版 \`Languages/CNs/std_spcultures_xml-zho-CN.xml\` 未收录该键；中文通称经 2020 年访谈整理、骑砍中文百科、2025 年人物资料互校，非同键独立验证。
 - **中文二手参考**：https://www.doyo.cn/article/412862?p=9 ；https://wiki.mountbladecn.com/index.php?title=%E7%93%A6%E5%85%B0%E8%BF%AA%E4%BA%9A&variant=zh-cn ；https://www.gamersky.com/handbook/202511/2051789_7.shtml 。
-- **前置工作**：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandian-conquest-urban-transfer-regional-power-study-2026-10-24.md ；https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-historical-initial-baseline-major-questions-2026-10-24.md 。
+- **前置工作**：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-conquest-urban-transfer-regional-power-study-2026-10-24.md ；https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-historical-initial-baseline-major-questions-2026-10-24.md 。
 
 **结论**：国王既不能被还原为无制约的独裁者，也不能因经常调停就被判为软弱无能。官方生效文本证明了以封臣地权换取军役的王权起源、德泰尔时期反复领地冲突与仲裁政治、王室对帝国赠冠的复杂记忆。因加泰尔—卡拉蒂尔德之争极适于提出具体的限制大贵族兼并的研究问题，但作为历史事件必须等待有效叙事而非开发注释。
