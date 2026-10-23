@@ -1,6 +1,6 @@
 # I-0003｜史料—事件—命题—争议登记簿
 
-第一轮登记：H-0004及既有帕拉史研究｜基础版v1.0；追加校勘v3.4｜2026年10月23日｜保留既有S-0052—S-0058、P-0057—P-0065、D-0043—D-0057；新增S-0059—S-0064、E-0026—E-0027、P-0066—P-0080、D-0058—D-0070。已重新物化并校验SandBox v1.4.8官方源文件，完成达西边疆与拉盖娅谱系线索的定向核验，并登记达鲁索斯被将领废黜及火焰余烬复辟信仰的源级材料。本轮进一步核对SandBoxCore的Culture.empire键X0kKBzsW与Culture.aserai键a2AjI8nc，登记“submit to it”被译为“接受卡拉德理想”所弱化的政治服从关系，以及“such as it is”限定语被简中省略的差异；前者用于深化H-0003对帝国自我合法化话语的解释，后者留待阿塞莱政治共同体专题。两项均以英文上下文为依据，区分直接本地化差异与解释性推论，不据此虚构各时期实际政策或阿塞莱人缺乏共同身份。H-0005已更新至v1.6；Q-0007更新至v0.5；Q-0008更新至v1.2；Q-0009维持v0.4，Q-0010维持v0.2。Q5-09仍开放，未改动已签发时间线正典。
+第一轮登记：H-0004及既有帕拉史研究｜基础版v1.0；追加校勘v3.5｜2026年10月23日｜保留既有S-0052—S-0064、E-0026—E-0027、P-0057—P-0080、D-0043—D-0070；新增S-0065、P-0081—P-0084、D-0071—D-0074。已重新读取项目对话资料库中的SandBox.zip与file_manifest.csv，并核验SandBox v1.4.8的spkingdoms.xml、英文语言表和官方简中语言表的SHA-256；逐条检查八个政治实体描述。本轮登记南帝国谱系宣称被翻译为直接自称国王／英雄、拉盖娅的动机被译文具体化、西帝国帕拉语言习俗“mostly forgotten”被强化为“消亡殆尽”，以及南帝国城镇经济排名范围被绝对化。该批材料属于同一官方世界观的基础XML与语言表，不作独立互证；阵营概述中的政治主张仍须与人物自述、制度史及其他文类分开。H-0005现行稿v1.6；Q-0007 v0.5；Q-0008 v1.2；Q-0009 v0.4；Q-0010 v0.2；Q-0012 v0.1新建。Q5-09仍开放，未改动已签发世界书正典。
 
 ## A. 来源声明
 
@@ -574,9 +574,6 @@ P-0079【A：英汉本地化差异；B：上下文叙事解释】SandBoxCore/Mod
 P-0080【A：英汉本地化差异；B：措辞语境解释】SandBoxCore/ModuleData/spcultures.xml，Culture id=aserai，文本键a2AjI8nc。英文称“Their sense of nationhood, such as it is, comes from tracing their lineage to this legendary patriarch.”官方简中保留了民族意识与祖先谱系相关的主旨，但省略“such as it is”这一带保留意味的限定语，使表述比英文更为肯定。该差异只证明英文叙述对民族意识程度作了限定，不证明阿塞莱人客观上缺乏共同身份；研究时应区分部族谱系、共同祖先传说、政治联盟与民族意识的整合程度。
 D-0066｜达鲁索斯事件的相对年代与来源立场：官方文本中的“近一个世纪前”修饰反叛运动的兴起，而达鲁索斯被推翻发生在该运动之前；不得将该措辞直接当作政变的绝对年份。即使以1084年开局为参照，将运动大致放在十世纪末附近也只是条件性换算，不是官方直接纪年。组织沿革具有复辟立场；同一组织的入场对白与同伴自述只能补充其宗教和社会活动形象，不能算作独立中立互证。
 
----
-
-Source of truth: [Google Docs](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
 
 D-0067｜达鲁索斯描述的英汉语义强度与年龄精度差异：SandBox v1.4.8的spclans.xml及官方语言表键B8c2mNKj，英文称“ineffective teenaged Emperor Darusos”，官方简中译为“无能的年轻皇帝达鲁索斯”。“无能”较“ineffective”更容易被理解为对个人能力的全面否定；“年轻”又弱化了teenaged所给出的少年年龄限定。H-0005 v1.5按英文底本改为“圣洁但施政乏力的少年皇帝”。这是同一官方文本的本地化差异，不构成独立互证。
 
@@ -584,3 +581,24 @@ D-0068｜火焰余烬同伴自述的英汉语义偏移与上下文反讽：compa
 D-0069｜Culture.empire键X0kKBzsW的帝国自我合法化措辞：英文“submit to it”被官方简中译为“接受卡拉德理想”，淡化了边境外群体须服从该理想的政治含义。与同段的无王传统、征服邻邦、帝国化、地主领袖和富人扈从并读时，和平统一并非不带权力条件的普遍主义承诺，而是以外部群体接受卡拉德主导秩序为前提的叙事表达。该项支持修辞层面的历史解释，不直接证明所有卡拉德政权在各时期实施了同一套强制政策。
 D-0070｜Culture.aserai键a2AjI8nc的民族意识限定语本地化缺失：英文“Their sense of nationhood, such as it is”通过“such as it is”保留对其民族意识程度的限定，官方简中省去该语，直接说“他们的民族意识来自于……”，令表述更为肯定。研究者应保留英文原文的谨慎语气；此差异不构成阿塞莱人缺乏共同身份的证据，亦不应将“nationhood”直接套入现代民族国家概念。
 
+S-0065｜SandBox/ModuleData/spkingdoms.xml；SandBox/ModuleData/Languages/std_spkingdoms_xml.xml；SandBox/ModuleData/Languages/CNs/std_spkingdoms_xml-zho-CN.xml｜Bannerlord v1.4.8｜王国沿革、区域社会与内战政治主张。相关键：Xtyb9Dyr（Southern Empire）与mOZsbV8j（Western Empire）。SHA-256：spkingdoms.xml=1D0664283C916DBBD11A02BCD55BBBA75E1DE10354B54BD35508F59720DDE41A；英文语言表=176B13DD1FF8F007CA591A74112C610382EEECB28D4AB5A56A09C76C9479908D；官方简中语言表=0EC14C3871DC92988413FF86E66583740780BDC1D84D486917E529BC78FBC5D8。本轮从项目对话资料库的SandBox.zip及file_manifest.csv读取并校验原始文件哈希。英文原始文本与英文语言表在两个相关键上相同，属于同一官方来源链，不作独立互证；简中语言表用于本地化比较。
+
+P-0081【A：英汉本地化差异；B：政治谱系语境解释】SandBox/ModuleData/spkingdoms.xml，南帝国文本键Xtyb9Dyr。英文“claimed descent from the kings, champions and demigods of eastern legends”指当地商业巨子与游牧酋长中的许多人声称具有东方传说中的国王、英雄和半神血统；简中“称自己为国王、传奇勇士甚至东方传说中半神的后裔”则容易被读成直接自称国王／勇士，只有半神保留后裔关系。该差异将谱系宣称部分改写为身份／头衔宣称。可用于讨论官方叙事中南方精英的祖先合法性话语；不能证明该谱系真实存在，也不能把简中措辞作为原文直接证据。
+
+P-0082【A：英汉本地化差异；B：叙述立场与动机推论边界】SandBox/ModuleData/spkingdoms.xml，南帝国文本键Xtyb9Dyr。英文写道：“The southern nobility's support for Rhagaea, an unapolegetic advocate of the dynastic principle, would seem to confirm these fears.”源文件与英文语言表均将“unapolegetic”如此拼写，依语境极可能是“unapologetic”的拼写错误。英文直接称拉盖娅为坚定的王朝／世袭原则倡导者，并说南方贵族支持她“似乎证实”其他元老院家族对世袭君主的担忧；官方简中另加“也乐于将这种顾虑付诸现实”，把叙述者的谨慎推断强化为拉盖娅本人的明确实施意图。该差异不否定其公开的王朝原则立场，但译文新增的具体动机不可当作英文直接陈述，也不能据此裁定她的全部政治目标。
+
+P-0083【A：英汉本地化差异；B：文化同化解释的边界】SandBox/ModuleData/spkingdoms.xml，西帝国文本键mOZsbV8j。英文称帕拉人与卡拉德殖民者通婚后，其古老语言与习俗“are mostly forgotten”；官方简中译为“如今已消亡殆尽”。“大多被遗忘”描述传承、记忆或使用的弱化，不等于语言和习俗已近乎完全灭绝。前文征服与通婚支持文化同化的解释，但此段不能单独证明帕拉语已灭绝或所有帕拉文化实践均已消失。
+
+P-0084【A：英汉本地化差异；B：比较性断言强度】SandBox/ModuleData/spkingdoms.xml，南帝国文本键Xtyb9Dyr。英文称这些城镇成为大陆“some of the richest and most populous”，即跻身最富裕、人口最多的一部分城镇；官方简中“人口最多且最富裕的地区”更容易被读成确定的最高排名。该句是定性比较，不含统计资料；研究中应使用“最富裕、人口最多的城镇之一／之列”，不据简中强化措辞建立唯一第一的排名结论。
+
+D-0071｜南帝国精英谱系宣称的翻译偏移：Xtyb9Dyr英文“claimed descent from the kings, champions and demigods”描述祖先血统主张，官方简中句式却容易被理解为当事人直接自称国王或传奇勇士。研究中应保留“宣称具有某种谱系”的语义层级；该段记载的是官方叙事中的身份主张，不是谱系本身的独立证明。
+
+D-0072｜拉盖娅政治意图的译文强化：Xtyb9Dyr英文称拉盖娅坚定支持dynastic principle，并说南方贵族对她的支持“would seem to confirm these fears”；官方简中增加“也乐于将这种顾虑付诸现实”，把其他元老院家族的担忧与叙述者推断强化为她本人的明确意图。可确认的是其王朝原则立场；具体计划与个人动机仍需其他文本支持。英文拼写“unapolegetic”见于原始XML及英文语言表，极可能是“unapologetic”的源文本拼写错误。
+
+D-0073｜帕拉语言与习俗存续程度的译文强化：mOZsbV8j英文“mostly forgotten”被官方简中处理为“消亡殆尽”。前者说大多被遗忘，后者暗示近乎灭绝；此差异会影响文化同化叙述的确定程度。不得将此条直接作为帕拉语已经灭绝的证据。
+
+D-0074｜南帝国城镇经济排名范围的译文绝对化：Xtyb9Dyr英文“some of the richest and most populous”表示跻身最富裕、人口最多的一部分城镇，官方简中“人口最多且最富裕”省去了some of的范围限制。该描述不提供量化排名；后续论文应保留相对性表达。
+
+---
+
+Source of truth: [Google Docs](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
