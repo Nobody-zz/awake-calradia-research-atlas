@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-版本：v3.14｜2026年10月23日
+版本：v3.15｜2026年10月23日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -40,11 +40,11 @@ Google Docs：https://docs.google.com/document/d/1vjDCwnByypArSpeNcUe0-UKkdlr0nD
 
 ## 进行中研究与后续计划（题名可调整；H编号仅在完整稿完成后分配）
 
-H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化｜正式分类号：CHC-EMP-POL｜辅线B·制度史｜现行研究稿 v1.3（2026-10-23，Q5-09仍开放，未定稿）。本轮直接读取Library中的SandBox.zip和官方英中组织文本，新增“火焰余烬”B8c2mNKj记载的达鲁索斯皇帝遭将领废黜与后继反叛运动，形成在位废立、潘德拉克后元老院选立阿雷尼科斯、阿雷尼科斯身后多方争位的三类权力更替比较。新史例推进成熟帝国的制度史，但不构成早期皇权首次延任的独立年代证明。2018帝国史概述“二十年前即位”与玩家主线对白转录潘德拉克1077年之间存在条件性时间张力；本轮已物化StoryMode.zip但仍未得到对应对白的可直接核验原文，精确年份问题继续开放。军权持续与公共集会受控的双核心假说保持首选，下一步补足实际历史事件链。
+H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化｜正式分类号：CHC-EMP-POL｜辅线B·制度史｜现行研究稿 v1.3（2026-10-23，I-0003 v3.1已登记达鲁索斯史料，Q5-09仍开放，未定稿）。本轮直接读取Library中的SandBox.zip和官方英中组织文本，新增“火焰余烬”B8c2mNKj记载的达鲁索斯皇帝遭将领废黜与后继反叛运动，形成在位废立、潘德拉克后元老院选立阿雷尼科斯、阿雷尼科斯身后多方争位的三类权力更替比较。新史例推进成熟帝国的制度史，但不构成早期皇权首次延任的独立年代证明。2018帝国史概述“二十年前即位”与玩家主线对白转录潘德拉克1077年之间存在条件性时间张力；本轮已物化StoryMode.zip但仍未得到对应对白的可直接核验原文，精确年份问题继续开放。军权持续与公共集会受控的双核心假说保持首选，下一步补足实际历史事件链。
 
 Google Docs：https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit
 
-编号沿用P-0018—P-0033、E-0009—E-0014、D-0008—D-0013；本轮新增达鲁索斯事件及阿雷尼科斯断代冲突的正文研究，相关新史料与争议尚待I-0003顺序编目，不能在此擅自分配P/E/D/S新号。下一步优先核对主线对白1077年原始出处、达鲁索斯废立与元老院实践之间是否有独立材料，不以编目代替论文论证。
+编号沿用P-0018—P-0033、E-0009—E-0014、D-0008—D-0013；本轮新增达鲁索斯事件及阿雷尼科斯断代冲突的正文研究，相关新增史料、事件与研究命题已在I-0003 v3.1依次登记为S-0062—S-0064、E-0027、P-0076—P-0077及D-0066；原有年代争议继续使用P-0065、D-0053，不重复设号。下一步优先核对主线对白1077年原始出处、达鲁索斯废立与元老院实践之间是否有独立材料，不以编目代替论文论证。
 
 Google Docs：https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit
 
@@ -115,6 +115,8 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 11. Q-0011 v0.7第七轮正文机制修订（2026-10-23）：修订前实测H-0001—H-0005的Docs/GitHub正文段落数依次为78、132、146、128、131，615段均一致。新一轮不重复旧有的三城对照、五案比较、三机构分层与军权四判据：H-0003在第五节及结论新增“领土服从、保护关系、地方显贵吸纳与中央政治资格可能不同步”的实质机制和竞争反证；H-0004升至v0.10，按费卡翁战时集结、拉革塔/洛塔什地方处置与密泽亚保护性归附区分政治行为的尺度，给出地区霸权、临时联盟与文化网络的识别检验。H-0001、H-0002、H-0005现行论证保持不变。Q-0011升至v0.7：H-0001、H-0002、H-0004阶段性有条件通过，H-0003继续制度形成史复核，H-0005 v1.2维持研究稿，Q5-09开放。原件：https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0011-historical-method-cross-review.md。没有重新逐页核验现实比较文献，也没有修改正典、CHC或H系列档案号；H-0006仍未分配。
 
 12. H-0005 v1.3原始史料推进（2026-10-23）：本次从Library直接提取SandBox、SandBoxCore、NavalDLC、StoryMode官方原始ZIP，已实读spclans.xml的B8c2mNKj和官方简体中文“达鲁索斯／火焰余烬”，新增成熟帝国在位皇帝被将领废黜的历史个案；与heroes.xml的lord_1_5有关战后元老院择君的独立人物记述及1084年争位比较，避免把不同的权位更替程序混同。记录2018《Empire – Part 1》“二十年前”与1077年玩家对白转录之间的条件性年代冲突；当前ZIP尚未覆盖相关主线领主对白原件，不能据此虚构中间皇帝或改造时间线。H-0005保留研究稿v1.3和Q5-09开放状态，H-0006未分配。Google Docs：https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md。
+
+13. I-0003 v3.1达鲁索斯专题证据入库（2026-10-23）：源编号S-0062—S-0064分别对应火焰余烬组织沿革B8c2mNKj、组织对白iOnsulPb及相关同伴宗教政治自述；E-0027登记先废帝后出现反叛运动的最低事件顺序；P-0076—P-0077分别标识废立历史叙述与复辟宗教政治主张；D-0066登记“近一世纪”具体指反叛运动而非精确政变年份，以及组织立场与独立性限制。既有阿雷尼科斯相对纪年问题沿用P-0065/D-0053，不设新重复编号。I-0003 Google Docs：https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md。
 
 ---
 
