@@ -35,13 +35,13 @@ SandBoxCore/ModuleData/spcultures.xml的帝国文化正文X0kKBzsW称，卡拉�
 
 尤其不能把共和修辞误作人人享有相同政治自治权：文化正文末尾说帝国相信自己可将卡拉德理想扩展为大陆和平，条件是边外“barbarians”愿意“submit to it”。在“平衡自由”与“要求蛮族服从”的并置中，官方文字隐含**中心公民自治与对外殖民支配的张力**。这不是证明所有帝国人都是蓄意伪善，而是提醒世界内部的“自由”可能有政治边界，不能替代对被征服者实际资格的考察。
 
-反证：其他地区同样存在共和政体。Quyaz（town_A1/1ImuW3My）被地志称为曾控制西洋—珀拉斯海贸易的坎尼商业共和国；帝国霸权逐渐扼杀其贸易，之后地方统治者被纳哈萨雇佣兵取代，城邦间歇性受到帝国征服。其兴衰未必与卡拉德共和国同时，亦不能从“霸权压垮贸易”推断帝国执行具体封港税法。但它至少驳斥“共和国是卡拉德人独有发明”或“反王制必然与帝国反霸权一致”的文化本质主义。
+反证：其他地区同样存在共和政体。古亚兹（Quyaz，town_A1/1ImuW3My）被地志称为曾控制西洋—珀拉斯海贸易的坎尼商业共和国；帝国霸权逐渐扼杀其贸易，之后地方统治者被纳哈萨雇佣兵取代，城邦间歇性受到帝国征服。其兴衰未必与卡拉德共和国同时，亦不能从“霸权压垮贸易”推断帝国执行具体封港税法。但它至少驳斥“共和国是卡拉德人独有发明”或“反王制必然与帝国反霸权一致”的文化本质主义。
 
 ## 三、扩张时期：帝国的领土不是单一法律关系的均质空间
 
 早期沙拉斯、巴拉维诺斯和俄耳堤西亚之间可见殖民起点、都城更替和“mother republic”政治亲缘叙述，但并没有统一可定年的殖民地自治法。帝国对帕拉地区有多个并行接口：
 - 密泽亚的李图通过抵御草原袭扰的保护关系促成较和平的归附（town_EN5/8UJ3cPrZ），又因元老院竞争试图动员另一个共和政权；
-- 阿尔戈隆当地拉科尼亚首领加入元老院，地方与卡拉德移民通婚（town_EN4/LqPJY4s9）；
+- 阿尔戈隆（Argoron，研究暂译，独立官中名称键待核）当地拉科尼亚首领加入元老院，地方与卡拉德移民通婚（town_EN4/LqPJY4s9）；
 - 拉革塔的佣兵先以暴力夺城后献纳，元老院谴责其做法但接受领土结果（town_EW1/ZAGUIKOn）；
 - 吕卡隆先经和平合邦，后来遭叛军夺取，周围银矿使其在数百年中成为帝国皇位觊觎者反复争夺的据点（town_ES4/WGtzBswe）。
 
@@ -96,7 +96,7 @@ SandBoxCore/ModuleData/spcultures.xml，vlandia／1Ww5lg6I说来自海上的瓦�
 
 SandBox/ModuleData/spkingdoms.xml，sturgia／bVihnRUu更明确说来自帝国的压力促使北方诸国共同推举军事领袖，随后王公职位逐渐世袭。其主要主体仍是北方贸易城市、部族首领、诺德及其他雇佣兵组成的联盟；不能说帝国“建立了斯特吉亚”，只能说帝国压力**参与改变其政治整合条件**。这反过来提示卡拉德自身持续战争—最高军权集中机制并非唯一文明所有：在边界另一侧，外部压力亦可能使非帝国集团更集中地组织战争。
 
-SandBox/ModuleData/settlements.xml，奥斯蒂坎（Ostican，town_V8/Eb7Lgq10）还保存帝国晚期不同政治派系利用北方海盗袭击对手的回顾；这些以帝国冲突为收入来源的海上人群，与较早瓦兰迪亚移民接触并定居当地。地志猜测他们可能把财富消息传给亲族，原句“no doubt”是作者推论，不是可证具体通信史。它进一步提示**帝国内部政治竞争会制造边疆外部暴力企业家的就业机会**，可能回流为长时段边疆压力。
+SandBox/ModuleData/settlements.xml，Ostican（town_V8/Eb7Lgq10；既有研究暂译“奥斯蒂坎”，独立官中名称键待核）还保存帝国晚期不同政治派系利用北方海盗袭击对手的回顾；这些以帝国冲突为收入来源的海上人群，与较早瓦兰迪亚移民接触并定居当地。地志猜测他们可能把财富消息传给亲族，原句“no doubt”是作者推论，不是可证具体通信史。它进一步提示**帝国内部政治竞争会制造边疆外部暴力企业家的就业机会**，可能回流为长时段边疆压力。
 
 ## 八、1077—1084：旧军团的终结与最高权位的争夺为何不是同一件事
 
@@ -177,7 +177,7 @@ SandBox/ModuleData/spclans.xml，legion_of_the_betrayed／bhxVA9w7，直接叙�
 **有效英文原始XML**：
 - SandBoxCore/ModuleData/spcultures.xml：Empire/X0kKBzsW，Vlandia/1Ww5lg6I。
 - SandBox/ModuleData/spkingdoms.xml：Empire北aEfsyVH4、西mOZsbV8j、南Xtyb9Dyr；Vlandia/IudGLWQZ；Sturgia/bVihnRUu。
-- SandBox/ModuleData/settlements.xml：贾尔马律斯town_EW3/TI3fS2xN；沃斯特鲁姆town_ES2/ytBRXqt8；密泽亚town_EN5/8UJ3cPrZ；阿尔戈隆town_EN4/LqPJY4s9；拉革塔town_EW1/ZAGUIKOn；吕卡隆town_ES4/WGtzBswe；罗瓦拉堤斯town_V9/1SnAH5K8；Quyaz town_A1/1ImuW3My；奥斯蒂坎town_V8/Eb7Lgq10。
+- SandBox/ModuleData/settlements.xml：贾尔马律斯town_EW3/TI3fS2xN；沃斯特鲁姆town_ES2/ytBRXqt8；密泽亚town_EN5/8UJ3cPrZ；Argoron（暂译“阿尔戈隆”）town_EN4/LqPJY4s9；拉革塔town_EW1/ZAGUIKOn；吕卡隆town_ES4/WGtzBswe；罗瓦拉堤斯town_V9/1SnAH5K8；古亚兹Quyaz town_A1/1ImuW3My；Ostican（地名官中待核）town_V8/Eb7Lgq10。
 - SandBox/ModuleData/spclans.xml：秘密之手hidden_hand/nQOf27Rx；自由民eleftheroi/9qAWNBvA；被弃者军团legion_of_the_betrayed/bhxVA9w7。
 - SandBox/ModuleData/heroes.xml：彭同lord_1_5/04xAg0yN；阿庇斯·瓦罗斯/xL95EfpQ；厄庇斐里娅/SeQ5dM4H；法戎/pl86rbh9。
 - SandBox/ModuleData/world_lore_strings.xml：卢孔Cx2FCePF、拉盖娅SCogGc7N、加里俄斯uK4IX036。
