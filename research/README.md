@@ -1,4 +1,4 @@
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。当前工作方向不再按手头已完成的论文递推：以全大陆各历史共同体的形成、演变、互动与1084年前后多元格局为总问题，从研究对象、时期、领域和证据来源四方面先建立总体摸底，再用跨区域比较和明确反例决定正式论文的先后顺序。最新已核验的工作基底为《全大陆史料覆盖摸底与历史问题图谱》v0.1（非H/I/Q编号），包含67份清单对54份实得XML的覆盖差异、六大主要文化与九项王国历史概述的初步比较、原版493/有叙事327与DLC540/有叙事365聚落、271处英文异文的字面统计、55项历史研究问题及帝国中心／自主国家形成／边疆互动三个竞争解释。后续先核对国家之间的财富、军役、土地、贸易、婚姻、宗教与迁徙关系，标出相对年代与史料语气；不能因新的有趣事件立即开一篇论文，也不把分类法误作研究纲领。Q-0013 v0.3已据此替换旧P0潘德拉克单篇优先安排，I-0002 v3.41登记摸底里程碑。此前潘德拉克独立战役工作稿v0.1、H-0001—H-0005原有成果和I-0003 v3.13史料登记均保留，未经新证据不升格主线转录为A类、亦不强行解决StoryMode缺口。当前未取得Native9与StoryMode4的原始文件，不能宣称这13份已经阅读。英文原始版本、官方简中及开发博客保持史料层次区别，地图版本差异不等于历史地形变化；Q5-09仍开放，H-0006未分配，已签发正典不变。当前登记日期：2026-10-23。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。新立的国别及跨国研究在摸底、阶段稿、待审阶段统一按I-0004 v2.2 CHC分类＋题名＋文档链接归档；同一类别可收多篇，CHC不是独立文档号。国别研究允许分对话独立积累但共享I-0003事实／争议档案；H编号仅为满足内部完整论文标准后的成果序号，现有H-0001—H-0005保留，未预分配H-0006。当前工作方向不再按手头已完成的论文递推：以全大陆各历史共同体的形成、演变、互动与1084年前后多元格局为总问题，从研究对象、时期、领域和证据来源四方面先建立总体摸底，再用跨区域比较和明确反例决定正式论文的先后顺序。最新已核验的工作基底为《全大陆史料覆盖摸底与历史问题图谱》v0.1（非H/I/Q编号），包含67份清单对54份实得XML的覆盖差异、六大主要文化与九项王国历史概述的初步比较、原版493/有叙事327与DLC540/有叙事365聚落、271处英文异文的字面统计、55项历史研究问题及帝国中心／自主国家形成／边疆互动三个竞争解释。后续先核对国家之间的财富、军役、土地、贸易、婚姻、宗教与迁徙关系，标出相对年代与史料语气；不能因新的有趣事件立即开一篇论文，也不把分类法误作研究纲领。Q-0013 v0.4已据此替换旧P0潘德拉克单篇优先安排，I-0002 v3.42登记摸底里程碑。此前潘德拉克独立战役工作稿v0.1、H-0001—H-0005原有成果和I-0003 v3.13史料登记均保留，未经新证据不升格主线转录为A类、亦不强行解决StoryMode缺口。当前未取得Native9与StoryMode4的原始文件，不能宣称这13份已经阅读。英文原始版本、官方简中及开发博客保持史料层次区别，地图版本差异不等于历史地形变化；Q5-09仍开放，H-0006未分配，已签发正典不变。当前登记日期：2026-10-23。
 
 ## geo/00
 
@@ -40,11 +40,11 @@
 
 ## history/00
 
-- [全大陆史料覆盖摸底与历史问题图谱（工作调查v0.1；55个历史问题，非正式H/I/Q编号）](history/00/continental-historical-baseline-question-atlas-2026-10-23.md) · [Google Docs原件](https://docs.google.com/document/d/1ezcXq-rZCPNRNjvhP1VuoLqhCoZHxyJgxzEtyCMCsrM/edit)
+- [CHC-CAL-SRC｜全大陆史料覆盖摸底与历史问题图谱（工作调查v0.1；55个历史问题，未授H）](history/00/continental-historical-baseline-question-atlas-2026-10-23.md) · [Google Docs原件](https://docs.google.com/document/d/1ezcXq-rZCPNRNjvhP1VuoLqhCoZHxyJgxzEtyCMCsrM/edit)
 - [I-0001｜研究总纲、史学方法与交叉校验规范（v1.4）](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
-- [I-0002｜论文目录与研究进度总索引（v3.41）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
+- [I-0002｜论文目录与研究进度总索引（v3.42）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
 - [I-0003｜史料—事件—命题—争议总登记簿（v3.13）](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
-- [I-0004｜卡拉迪亚历史研究学术分类法（CHC v2.1）](history/00/I-0004-academic-classification.md) · [云盘原件](https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit)
+- [I-0004｜卡拉迪亚历史研究学术分类法（CHC v2.2；未授H研究先行归类）](history/00/I-0004-academic-classification.md) · [云盘原件](https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit)
 ## history/01
 
 - [H-0001｜卡拉德人的早期建城与殖民网络：沙拉斯、巴拉维诺斯与俄耳堤西亚（CHC-CAL-SET）｜第十一轮英汉语境源级修订完成，mother republic主权证据边界已补](history/01/12k-lzV-dPYHMQUyxFBeGWQvTp6LpmP-qV0FYrG6Pd4s.md) · [云盘原件](https://docs.google.com/document/d/12k-lzV-dPYHMQUyxFBeGWQvTp6LpmP-qV0FYrG6Pd4s/edit)
@@ -66,10 +66,10 @@
 - [Q-0010｜彭同、拉盖娅与涅雷采斯家族政治分流：谱系及法统审查（v0.2）](history/02/Q-0010-neretzes-penton-rhagaea-succession-evidence.md) · [云盘原件](https://docs.google.com/document/d/14-HU9CH3hLPHVTxJl_i3ILtDh2vrvLfgp5g7Wq4bHaI/edit)
 - [Q-0011｜H-0001—H-0005历史学方法与论证质量综合审查（v1.13）](history/02/Q-0011-historical-method-cross-review.md) · [云盘原件](https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit)
 - [Q-0012｜王国沿革与帝国内战政治主张：英汉语境校勘（v0.4）](history/02/Q-0012-kingdom-descriptions-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1JkcbLRNaoVgmQlCvqvSNdAW0hopPg-X1ls8v7e_m1xM/edit)
-- [Q-0013｜全大陆问题导向研究执行纲领（v0.3；当前工作方向）](history/02/Q-0013-stage-review-and-research-redirection.md) · [云盘原件](https://docs.google.com/document/d/1p9844oEQ-kO7I7h5R_ymuU8SJ3I4Al-0prXki6f27mc/edit)
+- [Q-0013｜全大陆问题导向研究执行纲领（v0.4；CHC先行与国别并行）](history/02/Q-0013-stage-review-and-research-redirection.md) · [云盘原件](https://docs.google.com/document/d/1p9844oEQ-kO7I7h5R_ymuU8SJ3I4Al-0prXki6f27mc/edit)
 ## history/03
 
-- [潘德拉克战役专题｜多国联盟、战场失利与胜利后的政治分裂（独立论文工作稿v0.1，未签发H号）](history/03/Pendraic-Battle-Research-Working-Draft.md) · [Google Docs原件](https://docs.google.com/document/d/1hc4HEGsIcvZ-y3sAwSlxAg-08yFbcUk4xA0hujGnDoM/edit)
+- [CHC-CAL-MIL｜潘德拉克战役专题：多国联盟、战场失利与胜利后的政治分裂（独立论文工作稿v0.1，未授H号）](history/03/Pendraic-Battle-Research-Working-Draft.md) · [Google Docs原件](https://docs.google.com/document/d/1hc4HEGsIcvZ-y3sAwSlxAg-08yFbcUk4xA0hujGnDoM/edit)
 - [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化（研究稿v1.7；CHC-EMP-POL）](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
 ## history/90
 
