@@ -177,3 +177,19 @@
 ### 论文处理
 
 CGEO-S-BIO-001 的上述四类不当中文用名已逐处更正，Google Docs 与 GitHub 版同时修订；该篇研究将伊察拉明确标注为研究暂译。CGEO-S-CLM-001 气候初稿中“伊卡拉平原”改为“伊察拉平原（Plain of Ichala，研究暂译）”，保留此前已经成立的气候分版论证。上述名称校核不能替代文本地志之外的地图实体和历史断代判断。
+
+
+## 2026-10-24｜加伦 town_V5／79R6gi4l：集纳鱼获和羊毛被误译为可见风景
+
+本轮CGEO-S-HUM经济地理重新核对基础版 SandBox 英文 Galend 城镇条目与项目保存简中《encyclopedia-zh-cn.md》（v1.4.8），发现**方向性经济动词和货物对象被系统性漏译**，直接改变城市腹地研究结论。
+
+英文原文对应短段： “Galend overlooks the wave-beaten Biscan coast. **It takes in the catch from the Biscan's intrepid fishermen who venture out far into the western ocean, as well as the wool of sheep from the green fog-covered hills.**”
+
+官方简中现存对应句：“无畏的比斯坎渔民在出航深入西海时，温顺的绵羊在迷雾缭绕的山峦上吃草时，都能瞥见加伦。” 中文变成渔民、绵羊可见城市，失去**加伦接收（集纳）海产与羊毛**两个货物流向事实。英文“it takes in”明确以Galend作为接受主体，“catch”指渔获，“wool of sheep”不是羊群景致。
+
+研究影响：城市在比斯坎海岸附近扮演鱼／羊毛商品集散点的A级文本事实；梅罗克village_V5_2实际海鱼、诺格伦village_V5_3山地放羊作为邻近产业互证，但两村商品具体占加伦集纳量比例不可推断。同样不能把“takes in”升级为确切港关税、领主垄断贸易或工场纺织。
+
+**等级**：SandBox v1.4.8有效官中与同版本英文转录的语义审查，高可信待本轮直接ZIP逐键复解；此前地志审计可继续用于核对，但不能因为原文同时见于Fandom和HuggingFace就称为相互独立史源。本次修订可用英文转录页面：https://mountandblade.fandom.com/wiki/Galend ，对应英文字符串ID为79R6gi4l。**《战帆》NavalDLC英文若有改写，须逐版另审，不因中文沿用旧内容把两版历史地理情况当作同年事实**。
+
+完整专题论文：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/western-port-cities-rural-hinterlands-and-seaborne-provisioning-2026-10-24.md
+Google Docs：https://docs.google.com/document/d/1r2hWEgZp0QlYyaF2gNkHbHVnNhNEVXyiBx4rYQ_MO1M/edit
