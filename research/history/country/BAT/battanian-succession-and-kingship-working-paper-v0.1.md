@@ -124,3 +124,10 @@ SandBox/ModuleData/world_lore_strings.xml：〔wv2jPN3Q〕及官方简体中文 
 SandBox/ModuleData/spkingdoms.xml Kingdom.battania〔ZjaaAoxd〕；英雄传记〔8SiW73EF、HjGYftkH〕及肖农地志〔X3MsaG39〕。
 SandBox/ModuleData/wanderer_strings.xml〔wH5GepOD、WmGxA0P1、kqbifZIo〕。
 TaleWorlds, Digital Companion Release, 2022-12-16, https://www.taleworlds.com/en/News/520 ；游戏百科二手人物整理 https://mountandblade.fandom.com/wiki/Taseil （仅用于确定待取证来源和待核声称）。
+
+
+十二、与氏族土地制度专题的交叉约束（2026-10-24）
+
+新完成的 CHC-BAT-SOC 论文《氏族领地、资源动员与巴旦尼亚至高王权》说明：1084年初始5城8堡及其33个 bound 村落分由8个贵族氏族占有；卡拉多格所属芬·格鲁芬多克拥有马鲁纳斯及两堡，埃尔贡所属芬·登吉尔拥有具有王权祭仪地位的邓格拉尼斯与一堡。这意味着前文所说“旧王族与新王并存”不仅是一种人物心理猜想，而具有同一时点的地方占有关系支持，但仍不能因此证明埃尔贡以邓格拉尼斯为筹码正式签订过继位条约。各氏族握有粮食、葡萄酒、木材、马匹和矿产等不同地方资源，故宣誓与军功政治要落实为全国征调，必须跨越地方财产与家臣关系，不能因国王具有战功而假设其军令直接覆盖所有资源。
+
+详细证据及版本对照：research/history/country/BAT/battanian-clan-land-power-and-high-kingship-v0.1.md；https://docs.google.com/document/d/1RZE-zT5AQOqx0Z7-TZUCc4ZtnQDXZ6v2xkgoXewqx5Y/edit 。该证据为1084年横断面，不得据此复原埃里尔·乌瑟莱恩执政时期封地分布、先王失踪当日的军事驻防和旧王族真实财政实力。
