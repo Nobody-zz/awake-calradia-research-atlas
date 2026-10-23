@@ -173,3 +173,7 @@ GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/re
 Google Docs：https://docs.google.com/document/d/1CzUP3AsVe9zvgSkWG1HfAt-STWS83lJGXcyWUOibjB8/edit
 
 保留边界：本次 `Native.zip` **没有** `std_common_strings_xml-zho-CN.xml`，因此仍**不能从当前这些文件验证 Caleus/卡琉斯独立名称键**；现用“卡琉斯”系有中文游戏使用记录的主名，并记录待核。当前 `StoryMode.zip` 不包括潘德拉克人物访谈的完整有效原文；不能对那些玩家誊录的战前话语升级。此前 `Ingalther`—`Calatild` 继承争议在所获有效贵族 `heroes.xml` 中**没有相关 `Hero.text`**，故不升为A级。
+
+
+## 同线新专题索引（2026-10-24）
+《瓦兰迪亚王权、封臣仲裁与继承权政治：从奥斯里克至德泰尔的制度张力》v0.1 已独立立稿；官方原始 XML 检验国王传记、王权言论及氏族名称，因加泰尔（Ingalther）统一为有据中文用名。卡拉蒂尔德—因加泰尔领地继承权冲突目前只有 SandBox/spclans.xml 开发注释支撑，不应作为1084年已发生史实。GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandian-monarchy-vassals-dynastic-disputes-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1GWvLahR_TYx5-f4eBVEdjTShTHXkCEdooJa7y7zI0Cc/edit。
