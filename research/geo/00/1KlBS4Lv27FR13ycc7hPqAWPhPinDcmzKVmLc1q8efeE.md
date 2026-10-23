@@ -151,3 +151,15 @@ Baltakhand项目统一译为巴尔塔罕，而不再沿用研究暂译巴尔塔�
 - `Alatys`、`Masangara`、`Mabwaz`、`Argoron`现仅保留第三方转录定位，不能由本轮两套已存本地化语言表直接证明为官方译名。尤其 `Alatys` 不能仅凭 `Rovalatys` 子串核实。
 
 完整来源键、证据分级与修订统计详见 [CGEO-TOP-AUD-001](../90/EVD/CGEO-TOP-AUD-001.md) 和 [Google Docs校勘档](https://docs.google.com/document/d/1TBFat1RzfI8-sPRDEntJ_bmoZ1xx2kxC4bSo7djV1qc/edit)。本系列按中英同键原文确定译名，不将中文译文本身当作独立自然地理事实证据。
+
+
+### 三十九、地理专名扩展校勘与两版地志系统性差异（2026-10-23）
+
+新增 [CGEO-TOP-AUD-002｜卡拉迪亚大陆地理专名扩展校勘与分版地志异文审查](../90/EVD/CGEO-TOP-AUD-002.md)；Google Docs：https://docs.google.com/document/d/10IgGQQZb5Wxf2VFlIXuGXEomwgyoqPVVbkC9OwCJ-q0/edit 。
+
+直接读取随档SandBox、NavalDLC两个英汉语言表：两版聚落文本共有238个同键；英文238处有文字差异，其中24处大小写/标点等标准化后完全一致，中文238条全部不变。英文差异不自动等于地理事实变化，中文不变也不证明地貌不变。大量新版英文聚落地志重新描述具体河谷、丘陵、支流和集水方式，而中文版仍保留旧叙述，必须分版本判断。
+
+扩展核实的专名含：阿克坎丘陵、德夫赛格高原、密泽亚德、埃博半岛、卡恰尔半岛、瓦尔切格湾、比亚里海、摩康谷、乌卡利翁、伊勒塔尔丘陵、吕卡里亚、伊勒坦山、伊勒坦运输线、三河河谷、杰尔贾赖峭壁、格雷蒂斯湾等。CGEO-S-HYD-001、CGEO-S-TRN-001、CGEO-S-GEO-001、CGEO-O-REG-001、CGEO-O-GEN-001、CGEO-N-N001-001已经同步完成相关译名及地理叙述修订。
+
+重大翻译失配：Uqba村`castle_village_A7_1`英文记滨海集雨与农业，中文同键却是执政官与苏丹的政治叙事。故“英汉同ID”只有形式证明力；A级译名确认必须再核实中文是否确实在翻译同一英文地理实体，错置者记X级。原文英文的优先级高于失配中文译文。
+
