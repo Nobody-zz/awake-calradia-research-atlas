@@ -266,7 +266,7 @@
 
 〔18〕SandBox/ModuleData/settlements.xml，Settlement id=town_V3，英文正文键Nx0qK2g6：奥斯里克认可巴拉维诺斯作为权力中心的价值，并“negotiated its surrender with local senators”，继由其家族旁支dey Tihr掌握；Settlement id=town_V7，英文正文键0cZmKO76：沙拉斯在瓦兰迪亚人到来后“fell into the hands of the ruthless House of dey Cortain”。NavalDLC/ModuleData/settlements.xml保留这两段核心政治事实。town_V3键见官方英／简中独立语言表；town_V7的英文长篇叙述存在于原始settlements.xml，但未见于该资料包独立语言表。此为两条城市地志之间的比较，不提供最初共和国的制度纪年；local senators不自动等于帝国中央元老院的在职成员。
 
-〔19〕SandBox/ModuleData/world_lore_strings.xml，字符串id=str_political_philosophy_lord_1_20_for_lord_1_1；英文语言表键8faAcjLz及官方简体中文对应键。英文说话者称“Echerion the Tyrant-Slayer was my ancestor”，并以此说明自己不应支持Garios或Rhagaea；这是一项服务于当代阵营立场的角色自述，不是早期事件的独立见证。官方简中“我的祖先乃暴君杀手埃刻俄里昂”保留了祖先主张，但同样不能证明谱系或共和制度创立过程。。
+〔19〕SandBox/ModuleData/world\_lore\_strings.xml，字符串id=str\_political\_philosophy\_lord\_1\_20\_for\_lord\_1\_1；英文语言表键8faAcjLz及官方简体中文对应键。英文说话者称“Echerion the Tyrant-Slayer was my ancestor”，并以此说明自己不应支持Garios或Rhagaea；这是一项服务于当代阵营立场的角色自述，不是早期事件的独立见证。官方简中“我的祖先乃暴君杀手埃刻俄里昂”保留了祖先主张，但同样不能证明谱系或共和制度创立过程。。
 
 ## 比较研究文献与使用限度
 
