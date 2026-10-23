@@ -440,7 +440,7 @@ S-0047｜SandBox/ModuleData/spclans.xml及Languages/CNs/std\_spclans\_xml-zho-CN
 
 S-0048｜SandBox/ModuleData/companion\_strings.xml及Languages/CNs/std\_companion\_strings\_xml-zho-CN.xml｜文本键mk0l1BfB、rNkwrwo4均有官方简体中文对应条目。前者叙述德洛修斯所率旧军团遭伏击，后者将军队纪律与帝国衰弱归咎于阿雷尼科斯改革；同伴自述属于有立场的角色记忆。
 
-S-0049｜SandBox/ModuleData/heroes.xml及Languages/std_heroes_xml.xml、Languages/CNs/std_heroes_xml-zho-CN.xml｜Bannerlord v1.4.8；Hero id=lord_1_5，文本键04xAg0yN。原始heroes.xml SHA-256：E615D8106AE2E59B18C752BC7A90EF79DC15D109DA51CE3DCD454EAE41A0348B；英文语言表SHA-256：30796AC8E437B76A36FACAB753F81FA9C7D5F1CC58AAC6B515FCCA26ED4DBDBA；官方简中语言表SHA-256：C200BD2F330A16AC871215F30BE02526FA08B112BC3739299380B1DDD49E8717。英文把皇子继位描述为“custom, not law”，并记元老院选择阿雷尼科斯而非彭同；官方简中对应保留“约定俗成的习惯，而非律法”。这是游戏内人物传记对具体晚期继承事件的叙述，不是独立法律档案。
+S-0049｜`SandBox/ModuleData/heroes.xml`及`Languages/std_heroes_xml.xml`、`Languages/CNs/std_heroes_xml-zho-CN.xml`｜Bannerlord v1.4.8；Hero id=lord_1_5，文本键04xAg0yN。原始heroes.xml SHA-256：E615D8106AE2E59B18C752BC7A90EF79DC15D109DA51CE3DCD454EAE41A0348B；英文语言表SHA-256：30796AC8E437B76A36FACAB753F81FA9C7D5F1CC58AAC6B515FCCA26ED4DBDBA；官方简中语言表SHA-256：C200BD2F330A16AC871215F30BE02526FA08B112BC3739299380B1DDD49E8717。英文把皇子继位描述为“custom, not law”，并记元老院选择阿雷尼科斯而非彭同；官方简中对应保留“约定俗成的习惯，而非律法”。这是游戏内人物传记对具体晚期继承事件的叙述，不是独立法律档案。
 
 S-0050｜SandBox/ModuleData/world\_lore\_strings.xml及Languages/CNs/std\_world\_lore\_strings\_xml-zho-CN.xml｜政治哲学对白键Cx2FCePF、uJeoa6u1、SCogGc7N、T1svPL9Z、uK4IX036、OFOXDkPv、Cgdg9Q8t、spQJxKtr均有官方简体中文条目。Cx2FCePF/uJeoa6u1属于同一角色对白链；OFOXDkPv/Cgdg9Q8t/spQJxKtr属于同一角色连续对白，不能按键数视为独立互证。
 
@@ -622,7 +622,7 @@ S-0067｜SandBox/ModuleData/spclans.xml｜Bannerlord v1.4.8｜Faction id=clan_em
 
 S-0068｜SandBox/ModuleData/world_lore_strings.xml｜Bannerlord v1.4.8｜Lucon's philosophy标题下的XML注释草稿，文件SHA-256：FA30CE156B89DB56069E61FA88FCE88CB9C83AF55FCC7A27BFD0AC3C8A8472D1。草稿写到约一百年前皇帝不再向元老院寻求认可、转而指定继承人；同一文件的有效字符串键Cx2FCePF则称元老院选帝之法一百年来遭到曲解、违背或忽视。注释草稿不是生效对白，不能与有效字符串等量齐观；本条专门记录其开发史价值与证据状态。
 
-P-0089【A：有效人物传记直接陈述；B：制度史综合推论】heroes.xml键04xAg0yN称彭同是德罗修斯·涅雷采斯之子，德罗修斯死于潘德拉克战役；皇帝之子通常继承皇位，但这是“custom, not law”，元老院选择将军阿雷尼科斯继位。它提供一项具体的晚期选帝案例，却不证明元老院自共和国初创以来一直享有同样的法定选举权。world_lore_strings.xml键Cx2FCePF让卢孔阵营主张元老院选帝是法律，且该法一百年来被曲解、违背或忽视；这是1084年的法统主张。TaleWorlds《Empire – Part 1》同时把后期常见顺序概括为皇帝提名、元老院认可、人民（即军队）欢呼，又明确称政治传统“never written down”、继承规则“never set in stone”。较稳妥的综合是：晚期皇位交接中，父死子继惯例、元老院选择与军队拥戴可构成重叠而有争议的合法性资源；目前没有完整成文宪法或独立制度记录可裁决。人物传记、开发日志和阵营对白同属官方世界观来源链，不构成独立外部互证。
+P-0089【A：有效人物传记直接陈述；B：制度史综合推论】heroes.xml键04xAg0yN称彭同是德罗修斯·涅雷采斯之子，德罗修斯死于潘德拉克战役；皇帝之子通常继承皇位，但这是“custom, not law”，元老院选择将军阿雷尼科斯继位。它提供一项具体的晚期选帝案例，却不证明元老院自共和国初创以来一直享有同样的法定选举权。`world_lore_strings.xml`键Cx2FCePF让卢孔阵营主张元老院选帝是法律，且该法一百年来被曲解、违背或忽视；这是1084年的法统主张。TaleWorlds《Empire – Part 1》同时把后期常见顺序概括为皇帝提名、元老院认可、人民（即军队）欢呼，又明确称政治传统“never written down”、继承规则“never set in stone”。较稳妥的综合是：晚期皇位交接中，父死子继惯例、元老院选择与军队拥戴可构成重叠而有争议的合法性资源；目前没有完整成文宪法或独立制度记录可裁决。人物传记、开发日志和阵营对白同属官方世界观来源链，不构成独立外部互证。
 
 P-0090【C：低置信度、可检验的时间关联假说】spclans.xml有效键B8c2mNKj称少年皇帝达鲁索斯被一名将军推翻，其后兴起的反叛运动距叙述时点“近一个世纪”；world_lore_strings.xml有效键Cx2FCePF将元老院选帝法被忽视的时期概括为一百年；同文件的Lucon's philosophy注释草稿也把皇帝开始指定继承人的变化放在约一百年前。时间范围的接近提示达鲁索斯政变及其后果可能与帝国继承制度转型处于同一阶段，值得继续查证；但现有文本没有把该政变、将军身份与元老院选帝权变化直接相连，也没有说达鲁索斯是最后一位由元老院选出的皇帝。不得将时间接近写成因果证明。
 
@@ -647,7 +647,7 @@ S-0072｜SandBox/ModuleData/world\_lore\_strings.xml及Languages/std\_world\_lor
 
 S-0073｜SandBox/ModuleData/world\_lore\_strings.xml及Languages/std\_world\_lore\_strings\_xml.xml、Languages/CNs/std\_world\_lore\_strings\_xml-zho-CN.xml｜Bannerlord v1.4.8。原始文件SHA-256：FA30CE156B89DB56069E61FA88FCE88CB9C83AF55FCC7A27BFD0AC3C8A8472D1；英文语言表SHA-256：6558FBF323C0D42C18516DACE260E7D2D560515AAE6756959A813D55D6A17FBC；官方简中语言表SHA-256：A571185EA4258F4427053893B688590C576824E9A2D203BD5A90A885577A5B36。本条核验有效政治哲学对白键Cx2FCePF、uJeoa6u1、uK4IX036、SCogGc7N、FSwVVdHV、T1svPL9Z，涉及元老院选帝法统、军队选择皇帝的主张与皇室继承正当性。与S-0072同属同一原始XML和语言表系统，不是独立来源互证；各句须按1084年当事人政治言论而非成文法或中立历史叙述使用。
 
-S-0074｜SandBox/ModuleData/heroes.xml及Languages/std_heroes_xml.xml、Languages/CNs/std_heroes_xml-zho-CN.xml｜Bannerlord v1.4.8；Hero id=lord_1_7，文本键niI9dpuu。与S-0049同一原始heroes.xml（SHA-256：E615D8106AE2E59B18C752BC7A90EF79DC15D109DA51CE3DCD454EAE41A0348B）、同一英文语言表（SHA-256：30796AC8E437B76A36FACAB753F81FA9C7D5F1CC58AAC6B515FCCA26ED4DBDBA）及官方简中语言表（SHA-256：C200BD2F330A16AC871215F30BE02526FA08B112BC3739299380B1DDD49E8717）。英文称加里俄斯要求“people”决定重大问题，但实践中通常是“an assembly of his soldiers”，其老兵能够“shut down opposition”；官方简中亦明确说该集会会“强迫反对派噤声”。这是1084年晚期军事政治的官方描述，不能等同于早期自由公民大会；同文件重复出现不增加独立来源数量。
+S-0074｜`SandBox/ModuleData/heroes.xml`及`Languages/std_heroes_xml.xml`、`Languages/CNs/std_heroes_xml-zho-CN.xml`｜Bannerlord v1.4.8；Hero id=lord_1_7，文本键niI9dpuu。与S-0049同一原始heroes.xml（SHA-256：E615D8106AE2E59B18C752BC7A90EF79DC15D109DA51CE3DCD454EAE41A0348B）、同一英文语言表（SHA-256：30796AC8E437B76A36FACAB753F81FA9C7D5F1CC58AAC6B515FCCA26ED4DBDBA）及官方简中语言表（SHA-256：C200BD2F330A16AC871215F30BE02526FA08B112BC3739299380B1DDD49E8717）。英文称加里俄斯要求“people”决定重大问题，但实践中通常是“an assembly of his soldiers”，其老兵能够“shut down opposition”；官方简中亦明确说该集会会“强迫反对派噤声”。这是1084年晚期军事政治的官方描述，不能等同于早期自由公民大会；同文件重复出现不增加独立来源数量。
 
 E-0028｜沃斯特鲁姆地方王朝：帝国扩张期间佣兵指挥官阿耳卡科斯脱离中央并建立神王政权 → 其王朝延续数代 → 帝国军队征服该王朝｜S-0071。只支持该地区内部的相对顺序，不证明与贾尔马律斯卡尔索斯政变、达鲁索斯废立、潘德拉克或1084年危机共时。
 
@@ -661,7 +661,7 @@ P-0096【A：官方有效政治对白直接内容；B：记忆政治解释】San
 
 P-0097【A：有效政治对白直接内容；B：政治主张与制度史解释分层】world\_lore\_strings.xml政治哲学对白中，卢孔阵营称“The Senate chooses the Emperor. That is our law”，并声称该法律过去100年遭曲解、违背或忽视，却从未改变；加里俄斯阵营主张“Let them choose the man to do that”，把士兵选择皇帝作为政治纲领；拉盖娅阵营诉诸继承原则。官方简中将“chooses”译为“选举”，比英文更明确地暗示正式选举程序；“reestablish the Senate's authority over the emperor”译为“重建比皇帝更具权威的元老院”，弱化了原文所说的元老院对皇帝的管辖关系。这些对白证明1084年当事人的正当性争论，不证明独立法律文本、军队历来拥有正式选举权或一百年前发生了可定年的制度变革。与S-0001《Empire – Part 1》的晚期继承程序回顾内容相关，但不构成独立外部互证。〔S-0073、S-0001〕
 
-P-0098【A：晚期人物传记直接叙述；B：大会政治功能解释】SandBox/heroes.xml键niI9dpuu称加里俄斯要求“人民”解决关键问题，但实际通常是由其士兵组成集会，老兵可以压制反对意见。此处的“人民集会”是晚期军事政治场景，不应与《Empire – Part 1》所述早期“assembly of free citizens”视为同一制度的无缝延续；它既不能证明早期大会由士兵构成，也不能证明早期公民大会已经受统帅控制。〔S-0074、S-0001〕
+P-0098【A：晚期人物传记直接叙述；B：大会政治功能解释】`SandBox/heroes.xml`键niI9dpuu称加里俄斯要求“人民”解决关键问题，但实际通常是由其士兵组成集会，老兵可以压制反对意见。此处的“人民集会”是晚期军事政治场景，不应与《Empire – Part 1》所述早期“assembly of free citizens”视为同一制度的无缝延续；它既不能证明早期大会由士兵构成，也不能证明早期公民大会已经受统帅控制。〔S-0074、S-0001〕
 
 D-0082｜李图（Litos）的元老身份与归附次序：town_EN5/8UJ3cPrZ开篇称“senator Litos”，其后回顾他以抵御草原掠袭者的保护为条件使当地帕拉集团归附。文本没有直接交代李图何时取得元老资格或有无归附后授职仪式；“李图归附后才入院”不得登记为A级已证实事件。H-0003据此修正地方精英吸纳的代表案例。〔S-0008〕
 
