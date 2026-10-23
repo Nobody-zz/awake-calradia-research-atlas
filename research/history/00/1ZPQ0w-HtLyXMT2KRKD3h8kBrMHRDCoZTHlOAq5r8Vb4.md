@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-版本：v3.17｜2026年10月23日
+版本：v3.18｜2026年10月23日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -127,3 +127,6 @@ Source of truth: [Google Docs](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT
 
 
 15. H-0005 v1.5英汉语义校勘（2026-10-23）：spclans.xml键B8c2mNKj的“ineffective teenaged Emperor”被官方简中译为“无能的年轻皇帝”，本轮按英文底本修正为“施政乏力的少年皇帝”；companion_strings.xml键QNVJgFbF的“coaxing their tenants into holy poverty”被译成“以朝圣的名义诱骗佃农财物”，登记为另一处意义偏移。I-0003升级至v3.2，新增D-0067—D-0068；Q-0007升级至v0.4、Q-0009升级至v0.4、Q-0011升级至v0.9。以上校勘改善人物评价与社会冲突描述的准确性，不改变达鲁索斯事件相对顺序、不关闭Q5-09，也不修改已签发世界书正典。H-0005 Docs/GitHub现行v1.5共146段；五篇论文合计630段。
+
+
+16. I-0001 v1.3原始语言优先与翻译校勘规范（2026-10-23）：将英文原始文本及上下文明确为英文源材料的首要语义校勘底本，中文官方译文用于辅助阅读、术语比对和本地化名称确认；关键翻译差异须登记原文、译文、差异类型及其对论证的影响。该原则不把译文视作独立互证，也不将语言底本优先级等同于史料可信度。地理研究总索引CGEO同步升至v1.1，覆盖地名、地貌、水系、方向和空间关系的翻译校勘。GitHub历史总纲：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md；地理总索引：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/1KlBS4Lv27FR13ycc7hPqAWPhPinDcmzKVmLc1q8efeE.md。
