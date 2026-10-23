@@ -63,3 +63,27 @@
 本轮直接核对 `Settlements.Settlement.text.village_ES2_1`：Atphynia 的简中译名是**阿特费尼亚**，旧文“阿特菲尼亚”已更正；基础版英文描述其接近塞堤斯河口、三条河汊和盐田，而《战帆》英文改为蒂米安丘陵谷地、贝壳岩与古海湾隆起的地方传说。此为**两套英文地志实质不同**，不应将旧简中段落当作新版直接译文。
 
 `Calsa River` 在 `Settlements.Settlement.text.village_ES1_1` 所配简中叙述为“卡勒萨河”；旧论文剩余两处“卡尔萨河”一并改为卡勒萨河。水文论文此项增补校勘在前述131处第一轮字面修订之外，另有本次单独核对和修订。
+
+
+## 七、第二轮补校：河流地域的村名与地貌专名（2026-10-23）
+
+本轮重新直接读取已归档的 `SandBox.zip` 与 `NavalDLC.zip`，按英文名称在 `std_settlements_xml.xml` 中定位原始字符串，再在同一模块版本的 `CNs/std_settlements_xml-zho-CN.xml` 中以**同一字符串ID**比对译文。以下五项此前未纳入第一轮对勘表，本次发现并已修订 `CGEO-S-HYD-001` 的 Google Docs 正文与 GitHub 版本。
+
+| 英文地名／地貌名 | 原有论文用名 | 校订后用名 | 英文与简中同键依据 | 判定 |
+| --- | --- | --- | --- | --- |
+| Caira | 凯拉 | **恺拉** | `Settlements.Settlement.text.village_ES1_1`；中文记“恺拉坐落于……卡勒萨” | A：同键叙述 |
+| Tepes | 特佩斯 | **泰佩斯** | `Settlements.Settlement.text.castle_village_K4_1`；中文记“泰佩斯村俯瞰着喀拉卡孜河……” | A |
+| Zalm | 扎尔姆 | **扎勒姆** | `Settlements.Settlement.text.village_A7_4`；中文记“扎勒姆坐落于枯焦之门” | A |
+| Qidnar | 基德纳尔 | **吉德纳尔** | `Settlements.Settlement.text.castle_village_A4_2`；中文记“吉德纳尔坐落于达玛尔河的河漫滩” | A |
+| Jarjara Escarpment | 贾尔贾拉崖地 | **杰尔贾赖峭壁** | `Settlements.Settlement.text.castle_village_A3_1`、`castle_village_A4_2`；中文均记“杰尔贾赖峭壁” | A |
+
+另据CGEO-MAP-RES-010原有城镇名录，将 `Askar / town_A7` 在水文正文的“阿斯卡尔”统一为**“阿斯凯尔”**。该项目前是既有中文城镇名索引提供的对应，而非本次已在所读取语言表中独立核实的城镇名称key，证据级别为B（既有索引／待验证），**不可与上面五项同键证据等同**。
+
+## 八、未可直接核销的名称与分版本事实
+
+- `Alatys`、`Masangara`、`Mabwaz`、`Argoron` 等在现存六篇论文的第三方转录或资料对照中出现；此次遍历随档两版英文本地化语言表时**没有检出这些名称作为完整英文词条**。这一阴性结果**仅适用于本轮有限的文本范围**，不能推断地名不存在，更不可将相似子串如 `Rovalatys` 当作 `Alatys` 的官方独立证明。现阶段暂保留原论文原名与第三方来源，并标注待原始实体表或更完整资料复核。
+- `Baltakhand / town_K1` 的项目通行名仍为**巴尔塔罕**（前轮用户校正），但目前仍不能声称随档中文文本已经出现可独立配对的正式名称键。
+- `Atrion / castle_village_EN5_1` 的两版英文说明不同：基础版记处于涅维斯河谷（`in the valley of the Nevys`），《战帆》改记位于涅维斯河三角洲附近（`by the delta of the Nevys`）；随档简中仍保留旧“涅维斯谷中”叙述。因此汉译地名“阿特里翁”虽可核实，地貌位置必须按英文分版本注明，不能合并为已确证的同一水文事实。
+- `Paravenos`（巴拉维诺斯）与 `Pravend`（帕拉汶德）在基础版同键 `Nx0qK2g6` 的英文和中文城镇记述中已经明确指出为同一城市的历时名称，分别讨论早期建城与后期政治地理时不得拆为不同城市。相关跨论文互引按历史名称优先、首次注明现代名称处理。
+
+上述条目补充第一轮CGEO-TOP-AUD-001，不覆盖其已有成果。英文史料的地理陈述及其版本差异应与中文命名确认分开判定。中文译名的“A”级指同键叙述可核，并不必然等于找到独立的实体名称键。
