@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-版本：v3.26｜2026年10月23日
+版本：v3.27｜2026年10月23日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -22,7 +22,7 @@ Google Docs：https://docs.google.com/document/d/1CBSqXHw0m39FSSQUK9l1ARf2o9Nl32
 
 校验：与H-0004共享原始条目，但H-0002研究征服过程，H-0004研究前征服社会；应分别论证。
 
-H-0003｜从部族联盟到共和国：卡拉德早期政治共同体的形成｜正式分类号：CHC-CAL-POL
+H-0003｜从部族联盟到共和国：卡拉德早期政治共同体的形成｜正式分类号：CHC-CAL-POL｜2026-10-23第七轮实质修订已完成：明确起源／成熟帝国／1084年危机三个非等距时间剖面，比较三种竞争解释并标示不同置信度；尚待独立制度史材料复核，不宣布终审通过。
 
 主线A／早期卡拉德国家形成｜状态：Q-0011 v0.9已经加强地方服从与中央资格不对称的制度机制，早期建制程序仍待独立史料复核；Q-0008 v1.2已补明关键聚落正文键、中文释文性质与文化术语本地化偏移，保留修订｜Culture.empire与《Empire – Part 1》仍按内容重叠的官方回顾处理，不作独立互证；阿耳戈隆、贾尔马律斯、拉革塔的中文释文已在脚注〔6〕〔8〕〔10〕标明为工作译文／既有汇编译文。Culture.empire的“civic elders/civic traditions”中文“民粹元老/民粹传统”及“submit to it”被译为“接受卡拉德理想”的政治服从语义弱化，已登记并补入H-0003；Aserai文化键a2AjI8nc“such as it is”限定语省略亦已登记，但留待阿塞莱专题，不移作本篇论据。共和国成形的精确年代、公民资格边界、联盟加入程序与因果链仍待证。
 
@@ -145,6 +145,8 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 
 
 24. Q-0013 v0.1阶段性评估与研究重定向（2026-10-23）：基于I-0001 v1.4、I-0002 v3.25、I-0003 v3.8、I-0004 v2.1、Q-0011 v0.9、Q-0012 v0.4及H-0001—H-0005现行登记状态，将下一阶段主线从横向增加校勘条目重定向为证据链整合、竞争解释比较与论文正文实质修订。优先重构H-0003与H-0004，随后推进H-0005相对年代链与Q5-09，最后按未决清单核销H-0001与H-0002。规定停止条件、论文验收标准、英文原文优先的语义核验原则、同源材料独立性约束，以及历史—地理研究转介规则。Q-0013属于研究规划，不新增I-0003历史命题，不修改正典，不预分配H-0006。Google Docs：https://docs.google.com/document/d/1p9844oEQ-kO7I7h5R_ymuU8SJ3I4Al-0prXki6f27mc/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/02/Q-0013-stage-review-and-research-redirection.md。
+
+25. H-0003第七轮实质修订（2026-10-23）：已更新摘要、第六节三个时间剖面、第八节竞争性解释与结论，明确区分官方总体叙述直接保存的制度轮廓、城镇沿革提供的多中心／不同归附路径证据，以及“征服与协商并行的渐进重组”这一历史推论。总体过程暂评中等置信度，机构创设先后、权限与绝对年代保持低置信度。Q-0011 v1.0已记录本轮已落实与仍开放的缺口；H-0003不宣布终审通过。Google Docs：https://docs.google.com/document/d/1Vpu2yWtz_QXl9oCfLBB_4rm9c1xRsCbzW8LzoRH127s/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/01/1Vpu2yWtz_QXl9oCfLBB_4rm9c1xRsCbzW8LzoRH127s.md。ch-atlas/blob/main/research/history/02/Q-0013-stage-review-and-research-redirection.md。
 ---
 
 Source of truth: [Google Docs](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
