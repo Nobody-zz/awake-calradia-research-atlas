@@ -1,0 +1,14 @@
+{
+  "version": "v1.6 color palette revision",
+  "vanilla_terrain_crop_pixels": [217, 83, 993, 859],
+  "vanilla_terrain_scene_extent": [0, 848, 0, 848],
+  "vanilla_river_crop_pixels": [122, 36, 1173, 1085],
+  "vanilla_river_scene_extent": [0, 848, 0, 848],
+  "warsails_terrain_crop_pixels": [1227, 83, 2003, 859],
+  "warsails_terrain_scene_extent": [0, 1040, 0, 1040],
+  "warsails_water_crop_pixels": [112, 53, 1322, 1230],
+  "warsails_water_scene_extent_calibrated": [43, 1050, -20, 962],
+  "name_fixes": {"Seonon": "肖农", "Epicrotea": "厄庇克洛忒亚"},
+  "palette": "Matched to approved vanilla atlas palette: deep blue sea, light-blue shallow coastal band, pale-green lowlands, green middle elevations, ochre highlands. Vanilla coastline mask follows the prior approved map; War Sails land/water classes are harmonized with its navigation-water classification.",
+  "limitations": "War Sails water map uses a previously rendered navmesh plot, calibrated from visible axis ticks; exact pixel-to-scene validation still requires original navmesh.bin/rendering script. War Sails port XY remains the candidate coordinate interpretation documented in RES-012."
+}
