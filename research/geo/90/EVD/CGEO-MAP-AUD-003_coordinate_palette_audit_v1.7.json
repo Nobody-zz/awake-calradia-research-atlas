@@ -1,0 +1,57 @@
+{
+  "version": "v1.7 muted palette and shoreline cleanup",
+  "vanilla_terrain_crop_pixels": [
+    186,
+    71,
+    855,
+    740
+  ],
+  "vanilla_terrain_scene_extent": [
+    0,
+    848,
+    0,
+    848
+  ],
+  "vanilla_river_crop_pixels": [
+    122,
+    36,
+    1173,
+    1085
+  ],
+  "vanilla_river_scene_extent": [
+    0,
+    848,
+    0,
+    848
+  ],
+  "warsails_terrain_crop_pixels": [
+    1054,
+    71,
+    1724,
+    740
+  ],
+  "warsails_terrain_scene_extent": [
+    0,
+    1040,
+    0,
+    1040
+  ],
+  "warsails_water_crop_pixels": [
+    102,
+    82,
+    1226,
+    1249
+  ],
+  "warsails_water_scene_extent_calibrated": [
+    43,
+    1050,
+    -20,
+    962
+  ],
+  "name_fixes": {
+    "Seonon": "肖农",
+    "Epicrotea": "厄庇克洛忒亚"
+  },
+  "palette": "v1.7 muted palette rendered directly from decoded heightfield hues: muted deep blue sea, narrow light-blue coast band, sage lowlands, graded greens, restrained ochre highlands. Open sea is restricted to blue components connected to the map frame; the War Sails navmesh mask is not used to recolor terrain.",
+  "limitations": "The pale-blue coastal band is a cartographic visual aid, not bathymetric data. Terrain is re-rendered from archived decoded-heightfield visualization, not raw calibrated altitude values. War Sails water map uses an archived navmesh plot calibrated from visible axis ticks; exact pixel-to-scene validation still requires original navmesh.bin/rendering script. War Sails port XY remains the candidate coordinate interpretation documented in RES-012."
+}
