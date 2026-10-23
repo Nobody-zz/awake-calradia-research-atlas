@@ -237,3 +237,15 @@ v1.7 配色版已撤回：其海陆分类依据高程可视化 RGB 的蓝色色�
 - [v1.9 工作图与程序包](https://drive.google.com/file/d/1xYydTrMuPsp4xp5jXiwAqmOdm4G-rZef/view)
 
 v1.9 使用完整高程图绘图区和中性相对高程色带，不执行海陆二值分类；**不是**经验证的海岸线或浅海分布图。两版图独立。精确海陆图须等原始海陆、水面几何验证后再绘。
+
+
+## CGEO-MAP-AUD-005｜v2.0 海陆候选区清晰制图（2026-10-23）
+
+上一版 v1.9 为完整高程工作图但水陆难辨。v2.0 仅将与双版本高程分析图边缘连通的严格平坦低值色块作为**外海候选区**，采用灰蓝填色、候选区内侧浅蓝描带及深色边线；其余区域保留相对地形色阶，**没有据蓝色阈值把低地涂成海洋**。候选界线不等于官方海岸线，不用于地理定量测算。之前 v1.6–v1.8 撤回决定继续有效。
+
+- [CGEO-MAP-AUD-005：方法与证据边界](geo/90/EVD/CGEO-MAP-AUD-005.md)
+- [原版：地形与外海候选界线](https://drive.google.com/file/d/1IGiI4QH-B4RVIc4o0v11zvPRH48V79bJ/view)
+- [原版：水系与外海候选界线](https://drive.google.com/file/d/15_lj7An8q1kNaIPJhHaEBWP827ELHemN/view)
+- [《战帆》：地形与外海候选界线](https://drive.google.com/file/d/10_PrwaakPz2ngtkX3MRbl5U7wYNPEM-x/view)
+- [《战帆》：Navmesh 水域类型（独立证据）](https://drive.google.com/file/d/1TDrVDdbXgaZKvqZaFWVIOJ6a6LQq5Hgv/view)
+- [四图、两版候选掩膜、Python 脚本与审计包](https://drive.google.com/file/d/1LM6o8TTAHVLzNggpL0GdIWItR_t12QG3/view)
