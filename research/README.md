@@ -111,3 +111,11 @@
 
 ## CGEO-MAP-RES-012
 - [《战帆》港口—村庄登陆点导航路径与直线距离比较](geo/90/EVD/CGEO-MAP-RES-012.md) · [Google Drive原件](https://docs.google.com/document/d/1jDRZrvSPNy4vJyGZoEKRUsgalbchCR0d1D0-POnJtj4/edit) · [72组最近港口CSV](https://drive.google.com/file/d/1dvLWiuSc1KWbsNDxeZiOPq7Q6LDG878j/view) · [完整复核ZIP](https://drive.google.com/file/d/1GMG8gXe70m376txGvIcZH0lQrSz5552G/view)
+
+
+## CGEO-MAP-RES-013
+
+- [《战帆》村庄登陆点港口匹配差异组的稳健性审计与距离指标勘误](geo/90/EVD/CGEO-MAP-RES-013.md) · [Google Drive 原件](https://docs.google.com/document/d/1W9t-MWsR8mvuq5DoUZtPy_vTZ-IAQrqaB_hhWrgIJeo/edit)
+- [16 组港口匹配差异子集 CSV](geo/90/EVD/CGEO-MAP-RES-013_mismatch_cases.csv)
+
+72 组中 56 组（77.78%）的直线最近港口与导航图代理最近港口一致，16 组（22.22%）不一致；两种状态标记下组级港口选择及一致性判定均 72/72 稳定。注意：RES-012 旧字段 `navmesh_detour_ratio` 在不一致记录中分子与分母对应不同港口，不能解释为同一目的地的绕行率。下一步为 RES-014 网络权重敏感性分析，不再重复已完成的聚落 ID 配准。
