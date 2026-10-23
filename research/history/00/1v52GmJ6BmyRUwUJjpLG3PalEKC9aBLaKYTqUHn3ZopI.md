@@ -560,7 +560,7 @@ S-0062｜SandBox/ModuleData/spclans.xml、Languages/std_spclans_xml.xml与Langua
 
 S-0063｜SandBox/ModuleData/comment_strings.xml及Languages/CNs/std_comment_strings_xml-zho-CN.xml｜文本ID str_comment_special_clan_intro_embers_of_flame.default，文本键iOnsulPb；原始文件SHA-256：E2D27D61D5864D0753113336EF4C7EAA75BBEC3DA9A3EF6E7BEE258F91EA14B8；官方简中语言表SHA-256：E66F9BE62798B184EF60DF072F5827982E871C24AF379DB06FA3A3DE19EA468E。组织自述称其先辈数代以前接受天堂启示，为一场“清洗”做好准备。该对白支持当前组织的末世论/宗教自我叙述，不单独确认达鲁索斯废立的原因或反叛运动的准确起点。
 
-S-0064｜SandBox/ModuleData/companion_strings.xml及Languages/CNs/std_companion_strings_xml-zho-CN.xml｜同伴背景ID str_npc_backstory_b.6、str_npc_backstory_c.6、str_npc_backstory_d.6；文本键gI4xkaaR、FkhUMTpJ、QNVJgFbF；原始文件SHA-256：9C4CA26F9B3776E0219CF52114F0641A5B335DD12620FAC7E1ECCA6B2580FAFC；官方简中语言表SHA-256：37CA9655847D931A8D2382F35E931384B00949DDC4DFFC8994965A1972147952。角色自述涉及追随“完美者”、在乡村布道与鼓动叛乱、劝村民卖地加入朝圣，以及地方贵族对佃农流失的不满。该材料补充组织社会活动的叙事背景，但属于角色自述，不是对达鲁索斯事件的独立见证。
+S-0064｜SandBox/ModuleData/companion_strings.xml及Languages/CNs/std_companion_strings_xml-zho-CN.xml｜同伴背景ID str_npc_backstory_b.6、str_npc_backstory_c.6、str_npc_backstory_d.6；文本键gI4xkaaR、FkhUMTpJ、QNVJgFbF；原始文件SHA-256：9C4CA26F9B3776E0219CF52114F0641A5B335DD12620FAC7E1ECCA6B2580FAFC；官方简中语言表SHA-256：37CA9655847D931A8D2382F35E931384B00949DDC4DFFC8994965A1972147952。角色自述涉及追随“完美者”、在乡村布道与鼓动叛乱、劝村民卖地加入朝圣，以及地方贵族对佃农流失的不满。QNVJgFbF英文称当地贵族不满该组织劝说佃农接受“holy poverty”；官方简中却译成“以朝圣的名义诱骗佃农财物”，把宗教劝说改写为财物欺诈指控，详见D-0068。该材料属于角色自述，不是对达鲁索斯事件的独立见证。
 
 E-0027｜达鲁索斯被将领推翻与火焰余烬的复辟记忆｜S-0062—S-0064。最低限度事件链：在位的年轻皇帝达鲁索斯被一名未具名将领推翻；其后兴起反叛运动；现存火焰余烬自称为该运动后继者，并宣称期待达鲁索斯归来。文本只明确顺序，不提供政变绝对年份、将领身份、将领是否继位、元老院是否认可或运动具体持续时间。
 
@@ -573,3 +573,8 @@ D-0066｜达鲁索斯事件的相对年代与来源立场：官方文本中的�
 ---
 
 Source of truth: [Google Docs](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
+
+
+D-0067｜达鲁索斯描述的英汉语义强度与年龄精度差异：SandBox v1.4.8的spclans.xml及官方语言表键B8c2mNKj，英文称“ineffective teenaged Emperor Darusos”，官方简中译为“无能的年轻皇帝达鲁索斯”。“无能”较“ineffective”更容易被理解为对个人能力的全面否定；“年轻”又弱化了teenaged所给出的少年年龄限定。H-0005 v1.5按英文底本改为“圣洁但施政乏力的少年皇帝”。这是同一官方文本的本地化差异，不构成独立互证。
+
+D-0068｜火焰余烬同伴自述的英汉语义偏移：companion_strings.xml键QNVJgFbF称地方贵族担心该组织“coaxing their tenants into holy poverty”，重点是宗教劝说佃农接受圣洁贫困；官方简中将其译为“以朝圣的名义诱骗佃农财物”，改写成以朝圣为名的财物欺诈。解释组织与贵族的社会冲突时以英文底本为准；该同伴自述仍属有立场的角色记忆，不据此确认组织实际实施了系统性财产欺诈。
