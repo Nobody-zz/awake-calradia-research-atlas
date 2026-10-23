@@ -126,3 +126,13 @@
 - [论文修订稿 v0.2](geo/03/HYD/1Cl-YL13V_bHN9qOnSgSJmQ40Y2AtOXk5O-xvFd8RYco.md) · [Google Drive 正文](https://docs.google.com/document/d/1qoWxPgRqqHxPSjv9NqeVfy2oj3fkqlEq_xF5CxPrpTc/edit)
 - 本版新增对高程栅格恢复、原版PHYM河流地表层关联、《战帆》水域Navmesh拓扑以及港口—登陆点距离代理的综合讨论。严格区分自然水文连通、游戏导航连通与人类贸易连通；导航网格结果不直接充当天然河网证据。
 - 后续研究优先事项：河流三角网格与高程栅格坐标配准、Flowmap方向核验、主要湖盆与河道拓扑复核。RES/AUD报告为证据底稿，正式论文是综合论证的主要成果，需随研究推进持续修订。
+
+
+## CGEO-MAP-AUD-002 — 地形图与水系图数据绘制
+
+- [制图说明与证据边界](geo/90/EVD/CGEO-MAP-AUD-002.md) · [Google Drive说明文档](https://docs.google.com/document/d/1MMTodRv647wt4OzmGuKdGWwDRkEDEanBpl6StW63KeQ/edit)
+- [卡拉迪亚大陆地形图（原版Main_map，PNG）](https://drive.google.com/file/d/1qRbn2JqQmEFeyZLVZtzwTx3SJIXv37fN/view)
+- [卡拉迪亚大陆水系证据图（原版Main_map，PNG）](https://drive.google.com/file/d/1tsx6G2G1EQzBY02rrZ8s0d6tX9suTKlk/view)
+- [Google Drive地图文件夹](https://drive.google.com/drive/folders/1eJjV3BJr2AOS3N3_d-6lY8sQHOGSqPVT)
+
+本轮为程序化制图，不使用图像生成模型。地形图沿用从真实HGHT高程栅格生成的已归档分析图面板并加注聚落；水系图叠加原版scene.xscene显式河流Paths与PHYM第7层river。图中坐标及比例尺是游戏场景单位，非公里/米；河流路径ID不是官方水文专名。当前工作目录没有原始4097×4097高程PNG，故本轮使用真实分析图的坐标裁切底图；下一版需恢复原始栅格与矢量后直接重绘。
