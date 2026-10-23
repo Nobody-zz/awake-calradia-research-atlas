@@ -31,3 +31,14 @@ CoastalSea 类港口场景 Z 中位数2.580，范围2.5698—3.327；其中20/23
 - [RES-012 留存港口与导航数据 ZIP](https://drive.google.com/file/d/1GMG8gXe70m376txGvIcZH0lQrSz5552G/view)
 
 本条记录是研究证据链恢复，不声明已找到全部地图二进制；不得以此报告推断任何实际海岸线细节。
+
+## 补充交叉命题：CoastalSea 港口标记与主水面实体高度接近
+
+RES-001 的《战帆》主 `water_plane` 实体中心Z是 **2.570** 场景单位。RES-012 当前重新读取的 23 条 CoastalSea(18) 港口中，20条港口功能标记 Z 处于 **2.569—2.581**（距该实体中心Z约0.011以内），其余3条为2.688、2.711、3.327。相比之下，六条 River(11) 港口Z范围为3.885—9.996，中位数5.736。这个独立来源的高度对应支持“沿海港口的标记经常依据主水面参考高度布设”的**待验证机制假说**，而不是海平面标定证据；严禁将Z=2.570当作陆海阈值或真实水位。
+
+## 本次可下载的审计文件
+
+- [Google Drive 完整复核包：报告、29港口CSV、8项原件指纹表与复核JSON](https://drive.google.com/file/d/1buCN7S784RaduPZnJVfcaYifGDBOP-s8/view)
+- [Google Drive Markdown 完整论文](https://drive.google.com/file/d/1alwdPxpAiQJptm8jN38nl2FPWjE4qKRX/view)
+
+这些新增文件是衍生研究报告和表格，**不包含游戏原始版权二进制**。
