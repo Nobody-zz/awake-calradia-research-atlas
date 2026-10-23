@@ -140,3 +140,40 @@
 
 英文对照页面：https://mountandblade.fandom.com/wiki/Stathymos ；https://huggingface.co/datasets/TSEOsiris/bannerlord-lore-dataset/viewer/default/train?p=24 。后者与前者均为文本再现或资料转录，不能视为来源相互独立的第二/第三官方证词。
 完整专题论文：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/imperial-northern-frontier-landscape-and-estates-2026-10-24.md ；https://docs.google.com/document/d/1yH8EtspASm4a9LYwph4AwUIZki7x_212KZALNC4FIK4/edit
+
+
+## 2026-10-24｜CGEO-S-BIO-001及CGEO-S-CLM-001官方汉译专项复查：百科、Native及双版地志
+
+### 证据来源的实际覆盖范围
+
+- 用户上传的`encyclopedia-zh-cn.md`注明版本`v1.4.8.119303`，其53城镇、141村庄的**条目名称**来自Native简体中文`std_common_strings_xml`，地志来自SandBox；**未收录城堡及其附属村庄**。这份整理是特定旧版本的名称证据，不应冒充2026年所有新增聚落的当版中文命名表。
+- **实际解压检查**`Native.zip`，仅有`global_strings.xml`、`module_strings.xml`、`native_strings.xml`及相应`std_global_strings_xml`、`std_module_strings_xml`、`std_native_strings_xml`双语表；**不包含**`std_common_strings_xml-zho-CN.xml`。因此不能宣称逐个从这份Native压缩包取到了普通聚落名称键。百科中所述的名称键校验属百科编纂时的资料处理，应与当前压缩包实际内容区分。
+- 另独立解析`SandBox.zip`、`NavalDLC.zip`中的英汉同键`std_settlements_xml`：普通城镇／村庄名称以百科独立标题及同键正文交叉检验；城堡附属村庄多数无独立`name`键，须降格标注为**同键官方中文地志的正文称呼**；新增诺德名称若有`Settlements.Settlement.name.*`同键，则可登记为正式名称键。
+
+### 必须订正的四类错误
+
+| 英文原名及原始键 | 旧论文错写 | 中文原始来源明确支持 | 修订 |
+| --- | --- | --- | --- |
+| `Llanoc Hen`，`castle_village_B2_1` | 兰诺克·亨 | SandBox及NavalDLC的简中同键地志均作“拉诺克·亨” | **拉诺克·亨** |
+| `Bunqaz`，`castle_village_A7_2` | 布恩卡兹 | 两版简中同键正文均作“本盖兹” | **本盖兹**；注意百科的`village_A7_2`是另一个地点“拜特·哈提夫”，不可混淆 |
+| `Irkaria`／`Ircara wilds` | 伊尔卡里亚 | 基础版奥莫尔`pbHXtJ82`、奥夫`castle_village_S5_1`、福林`village_S1_2`均用“伊卡拉荒原” | 统一**伊卡拉荒原**，保留各版本英文原形；不虚构伊尔卡里亚为官译 |
+| `Ailta Druin`，同名峭壁 | 艾尔塔·德鲁因 | 卡·班塞斯原始地志`QD3oaaNK`及百科中均作“艾塔·德鲁因” | **艾塔·德鲁因** |
+
+**另发现两处需区分、而非单纯替换：**
+
+1. `Plain of Ichala` 在《战帆》特美摩斯`castle_village_EN8_2`及厄利帕`village_EW5_1`的英文地志中出现，所归档的两版简体中文聚落志**均未检出“伊察拉”**，故只能写**伊察拉平原（Plain of Ichala，研究暂译）**。旧气候初稿的“伊卡拉平原”将其与上述 Ircara／Irkaria **伊卡拉荒原**混淆，必须改正。两处地理实体不能因汉译字形接近而合并。
+2. `Ebor Peninsula`：同一基础版中文地志共见**“埃博半岛”六处**，另见“埃伯半岛”一处（`village_V8_3`）与“伊博半岛”一处（`village_V9_1`）；百科同样留有异译。正式研究暂统一多数用法**埃博半岛**，但记录另外两种为内部官方异文，**不得**将三种中文写法当作三个半岛。
+
+### 逐地名复核归属
+
+| 依据层次 | 已复核中文地名及英文实体 | 来源说明 |
+| --- | --- | --- |
+| Nav​alDLC **独立中文名称键** | 斯温斯塔克 Svinstak（`castle_village_N4_2`）、达格比 Dagby（`village_N2_1`）、雅斯克韦格 Jalskveg（`village_N3_1`）、比约伦比尔 Bjorenbyr（`castle_village_N7_2`） | 均有同键`Settlements.Settlement.name.*`原始英汉对应；不能仅靠百科推断新增诺德聚落名称 |
+| 旧版百科独立村庄标题＋同键中文地志 | 卡南克 Cananc、乔诺巴斯 Chornobas、斯科林 Skorin、马赫卢勒 Mahloul、厄利帕 Elipa、萨戈拉 Sagora、兰塔斯 Lanthas、巴格 Baq、阿利斯维斯特 Halisvust、弗雷吉昂 Fregian、鲁兰德 Rulund | 普通村庄ID与百科标题可直接对齐；正文有相应英汉同键描述 |
+| SandBox／NavalDLC **中文地志正文** | 乌瑟莱姆 Uthelaim、弗林托格 Flintolg、拉诺克·亨 Llanoc Hen、鄂木罗托克 Omrotok、奥夫 Ov、福林 Forin、库鲁卢克 Kuruluk、巴里哈勒 Barihal、特美摩斯 Tememos、加隆托 Garontor、本盖兹 Bunqaz、阿特里翁 Atrion、色雷刻托 Thractorae | 原始中文正文显示名称；其中多为城堡附属村庄，不能声称由不在Native压缩包内的`std_common_strings_xml`独立命名键直接确认 |
+| 大陆地域名称／译名标准 | 伊卡拉荒原 Ircara／Irkaria、艾塔·德鲁因 Ailta Druin、埃博半岛 Ebor Peninsula | 前两项据同键中文地志和百科；后者记录源内埃伯／伊博异译 |
+| 仅英文、中文研究暂译 | 伊察拉平原 Plain of Ichala | 英文地志有直接描述，保存的中文本地化资料未显示该名称；严格标注为非已核官译 |
+
+### 论文处理
+
+CGEO-S-BIO-001 的上述四类不当中文用名已逐处更正，Google Docs 与 GitHub 版同时修订；该篇研究将伊察拉明确标注为研究暂译。CGEO-S-CLM-001 气候初稿中“伊卡拉平原”改为“伊察拉平原（Plain of Ichala，研究暂译）”，保留此前已经成立的气候分版论证。上述名称校核不能替代文本地志之外的地图实体和历史断代判断。
