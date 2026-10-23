@@ -33,3 +33,14 @@
 ## 后续升级
 
 如取得原始 `original_height_mosaic_4097.png`、`warsails_height_mosaic_4097.png`、原版 `scene.xscene` 河流路径控制点及《战帆》`river_triangles.bin` 对应源网格，下一版应从原始数值栅格直接生成 hillshade、等高线与矢量河道，并独立验证海陆边界和水深/水面属性，而不再依赖归档预览图裁切。DLC 与原版必须分别制图，不把不同版本坐标或资源直接混叠。
+
+
+## v1.2 — 聚落中文地名规范（2026-10-23）
+
+- [聚落中文地名规范表 CSV](CGEO-MAP-RES-014_settlement_chinese_name_register.csv)
+- [聚落中文地名规范表 Markdown](CGEO-MAP-RES-014_settlement_chinese_name_register.md)
+- [Google Drive CSV](https://drive.google.com/file/d/1-jGBsvgz3Gj6DuxiCAzTKrf6Y7Mi2Avh/view)
+- [Google Drive Markdown](https://drive.google.com/file/d/1eo7NEQb4qYJJIxDcCFmvEFTW27YOO76H/view)
+- [地图包 v1.2](https://drive.google.com/file/d/1lFhCTUe_i2IiMK_3wQd9gaqfza5iZu0v/view)
+
+当前官方简体中文档案包含聚落地理/百科描述，但未找到可逐一对应全部53个城镇的独立 `Settlements.Settlement.name.*` 中文名称键。地图上不带 † 的中文形式可在官方地理文本中检出；这不等于独立名称键已核实。带 † 的名称是研究暂译，待后续核验。水系、地形底图及其证据边界不变。
