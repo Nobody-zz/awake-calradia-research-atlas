@@ -156,8 +156,8 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 
 30. H-0001、H-0003第十轮政治行动者与元老称谓源级纠偏（2026-10-23）：直接回读SandBox及NavalDLC原始聚落XML，核对town_EN5/8UJ3cPrZ、town_EN4/LqPJY4s9、town_V3/Nx0qK2g6、town_EW1/ZAGUIKOn。密泽亚称李图为元老，没有称他为帕拉酋长，也没有记录其出身及入院时间；阿耳戈隆才明确记载当地酋长加入元老院。巴拉维诺斯后期“local senators”参与与奥斯里克的降服谈判，不能等同于拉革塔“the Senate”接受献纳的中央机构行为。已定向修订H-0003正文、脚注〔9〕及附录，H-0001正文和脚注〔2〕；Q-0011增第十五轮审查记录至v1.5。该批修改纠正行动者身份和机构层次，不新增有据不足的年代或入盟法律命题；I-0003不新占历史编号，Q5-09开放，正典不变。 另经原始英文核查沙拉斯town_V7/0cZmKO76与巴拉维诺斯town_V3/Nx0qK2g6两段瓦兰迪亚时期的城市沿革：前者记德·科尔坦家族取得城市，未说明移交过程；后者明确记奥斯里克与local senators协商交接，城市后来属于德·提尔旁支。正文已据此区分地方显贵行动、中央元老院及地志作者的评价，Q-0011增R15-4；不将文本未记载的交接细节当成已知事件。
 
----
-
 31. Q-0011 v1.6脚注源级核销（2026-10-23）：本轮查出H-0001的Google Docs原件“史料与参考文献”缺少沙拉斯关键脚注〔1〕、重复出现两个〔2〕，而GitHub保存了〔1〕。已修复H-0001引注编号，并核实原始settlements.xml中沙拉斯town_V7/0cZmKO76、巴拉维诺斯town_V3/Nx0qK2g6；另以原始SandBox及官方英文／简体中文语言表核对费卡翁town_ES6/RL2vacqv与吕卡隆town_ES4/WGtzBswe，增补H-0001脚注〔10〕与H-0003脚注〔7〕、〔11〕的键值及来源边界。Q-0011升至v1.6，未解决最初共和国建制年代或三城共同绝对纪年，Q5-09继续开放；未改变已签发正典。
+
+---
 
 Source of truth: [Google Docs](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
