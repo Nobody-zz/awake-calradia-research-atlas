@@ -160,3 +160,7 @@
 原始复核的政治制度史另见独立专题：
 https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-royal-vassal-power-primary-source-reappraisal-2026-10-24.md
 https://docs.google.com/document/d/1CzUP3AsVe9zvgSkWG1HfAt-STWS83lJGXcyWUOibjB8/edit
+
+
+## 同线新专题索引（2026-10-24）
+《瓦兰迪亚王权、封臣仲裁与继承权政治：从奥斯里克至德泰尔的制度张力》v0.1 已独立立稿；官方原始 XML 检验国王传记、王权言论及氏族名称，因加泰尔（Ingalther）统一为有据中文用名。卡拉蒂尔德—因加泰尔领地继承权冲突目前只有 SandBox/spclans.xml 开发注释支撑，不应作为1084年已发生史实。GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandian-monarchy-vassals-dynastic-disputes-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1GWvLahR_TYx5-f4eBVEdjTShTHXkCEdooJa7y7zI0Cc/edit。
