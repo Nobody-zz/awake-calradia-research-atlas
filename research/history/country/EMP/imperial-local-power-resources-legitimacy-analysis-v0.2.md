@@ -1,5 +1,7 @@
 # CHC-EMP-GEN｜从征服收益到共和合法性：帝国地方权力的资源、政治中介与分化道路
 
+**1084年性质校勘（2026-10-24）**：官方英文SandBox/ModuleData/spkingdoms.xml北帝国aEfsyVH4直称“in the ongoing imperial civil war”，西帝国mOZsbV8j直称“in the ongoing civil war”；heroes.xml彭同04xAg0yN说支持卢孔“in the civil war”。北、西、南帝国是争夺同一帝位的内战阵营，而非三个宣告摆脱帝国的独立国家。历史上的沃斯特鲁姆分离王朝和瓦兰迪亚王权属于另外的事件类型，不得类推。游戏的Kingdom对象是派系数据类型，不是主权独立的原始证明。
+
 **帝国史专题分析工作稿 v0.2｜2026-10-24｜CHC-EMP-POL**  
 **状态**：首轮比较研究已形成实质解释；仍属取证中的研究稿，不占用H编号，也不取代H-0002／H-0003／H-0005；保留Q5-09的开放状态。  
 **名称校订**：贾尔马律斯＝Jalmarys，依据项目使用者2026-10-24明确确认的官方译名。现存归档settlements简中表无TI3fS2xN，故**官中译名的项目确认**与**该归档文本键能否独立检出**分别记录；不将旧称“贾尔马里斯／雅尔马里斯”继续用于本线。项目地理名称登记另线尚待协调。  
@@ -56,7 +58,7 @@ H-0002的主问题是地方如何被征服、保护性归附、献纳或合邦�
 
 ## 五、沃斯特鲁姆：军事企业家的王朝化及其被后世污名化
 
-**A类史述**：town_ES2/ytBRXqt8。阿耳卡科斯为卡拉德佣兵（“Calradian mercenary”），属于帝国扩张期间脱离中央的“一批”指挥官（“one of a number of rogue commanders”）。源文特意与**若干尝试重现帝国共和传统的其他人**比较：阿耳卡科斯却选择神王统治。其家族传承数代，终遭帝国军队攻灭；有关其统治者的带光环塑像亦被摧毁。后世西部与北部帝国元老指责这一地区的家族是暗中的君主制支持者。
+**A类史述**：town_ES2/ytBRXqt8。阿耳卡科斯为卡拉德佣兵（“Calradian mercenary”），属于帝国扩张期间脱离中央的“一批”指挥官（“one of a number of rogue commanders”）。源文特意与**若干尝试重现帝国共和传统的其他人**比较：阿耳卡科斯却选择神王统治。其家族传承数代，终遭帝国军队攻灭；有关其统治者的带光环塑像亦被摧毁。后世西部与北部帝国元老指责这一地区的家族是暗中的君主制支持者；这类元老间的政治攻讦与1084年帝国内战相关，不等于沃斯特鲁姆的昔日分离王朝就是三帝国之一。
 
 **新增重要辨别**：这不是“单个边将背叛”的证据边界。官方叙述**明确记有不止一个**脱离帝国的指挥官，且各人追求的政制有别；因此帝国扩张引出多种政治形式的可能性，至少属于原文明示的叙事总体，而非研究者只从三条互不相关传说臆造。但原文没有列举其他共和国模仿者姓名，不能把李图机械纳入该群人；他被明确称为元老，而非“rogue commander”。
 
@@ -140,6 +142,6 @@ SandBox/ModuleData/settlements.xml；NavalDLC/ModuleData/settlements.xml（相�
 - 俄尼拉 Onira：town_ES5／4ENGzVaC；两版产业叙述存在实质异文，官方简中DLC未同步改。  
 - 巴拉维诺斯 Paravenos／今Pravend：town_V3／Nx0qK2g6；只证明首都传统和中心移动，不能给贾尔马律斯政变断年。  
 - 帝国文化回顾：SandBoxCore/ModuleData/spcultures.xml，Culture.empire／X0kKBzsW。  
-- 北／西／南三方区域历史：SandBox/ModuleData/spkingdoms.xml，aEfsyVH4、mOZsbV8j、Xtyb9Dyr（仅供下一轮，不在本稿倒推早期）。  
+- 北／西／南帝国内战三阵营的地区历史（不是三个独立国家）：SandBox/ModuleData/spkingdoms.xml，aEfsyVH4、mOZsbV8j、Xtyb9Dyr（仅供下一轮，不在本稿倒推早期）。  
 - 1084年元老法统主张：SandBox/ModuleData/world_lore_strings.xml，Cx2FCePF（角色声明而非成文法）。  
 - 参照项目审计：Q-0009 v0.4；Q-0011 v1.13；H-0002 v现行、H-0003 v现行、H-0005 v1.7；前件CHC-EMP-GEN《研究现状、重大问题与史料缺口》v0.1以及《帝国扩张与地方军权分化：执行纲领》v0.1。
