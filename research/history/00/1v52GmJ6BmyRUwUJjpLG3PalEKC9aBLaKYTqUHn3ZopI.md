@@ -1,6 +1,6 @@
 # I-0003｜史料—事件—命题—争议登记簿
 
-第一轮登记：H-0004及既有帕拉史研究｜基础版v1.0；追加校勘v3.3｜2026年10月23日｜保留既有S-0052—S-0058、P-0057—P-0065、D-0043—D-0057；新增S-0059—S-0064、E-0026—E-0027、P-0066—P-0078、D-0058—D-0068。已重新物化并校验SandBox v1.4.8官方源文件，完成达西边疆与拉盖娅谱系线索的定向核验，并登记达鲁索斯被将领废黜及火焰余烬复辟信仰的源级材料。本轮重读FkhUMTpJ与QNVJgFbF连续语境，新增P-0078并修订D-0068，明确“holy poverty”在村民卖地加入无尽朝圣、组织靠捐赠生活及贵族担忧佃农被劝入圣洁贫困的叙述链中形成明显反讽。该解释是文本语境判断，不等于独立证实系统性诈骗；无新年代锚点。H-0005已更新至v1.6；Q-0007更新至v0.5；Q-0009更新至v0.4，Q-0010维持v0.2。Q5-09仍开放，未改动已签发时间线正典。
+第一轮登记：H-0004及既有帕拉史研究｜基础版v1.0；追加校勘v3.4｜2026年10月23日｜保留既有S-0052—S-0058、P-0057—P-0065、D-0043—D-0057；新增S-0059—S-0064、E-0026—E-0027、P-0066—P-0080、D-0058—D-0070。已重新物化并校验SandBox v1.4.8官方源文件，完成达西边疆与拉盖娅谱系线索的定向核验，并登记达鲁索斯被将领废黜及火焰余烬复辟信仰的源级材料。本轮进一步核对SandBoxCore的Culture.empire键X0kKBzsW与Culture.aserai键a2AjI8nc，登记“submit to it”被译为“接受卡拉德理想”所弱化的政治服从关系，以及“such as it is”限定语被简中省略的差异；前者用于深化H-0003对帝国自我合法化话语的解释，后者留待阿塞莱政治共同体专题。两项均以英文上下文为依据，区分直接本地化差异与解释性推论，不据此虚构各时期实际政策或阿塞莱人缺乏共同身份。H-0005已更新至v1.6；Q-0007更新至v0.5；Q-0008更新至v1.2；Q-0009维持v0.4，Q-0010维持v0.2。Q5-09仍开放，未改动已签发时间线正典。
 
 ## A. 来源声明
 
@@ -444,7 +444,7 @@ S-0049｜SandBox/ModuleData/heroes.xml及Languages/CNs/std\_heroes\_xml-zho-CN.x
 
 S-0050｜SandBox/ModuleData/world\_lore\_strings.xml及Languages/CNs/std\_world\_lore\_strings\_xml-zho-CN.xml｜政治哲学对白键Cx2FCePF、uJeoa6u1、SCogGc7N、T1svPL9Z、uK4IX036、OFOXDkPv、Cgdg9Q8t、spQJxKtr均有官方简体中文条目。Cx2FCePF/uJeoa6u1属于同一角色对白链；OFOXDkPv/Cgdg9Q8t/spQJxKtr属于同一角色连续对白，不能按键数视为独立互证。
 
-S-0051｜SandBoxCore/ModuleData/spcultures.xml及Languages/CNs/std\_spcultures\_xml-zho-CN.xml｜Culture id=empire，文本键X0kKBzsW及其官方简体中文条目。文化概述与TaleWorlds《Empire – Part 1》在无王传统、丘陵部族与帝国形成叙述上重叠，作为同一官方世界观的相互关联文本，不作独立外部互证；中文将“civic elders/civic traditions”译作“民粹元老/民粹传统”，语义偏移，按英文原文解释。
+S-0051｜SandBoxCore/ModuleData/spcultures.xml及Languages/CNs/std\_spcultures\_xml-zho-CN.xml｜Culture id=empire，文本键X0kKBzsW；Culture id=aserai，文本键a2AjI8nc及其官方简体中文对应条目。帝国文化概述与TaleWorlds《Empire – Part 1》在无王传统、丘陵部族、联盟／征服与帝国形成叙述上重叠，作为同一官方世界观的相互关联文本，不作独立外部互证。已登记三类本地化问题：X0kKBzsW的“civic elders/civic traditions”译作“民粹元老/民粹传统”（D-0048）；同键“submit to it”被处理为“接受卡拉德理想”，淡化服从／屈从关系（P-0079/D-0069）；a2AjI8nc的“such as it is”限定语在简中中省略，使民族意识表述更为肯定（P-0080/D-0070）。相关分析只用于语义与叙事解释，不替代对政治实践的独立证据。
 
 P-0056【H-0005首轮逐句引注审计】对H-0005主要论断与原始XML路径、文本键、英文原文、官方简体中文键及证据边界进行了第一轮核对。确认所列关键键均在相应官方英文文件中存在，所核对的各组XML文本均找到对应官方简体中文条目；发现三处需要在论文中标注的译文语义偏移。该轮核对针对核心引文与主要命题，不等于已核销全文所有断言、脚注和比较史学页码。
 
@@ -570,6 +570,8 @@ P-0077【A：政治／宗教主张存在】火焰余烬的组织沿革及其入�
 
 P-0078【B：上下文支持的叙事解释】SandBox v1.4.8 companion_strings.xml的FkhUMTpJ先称讲述者的布道可使村民卖地并加入“our endless pilgrimage”；紧接的QNVJgFbF称组织白天靠捐赠生活、夜间躲避地方贵族，因其担心组织将佃农劝入“holy poverty”。合读时，官方英文将宗教清贫话语与村民失地、佃农贫困化及组织依赖捐赠并置，形成明显讽刺，支持“火焰余烬被文本塑造成可能以宗教话语包装物质损失与社会依附关系转移的运动”这一叙事解释。证据等级B仅用于文本内部的语境解释；不等于独立证实系统性诈骗、强迫剥夺或其实际规模；讲述者为有立场的角色。
 
+P-0079【A：英汉本地化差异；B：上下文叙事解释】SandBoxCore/ModuleData/spcultures.xml，Culture id=empire，文本键X0kKBzsW。英文末句称卡拉德理想可使大陆和平统一，前提是边境外的“barbarians”同意“submit to it”；官方简中“也同意接受卡拉德理想”弱化了submit所含的服从／屈从关系。结合同段的无王传统、邻邦被征服、帝国化、地主领袖与富人扈从，英文叙述把公民自由与帝国扩张、普遍和平与他者服从并置，支持对帝国自我合法化话语内在张力的解释。直接事实是英汉措辞存在差异；叙事解释不等于各时期实际政策的独立证明。
+P-0080【A：英汉本地化差异；B：措辞语境解释】SandBoxCore/ModuleData/spcultures.xml，Culture id=aserai，文本键a2AjI8nc。英文称“Their sense of nationhood, such as it is, comes from tracing their lineage to this legendary patriarch.”官方简中保留了民族意识与祖先谱系相关的主旨，但省略“such as it is”这一带保留意味的限定语，使表述比英文更为肯定。该差异只证明英文叙述对民族意识程度作了限定，不证明阿塞莱人客观上缺乏共同身份；研究时应区分部族谱系、共同祖先传说、政治联盟与民族意识的整合程度。
 D-0066｜达鲁索斯事件的相对年代与来源立场：官方文本中的“近一个世纪前”修饰反叛运动的兴起，而达鲁索斯被推翻发生在该运动之前；不得将该措辞直接当作政变的绝对年份。即使以1084年开局为参照，将运动大致放在十世纪末附近也只是条件性换算，不是官方直接纪年。组织沿革具有复辟立场；同一组织的入场对白与同伴自述只能补充其宗教和社会活动形象，不能算作独立中立互证。
 
 ---
@@ -579,4 +581,6 @@ Source of truth: [Google Docs](https://docs.google.com/document/d/1v52GmJ6BmyRUw
 D-0067｜达鲁索斯描述的英汉语义强度与年龄精度差异：SandBox v1.4.8的spclans.xml及官方语言表键B8c2mNKj，英文称“ineffective teenaged Emperor Darusos”，官方简中译为“无能的年轻皇帝达鲁索斯”。“无能”较“ineffective”更容易被理解为对个人能力的全面否定；“年轻”又弱化了teenaged所给出的少年年龄限定。H-0005 v1.5按英文底本改为“圣洁但施政乏力的少年皇帝”。这是同一官方文本的本地化差异，不构成独立互证。
 
 D-0068｜火焰余烬同伴自述的英汉语义偏移与上下文反讽：companion_strings.xml键FkhUMTpJ先称讲述者布道可使村民卖地并加入“our endless pilgrimage”；紧接的QNVJgFbF称组织白天靠捐赠生活、夜间躲避地方贵族，因为贵族可能厌烦他们“coaxing their tenants into holy poverty”。官方简中将后者译为“以朝圣的名义诱骗佃农财物”，把原文未直接说出的“欺诈财物”写成明示指控；但若只说英文“重点是宗教劝说”，又会低估上下文的讽刺力度。相邻文本以“holy poverty”与村民卖地、组织依赖捐赠及佃农贫困化之间的落差，呈现对以宗教语言包装物质损失的讽刺。应据英文语境解释为火焰余烬可能通过宗教劝诱使村民失地、佃农陷入贫困的文本塑造；由于这是带立场的角色自述，不能将其升格为独立证实的系统性诈骗、强制剥夺或实际规模。
+D-0069｜Culture.empire键X0kKBzsW的帝国自我合法化措辞：英文“submit to it”被官方简中译为“接受卡拉德理想”，淡化了边境外群体须服从该理想的政治含义。与同段的无王传统、征服邻邦、帝国化、地主领袖和富人扈从并读时，和平统一并非不带权力条件的普遍主义承诺，而是以外部群体接受卡拉德主导秩序为前提的叙事表达。该项支持修辞层面的历史解释，不直接证明所有卡拉德政权在各时期实施了同一套强制政策。
+D-0070｜Culture.aserai键a2AjI8nc的民族意识限定语本地化缺失：英文“Their sense of nationhood, such as it is”通过“such as it is”保留对其民族意识程度的限定，官方简中省去该语，直接说“他们的民族意识来自于……”，令表述更为肯定。研究者应保留英文原文的谨慎语气；此差异不构成阿塞莱人缺乏共同身份的证据，亦不应将“nationhood”直接套入现代民族国家概念。
 
