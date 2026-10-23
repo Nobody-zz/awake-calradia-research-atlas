@@ -1,4 +1,4 @@
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。当前研究执行以Q-0013 v0.2为统一入口：单一在研论文为潘德拉克战役史，当前唯一源级核验阻塞是StoryMode主线19人英文对白。其余既有论文的结构性修订与新选题按P1—P3任务依赖排队，不临时扩充H编号、不以更新审查登记代替论文进展。最近同步：2026-10-23。当前规范版本：I-0001 v1.4、I-0002 v3.40、I-0003 v3.13、I-0004 v2.1。已完成《潘德拉克战役：多国联盟、战场失利与胜利后的政治分裂》独立论文工作稿v0.1，Google Docs与GitHub双端保存；不占H编号，不立即删除H-0003/H-0005原始材料。此文系统比较帝国与斯特吉亚—巴旦尼亚—瓦兰迪亚多方交战、两侧佣兵军队、林地伏击与营地强攻、双方战后权力争执及阿雷尼科斯继位，并从《War Sails》海员背景发现欠饷、弃船与舰船维护崩解的军旅记忆。已登记SandBox有效heroes.xml中的老奥列克战死与主线转录中折龙旗的表面时序矛盾、墨速宜前夫Solun与蒙楚格转录中Gotug的姓名异同、尼姆尔阿塞莱“预备队”的简中增译、Panderaic村落SandBox/NavalDLC英文地理改写但DLC中文沿用旧文，以及1077年玩家转录纪年同2018官方博客“Twenty years ago”的相对年代张力。主线19人对白目前仅有2020及2026玩家转录，尚未取得本项目可直接核验的完整有效主线逐字对话文件；战术重建是分级的B级转录史料综合，不能升格为已源级核销的A级官方XML事件。I-0003 v3.13新增S-0075—S-0080、E-0029、P-0099—P-0102、D-0086—D-0090；Q-0011 v1.13登记R23-1—R23-5并维持发表级终审未完成。此前审查发现H-0003的第五—七节范围偏宽，另有1084年继承合法性竞争、军团改革及火焰余烬宗教财产冲突适宜独立研究，详见Q-0011 v1.12 R22。现行论文H-0001—H-0005的序号及分类号不变，H-0006未分配；项目已签发正典保持独立于史学命题的证据等级，H-0005 Q5-09继续开放。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。当前工作方向不再按手头已完成的论文递推：以全大陆各历史共同体的形成、演变、互动与1084年前后多元格局为总问题，从研究对象、时期、领域和证据来源四方面先建立总体摸底，再用跨区域比较和明确反例决定正式论文的先后顺序。最新已核验的工作基底为《全大陆史料覆盖摸底与历史问题图谱》v0.1（非H/I/Q编号），包含67份清单对54份实得XML的覆盖差异、六大主要文化与九项王国历史概述的初步比较、原版493/有叙事327与DLC540/有叙事365聚落、271处英文异文的字面统计、55项历史研究问题及帝国中心／自主国家形成／边疆互动三个竞争解释。后续先核对国家之间的财富、军役、土地、贸易、婚姻、宗教与迁徙关系，标出相对年代与史料语气；不能因新的有趣事件立即开一篇论文，也不把分类法误作研究纲领。Q-0013 v0.3已据此替换旧P0潘德拉克单篇优先安排，I-0002 v3.41登记摸底里程碑。此前潘德拉克独立战役工作稿v0.1、H-0001—H-0005原有成果和I-0003 v3.13史料登记均保留，未经新证据不升格主线转录为A类、亦不强行解决StoryMode缺口。当前未取得Native9与StoryMode4的原始文件，不能宣称这13份已经阅读。英文原始版本、官方简中及开发博客保持史料层次区别，地图版本差异不等于历史地形变化；Q5-09仍开放，H-0006未分配，已签发正典不变。当前登记日期：2026-10-23。
 
 ## geo/00
 
@@ -40,8 +40,9 @@
 
 ## history/00
 
+- [全大陆史料覆盖摸底与历史问题图谱（工作调查v0.1；55个历史问题，非正式H/I/Q编号）](history/00/continental-historical-baseline-question-atlas-2026-10-23.md) · [Google Docs原件](https://docs.google.com/document/d/1ezcXq-rZCPNRNjvhP1VuoLqhCoZHxyJgxzEtyCMCsrM/edit)
 - [I-0001｜研究总纲、史学方法与交叉校验规范（v1.4）](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
-- [I-0002｜论文目录与研究进度总索引（v3.40）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
+- [I-0002｜论文目录与研究进度总索引（v3.41）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
 - [I-0003｜史料—事件—命题—争议总登记簿（v3.13）](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
 - [I-0004｜卡拉迪亚历史研究学术分类法（CHC v2.1）](history/00/I-0004-academic-classification.md) · [云盘原件](https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit)
 ## history/01
@@ -65,7 +66,7 @@
 - [Q-0010｜彭同、拉盖娅与涅雷采斯家族政治分流：谱系及法统审查（v0.2）](history/02/Q-0010-neretzes-penton-rhagaea-succession-evidence.md) · [云盘原件](https://docs.google.com/document/d/14-HU9CH3hLPHVTxJl_i3ILtDh2vrvLfgp5g7Wq4bHaI/edit)
 - [Q-0011｜H-0001—H-0005历史学方法与论证质量综合审查（v1.13）](history/02/Q-0011-historical-method-cross-review.md) · [云盘原件](https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit)
 - [Q-0012｜王国沿革与帝国内战政治主张：英汉语境校勘（v0.4）](history/02/Q-0012-kingdom-descriptions-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1JkcbLRNaoVgmQlCvqvSNdAW0hopPg-X1ls8v7e_m1xM/edit)
-- [Q-0013｜卡拉迪亚历史研究执行计划与阶段验收（v0.2；当前工作唯一入口）](history/02/Q-0013-stage-review-and-research-redirection.md) · [云盘原件](https://docs.google.com/document/d/1p9844oEQ-kO7I7h5R_ymuU8SJ3I4Al-0prXki6f27mc/edit)
+- [Q-0013｜全大陆问题导向研究执行纲领（v0.3；当前工作方向）](history/02/Q-0013-stage-review-and-research-redirection.md) · [云盘原件](https://docs.google.com/document/d/1p9844oEQ-kO7I7h5R_ymuU8SJ3I4Al-0prXki6f27mc/edit)
 ## history/03
 
 - [潘德拉克战役专题｜多国联盟、战场失利与胜利后的政治分裂（独立论文工作稿v0.1，未签发H号）](history/03/Pendraic-Battle-Research-Working-Draft.md) · [Google Docs原件](https://docs.google.com/document/d/1hc4HEGsIcvZ-y3sAwSlxAg-08yFbcUk4xA0hujGnDoM/edit)
