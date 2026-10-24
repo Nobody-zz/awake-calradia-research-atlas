@@ -144,3 +144,14 @@ Google Docs：https://docs.google.com/document/d/1LtjH6zFrfpyu1vQkTBbcaBFiXRNcwm
 本轮将城市形成论的“生产者—货物—买方—时层”指标扩展到北方海洋经济。当前直接文本链包括：诺德长船向南销售海象牙、鲸油和鱼类；哈加德（Hargard，town_N4／zh2tG1MX）作为朱姆内河岸多族群汇集河谷物产并向南出售的节点；格雷蒂斯湾（Gretysfjord，town_N2／nxmX99pO）的季节集市先于地方雅尔权力成长；瓦尔维克（Hvalvik，town_N1／Zn9NwSTf）从捕鲸棚屋聚落发展为港镇；village_N3_4／fVkcvgSc的排沼授田与城镇小麦供给；雅斯克韦格（Jalskveg，village_N3_1／JJ0fLBlD）以牛力拖运橡木至海岸造船。
 
 此证据支持北方海岸—河港—内陆生产地之间存在多节点、分商品的交换网络，但不支持统一王室港务、固定全年航线、统一关税或全部海产输往内陆农牧社区。四座新增诺德城镇当前NavalDLC官方简体中文名称键为瓦尔维克、格雷蒂斯湾、特龙德拉格、哈加德；开发日志的旧中文译稿异译不覆盖当前名称键。village_N3_4的“瓦格纳菲特”为既有研究稿暂用名，未将其冒充为本轮直接核定的独立中文名称键。
+
+
+## 第七轮补充｜乌卡利翁高地林谷村庄与城镇供给（2026-10-24）
+
+新增独立专题v0.1：《乌卡利翁高地的林谷村庄、资源劳动与城镇—堡镇供给网络》。
+GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/uchalion-highland-villages-resource-labour-and-town-supply-2026-10-24.md
+Google Docs：https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrtapYGwKH8saSLcI/edit
+
+本专题补入高地村庄的明确供给关系：格伦利斯里格（Glenlithrig，village_B2_2）向邓格拉尼斯和卡·班塞斯供应木材；杜恩（Durn，village_B5_1）将河岸泥土沿曲折道路运往彭·坎诺克；盖恩塞斯（Gainseth，village_B5_2）向彭·坎诺克陶工出售泥土；安杜恩（Andurn，village_B4_2）出售林木给城镇；托·莱阿德（Tor Leiad，village_B3_3）记载长期照料林木以供采伐出售。毛皮捕猎与护林/边防劳动也有地点级记载，但买方和制度细节并不完整。
+
+该专题将城市形成研究中的“生产者—货物—买方—时层”指标推进到巴旦尼亚林谷，不把堡村Claig Ban与城镇Car Banseth混为一地，也不把原始资源存在等同于已证贸易。英文检索镜像仅作同一官方文本的检索入口，不是独立史源；完整原始ZIP逐键复核和NavalDLC同ID比较仍待完成。
