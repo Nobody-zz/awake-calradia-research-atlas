@@ -162,3 +162,12 @@ TaleWorlds 于2017年12月14日发布的《Sturgia》开发日志称，斯特吉
 〔9〕CGEO-TOP-AUD-002《大陆地理专名扩展校勘与分版地志异文审查》：https://docs.google.com/document/d/10IgGQQZb5Wxf2VFlIXuGXEomwgyoqPVVbkC9OwCJ-q0/edit 。有关两版同键描述改写与官中沿用旧版的风险，须与本稿一起阅读。
 
 **限制声明**：本稿已直接核对项目保存的官中聚落文本，结合项目已有的 SandBox／NavalDLC 英文源级复核和 TaleWorlds 公开开发日志；本轮未重新解包全部游戏ZIP逐键输出。故文中对版本差异的判断明确引用已有源级审查，不宣称本轮已完成全部原始压缩包的重新核验。
+
+
+## 第二轮原始ZIP版本校勘补充（2026-10-24）
+
+对同一聚落ID分版回读后，西比尔（town_S6）在SandBox基础版位于车尔特格山脉幽谷，NavalDLC改写为山脉的海向坡地；诺德商人收购当地操瓦肯语森林居民毛皮的目的没有变化。奥姆卡尼（village_S4_3）从“拉科尼斯湖岸与车尔特格山脉交会处”改为“冰冷车尔特格山脉腹地”，腌制猪脂并销往北方的关系仍在。
+
+乔诺巴斯（village_S3_1）是实质性供给关系改写：基础版记森林开垦、瀑布和水雾田地中的黑麦/大麦；DLC版记伊卡拉丘陵新近清林、向奥莫尔港市供粮，以及东北方斯特吉亚定居者继续砍林播种。简中仍保留基础版描述。本文的奥莫尔粮食腹地结论必须明确限定于NavalDLC英文文本，不能把两版写成乔诺巴斯在世界内部先后经历的两个历史阶段。
+
+此外，DLC简中仍未同步西比尔与奥姆卡尼的地理改写。相关逐键记录见[聚落文本版本与官方简中同步审计](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/settlement-text-version-and-localization-audit-2026-10-24.md)。
