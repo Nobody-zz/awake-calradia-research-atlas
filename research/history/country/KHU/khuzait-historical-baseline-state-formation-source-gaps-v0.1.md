@@ -133,7 +133,7 @@ RQ-KHU-12｜斯特吉亚境内 Alkit 小汗国属于兀儿浑时代之前、期�
 
 人物字段也不支持一套已被证明的统一继承法。按本线工作基线，墨速宜为岁仑之妻；岁仑战死于潘德拉克，而三名在世子女的父母字段指向岁仑与墨速宜。因此，墨速宜的领导不能解释为没有在世后代可继承，但她如何上位及是否存在摄政规则仍未知。阿契特现任领袖 Hero.lord_6_5 的父亲字段指向曾任大那颜的库由格（Kuyug），提供了较清楚的父子谱系连续性，但不等于已经证明自动世袭。兀儿浑乃特存在蒙楚格及其子女的家族字段与祖先兀儿浑的叙述，却没有完整逐代父系链；其他氏族的亲属字段更不足以复原统一继承程序。
 
-RQ-KHU-05 的推进结果：目前可比较封地与现行持有的差异，也能识别城镇取得路径的多样性；仍缺撤封、继承、税役与兵额的明确规则。RQ-KHU-07 的推进结果：奥通加德是强产权链缺口，SandBox 与 NavalDLC 两版英文都保留“授予库吉特”的历史主干，NavalDLC 只修正 SandBox 英文句法；两版 owner 均为阿契特。开发注释称阿契特曾试图夺取库吉特领土，却未点名奥通加德，也未说明反攻结果，故不能据此宣布夺城已证实。
+RQ-KHU-05 的推进结果：目前可比较封地与现行持有的差异，也能识别城镇取得路径的多样性；仍缺撤封、继承、税役与兵额的明确规则。RQ-KHU-07 的推进结果：奥通加德是强产权链缺口，SandBox 与 NavalDLC 两版英文都保留“授予库吉特”的历史主干，NavalDLC 只修正 SandBox 英文句法；两版 owner 均为阿契特。另一个关键设计史线索是，settlements.xml 中 town_K1（巴尔塔罕）前的注释标为“clan 3, Arkits”，town_K4（奥通加德）前的注释却标为“clan 2, Khergits”；生效 owner 字段和 spclans.xml 的 initial_home_settlement 则将巴尔塔罕配置给库吉特、奥通加德配置给阿契特，恰与旧注释标签相反。这与开发阶段曾交换两氏族据点、后来改动开局分配但未同步全部注释／历史地志的解释相容，却不能证明改动时间或原因，也不能排除真实的世界内转移。开发注释虽称阿契特曾试图夺取库吉特领土，但没有点名奥通加德，也未说明反攻结果，故不能据此宣布夺城已证实。
 
 全模块检索的负面结果：本轮对 Native、SandBoxCore、SandBox、StoryMode、NavalDLC 五个归档 ZIP 内的 XML 及官方语言表检索。Ortongard 仅出现在 SandBox／NavalDLC 的 town_K4 聚落正文、名称字段及对应语言表；未发现其他官方条目把该城与后来的领地争夺相连。Gotug 在这些归档的 XML 和语言表中没有命中；“ten years ago”与“made a bid for their territories”只出现在 SandBox／ModuleData/spclans.xml 的旧开发注释。已上传 StoryMode.zip 仅含 module_strings.xml、story_mode_settlements.xml 及两份语言表，其中没有 Khergit、Arkit、Mesui、Solun、Gotug、Ortongard、Pendraic 或 Monchug 的正文命中。此结果只限定于现有候选归档，不能证明完整游戏资源或其他版本绝无相关对白；但它说明当前没有可用的独立官方主线文本来补上奥通加德的产权链。
 
