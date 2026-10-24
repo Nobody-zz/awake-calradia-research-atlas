@@ -291,7 +291,7 @@ TaleWorlds 2017-11-09《Dev Blog 09/11/17》（https://www.taleworlds.com/en/Gam
 
 ### 二、定居不等于放弃畜牧业：多种稳定的乡村生产类型
 
-以下村落叙述在两个版本中关于生产方式的核心陈述一致。乌赛克（Usek，castle_village_K1_1）居民不久前还是游牧民，现以细长羊毛出名；兰萨木（Ransam，village_K4_2）不久前仍过游牧生活，如今专业饲养马匹；米万占（Mivanjan，village_K4_3）原游牧者继续在山麓养羊；努丘克（Nutyuk，village_K6_2）以新近定居的牧民为多数，但仍按祖辈方式养羊；基拉兹（Kiraz，castle_village_K3_2）原本由游牧者支配，如今仍靠羊群谋生。这些证据支持“固定村落、继续牧养”与“固定村落、转种农作物”同时存在，而不是所有被编入汗国的人都经历了同一种农业化。
+以下村落叙述在两个版本中关于生产方式的核心陈述一致。乌赛克（Usek，castle_village_K1_1）居民不久前还是游牧民，现以细长羊毛出名；兰萨木（Ransam，village_K4_2）不久前仍过游牧生活，如今专业饲养马匹；米万占（Mivanjan，village_K4_3）原游牧者继续在山麓养羊；努丘克（Nutyuk，village_K6_2）以新近定居的牧民为多数，但仍按祖辈方式养羊；Kiraz（castle_village_K3_2；官中专名待核）原本由游牧者支配，如今仍靠羊群谋生。这些证据支持“固定村落、继续牧养”与“固定村落、转种农作物”同时存在，而不是所有被编入汗国的人都经历了同一种农业化。
 
 农业也并非少数村落从头发明：奥胡坦（Okhutan，village_K5_2）、帕巴斯坦（Pabastan，village_K5_4）在湖岸与阿克坎丘陵之间的狭长平原栽培小麦；帕亚木（Payam，castle_village_K9_2）寒冷地区借融雪后短生长季播小麦和大麦。NavalDLC 将帕亚木的河道归属由喀拉卡孜河改为达瓦纳河，但耕种季节信息保留。不能假设这三处农业均起源于兀儿浑改革，也不能把“定居”简单等于可汗直接组织的集体迁村工程。
 
@@ -305,7 +305,7 @@ TaleWorlds 2017-11-09《Dev Blog 09/11/17》（https://www.taleworlds.com/en/Gam
 
 泰佩斯（Tepes，castle_village_K4_1）以木材供给湖滨城市；基础版写木材沿喀拉卡孜支流漂运，新版改为从德夫赛格与湖间森林低地由牛拖到水边、再漂送。鄂木罗托克（Omrotok，castle_village_K5_2）供应高原稀缺木材，其地理与产业叙述较稳定。不同版本的泰佩斯水运路线**不能同时拼成一张精确运材地图**，但“远郊木材供应湖滨城市”的经济功能跨版本可保留。
 
-关于军事物资，卡拉罕（Karahan，village_K6_1）两版均说居民向游牧部族买马，部分自行养殖，成为许多库赛特军队坐骑的来源；这是草原牲畜市场同汗国军队的**直接物资联系**。在基础版，柯希·阿吉克（Kohi Ajik，castle_village_K7_2）也向东部游牧人买马并向城镇贵族转售；在 NavalDLC，同名地区改为记述斡祖河源头，而“帖斯密勒”（Tismil，castle_village_K7_2）则描述那颜试图培育保留草原马耐力、但更高大的战马。后一则是新增的**那颜主动干预军马育种**记述。它不等于已确立可汗经营的统一军马场或现代意义的育种政策，但显示贵族军事需求可以推动专业化畜牧生产。
+关于军事物资，Karahan（village_K6_1；官中专名待核）两版均说居民向游牧部族买马，部分自行养殖，成为许多库赛特军队坐骑的来源；这是草原牲畜市场同汗国军队的**直接物资联系**。在基础版，柯希·阿吉克（Kohi Ajik，castle_village_K7_2）也向东部游牧人买马并向城镇贵族转售；在 NavalDLC，同名地区改为记述斡祖河源头，而“帖斯密勒”（Tismil，castle_village_K7_2）则描述那颜试图培育保留草原马耐力、但更高大的战马。后一则是新增的**那颜主动干预军马育种**记述。它不等于已确立可汗经营的统一军马场或现代意义的育种政策，但显示贵族军事需求可以推动专业化畜牧生产。
 
 ### 四、版本断裂是证据问题，不应创作未经记载的产业转型史
 
@@ -325,8 +325,8 @@ NavalDLC 的迪纳尔还首次记载北方诺德扩张迫使朱姆内河谷人�
 
 ### 六、本章原文索引与审查约束
 
-A14-01｜SandBox／ModuleData/settlements.xml：village_K1_2（乌兰，强制定居与亚麻）、castle_village_K1_1（乌赛克，定居与羊毛）、village_K4_2（兰萨木，马）、village_K4_3（米万占，羊）、village_K6_2（努丘克，羊）、castle_village_K3_2（基拉兹，羊）；NavalDLC 同版同项应逐键对照。
-A14-02｜两版 castle_village_K3_1（哈坤银矿）、castle_village_K5_1（希木利陶土）、castle_village_K2_2（喀木沙陶土交易）、castle_village_K8_2（格烈登陶土）、castle_village_K4_1（泰佩斯木材）、castle_village_K5_2（鄂木罗托克木材）、village_K6_1（卡拉罕军马）；市场关系明文高于推断的税政关系。
+A14-01｜SandBox／ModuleData/settlements.xml：village_K1_2（乌兰，强制定居与亚麻）、castle_village_K1_1（乌赛克，定居与羊毛）、village_K4_2（兰萨木，马）、village_K4_3（米万占，羊）、village_K6_2（努丘克，羊）、castle_village_K3_2（Kiraz，羊；中文专名待核）；NavalDLC 同版同项应逐键对照。
+A14-02｜两版 castle_village_K3_1（哈坤银矿）、castle_village_K5_1（希木利陶土）、castle_village_K2_2（喀木沙陶土交易）、castle_village_K8_2（格烈登陶土）、castle_village_K4_1（泰佩斯木材）、castle_village_K5_2（鄂木罗托克木材）、village_K6_1（Karahan 军马；中文专名待核）；市场关系明文高于推断的税政关系。
 A14-03｜两版 village_K3_1（沙佩什特盐矿／湖湾渔业）、village_K3_3（马津渔业／桑蚕）、village_K6_3（达纳拉盐湖／盐硫泉）、village_K3_2（哈内希铁矿／麦作）、castle_village_K6_1（迪纳尔羊毛／人口通婚）；单独登记版本冲突，不当作纪年证据。
 A14-04｜SandBox 中 village_K2_2=Tismil、castle_village_K7_2=Kohi Ajik；NavalDLC 中 village_K2_2=Kohi Ajik、castle_village_K7_2=Tismil；两者的 text 键也随名称对调。不可仅靠 Settlement ID 当作稳定跨版本地名映射。
 A14-05｜SandBox／ModuleData/Languages/CNs/std_settlements_xml-zho-CN.xml 与 NavalDLC 同名简中语言表保留的旧词义，包括乌兰强制迁居、沙佩什特盐矿、马津捕鱼、达纳拉盐湖；不自动等同于 NavalDLC 新英语。强制定居、出产种类及史料版本由对应英语正文核定，中文用于专名。
