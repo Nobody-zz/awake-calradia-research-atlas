@@ -246,3 +246,6 @@ SandBox/ModuleData/companion_strings.xml 键 **QNVJgFbF** 描写一名宗教流�
 | SandBox/ModuleData/companion_strings.xml | QNVJgFbF | “holy poverty”与佃户关系的英文／中文差异 |
 
 本稿属于 CHC-VLA-SOC 独立工作稿，不分配 H 编号，不修改公共研究索引或其他国别文档。后续只有在发现独立法律文本、重复案件、具体司法程序或跨地区比较材料时，才将有关命题提升为更强的历史结论。
+
+## 跨模块地志版本限定（2026-10-24）
+本稿第4节关于勒芒塔尔的“较轻男爵统治”引文是 SandBox 文本层的直接证据。NavalDLC 对同一ID的英文正文改写为银矿枯竭后的盐业，并在卡南克新增较轻统治与迁入者的描述；旧键简中仍保留 SandBox 版本。该证据应标明模块，不宜将两套文本视作同一时间层的连续事实。详见：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-warsails-settlement-variants-localization-audit-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1x-rgVuMsHbRkDUXvs8j194srP-DKgGzcQV98MYl7-SE/edit。
