@@ -1,5 +1,5 @@
 巴旦尼亚历史研究现状、史料覆盖与重大问题
-CHC-BAT-GEN｜巴旦尼亚国别史独立工作稿 v0.1｜2026年10月24日
+CHC-BAT-GEN｜巴旦尼亚国别史独立工作稿 v0.2｜2026年10月24日
 状态：首轮源级摸底；未经专题论文审校；不占 H 编号；公共 I/Q/S/E/P/D 总索引不作改写。
 
 【摘要】
@@ -7,7 +7,7 @@ CHC-BAT-GEN｜巴旦尼亚国别史独立工作稿 v0.1｜2026年10月24日
 
 一、交接、范围与方法
 已核查项目 I-0001 v1.4、I-0004 v2.2、I-0003 v3.13、I-0002 v3.42、Q-0013 v0.4及《全大陆史料覆盖摸底与历史问题图谱》v0.1；参照已有 H-0002、H-0004 的帕拉史边界和独立的《潘德拉克战役》CHC-CAL-MIL 工作稿。分类沿用 CHC；本稿是国别总体调查，未来“氏族权力—至高王—地方社会”专题可归 CHC-BAT-SOC，不能据此预授 H 号。
-直接解包核对 Library 中 SandBoxCore.zip、SandBox.zip、NavalDLC.zip、Native.zip、StoryMode.zip；此前全大陆调查的“54/67份XML可得”是当时三 ZIP 的取得状态，此轮五 ZIP 已可检查清单所列另外13份模块XML，不能将“文件可得”误写成“67份全文件逐行语义核销”。本轮实际定向核对文化、王国、人物、氏族、聚落及 Native 文化修辞。尤其要说明：现有 StoryMode 资源 ZIP 没有直接提供潘德拉克19位领主的完整主线采访对话，相关细节仍须依中央战役稿的二手转录等级。
+直接解包核对 Library 中 SandBoxCore.zip、SandBox.zip、NavalDLC.zip、Native.zip、StoryMode.zip；此前全大陆调查的“54/67份XML可得”是当时三 ZIP 的取得状态，此轮五 ZIP 已可检查清单所列另外13份模块XML，不能将“文件可得”误写成“67份全文件逐行语义核销”。本轮实际定向核对文化、王国、人物、氏族、聚落及 Native 文化修辞。尤其要区分：现有 StoryMode ZIP 不含十九位领主采访的专门对白 XML；但公开的 Bannerlord v1.4.5 反编译代码已恢复十九名受访者的七十六段英文答话，可列 A2。项目 v1.4.8.119303 的同版本逐字核验仍未完成，因此不将其冒称为项目版本的原始 XML。
 来源规则：直接史料文本为A级“有此表述”，不意味着叙述客观无误；可由单段严格推出的时间顺序为B；竞争机制的最佳解释为C；没有确认的古代绝对年代、王族谱系和行政安排仍为D。英文为语义底本，官方简体中文为显示名和异文校勘。跨模块、不同版本相同ID不构成独立互证。本线只列“建议送公共登记簿”的条目，不私自分配S/E/P/D号。
 资料接口：I-0001 https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit ；I-0004 https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit ；Q-0013 https://docs.google.com/document/d/1p9844oEQ-kO7I7h5R_ymuU8SJ3I4Al-0prXki6f27mc/edit ；全大陆摸底 https://docs.google.com/document/d/1ezcXq-rZCPNRNjvhP1VuoLqhCoZHxyJgxzEtyCMCsrM/edit ；共享潘德拉克工作稿 https://docs.google.com/document/d/1hc4HEGsIcvZ-y3sAwSlxAg-08yFbcUk4xA0hujGnDoM/edit 。
 
@@ -37,7 +37,7 @@ CHC-BAT-GEN｜巴旦尼亚国别史独立工作稿 v0.1｜2026年10月24日
 宗教及圣地：A级是圣山、圣湖、古王后授予主权的传说及战士训练叙述；C级为神圣空间有利于不同氏族认识共同的政治资格；D级为专职祭司机构、圣地征税和仪式真实起源年代。
 帝国侵略与文化关系：A级是帝国与巴旦尼亚交战、巴旦尼亚及帕拉对湖泊神圣性的相似叙述、拉革塔成为巴旦尼亚政治记忆；C级是帝国边疆制度及经济开垦加剧北部社会压力；D级是每轮征服的年份与统一战争年表。
 瓦兰迪亚与斯特吉亚：A级是边地巴旦尼亚聚落被夺、戴恩玛查雇用斯特吉亚兵、古卡格雷夫被攻占、葡萄酒和马匹跨境市场；C级是贸易与军事竞争并行且相互塑造；D级为边界历年线和跨国协定原文。
-潘德拉克与1084年：A级为卡拉多格的继承争议、战功资格及氏族支持，和巴旦尼亚林地军事传统；主线战役细节目前主要仍属中央工作稿的二手访谈转录，不升格为有效原始XML直陈；D级是埃里尔·乌瑟莱恩失踪及可能死亡的责任、卡拉多格登位与战役的完整日序、巴旦尼亚诸氏族动员人数。
+潘德拉克与1084年：A级为卡拉多格的继承争议、战功资格及氏族支持，和巴旦尼亚林地军事传统；主线战役细节现可依据 A2 级反编译对白复核文本，但它不是本项目 v1.4.8 生效 XML；同时仍须区分人物说法与客观战场事实；D级是埃里尔·乌瑟莱恩失踪及可能死亡的责任、卡拉多格登位与战役的完整日序、巴旦尼亚诸氏族动员人数。
 多版本地理：A级为 SandBox 与 NavalDLC 分别存在 town_B3、town_V2、castle_village_B4_1 等明确英文异文；B级为不能把两版空间视角拼成同一静态史图；D级为仅据文本把潘德拉克战场精确定位在DLC新写的南部山口。
 
 四、最小相对年代框架（不制造绝对纪年）
@@ -45,7 +45,7 @@ CHC-BAT-GEN｜巴旦尼亚国别史独立工作稿 v0.1｜2026年10月24日
 第二层：帝国扩张及北方边境压力。厄庇克洛忒亚地方志记一次帝国战胜巴旦尼亚军队，帝国北方沿革记边疆地主与防御；巴旦尼亚文化概述把帝国军团列在瓦兰迪亚、斯特吉亚兴起之前，构成非常宽松的先后结构，不足以确定整体巴旦尼亚统一程度。
 第三层：北方贸易、外来武士和领土变化。戴恩玛查—诺德雅尔—斯特吉亚佣兵—瓦尔切格丧失在该地志内部有可证的局部顺序；卡格雷夫斯特吉亚征服距叙述时点“两代人”；奥克斯·霍尔瓦兰迪亚征服属于另一独立局部链。三条链之间目前不能任意排序。
 第四层：较晚的王权伸张和继承危机。王国概述直言至高王“较近”试图行使强权；埃里尔·乌瑟莱恩收养卡拉多格、旧王失踪或被传记称死因不明、卡拉多格登位与芬·格鲁芬多克势力扩张形成较稳健的局部链。乌瑟莱恩为埃里尔姓氏的识别已消除虚假的“两王”姓名冲突；王国总述中“某至高王被表亲出卖”的匿名故事仍不能未经验证便等同于埃里尔·乌瑟莱恩的失踪。
-第五层：潘德拉克及1084年。巴旦尼亚同帝国及外部联盟作战，卡拉多格凭军事成绩与联盟政治巩固地位属于重要待核机制；战役具体交锋与王位继承因果不可倒用玩家转录冒充原始官方对白。1084年的巴旦尼亚王国有多氏族格局，只能作为研究的晚期横断面，不能反推出古代长期不变的国家边界。
+第五层：潘德拉克及1084年。巴旦尼亚同帝国及外部联盟作战，卡拉多格凭军事成绩与联盟政治巩固地位属于重要待核机制；战役具体交锋与王位继承因果不可把玩家转录冒充官方原文，也不可将 A2 级人物自述直接当成中立战报。1084年的巴旦尼亚王国有多氏族格局，只能作为研究的晚期横断面，不能反推出古代长期不变的国家边界。
 
 五、相互竞争的国家形成解释及其反例
 模型甲：“古老统一王权延续说”。其最佳依据是相传自古存在至高王、固定圣山加冕和格拉尼斯授予主权传说。如果进一步发现历代中央直接控制税赋、征兵和地方官职、且有跨时期可证连续性，模型甲将增强。当前障碍是王国原文明确将酋长财产与王权扩张区分，邓格拉尼斯并非各王常住之所，埃尔贡更担心重返无政府，故不宜把古老仪式误读为古老集权。
@@ -93,7 +93,7 @@ SandBoxCore v1.4.8：Modules/SandBoxCore/ModuleData/spcultures.xml，Culture.bat
 SandBox v1.4.8.119303：Modules/SandBox/ModuleData/spkingdoms.xml，Kingdom.battania/ZjaaAoxd，Kingdom.empire/aEfsyVH4；heroes.xml，lord_5_1/8SiW73EF，lord_5_3/HjGYftkH；spclans.xml，wolfskins/7bhNgOKd；settlements.xml，town_B2/YERtiSUn，town_B3/QD3oaaNK，town_B4/X3MsaG39，town_S1/i2VkRLBg，village_S1_3/Settlements.Settlement.text.village_S1_3，town_V2/nhmBQIC4，town_EW1/ZAGUIKOn，town_EN1/n9WMUuSp，town_EN3/EJZLzhJk，castle_village_B4_1/Settlements.Settlement.text.castle_village_B4_1，以及 castle_village_B1_1、B6_2、B7_1、B8_1、village_B2_2、B3_3。
 NavalDLC v1.2.8：Modules/NavalDLC/ModuleData/settlements.xml，与上述同ID的 town_B3、town_V2、castle_village_B4_1 的改写文本；须匹配各自官方英语、简体中文语言表。
 Native v1.4.8：Modules/Native/ModuleData/module_strings.xml，str_culture_description.battania/c1Ag8YJS；宫廷称谓 High King、Mormaer 等界面术语不能直接证实古代官制。
-StoryMode v1.4.8：本轮已取得其模块ZIP并定向检查，主线19人完整潘德拉克访谈英文未在现有可读资源中完成校核；其详细战术和战前人物对白仍引用中央战役工作稿的保留等级。
+StoryMode v1.4.8：本轮已取得其模块ZIP并定向检查，项目 v1.4.8 的主线19人采访英文尚未完成同版本逐字校核；公开 v1.4.5 反编译代码已恢复全部答话，当前可按 A2 级文本引用并保留版本限制。
 相关中译以 SandBoxCore、SandBox、NavalDLC 各模块官方CNs文件及项目已有 v1.4.8 官方中文百科转录核对。所有口述、神话、地志归责和人物怀疑均保持其叙述身份。
 
 【阶段结论】
@@ -141,14 +141,14 @@ StoryMode v1.4.8：本轮已取得其模块ZIP并定向检查，主线19人完�
 
 新增专题《潘德拉克战争中的巴旦尼亚：战场贡献、盟军分工与至高王权的动员边界》从巴旦尼亚史内部检验潘德拉克战役。其核心判断是：林地伏击的战场贡献不能直接等同于巴旦尼亚单独击败帝国，更不能证明卡拉多格已垄断各氏族的兵力与资源。王国概述对地方酋长土地、畜群和侍从自主的描述，与埃尔贡对新王的有保留服从相互约束，支持“战争压力推动复合王权强化”的解释，而非已完成中央集权的模型。
 
-证据等级再次明确：有效官方 XML 可确认人物志、王权概述和角色政治修辞确实存在；《潘德拉克战役》工作稿中的具体战术、休战誓约及战后战利品细节仍主要来自玩家转录。现有 StoryMode.zip 未提供完整的十九位领主采访原始对白，本轮未将这些转录提升为直接史料。NavalDLC 对潘德拉克村落地志的英文修订也未同步更新对应官方简中语言表，地理描述不可拼合。
+证据等级再次明确：有效官方 XML 可确认人物志、王权概述和角色政治修辞；主线采访英文现可从 v1.4.5 反编译代码恢复为 A2，但项目 v1.4.8 逐字核验仍待完成。战术、休战誓约及战后战利品仍是人物自述，不能因文本来源已恢复就将其升格为中立事实。NavalDLC 对潘德拉克村落地志的英文修订也未同步更新对应官方简中语言表，地理描述不可拼合。
 
 专题原件：https://docs.google.com/document/d/1MRDSiB-ua1kN3QF988JxrsP8M10wxKe-EF9AJjhcG-Q/edit
 GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/BAT/battanian-pendraic-war-and-kingship-mobilization-v0.1.md
 
 附录｜第七轮：潘德拉克原始资源审计（2026-10-24）
 
-新专题《潘德拉克战争原始资源审计与证据矩阵》完成了项目现有 SandBoxCore、SandBox、Native、StoryMode、NavalDLC 压缩包的文件覆盖检查。当前 StoryMode.zip 只有四个文件，未含玩家手录十九位领主采访的专门对白资源；故战前休战誓约、卡拉多格是否首先违约、斯特吉亚与瓦兰迪亚具体战术分工、战后战利品争议，仍不能标为已与官方主线原始对白逐句核实。
+新专题《潘德拉克战争原始资源审计与证据矩阵》完成了项目现有 SandBoxCore、SandBox、Native、StoryMode、NavalDLC 压缩包的文件覆盖检查。当前 StoryMode.zip 只有四个 XML 文件，未含采访答话；但 Bannerlord v1.4.5 反编译代码已恢复卡拉多格、埃尔贡、梅利迪尔的英文回答。战前休战誓约、卡拉多格是否首先违约、盟军具体战术分工与战后战利品争议，仍须按 A2 级人物叙述分析，且 v1.4.8 同版本逐字核验尚未完成。
 
 当前官方英文资源直接支持：德罗修斯·涅雷采斯率帝国军团进入巴旦尼亚森林伏击（SandBox/wanderer_strings.xml〔DzyAgYIX〕、companion_strings.xml〔mk0l1BfB〕）；“最后军团”派系将阿雷尼科斯在潘德拉克之后废除剩余常备军、改依赖总督私人扈从与成本和领土控制相联系（SandBox/spclans.xml〔bhxVA9w7〕）；人物志将卡拉多格的继位疑云、小氏族支持与埃尔贡要求亲族忠于新王并列（heroes.xml〔8SiW73EF、HjGYftkH〕）。角色背景不是独立的中立战报，不能由这些材料补出兵力、伤亡和完整战术顺序。
 
@@ -177,3 +177,7 @@ TaleWorlds 官方公告确认 Digital Companion 含 Travels in Calradia；社区
 新增优先问题：匿名高王是否就是埃里尔？“表亲背叛并押往帝国前哨”与“肖农附近失踪”如何衔接？Taseil 所说的“谋杀”是亲历证词、家族政治记忆，还是她对间接责任的判断？被处决的父母是否属于埃尔贡以外的另一支旧王亲族？Taseil 在由芬·潘拉克控制的肖农居住并保管家族财物，若转述准确，说明旧王亲属的居留与财产可能跨越氏族领地边界；但当前没有证据证明芬·潘拉克曾正式庇护她。
 
 在原始旅行叙事取回之前，采用“王权合法性争议得到多种叙事反映，但弑君与清洗尚未证实”的暂行判断。
+
+## 追加校勘｜潘德拉克主线采访 A2 源级恢复（2026-10-24）
+
+公开的 BannerlordCode/bannerlord-1.4.5 反编译文件 `BannerInvestigationQuest.cs` 已恢复卡拉多格（lord_5_1）、埃尔贡（lord_5_3）、梅利迪尔（lord_5_5）的四段回答及文本键。其内容支持研究巴旦尼亚林地伏击、卡拉多格的战功叙事、埃里尔与皇帝的誓约休战、盟军贡献及战争收益争论。此为 A2 级恢复，不是 TaleWorlds 官方发布的源代码；项目 v1.4.8.119303 的逐字一致性仍待核对。人物说法不等于独立战报，详见《潘德拉克战役主线采访：十九名受访者与证词对读索引》：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Interview-Source-Inventory-v0.1.md。
