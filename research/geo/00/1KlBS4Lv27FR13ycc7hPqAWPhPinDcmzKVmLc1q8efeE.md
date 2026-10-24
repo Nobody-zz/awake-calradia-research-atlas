@@ -407,10 +407,10 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
  
 ### 四十六、首篇自然地理专题论文：纳哈撒局地水文地理（2026-10-24）
 
-- [《纳哈撒的局地水文地理：达玛尔河洪泛地、旱谷集水与井水绿洲的分异》v0.1（GitHub）](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-nahasa-local-hydrology-2026-10-24.md)
+- [《纳哈撒的水文地貌分异与聚落用水适应：达玛尔河洪泛走廊与杰尔贾赖峭壁旱谷》v0.2（GitHub）](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-nahasa-local-hydrology-2026-10-24.md)
 - [Google Docs 正文](https://docs.google.com/document/d/1CrH8FMibF0hwEEwiWebFUCKvmjSYZX8JoFEONnpmV-I/edit)
-- [自然地理问题图谱与证据矩阵 v0.7（GitHub）](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit)
+- [自然地理问题图谱与证据矩阵 v0.8（GitHub）](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit)
 
-论文以官方SandBox与NavalDLC英文聚落地志的已归档源级校勘为基础，将纳哈撒地点级水文证据分为达玛尔河洪泛—淤泥—农耕组，以及山地径流—旱谷—地下水／井水组。扎勒姆、纳赫兰、米贾伊特与马卜瓦兹构成较稳定的达玛尔河文本锚点；阿卜巴、阿斯麦特、本盖兹体现不同局地供水机制；吉德纳尔与拜特·哈提夫作为重大版本改写案例分别处理。
+论文以自然地理为主线，将纳哈撒地点级水文证据组织为达玛尔河洪泛走廊与山地—旱谷集水地域，分析河道输送、洪泛沉积、坡面汇流、地下蓄水、井泉取水与土地利用的定性对应。吉德纳尔与拜特·哈提夫的地貌定位差异退居资料与方法部分，作为空间重建的不确定性处理。
 
-“多机制镶嵌模型”是官方文本基础上的综合解释（C类），不是已完成的自然水文空间测绘。现有证据不支持推定所有地点共享同一河流系统、地下含水层或灌溉网络。原始河道几何、精确洪泛范围、流量与地下水边界仍待核验。该稿不分配永久论文编号，后续进入内部审阅与可证伪空间核验。
+“多机制镶嵌模型”是地点级地理材料基础上的定性综合解释（C类），不是已完成的自然水文空间测绘。现有证据不支持推定所有地点共享同一河流系统、地下含水层或灌溉网络。原始河道几何、精确洪泛范围、流量与地下水边界仍待核验。该稿不分配永久论文编号，后续进入内部审阅与可证伪空间核验。
