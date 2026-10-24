@@ -365,3 +365,17 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 当前结果的解释边界：两版聚落英文语言表共有238个键且所有共有英文值均不同；对应简中共有键值全部相同。另有43条项目导出城镇/村庄中文描述无法由归档SandBox/NavalDLC英文或简中聚落语言表的同键记录验证，来源/版本仍待查。上述键值比较不等于所有聚落的逐条语义审查，也不证明文本更新等同于世界内部历史变化。
 
 名称来源另有一项待核：项目百科导出标注Native简中`std_common_strings_xml`为名称来源，但当前Native.zip/file_manifest未包含该文件，无法由现有归档独立复现基础版名称映射；这不证明名称错误或非官方。DLC中实际存在的简中名称键已另行逐键核实。
+
+
+### 四十四、原始地图资源恢复复核与衍生数据包重验（2026-10-24）
+
+- [RES-018 v1.1 Google Docs](https://docs.google.com/document/d/1DAC0wDXLP0tantGCQo522EUF3v1AQXS-yztADc43miU/edit)
+- [RES-018 v1.1 GitHub](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/90/EVD/CGEO-MAP-RES-018.md)
+- [自然地理问题图谱与证据矩阵 v0.5（Google Docs）](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit)
+- [自然地理问题图谱与证据矩阵 v0.5（GitHub）](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md)
+
+本轮重新取回RES-012港口—登陆点网络分析ZIP（579,804字节；SHA-256：`9bca8d83d9b814c3722c88ee89b50f57fccf01957a4e4729f1055279c6f930c3`；ZIP CRC通过）及RES-018资源追溯ZIP（7,845字节；SHA-256：`0362b8290e40def44bdff926b7d1410b19e34d346b92cddb1ced272a02667619`；CRC通过）。CSV与summary.json的29港口、23 CoastalSea／6 River、72个村庄父级及56/16最近港口选择一致性统计复核相符。两个包均不含原始地图二进制。
+
+当前对话附件、Library源文件夹及Drive精确文件名检索仍未重新取得scene.xscene、terrain.bin、navmesh.bin、river_triangles.bin或flowmap.dds原始字节；RES-001历史SHA-256未重算。该状态仅限当前可访问范围。RES-018旧版Markdown副本含未替换模板变量，已重命名为旧版并由v1.1取代。
+
+研究处理原则不变：派生表复算不等于原始地图重解析；港口候选坐标与渲染图不作为正式海岸线或河道几何。NAT-02纳哈撒、NAT-03/NAT-04北方河湖的官方文本审计可继续，空间配准保持“官方文本支持、空间配准待核”。
