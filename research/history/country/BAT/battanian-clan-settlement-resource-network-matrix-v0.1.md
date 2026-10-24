@@ -208,7 +208,7 @@ C. 战争驱动的王权集中模型：若要证明战争使王权集中，必�
 七、资料质量与未决问题
 
 1. Lindorn 的 text 键异常：节点 ID 为 castle_village_B4_2，text 属性却引用 Settlements.Settlement.text.village_B2_5。其英文叙述在 SandBox 与 NavalDLC 保持不变，但当前官方简中语言表与《encyclopedia-zh-cn.md》未提供可核中文译名。故本稿保留英文名称，不以相似地名猜测译名。
-2. 城堡附属村庄的中文名可从官方简中地志文本开头核对，但城堡中心名称本身在现有官方中文资源中未能逐一核得；中心名保留英文，不额外加造中文名。
+2. 城堡附属村庄的中文名可从官方简中地志文本开头核对，但城堡中心名称本身在现有官方中文资源中未能逐一核得；中心名保留英文，不额外加造中文名。五个城堡附属村庄节点复用了 village_* 文本键：Imlagh→village_B2_4、Lindorn→village_B2_5、Tor Melina→village_B3_4、Seordas→village_B4_5、Inveth→village_B5_4。这属于资源键与节点 ID 不一致，不能因此把这些村庄合并成同一地点；其中 Lindorn 的对应官方简中译文仍缺失。
 3. 同一村庄在 SandBox 与 NavalDLC 中有30处英文文本变化，其中大多数改变地貌、路线或叙事强调；只有托·梅利纳改变 VillageType。对比时必须把“文本变化”“地理定位变化”“生产类型变化”分开统计。
 4. 当前 XML 不提供村庄产量、贸易额、税额、人口统计、军役配额或王室实际可支配收入。任何相关数字都不能由 village_type、hearth、prosperity 或村庄数目直接替代。
 5. 本稿的“所属氏族”对村庄是由 bound 中心 owner 推得，不是村庄直接 owner 字段；应持续使用“关联”“隶属中心”措辞，而不是无条件使用“氏族直接拥有每一村民财产”的表述。
