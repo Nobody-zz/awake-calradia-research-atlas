@@ -173,3 +173,12 @@ Google Docs：https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrta
 对论文影响最大的改写包括：基础版斯塔堤摩斯的肥土—麦作在DLC中被温泉与屠龙传说取代；俄耳特拉仍以steppe stock育种但简中继续误译为“牧草”；加伦的文本键从`79R6gi4l`改为`UCrwAaba`并新增捕鲸者，简中仍沿用旧误译；乔诺巴斯DLC英文明确写出供养奥莫尔港市，而简中仍是基础版瀑布田地描述。详见[聚落文本版本与官方简中同步审计](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/settlement-text-version-and-localization-audit-2026-10-24.md)及工作簿的「版本差异审计」表。
 
 本轮修订的规则是：保留版本内直接证据；不得将基础版与DLC改写拼成一段内部年代史；不得仅凭同ID推断实体未变；名称与正文发生错配时，以实际版本的英文实体名、文本键和已核验中文名称键分别记录。
+
+
+## 第二轮聚落文本版本与实体ID复核（2026-10-24）
+
+已对SandBox v1.4.8与NavalDLC v1.2.8聚落文件按实际实体ID、英文名称和文本键进行首轮对照。基础版493个聚落ID在DLC文件中均存在，DLC另增47个ID；共有ID中有三个英文实体名改变，其中Tismil与Kohi Ajik两个ID的英文实体映射互换，官方简中名称键仍保留基础版映射。两模块英文聚落语言表的238个共同键，其字符串值全部不同；差异包括重大内容改写和小幅地名/措辞调整，不能把它们统称为世界内部历史变化。
+
+对论文影响最大的改写包括：基础版斯塔堤摩斯肥土—麦作在DLC中被温泉/屠龙叙述替换；俄耳特拉仍以steppe stock育种但简中继续误译为“牧草”；加伦的文本键从`79R6gi4l`改为`UCrwAaba`并新增捕鲸者，简中仍沿用旧误译；乔诺巴斯DLC英文明确写出供养奥莫尔港市，而简中仍是基础版瀑布田地描述。详见[聚落文本版本与官方简中同步审计](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/settlement-text-version-and-localization-audit-2026-10-24.md)及工作簿的「版本差异审计」表。
+
+本轮修订的规则是：保留版本内直接证据；不得将基础版与DLC改写拼成一段内部年代史；不得仅凭同ID推断实体未变；名称与正文发生错配时，以实际版本的英文实体名、文本键和已核验中文名称键分别记录。
