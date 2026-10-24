@@ -800,7 +800,9 @@ P-KHU-POL-LOCAL-10（工作命题）：生效人物字段呈现不均衡的谱�
 
 P-KHU-POL-LOCAL-11（工作命题）：奥通加德的历史授地对象与开局持有者不一致，是目前最强的产权链缺口；实际转封、夺取与版本制作不同步仍是竞争解释，不能提前选定其一。
 
-整体判断仍为 C 级工作模型：库赛特汗国更像由多种地方权力、不同领地取得路径和氏族谱系组成的差异化领地联盟，而非已证明拥有统一产权规则和统一继承法的中央集权国家。下一轮优先追查奥通加德是否存在具名的领地申索或转移记述，并继续比较氏族实际控制与历史授地的证据层次；Gotug／Solun 的原始主线转录若将来取得，可单独校勘，但不再作为夫妻关系成立的前提。
+P-KHU-POL-LOCAL-12（工作命题）：settlements.xml 中 town_K1、town_K4 前的旧氏族标签与生效 owner／initial_home_settlement 交叉错位，支持“开发阶段曾重配两氏族据点、部分注释或历史地志未同步”的解释；但注释本身不能确定重配时间、原因，也不能排除世界内发生过转移。
+
+整体判断仍为 C 级工作模型：库赛特汗国更像由多种地方权力、不同领地取得路径和氏族谱系组成的差异化领地联盟，而非已证明拥有统一产权规则和统一继承法的中央集权国家。town_K1 与 town_K4 的交叉错位使“开发阶段重配氏族据点、注释与历史地志未完全同步”成为更有解释力的竞争假说，但尚未达到定论。下一轮优先追查奥通加德是否存在具名的领地申索或转移记述；Gotug／Solun 的原始主线转录若将来取得，可单独校勘，但不再作为夫妻关系成立的前提。
 
 A21-01｜SandBox v1.4.8／ModuleData/spclans.xml：九氏族的 name、owner、initial_home_settlement、tier；官方简中氏族名同键见 Languages/CNs/std_spclans_xml-zho-CN.xml。
 A21-02｜SandBox v1.4.8／ModuleData/settlements.xml／town_K1 YNm9vaHw、town_K2 4UNOQQRa、town_K3 bPDqyqkb、town_K4 Dxnj5JQE、town_K5 SUnaVliN、town_K6 ygJkPxyc，以及 castle_K1—castle_K9：六城九堡当前 owner 配置；官方简中城镇地志同键及项目 encyclopedia-zh-cn.md 用于专名核验。
