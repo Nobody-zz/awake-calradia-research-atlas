@@ -1,8 +1,8 @@
 # CHC-EMP-GEN｜帝国权威的地方接口：中介、强制与服从的边界
 
-**论文候选稿 v0.2｜2026-10-24（据跨文化关系矩阵与范围裁决修订）**  
-**状态**：缩题修订稿，待结构复审；尚未申请 H 编号。  
-**主语料**：项目上传的 SandBox v1.4.8 英文 XML（spclans.xml、wanderer_strings.xml、companion_strings.xml、settlements.xml）；对应官方简中语言表用于逐键校勘，项目上传的 encyclopedia-zh-cn.md 作为辅助中文百科文本。源键覆盖、译文差异与 SHA-256 见文末附录及《源级与本地化审计 v0.2》。
+**论文候选稿 v0.4｜2026-10-24（据跨文化关系矩阵与论证审查修订）**  
+**状态**：论证框架修订稿，待语言与证据一致性校对；尚未申请 H 编号。  
+**主语料**：项目上传的 SandBox v1.4.8 英文 XML（spclans.xml、wanderer_strings.xml、settlements.xml）；对应官方简中语言表用于逐键校勘，项目上传的 encyclopedia-zh-cn.md 作为辅助中文百科文本。源键覆盖、译文差异与 SHA-256 见文末附录及《源级与本地化审计 v0.2》。
 
 ## 摘要
 
