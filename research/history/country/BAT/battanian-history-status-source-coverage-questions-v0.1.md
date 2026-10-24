@@ -126,3 +126,12 @@ StoryMode v1.4.8：本轮已取得其模块ZIP并定向检查，主线19人完�
 本轮将王权拆成四项可独立检验的能力：得到承认、号召贵族参战、维系多氏族军队、经常性征税与重分领地。埃尔贡维护卡拉多格王位、戴恩玛查接受诺德雅尔效忠并雇外军惩戒，分别直接支持政治承认和具体军事强制，但并未证明全国固定兵额或持续财政权。SandBox/concept_strings.xml〔JfnGAEnC、NtBrM1A5〕和 TaleWorlds 2018—2019 年王国决议及军队说明仅是通用政治机制，不能作为巴旦尼亚历史朝议的直接记录。爵称 Mormaer/Banmormaer 官中被译为伯爵／女伯爵，但原文必须保留，以防译名抹平地区贵族身份的差异。
 
 完整新论见 research/history/country/BAT/battanian-clan-land-power-and-high-kingship-v0.1.md ，Google Docs：https://docs.google.com/document/d/1RZE-zT5AQOqx0Z7-TZUCc4ZtnQDXZ6v2xkgoXewqx5Y/edit 。待决最关键的三题：氏族出兵是否事先约定固定条件；国王能否以个人权力惩罚拒命氏族；军费由国王私产、氏族自备还是共同征取资源支付。
+
+
+附录｜第五轮研究（2026-10-24）：边疆侵蚀、社会重组与王权战争化
+
+已完成独立专题《巴旦尼亚疆域收缩、边地社会与王权战争化》。有效英文文化总论 Ax9OkgL5 对帝国较早扩张和斯特吉亚、瓦兰迪亚较晚兴起有相对时代区分，却不足以绘出古代统一巴旦尼亚国界。厄庇克洛忒亚 town_EN1/n9WMUuSp 证实萨拉庇俄斯击败一支巴旦尼亚军队；瓦尔切格 town_S1/i2VkRLBg 揭示诺德殖民雅尔向戴恩玛查效忠、至高王雇斯特吉亚军队惩戒、城镇最终被外军索作酬金的连续关系；奥克斯·霍尔 town_V2/nhmBQIC4 记奥克的征服及部族内迁，NavalDLC 同键将旧湖传说重写为祭祀水灵的水池遭排干耕作。相邻 Oritan 记瓦兰迪亚佣兵与本地山民通婚，卡琉斯 Caleus 记三种语言混用，故政治征服、人口内迁与族群交错可以并存。
+
+《War Sails》另记卡格雷夫（village_S1_3）一处曾属巴旦尼亚首领的环形堡垒在约两代人前落入斯特吉亚，其部分居民此后参与诺德北方海象牙贸易；卡·班塞斯（town_B3/QD3oaaNK）新增航海氏族的渡海祖源自述、Muir Mon→Muir Gal 的政治海域命名及至高王蒙归来传说。有关先祖渡海、先王归来皆是有立场的叙事，不得据此编造全民族迁徙年表。尤其需按英文校勘：拉革塔 town_EW1/ZAGUIKOn 的 rogue imperial mercenary 是帝国雇佣兵，不是旧官中“流放的帝国商人”；High King Mon 的 vanished 不等于官中“已逝”。帕拉人被叛主征服之事可以进入巴旦尼亚政治记忆，却不能把受害帕拉酋长自动认作巴旦尼亚人。
+
+历史解释的优先序更新为：区域边疆多路径侵蚀与社会再编组解释实际变化；战争压力推动某些至高王强化动员与政治忠诚，是有约束的次级机制，并非必然结果。新专题保留于 CHC-BAT-GEN，暂不申请 H 编号。研究路径：research/history/country/BAT/battanian-frontier-contraction-and-political-integration-v0.1.md；Google Docs：https://docs.google.com/document/d/1ljsE1qNlwn_06QGAtVjGh0on-xOumuXJW20XPpQNbpM/edit 。
