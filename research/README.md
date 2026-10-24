@@ -67,7 +67,7 @@
 - [Q-0010｜彭同、拉盖娅与涅雷采斯家族政治分流：谱系及法统审查（v0.2）](history/02/Q-0010-neretzes-penton-rhagaea-succession-evidence.md) · [云盘原件](https://docs.google.com/document/d/14-HU9CH3hLPHVTxJl_i3ILtDh2vrvLfgp5g7Wq4bHaI/edit)
 - [Q-0011｜H-0001—H-0005历史学方法与论证质量综合审查（v1.13）](history/02/Q-0011-historical-method-cross-review.md) · [云盘原件](https://docs.google.com/document/d/1inZW_ULYFQ2Om1MJ5wkSSlQwTVa0b78PrZSMNT-Mm5g/edit)
 - [Q-0012｜王国沿革与帝国内战政治主张：英汉语境校勘（v0.4）](history/02/Q-0012-kingdom-descriptions-localization-audit.md) · [云盘原件](https://docs.google.com/document/d/1JkcbLRNaoVgmQlCvqvSNdAW0hopPg-X1ls8v7e_m1xM/edit)
-- [Q-0013｜全大陆问题导向研究执行纲领（v0.4；CHC先行与国别并行）](history/02/Q-0013-stage-review-and-research-redirection.md) · [云盘原件](https://docs.google.com/document/d/1p9844oEQ-kO7I7h5R_ymuU8SJ3I4Al-0prXki6f27mc/edit)
+- [Q-0013｜全大陆问题导向研究执行纲领（v0.5；CHC先行与国别并行）](history/02/Q-0013-stage-review-and-research-redirection.md) · [云盘原件](https://docs.google.com/document/d/1p9844oEQ-kO7I7h5R_ymuU8SJ3I4Al-0prXki6f27mc/edit)
 ## history/03
 
 - [CHC-ASE-GEN｜阿塞莱历史史料覆盖、社会结构与重大研究问题（阶段调查 v1.6；未授H号）](history/03/CHC-ASE-GEN-aserai-historical-source-social-questions.md) · [Google Docs](https://docs.google.com/document/d/1jTuvKtdc4nPX5dnWHH1_3SylPG9pwq_BDNqoGvdlHbY/edit)
