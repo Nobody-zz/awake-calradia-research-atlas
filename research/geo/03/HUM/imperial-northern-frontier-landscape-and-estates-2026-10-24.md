@@ -158,3 +158,7 @@ SandBox／ModuleData／spkingdoms.xml 的北帝国条目（Kingdom.empire／aEfs
 威亚罗斯（village_EN5_1）基础版记山毛榉/橡树林坡地与传统帝国骑兵育马场；DLC改写为东部Myzead密林谷地，并明确由退役帝国军官创办育马场。俄耳特拉（village_EN5_2）在DLC中仅改为向南眺望Myzead，steppe stock育种和向帝国骑兵供马仍保留，但简中仍误译为“牧草”。阿瓦辛顿（village_EN6_1）仍记清灌丛、桑树与养蚕，DLC只重写其在Myzead的区位描述，简中未同步。
 
 因此本文的“边疆土地改造与军马供应”模型仍可作为基础版文本的解释；涉及DLC现行地志时，必须分别登记版本，不将Stathymos的基础版粮食叙述或Vealos的“传统马场”说法无条件移植到DLC层。完整键级对照见[聚落文本版本与官方简中同步审计](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/settlement-text-version-and-localization-audit-2026-10-24.md)。
+
+### 项目中文导出来源补充（2026-10-24）
+
+本稿引用的萨涅俄帕（town_EN3）、阿耳戈隆（town_EN4）、居摩斯（village_EN1_3）和阿拉堤斯（village_EN4_2）属于项目导出中文存在、但其settlements.xml文本键在SandBox与NavalDLC英文/简中聚落语言表中均缺失的记录（来源审计LOC-03、LOC-04、LOC-27、LOC-28）。其英文fallback仍可直接从原始settlements.xml核对；对应中文段落的导出来源/版本未决，本文不将其当作已核验的官方同键译文。
