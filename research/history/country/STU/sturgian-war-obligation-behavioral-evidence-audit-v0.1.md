@@ -153,5 +153,5 @@ NavalDLC／`naval_dialog_strings.xml／DtEBwPpJ` 与 `p4OvT9BS` 是另一名诺�
 - SandBox／ModuleData／settlements.xml：`i2VkRLBg`（瓦尔切格）；`PPadNxa6`（西比尔）。
 - SandBox／ModuleData／world_lore_strings.xml：`He0b6FpY`、`aifXT4E1`、`nz6ff0nw`（朗瓦德的誓约与强制服从叙事）；`nQn87o0F`（奥列克的地方自主主张）；`oUKWHMDq`（戈敦对盟约的回忆）。
 - SandBox／ModuleData／comment_strings.xml：`ELtT9ctL`（护盾兄弟会合同誓言）；`PBgLvyOa`（通用斯特吉亚贵族有偿守土模板）。
-- SandBox／ModuleData／wanderer_strings.xml：`d5lpGY8m`（波耶亲兵队击败诺德劫掠者）；`DtEBwPpJ`、`p4OvT9BS`（诺德水手关于可汗与斯特吉亚交战的回忆）；`7qlJdbtC`（为波耶设计防御工事的劳动者）；`Zu4uBSxk`（斯特吉亚决斗传统，非战争征召证据）。
-- NavalDLC／ModuleData／naval_dialog_strings.xml：`d5lpGY8m`、`DtEBwPpJ`、`p4OvT9BS`，及对应官方简中语言表。
+- SandBox／ModuleData／wanderer_strings.xml：`7qlJdbtC`（为波耶设计防御工事的劳动者）；`Zu4uBSxk`（斯特吉亚决斗传统，非战争征召证据）。
+- NavalDLC／ModuleData／naval_dialog_strings.xml：`d5lpGY8m`（波耶亲兵队击败诺德劫掠者）；`DtEBwPpJ`、`p4OvT9BS`（诺德水手关于可汗与斯特吉亚交战的回忆）；及对应官方简中语言表。
