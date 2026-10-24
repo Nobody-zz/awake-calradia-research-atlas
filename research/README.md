@@ -168,6 +168,7 @@
 为避免早期对话附件过期后无法读取，已将用户提供的官方模块资料包原样保存在 Google Drive 与 ChatGPT Library。GitHub 中保存清单、SHA-256、版本边界及稳定链接；当前 GitHub 连接工具不支持直接把本机 ZIP 字节流作为二进制附件上传，因此不把元数据记录误称为 ZIP 本体。
 
 - [原始资料归档说明与Drive直链](source-archives/README.md)
+- [War Sails Main_map 原始二进制独立归档说明](source-archives/war-sails-dlc/README.md) · [SHA-256/Drive清单](source-archives/war-sails-dlc/manifest.csv) · [Google Drive 文件夹](https://drive.google.com/drive/folders/1NONLB02YC62RM5D_-JUcFV0QbnkgeIIW)
 - [原始文件SHA-256校验和](source-archives/SHA256SUMS.txt)
 - [Google Drive原始资料文件夹](https://drive.google.com/drive/folders/17y4EwetqNlFBW1Zf_d_CP4yrdyjmr8Rm)
 - [Google Drive索引与校验记录](https://docs.google.com/document/d/1R4sijfL2IME3habmi0KISlzpLEU7Ok5cXuxulqRpfT0/edit)
