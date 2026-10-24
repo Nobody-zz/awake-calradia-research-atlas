@@ -414,3 +414,12 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 论文以自然地理为主线，将纳哈撒地点级水文证据组织为达玛尔河洪泛走廊与山地—旱谷集水地域，分析河道输送、洪泛沉积、坡面汇流、地下蓄水、井泉取水与土地利用的定性对应。吉德纳尔与拜特·哈提夫的地貌定位差异退居资料与方法部分，作为空间重建的不确定性处理。
 
 “多机制镶嵌模型”是地点级地理材料基础上的定性综合解释（C类），不是已完成的自然水文空间测绘。现有证据不支持推定所有地点共享同一河流系统、地下含水层或灌溉网络。原始河道几何、精确洪泛范围、流量与地下水边界仍待核验。该稿不分配永久论文编号，后续进入内部审阅与可证伪空间核验。
+
+ 
+### 四十七、纳哈撒水文地貌论文修订：以地理过程为叙述主线（2026-10-24）
+
+首篇自然地理专题论文已由v0.1修订至v0.2，标题改为《纳哈撒的水文地貌分异与聚落用水适应：达玛尔河洪泛走廊与杰尔贾赖峭壁旱谷》：[Google Docs](https://docs.google.com/document/d/1CrH8FMibF0hwEEwiWebFUCKvmjSYZX8JoFEONnpmV-I/edit) · [GitHub Markdown](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-nahasa-local-hydrology-2026-10-24.md)。
+
+修订将论文叙述主体从版本文本校勘转向自然地理问题：河流—洪泛走廊、山地—旱谷集水地域、河道输送与沉积、坡面汇流、地下蓄水、井泉取水，以及水源条件与土地利用之间的定性关系。版本差异保留在资料与方法中，用来约束空间重建的不确定性，不再作为正文主线。
+
+自然地理问题图谱与证据矩阵同步更新至v0.8：[Google Docs](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit) · [GitHub Markdown](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md)。本文仍属于定性自然地理综合；原始河道、高程、汇水边界和地下水系统尚未完成直接测绘，后续须围绕可证伪的空间关系开展核验。
