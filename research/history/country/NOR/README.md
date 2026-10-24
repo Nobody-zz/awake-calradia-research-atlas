@@ -43,7 +43,7 @@ SOC v0.1 将亲族与继承、旧氏族集会、村庄派出的 fyrdman、劳动
 
 ## 第六轮身份史料审计
 
-- NavalDLC 21 个 XML 中，slave/slaver 仅出现在诺德王国沿革、卡拉迪亚主线贩运剧情及帝国贾尔马律斯地志；captives 见于诺德沿革和主线线索。未找到诺德专属的 servants/serfs、奴隶世袭、赎买自由、释放规则或奴隶劳动制度条目。
+- NavalDLC 归档含 7 个正文 XML、7 个英文语言表和 7 个简体中文语言表，共 21 个 XML 文件。slave/slaver 的正文命中出现在诺德王国沿革、卡拉迪亚主线贩运剧情及帝国贾尔马律斯地志；captives 见于诺德沿革和主线线索。未找到诺德专属的 servants/serfs、奴隶世袭、赎买自由、释放规则或奴隶劳动制度条目。
 - DJCei132 的 fugitives and runaways from various estates 只能支持朱姆内河谷领地逃亡者/流民定居，不能定性为逃奴或农奴。KfUc1Hhl 的 outlawing 是 Thing 对个人的司法制裁，不是同一种身份。
 - SandBox 对库赛特人物写有被卖为 servants、对阿塞莱人物写有买得自由；这些可说明官方文本使用身份转换术语，但不能移植为诺德制度。Native/StoryMode 的赎俘/招募俘虏 UI 属玩法说明，不作为历史制度证据。
 
