@@ -18,9 +18,13 @@
 
 A级为本项目实际上传并校阅的官方游戏生效英文文件及其同版本语言表。直接材料包括：SandBox v1.4.8 heroes.xml/dead_lord_2_1（bsOLRZyS）、dead_lord_2_2（QyFdfZrC）、dead_lord_3_1（D3hGevbL）、dead_lord_6_2（dfmSNTZk）、lord_1_5（04xAg0yN）；spclans.xml/legion_of_the_betrayed（bhxVA9w7）；companion_strings.xml（mk0l1BfB、rNkwrwo4）；wanderer_strings.xml（H7tFXLVN、DzyAgYIX、6OF0vjQV）；settlements.xml/castle_village_B4_1；NavalDLC v1.2.8 naval_dialog_strings.xml（iyfKyaRB、Y1fwBgHt）及settlements.xml同村落ID。官方简中仅用于对照翻译语义，不作独立证词。SandBox、NavalDLC原始XML与其语言表属于同一官方世界观链，不能按出现文件数当成多份独立见证。
 
-## 主线访谈转录的证据地位
+## 主线访谈原文的恢复路径与证据地位
 
-B级为游戏主线人物访谈的网页转录。2026年6月29日的玩家汇编《Full Story of 'Neretzes' Folly' (All 19 Lords, Updated)》称收录19名相关人物，补入彭同；2020年同一整理者的18人旧稿不能算独立证人。另一名玩家2020年4月26日独立整理的拉盖娅、加里俄斯和卢孔对话，能为部分英文措辞提供二次转录核对，但它们仍是玩家转录而非目前持有的游戏资源原文件。TaleWorlds官方v1.2.0测试版更新日志确认开发者为讲述潘德拉克战役的角色对白增加表情与姿势标记，只证实存在不同人物讲述这一叙事设计，不证明某份网页转录逐字准确。本文对B级材料的战术细节全部冠以“据转录中某人的说法”“可重建为”而不用“XML直接证明”。网页作者的战役总结属于现代二次综合，其编排与因果连线不得冒充人物原话。
+玩家手录的主线采访仍应作为独立的传抄史料登记，但现在不再是唯一可核查的文本载体。公开仓库 [BannerlordCode/bannerlord-1.4.5](https://github.com/BannerlordCode/bannerlord-1.4.5) 的 README 说明，该仓库是从 Steam 版 Bannerlord v1.4.5 官方托管程序集反编译得到的 C# 代码，使用 ILSpy 10.1.0 生成；它不是 TaleWorlds 官方发布的源代码。主线任务文件 [BannerInvestigationQuest.cs](https://github.com/BannerlordCode/bannerlord-1.4.5/blob/main/Bannerlord.Source/Modules.StoryMode/StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs) 中的 BannerInvestigationQuest.SetDialogs() 以 TextObject 直接保存采访英文字符串。
+
+该文件包含通用开场及各名受访者的独立回答。通用开场键 hFYG3lXw 将故事纪年定在 1077 年；TKpFB4qN 概述双方联盟，0yxEvgGf 概述德罗修斯战死与胜者也付出代价。瓦兰迪亚三名受访者的文本键为：德泰尔 lord_4_1（0IeByuam、vaLehwRl、6qgXAcZB、xjk4hNXD）；因加泰尔 lord_4_16（zRZd90cZ、sejEf69A、Og8nep1w、WN1tHPnB）；恩泰里 lord_4_5（9sAGLK6R、duD8SJDb、iQeMllr8、BleybhsD）。
+
+这将采访文本的证据地位从“仅有玩家手录”提升为“官方游戏对白经反编译源码恢复”（A2）。但版本边界不能省略：当前代码仓库标注 v1.4.5，项目上传的 XML 资源标注 v1.4.8.119303；尚未对同版本游戏程序集逐字核验，不能将反编译文本冒称为项目 v1.4.8 原始资源。2020 年玩家抄录者明确说明当时未能从游戏文件中找到这些文本；与反编译代码比较可见少数字词遗漏或编辑差异，说明玩家转录在战术细节上仍需逐句校核。该仓库还含其他国家受访者的答话，但各国线应按本国问题分别核验，不将一次源级恢复自动当成全部国家线均已审查完毕。
 
 ## 三、战前局势：战争责任、誓约与联盟解体
 
