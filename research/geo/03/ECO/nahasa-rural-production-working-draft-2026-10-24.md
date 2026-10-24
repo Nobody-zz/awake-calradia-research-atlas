@@ -74,7 +74,7 @@ Doqa（village_A4_4）地志直接将该滨海村描述为渔业聚落，居民�
 
 ## 史料与参考文献
 
-〔1〕项目原始归档：SandBox.zip、NavalDLC.zip及对应语言表；以聚落ID与实际text键逐条辨识，英文优先决定事实语义。核心河谷条目包括Zalm（`village_A7_4`）、Nahlan（`village_A6_4`）、Mabwaz（`village_A7_3`）与Bait Hatif（`village_A7_2`）。其中Nahlan的英汉同键在两版语言表均可复现；Mabwaz的英文fallback在两版均存在，但该text键不在当前三个归档的任何语言表中，项目导出中文来源/版本未决。归档目录：https://drive.google.com/drive/folders/17y4EwetqNlFBW1Zf_d_CP4yrdyjmr8Rm
+〔1〕项目原始归档：SandBox.zip、NavalDLC.zip及对应语言表；以聚落ID与实际text键逐条辨识，英文优先决定事实语义。核心河谷/海岸条目包括Zalm（`village_A7_4`）、Nahlan（`village_A6_4`）、Mabwaz（`village_A7_3`）、Bait Hatif（`village_A7_2`）与Ezbet Nahul（`village_A8_1`）。其中Nahlan的英汉同键在两版语言表均可复现；Mabwaz的英文fallback在两版均存在，但该text键不在当前三个归档的任何语言表中，项目导出中文来源/版本未决。归档目录：https://drive.google.com/drive/folders/17y4EwetqNlFBW1Zf_d_CP4yrdyjmr8Rm
 
 〔2〕CGEO-S-HUM-001《卡拉迪亚大陆城市形成与聚落体系研究》v0.1，既有比较研究，不作独立史料：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/CGEO-S-HUM-001.md
 
