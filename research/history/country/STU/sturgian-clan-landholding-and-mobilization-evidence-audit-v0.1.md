@@ -80,7 +80,7 @@ NavalDLC 对六个村庄的生产类型字段作了改写，但本次核对未�
 2. 奥列克反感大公向其府库征取税款，并强调本家对土地的控制；
 3. 奥列克是否曾拒绝某次具体征召、拒缴某一笔具体税款，现有这几条有效文本并未记载。
 
-所以，奥列克不是“完全拒绝国家”的直接证据，而是**战争合作与日常财政服从可以分离**的直接证据。其父年长的奥列克在潘德拉克战役中战死，则为库洛夫的军事牺牲记忆增加了背景，但不能由此推定该家族已依法获得免税或自治特许。
+所以，奥列克不是“完全拒绝国家”的直接证据，而是**战争合作与日常财政服从可以分离**的直接证据。其父“年长的”奥列克在潘德拉克战役中战死，则为库洛夫的军事牺牲记忆增加了背景，但不能由此推定该家族已依法获得免税或自治特许。
 
 ### 3.3 戈敦：履行义务、经济兴趣与政治猜疑并存
 
@@ -165,7 +165,7 @@ NavalDLC 对六个村庄的生产类型字段作了改写，但本次核对未�
 
 - SandBox／ModuleData／spclans.xml：`clan_sturgia_1` 至 `clan_sturgia_9`；氏族名键 A4wIVnM4、Eu932blQ、mddbprXj、AppNvfPv、s0AVQCbJ、EnZHNc2k、xw0eTkkb、W2HkbCeX、WssI6mOE。
 - SandBox／ModuleData／settlements.xml：城镇 `town_S1` 至 `town_S7`；城堡 `castle_S1` 至 `castle_S8`；相关 `village_S*` 与 `castle_village_S*` 的 `Components/Village/@bound`。
-- SandBox／ModuleData／heroes.xml：`LW92PgZz`（朗瓦德）、`5939sUCg`（奥列克）、`6lZGNChB`（戈敦）；`bsOLRZyS`（年长的奥列克）。
+- SandBox／ModuleData／heroes.xml：`LW92PgZz`（朗瓦德）、`5939sUCg`（奥列克）、`6lZGNChB`（戈敦）；`bsOLRZyS`（“年长的”奥列克）。
 - SandBox／ModuleData／world_lore_strings.xml：`He0b6FpY`、`aifXT4E1`、`nz6ff0nw`（朗瓦德的誓约与强制服从叙事）；`nQn87o0F`（奥列克的地方自主主张）；`oUKWHMDq`（戈敦对两代人前盟约的回忆）。
 - SandBox／ModuleData／settlements.xml：`PPadNxa6`（西比尔）；`T2E4xKVn`（雷维尔）；`i2VkRLBg`（瓦尔切格）。
 - SandBox／ModuleData／Languages／CNs／std_{spclans,heroes,world_lore_strings,settlements}_xml-zho-CN.xml；NavalDLC 对应 `settlements.xml` 与官方简中语言表。
