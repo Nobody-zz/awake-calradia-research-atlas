@@ -316,15 +316,15 @@ v1.9 使用完整高程图绘图区和中性相对高程色带，不执行海陆
 
 - [自然地理研究线｜交接与第一阶段工作计划（v0.1）](geo/00/natural-geography-research-line-handover-2026-10-24.md) · [Google Docs 原件](https://docs.google.com/document/d/17YLRDnYY4o0SI0Om_oJ_MZQMTJu_Qvd3nTUOHk7tGVw/edit)
 - [自然地理研究问题图谱与证据矩阵（启动版 v0.1；已补首轮源级复核）](geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1IzIEm-CgErZ_REROhHnuXstqvK2vKjPoSXoeyanNFUg/edit)
-- [自然地理源级复核备忘录01｜纳哈撒局地水文与北方河湖地志的版本分离（v0.1）](geo/00/natural-geography-source-audit-01-nahasa-and-northern-waters-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1dlRqWn1R8VzeddpHjIaHdeBz-wk-fuTQLTRxSwg8dNI/edit)
-- [自然地理研究问题图谱与证据矩阵（启动版 v0.1）](geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs 原件](https://docs.google.com/document/d/1IzIEm-CgErZ_REROhHnuXstqvK2vKjPoSXoeyanNFUg/edit)
+- [自然地理源级复核备忘录01｜纳哈撒局地水文与北方河湖地志的版本分离（v0.2）](geo/00/natural-geography-source-audit-01-nahasa-and-northern-waters-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1dlRqWn1R8VzeddpHjIaHdeBz-wk-fuTQLTRxSwg8dNI/edit)
+- [自然地理研究问题图谱与证据矩阵（启动版 v0.2）](geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs 原件](https://docs.google.com/document/d/1IzIEm-CgErZ_REROhHnuXstqvK2vKjPoSXoeyanNFUg/edit)
 - [CGEO-O-GEN-001｜卡拉迪亚大陆地理总论（v0.3）](geo/02/GEN/13SUKPrj1jBJJ2LzPwMgnBJK6xoxuG8kLIaVSEHkX5IA.md) · [云盘原件](https://docs.google.com/document/d/13SUKPrj1jBJJ2LzPwMgnBJK6xoxuG8kLIaVSEHkX5IA/edit)
 - [CGEO-O-REG-001｜卡拉迪亚大陆地理区域划分与地域结构（v0.1）](geo/02/REG/1H5CZKgad7YI60WnZu3t7W0PSBuNUd80tw8LMgCMWx_0.md) · [云盘原件](https://docs.google.com/document/d/1H5CZKgad7YI60WnZu3t7W0PSBuNUd80tw8LMgCMWx_0/edit)
 - [CGEO-S-GEO-001｜卡拉迪亚大陆地形与地貌研究（v0.1）](geo/03/GEO/CGEO-S-GEO-001.md) · [云盘原件](https://docs.google.com/document/d/1pDODiOQ2PR0zz9q2Ximt4MBJwnl_EmZOXvwFdnXsTL0/edit)
 - [CGEO-S-CLM-001｜卡拉迪亚大陆气候与自然环境研究（v0.1）](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/research/cgeo-clm-001-v0.1-20261024/research/geo/03/CLM/CGEO-S-CLM-001.md) · [云盘原件](https://docs.google.com/document/d/1npAJZ89iVXYaEjpv5qQIAVCzA28YhdNivXc9vT6yQfI/edit) · [Draft PR #1](https://github.com/Nobody-zz/awake-calradia-research-atlas/pull/1)
-- [CGEO-S-HYD-001｜河流水系与湖泊研究（GitHub 当前快照为 v0.1）](geo/03/HYD/1Cl-YL13V_bHN9qOnSgSJmQ40Y2AtOXk5O-xvFd8RYco.md) · [云盘当前正文 v0.2](https://docs.google.com/document/d/1qoWxPgRqqHxPSjv9NqeVfy2oj3fkqlEq_xF5CxPrpTc/edit)
+- [CGEO-S-HYD-001｜河流水系与湖泊研究（v0.3，Drive与GitHub已同步）](geo/03/HYD/1Cl-YL13V_bHN9qOnSgSJmQ40Y2AtOXk5O-xvFd8RYco.md) · [Google Docs](https://docs.google.com/document/d/1qoWxPgRqqHxPSjv9NqeVfy2oj3fkqlEq_xF5CxPrpTc/edit)
 - [CGEO-S-BIO-001｜卡拉迪亚大陆植被与自然景观研究（v0.1）](geo/03/BIO/CGEO-S-BIO-001.md) · [云盘原件](https://docs.google.com/document/d/1MzHUgiMoIIn35bwU4S5aWlM-OHIEn4r53v7LBD-mGzw/edit)
 - [CGEO｜官方地理证据登记表](geo/90/EVD/1UmtjdtlvO6mcFPYcQicHuprkZDxmWv0aMbUxk-TlfeM.md) · [云盘原件](https://docs.google.com/document/d/1UmtjdtlvO6mcFPYcQicHuprkZDxmWv0aMbUxk-TlfeM/edit)
 - [CGEO-MAP-AUD-001｜原版与《战帆》地图图像实见记录](geo/90/EVD/1tsQ0Mz_nHNZYI0wAyazB3RFfW3Kg06nPYKD2bXc7jy0.md) · [云盘原件](https://docs.google.com/document/d/1tsQ0Mz_nHNZYI0wAyazB3RFfW3Kg06nPYKD2bXc7jy0/edit)
 
-**同步提醒：** Google Drive 与 GitHub 不会自动同步。当前 Drive 中水文正文已到 v0.2，而仓库此路径仍是历史 v0.1；气候 v0.1 仍处于 Draft PR。第一阶段先核对版本状态并补齐可追溯的双端镜像，不将旧快照误称为最新正文。
+**同步提醒：** Google Drive 与 GitHub 不会自动同步；CGEO-S-HYD-001 已于2026-10-24修订至v0.3并完成双端同步。CGEO-S-CLM-001 v0.1仍链接在Draft PR #1。自然地理研究线继续先做版本和源级证据审计，再决定下一轮空间核验。
