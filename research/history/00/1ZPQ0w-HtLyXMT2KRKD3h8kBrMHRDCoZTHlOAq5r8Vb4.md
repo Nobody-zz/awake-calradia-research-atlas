@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-版本：v3.42｜2026年10月23日
+版本：v3.43｜2026年10月24日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -180,6 +180,9 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 39. 全大陆历史资料覆盖与研究问题摸底（2026-10-23）：根据总体方向缺失的批评，暂停“按现有论文继续往下排”的推进逻辑。原始有效英文样本为SandBox30、SandBoxCore3、NavalDLC21，共54份XML（18份英文原始）；file_manifest.csv列出的完整采集范围67份（原始23、英文语言表22、官方简中22），Native9与StoryMode4尚未在当前三个压缩包中实际核验。统计SandBox主要文化聚落叙事327条、NavalDLC365条、新增47个诺德聚落及两个版本共有493个聚落ID中271条英文描述的字面异文，区分当前文化归属与历史时代。已实际建立非H/I/Q编号调查文档《全大陆史料覆盖摸底与历史问题图谱》v0.1，含对六种主要文化叙述、帝国三政权与五外围王国、诺德国、达西及帕拉／坎尼、贸易／婚姻／军役／财政等的比较性梳理与55个史学研究问题：Google Docs https://docs.google.com/document/d/1ezcXq-rZCPNRNjvhP1VuoLqhCoZHxyJgxzEtyCMCsrM/edit ，GitHub research/history/00/continental-historical-baseline-question-atlas-2026-10-23.md 。Q-0013修订至v0.3，以研究总体目标、三种竞争宏观解释与跨区域关系证据卡取代v0.2直接按当前论文排队；既有五篇H论文及独立潘德拉克稿保持，StoryMode缺失另列源级依赖，不预占H-0006，不改变Q5-09与已签发正典。
 
 40. CHC先行研究分类与国别对话并行规则（2026-10-23）：I-0004升至v2.2，研究问题和阶段稿先按现有CHC国别/领域分类，H只在论文满足内部完整验收后依完成顺序授号。潘德拉克工作稿归CHC-CAL-MIL，不授H-0006；已存在H-0001—H-0005均保持。Q-0013 v0.4明确不同国别可分别积累研究、史料与时间争议仍共用I-0003。研究主题按CHC＋题名＋文件链接识别，CHC并非唯一论文号。本总索引更新v3.42，完整国别候选分类详见I-0004；不是新增H论文或宣称多国研究已自动展开。
+
+
+41. 潘德拉克采访主线英文对白源级恢复与瓦兰迪亚分歧分析（2026-10-24）：发现公开的 BannerlordCode/bannerlord-1.4.5 反编译 C# 仓库包含 StoryMode 的 BannerInvestigationQuest.cs，SetDialogs() 保存“调查涅雷采斯的愚行”主线采访英文字符串及本地化键。此为官方游戏程序集经第三方反编译后的 A2 文本载体，不是 TaleWorlds 发布的原始源码；项目所存 v1.4.8.119303 程序集尚未逐字核对，故版本差异保持开放。德泰尔、因加泰尔、恩泰里的答话已纳入瓦兰迪亚线，支持分析援帝誓约、男爵拒援、战后扩张目标与骑兵—弩兵协同问题，但不把人物自述当作中立战报。潘德拉克工作稿更新至 v0.2，瓦兰迪亚源级审计更新至 v0.2，相对年代链与王权稿同步更新；I-0003 v3.14 新增 S-0081、P-0103、D-0091。链接：代码仓库 https://github.com/BannerlordCode/bannerlord-1.4.5/blob/main/Bannerlord.Source/Modules.StoryMode/StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs ；潘德拉克工作稿 https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Battle-Research-Working-Draft.md ；瓦兰迪亚源级审计 https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-derthert-muster-empire-war-pendraic-source-audit-2026-10-24.md。未授 H-0006，Q5-09与已签发正典不变。
 
 ---
 
