@@ -84,7 +84,7 @@ Doqa（village_A4_4）地志直接将该滨海村描述为渔业聚落，居民�
 
 〔5〕CGEO-O-GEN-001《卡拉迪亚大陆地理总论》v0.3与CGEO-S-GEO-001《地形与地貌研究》，用于限定自然地域与水文解释，不取代生产地志原文：https://docs.google.com/document/d/13SUKPrj1jBJJ2LzPwMgnBJK6xoxuG8kLIaVSEHkX5IA/edit；https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/GEO/CGEO-S-GEO-001.md
 
-**核验声明：**原始官方ZIP归档已定位，本文沿用项目此前对两版英文同键的审计与可检索的基础版原文转录；本轮尚未重新解压逐字校验ZIP全部条目。因此属于可进一步源级复核的研究初稿，不能宣称全篇每一英文字符串均在本轮重新回读。
+**核验声明（2026-10-24原始ZIP复核后修订）：**已直接解包SandBox v1.4.8与NavalDLC v1.2.8，对本文纳哈撒核心样本的实体ID、实际text键、英文fallback及两版英文/简中语言表逐项比对；两版聚落语言表的共有键值也已全量比较。本文仍是核心样本抽样，不代表纳哈撒所有村庄均已逐条完成语义审计。第三方镜像只作检索入口，原始ZIP为主证。
 
 **跨线边界：**自然地理线负责确认达玛尔河、旱谷及海岸坡面径流的实体与版本；阿塞莱史线负责水土产权、氏族、城镇统治与苏丹权力的历史演进；本文仅论证生产活动的空间组合及其可能的社会经济机制。
 
@@ -104,4 +104,4 @@ Doqa（village_A4_4）地志直接将该滨海村描述为渔业聚落，居民�
 
 ### 项目中文导出来源补充（2026-10-24）
 
-多加（village_A4_4）与马卜瓦兹（village_A7_3）属于项目导出中文有段落、但settlements.xml文本键在SandBox与NavalDLC英文/简中聚落语言表中均缺失的记录（来源审计LOC-33、LOC-36）。本文关于渔业和河漫滩麦作的原文依据是settlements.xml内嵌英文fallback；中文导出段落的来源/版本未决。
+多加（village_A4_4）与马卜瓦兹（village_A7_3）属于项目导出中文有段落、但settlements.xml实际text键在SandBox与NavalDLC英文/简中聚落语言表中均缺失、且跨Native、SandBox、NavalDLC三个归档的全部语言表搜索未找到的记录（来源审计LOC-33、LOC-36）。本文关于渔业和河漫滩麦作的原文依据是settlements.xml内嵌英文fallback；中文导出段落的来源/版本未决，不据此判定为非官方。
