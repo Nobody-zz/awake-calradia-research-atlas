@@ -1,4 +1,4 @@
-# 自然地理研究问题图谱与证据矩阵（启动版 v0.2）
+# 自然地理研究问题图谱与证据矩阵（启动版 v0.3）
 
 日期：2026-10-24
 
@@ -59,7 +59,7 @@ GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calrad
 
 ## 六、2026-10-24第一轮官方原档同键复核结果
 
-第一轮实际读取SandBox.zip与NavalDLC.zip内的官方聚落英文和简体中文语言表；两份ZIP的SHA-256与官方原始资料归档清单一致。两版各有274条英文与274条简中字符串，共有238个英文字符串ID；238条英文文本全部不同，而同ID的238条简中文本全部相同。此结果说明两版中文地志未同步反映英文改写，不代表238处自然地理事实均发生变化。
+第一轮实际读取SandBox.zip与NavalDLC.zip内的官方聚落英文和简体中文语言表；两份ZIP的SHA-256与官方原始资料归档清单一致。两版各有274条英文与274条简中字符串，共有238个共同语言表ID，其中210个为text键、3个为name键、25个为其他／哈希式ID。238个共同ID的英文值全部不同，简中值全部相同；但该统计只描述语言表键值，不代表238条实际生效的聚落地志中文都未更新。实体ID、名称、text键与语言表值必须逐层映射，具体见源级复核备忘录02。
 
 对22个水文／地貌相关共同ID进行定向复核，22个ID的英文文本均不同，简中文本均未变化。完整逐项结果见[自然地理源级复核备忘录01](https://docs.google.com/document/d/1dlRqWn1R8VzeddpHjIaHdeBz-wk-fuTQLTRxSwg8dNI/edit)及[GitHub Markdown](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-source-audit-01-nahasa-and-northern-waters-2026-10-24.md)。
 
@@ -67,6 +67,18 @@ GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calrad
 
 **NAT-03／NAT-04 北方河湖：**SandBox多条地志把“伊勒坦运输线”描述为冰川湖群以及拉科尼斯湖—塔奈西斯湖间的拖船线路；NavalDLC在厄毗诺萨、庞斯、阿洛夫、乌里克斯卡拉、沙佩什特等同键条目中改写为河流分支、桥梁／渡越点、拉科尼斯湖东岸河口或塔奈西斯湖湾等不同关系。帕亚木新版明确称Davana与Karakaz汇合后流向海洋；玻瑞阿戈拉新版称Caracasos河口进入拉科尼斯湖。此文本组合不足以独自证明全大陆完整水系拓扑，也不能把两版模型合并成同一时期自然水网。
 
-**证据等级与限制：**以上属于A类官方文本的版本分层读取；本轮未重新解析地形栅格、河道几何或原始Navmesh，因此尚无新增B类空间测绘结论。旧版简中只用于记录旧版本地化，不用于覆盖新版英文。地图复核仍需可恢复的原始空间资源及版本明确的几何数据。
+**证据等级与限制：**以上属于A类官方文本的版本分层读取；本轮未重新解析地形栅格、河道几何或原始Navmesh，因此尚无新
+
+## 七、聚落实体—文本键映射审计（2026-10-24）
+
+第二轮直接解析两版 `settlements.xml` 与英文／简中语言表后，确认共有聚落实体ID为493个，NavalDLC另增47个。共有实体中327个两版都带有地志text属性，166个两版都没有该类文本；327个有文本的共有实体中，289个保持同一text键，38个改换text键。38个改键实体中，36个名称不变，另有两个实体ID在Kohi Ajik与Tismil之间交换名称和文本键；这说明聚落实体ID本身不能无条件当作跨版本稳定地理主键。
+
+238个共同语言表ID中，210个为text键、3个为name键、25个为其他／哈希式ID。共同text键中，208个继续引用相同的实体集合；另两个键（`village_K2_2` 与 `village_K6_4`）随Kohi Ajik／Tismil实体ID对调而改变引用集合。38个改键实体的新键均有英文和简中值，其中32个新键的简中值与旧键不同，6个相同。由此可见，旧共同键的简中值未变化，并不必然意味着该实体在NavalDLC中实际使用的译文没有更新。
+
+气候与植被样本进一步显示，同一文本键可从林谷、森林经营或局地降雨叙述改写为海岸、季节放牧、湿地排水或古湖床—盐渍平原等新背景；例如Cananc、Rulund、Tememos、Chornobas、Mazen、Caira、Fregian与Elipa。只有在实体、文本键和版本对应关系确定后，才能判断某条简中译文是否仍然滞后，亦不能把文本改写直接当作虚构世界内部的景观演替。
+
+完整统计、逐项案例与后续校勘规则见[自然地理源级复核备忘录02](https://docs.google.com/document/d/12tBeuWmMPpEmnM3rYZCBDj4g638RxY-4AKM0jq_jNas/edit)及[GitHub Markdown](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-source-audit-02-settlement-key-mapping-and-environmental-texts-2026-10-24.md)。本轮仍未重新解析高程栅格、河道几何、Navmesh或土地覆盖数据，没有新增B类空间测绘结论。
+
+增B类空间测绘结论。旧版简中只用于记录旧版本地化，不用于覆盖新版英文。地图复核仍需可恢复的原始空间资源及版本明确的几何数据。
 
 )
