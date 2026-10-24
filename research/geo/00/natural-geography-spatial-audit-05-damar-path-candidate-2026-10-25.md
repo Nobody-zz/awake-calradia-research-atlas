@@ -4,7 +4,8 @@
 - 版本：v0.1
 - 性质：候选路径筛查与资料可恢复性复核；不分配正式论文编号，不声称已恢复原始几何
 - 前序：[空间核验备忘录04｜达玛尔河文本锚点与基础版 PHYM7 图像近邻检验](natural-geography-spatial-audit-04-damar-phym7-proximity-2026-10-25.md)
-- 叠加图：natural-geography-damar-path-candidate-audit-2026-10-25.png（当前工作副本；Drive链接将在归档后补入）
+- Google Docs 原件：[打开备忘录05](https://docs.google.com/document/d/1B413zXgcVLG9CBKYUkLoNkgnAc8eV_tD1F9ej7tER1I/edit)
+- 叠加图：[Google Drive PNG](https://drive.google.com/file/d/14YrS9350TUqDq71ZVqXhx0gSrLY3T3xI/view)
 
 ## 一、当前结论
 
