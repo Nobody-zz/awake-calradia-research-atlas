@@ -102,7 +102,7 @@
 
 ## 主要源级索引
 
-- SandBox v1.4.8，spclans.xml：hidden_hand，key nQOf27Rx；brotherhood_of_woods，key xahrUc5n；embers_of_flame，key B8c2mNKj；legion_of_the_betrayed，key bhxVA9w7。
+- SandBox v1.4.8，spclans.xml：hidden_hand，key nQOf27Rx；eleftheroi，key 9qAWNBvA；brotherhood_of_woods，key xahrUc5n；embers_of_flame，key B8c2mNKj；legion_of_the_betrayed，key bhxVA9w7。
 - SandBox v1.4.8，wanderer_strings.xml：backstory_b/c.spc_wanderer_empire_10，keys pzK7TN05、sfFLudTM；backstory_a/b/c.spc_wanderer_empire_6，keys R9KivNZ6、7JMaPpkN、7caHipXX；backstory_a/b/c.spc_wanderer_aserai_4，keys LjkQ4fYp、Z8TfQDSV、PWpTT0NM。
 - SandBox v1.4.8，companion_strings.xml：str_npc_backstory_d.6，key QNVJgFbF。
 - SandBox v1.4.8，settlements.xml：town_ES3，key rGXdJybe。
