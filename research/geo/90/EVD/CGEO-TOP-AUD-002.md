@@ -193,3 +193,12 @@ CGEO-S-BIO-001 的上述四类不当中文用名已逐处更正，Google Docs �
 
 完整专题论文：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/western-port-cities-rural-hinterlands-and-seaborne-provisioning-2026-10-24.md
 Google Docs：https://docs.google.com/document/d/1r2hWEgZp0QlYyaF2gNkHbHVnNhNEVXyiBx4rYQ_MO1M/edit
+
+
+## 第五轮关联研究：斯特吉亚东北森林资源与市场网络（2026-10-24）
+
+独立专题：《东北森林资源的空间组织与河湖市场网络——毛皮、木材、粮食与地方聚落的历史人文地理研究》v0.1。
+GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/northeastern-forest-resource-network-lake-river-markets-2026-10-24.md
+Google Docs：https://docs.google.com/document/d/1r5xLCwljVokxTeA5pk86bdX0jXtVzlDIhIGNb09vcoM/edit
+
+本稿沿用已登记的跨版本校勘，不新增未经核实的译名。重点涉及同 ID 地志英文本改写而官中未同步的三例：乔诺巴斯（基础版瀑布旁谷作，NavalDLC英文明确为奥莫尔港市供粮）、斯科林（基础版湖湾渔业，DLC英文林地—草地毛皮猎取）、拉达克梅德（基础版车尔特格山地毛皮动物，DLC英文比亚里海沿岸海象猎取）。这些差异须标为版本重写，不当作历史内部的产业演变。另需分开记录“wild honey／野蜜”和“bog iron／沼铁”的宏观资源叙述，与马拉布罗特的山地铁矿；目前无依据把三者定位为同一地点或同一种采冶过程。
