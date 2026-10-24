@@ -636,6 +636,8 @@ XML 中该背景树之前的注释是“Obsessed with own genealogy”（沉迷�
 
 第四，SandBox/ModuleData/comment_strings.xml 的 str_comment_noble_introduces_self_and_clan.aserai_boasting（zZ9FQJRI）称所属氏族是“the most ancient and noble of the Aserai lineages”，官方简中译为“阿塞莱血脉中最古老、最高贵的一支”。该有效对白带有 UncharitableTag，故是特定性格分支中的夸耀，不是百科叙述。相邻的另一个“lineage not so famous, but deeds…”字符串处于 XML 注释之内，属于非生效文本，本轮明确不将其当作当前游戏叙事证据。
 
+第五，SandBox/ModuleData/wanderer_strings.xml 的 spc_wanderer_aserai_10 提供了另一个单数“emir”用例：法官之子原想研读旧判例继承父业，后转为工程师；当地学院破败，他把重建草图交给“the emir”，对方却让他改交攻城器械设计。官方简中键 cyjb9lmm 将此称谓译为“埃米尔”。同一背景树称围城工程报酬不稳定，合约通常只有在城市被攻下并遭掠夺时才兑现；若围城营地爆发痢疾、军队撤走，提交收据也可能徒劳。generic_backstory.spc_wanderer_aserai_10（wQRSM1lz）则把父亲的司法职业理想与本人制造投石车、爆破矿道的选择对照起来。这些都是同一背景体系的替代叙述，不能视为独立样本或全国制度记录，但它们显示叙事中的埃米尔可作为地方赞助者／项目决策者出现，军事工程和战利品可能影响合同兑现；它不能证明埃米尔普遍控制教育、全国军费或统一财政。
+
 ### 二十六之三、对政治整合模型的修订
 
 本组材料支持把谱系理解为一种可争夺的政治资本，而非自动产生服从的制度。不同角色可以借共同祖先主张彼此同源，也可以借更具体的父系、长幼次序或合法出生争议，声称自己比竞争者更高贵；同样的谱系语言既可用于自我夸耀，也可用于拒绝现任统治者。另一方面，王国沿革把苏丹职位与最富有氏族联系起来，胡勒延以仲裁声望解释其被选中，吉勒德则强调战争领导，萨兰强调失地与歧视记忆。因而，合法性至少包含谱系、财富、氏族承认、仲裁声望、战时领导与声誉等不同维度。
