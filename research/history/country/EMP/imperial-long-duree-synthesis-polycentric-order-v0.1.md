@@ -178,7 +178,7 @@ SandBox/ModuleData/spclans.xml，legion_of_the_betrayed／bhxVA9w7，直接叙�
 **有效英文原始XML**：
 - SandBoxCore/ModuleData/spcultures.xml：Empire/X0kKBzsW，Vlandia/1Ww5lg6I。
 - SandBox/ModuleData/spkingdoms.xml：Empire北aEfsyVH4、西mOZsbV8j、南Xtyb9Dyr；Vlandia/IudGLWQZ；Sturgia/bVihnRUu。
-- SandBox/ModuleData/settlements.xml：贾尔马律斯town_EW3/TI3fS2xN；沃斯特鲁姆town_ES2/ytBRXqt8；密泽亚town_EN5/8UJ3cPrZ；Argoron（暂译“阿耳戈隆”）town_EN4/LqPJY4s9；拉革塔town_EW1/ZAGUIKOn；吕卡隆town_ES4/WGtzBswe；罗瓦拉堤斯town_V9/1SnAH5K8；古亚兹Quyaz town_A1/1ImuW3My；Ostican（官方百科标题：奥斯蒂港）town_V8/Eb7Lgq10。
+- SandBox/ModuleData/settlements.xml：贾尔马律斯town_EW3/TI3fS2xN；沃斯特鲁姆town_ES2/ytBRXqt8；密泽亚town_EN5/8UJ3cPrZ；Argoron（官方百科导出标题为“阿耳戈隆”）town_EN4/LqPJY4s9；拉革塔town_EW1/ZAGUIKOn；吕卡隆town_ES4/WGtzBswe；罗瓦拉堤斯town_V9/1SnAH5K8；古亚兹Quyaz town_A1/1ImuW3My；Ostican（官方百科标题：奥斯蒂港）town_V8/Eb7Lgq10。
 - SandBox/ModuleData/spclans.xml：秘密之手hidden_hand/nQOf27Rx；自由民eleftheroi/9qAWNBvA；被弃者军团legion_of_the_betrayed/bhxVA9w7。
 - SandBox/ModuleData/heroes.xml：彭同lord_1_5/04xAg0yN；阿庇斯·瓦罗斯/xL95EfpQ；厄庇斐里娅/SeQ5dM4H；法戎/pl86rbh9。
 - SandBox/ModuleData/world_lore_strings.xml：卢孔Cx2FCePF、拉盖娅SCogGc7N、加里俄斯uK4IX036。
