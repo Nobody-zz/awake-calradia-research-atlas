@@ -1,6 +1,6 @@
 # CHC-KHU-GEN｜库赛特历史研究摸底、国家形成问题与史料缺口
 
-工作调查 v0.1｜2026-10-24｜《卡拉迪亚大陆历史研究》库赛特史独立研究线
+工作调查 v0.2｜2026-10-24｜《卡拉迪亚大陆历史研究》库赛特史独立研究线
 性质：史料摸底与问题导向的历史研究工作稿；未分配 H 编号；尚非定稿或世界书正典。
 主分类：CHC-KHU-GEN。预备独立专题“游牧贵族、城市封地与可汗权力”归 CHC-KHU-POL，不在此提前占号。
 
@@ -75,7 +75,7 @@ spkingdoms.xml 的 khuzait（fGNdo1BK）描述诸部“for centuries”越境劫
 
 ## 七、潘德拉克与后代氏族政治：战争不止战场
 
-heroes.xml／dead_lord_6_2／dfmSNTZk 直接称岁仑（Solun）为库吉特大那颜、墨速宜丈夫，战死于潘德拉克；墨速宜的有效传记另陈述库吉特在兀儿浑征服中损失巨大、后来土地受其他部族觊觎。不能据此把兀儿浑所有战争损失等同于潘德拉克一役，也不能自动推断岁仑之死直接触发某块领地易主。既有 CHC-CAL-MIL 战役工作稿使用玩家访谈转录提及 Gotug 与同一氏族损失，I-0003 D-0087 已明确 Solun/Gotug 可能异名、不同人物或转录误差；本研究采用岁仑（Solun）为墨速宜丈夫的工作基线，不因该名称差异重开婚姻关系问题。所谓“蒙楚格没有保护墨速宜”的具体对白仍需有效 StoryMode 逐键复核。国别史侧重人员损失、婚姻和地方继承的长时段后果，三战区战术与联盟记忆交由 CHC-CAL-MIL 统筹。
+heroes.xml／dead_lord_6_2／dfmSNTZk 直接称岁仑（Solun）为库吉特大那颜、墨速宜丈夫，战死于潘德拉克；墨速宜的有效传记另陈述库吉特在兀儿浑征服中损失巨大、后来土地受其他部族觊觎。不能据此把兀儿浑所有战争损失等同于潘德拉克一役，也不能自动推断岁仑之死直接触发某块领地易主。既有 CHC-CAL-MIL 战役工作稿使用玩家访谈转录提及 Gotug 与同一氏族损失，I-0003 D-0087 已明确 Solun/Gotug 可能异名、不同人物或转录误差；本研究采用岁仑（Solun）为墨速宜丈夫的工作基线，不因该名称差异重开婚姻关系问题。所谓“蒙楚格没有保护墨速宜”的指控已可在 v1.4.5 反编译采访中作为 A2 级人物陈述核查；项目 v1.4.8.119303 的同版本逐字核验仍待完成，且该指控本身不是中立事实。国别史侧重人员损失、婚姻和地方继承的长时段后果，三战区战术与联盟记忆交由 CHC-CAL-MIL 统筹。
 
 ## 八、跨研究线的接口和待协调条目
 
@@ -180,7 +180,7 @@ P3（潘德拉克之后的氏族仇怨与联盟）在 P2 后推进。早期身�
 
 RQ-KHU-05 的推进结果：目前可比较封地与现行持有的差异，也能识别城镇取得路径的多样性；仍缺撤封、继承、税役与兵额的明确规则。RQ-KHU-07 的推进结果：奥通加德是强产权链缺口，SandBox 与 NavalDLC 两版英文都保留“授予库吉特”的历史主干，NavalDLC 只修正 SandBox 英文句法；两版 owner 均为阿契特。另一个关键设计史线索是，settlements.xml 中 town_K1（巴尔塔罕）前的注释标为“clan 3, Arkits”，town_K4（奥通加德）前的注释却标为“clan 2, Khergits”；生效 owner 字段和 spclans.xml 的 initial_home_settlement 则将巴尔塔罕配置给库吉特、奥通加德配置给阿契特，恰与旧注释标签相反。这与开发阶段曾交换两氏族据点、后来改动开局分配但未同步全部注释／历史地志的解释相容，却不能证明改动时间或原因，也不能排除真实的世界内转移。开发注释虽称阿契特曾试图夺取库吉特领土，但没有点名奥通加德，也未说明反攻结果，故不能据此宣布夺城已证实。
 
-全模块检索的负面结果：本轮对 Native、SandBoxCore、SandBox、StoryMode、NavalDLC 五个归档 ZIP 内的 XML 及官方语言表检索。字符串 Ortongard 只出现在 SandBox／NavalDLC 的 town_K4 聚落正文、名称字段及对应语言表；没有发现生效人物传记或政治对白直接把奥通加德与后来的领地争夺相连。不过，settlements.xml 在 town_K1、town_K4 前分别保留“clan 3, Arkits”和“clan 2, Khergits”的旧标签，且与生效 owner 交叉错位；这是开发阶段配置线索，不是事件叙述。Gotug 在这些归档的 XML 和语言表中没有命中；“ten years ago”与“made a bid for their territories”只出现在 SandBox／ModuleData/spclans.xml 的旧开发注释。已上传 StoryMode.zip 仅含 module_strings.xml、story_mode_settlements.xml 及两份语言表，其中没有 Khergit、Arkit、Mesui、Solun、Gotug、Ortongard、Pendraic 或 Monchug 的正文命中。此结果只限定于现有候选归档，不能证明完整游戏资源或其他版本绝无相关对白；但它说明当前没有可用的独立官方主线文本来补上奥通加德的产权链。
+全模块检索的负面结果：本轮对 Native、SandBoxCore、SandBox、StoryMode、NavalDLC 五个归档 ZIP 内的 XML 及官方语言表检索。字符串 Ortongard 只出现在 SandBox／NavalDLC 的 town_K4 聚落正文、名称字段及对应语言表；没有发现生效人物传记或政治对白直接把奥通加德与后来的领地争夺相连。不过，settlements.xml 在 town_K1、town_K4 前分别保留“clan 3, Arkits”和“clan 2, Khergits”的旧标签，且与生效 owner 交叉错位；这是开发阶段配置线索，不是事件叙述。Gotug 在这些归档的 XML 和语言表中没有命中；“ten years ago”与“made a bid for their territories”只出现在 SandBox／ModuleData/spclans.xml 的旧开发注释。已上传 StoryMode.zip 仅含 module_strings.xml、story_mode_settlements.xml 及两份语言表，其中没有 Khergit、Arkit、Mesui、Solun、Gotug、Ortongard、Pendraic 或 Monchug 的正文命中。此结果只限定于现有候选归档，不能证明完整游戏资源或其他版本绝无相关对白；但现已恢复的 A2 级采访只记载墨速宜关于战后畜群遭袭的指控，并未提及奥通加德；因此仍没有证据补上该城的具体产权转移链。
 
 本轮结论仍为 C 级工作解释：库赛特更适合暂时理解为由多种地方权力、不同领地取得路径和不均衡谱系证据组成的差异化领地联盟。奥通加德保留为城市产权与文本一致性问题的未决案例，不再是近期首要任务。研究优先级转为：兀儿浑如何取得对高地位旧氏族的支配权；游牧与定居经济的矛盾如何被制度化处理；潘德拉克之后的氏族仇怨如何影响联盟。全程不预占 H 编号，不修改共享 I/Q 索引。
 
@@ -198,3 +198,8 @@ A09｜官方开发者背景（2017-11-09，设计期叙事，非独立原始历�
 A10｜原始 ZIP 的仓库校验清单：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/source-archives/README.md 。官方中文术语以实际同键语言表及地理专名登记为准；没有独立城名键时明确保留英文锚点及暂译状态。
 
 工作边界：仅新增本线独立 Google Docs 与 GitHub 工作文件；未修改 I-0001／I-0002／I-0003／I-0004、Q-0013、CHC-CAL-MIL、CHC-STU-GEN 或任何其他国别文档。跨区域争议待协调线程确认后再由中央索引维护者处理。
+
+
+## 补充｜潘德拉克十九人采访恢复与库赛特战后问题（2026-10-24）
+
+Bannerlord v1.4.5 反编译代码已恢复蒙楚格（lord_6_1）、墨速宜（lord_6_4）、呼鲁那格（lord_6_16）的四段采访回答，共十二段 A2 文本。蒙楚格将库吉特氏族参战解释为雇佣招募，并称库吉特氏族因战死者众多而遭遇衰弱；墨速宜以遗孀身份指控其他氏族、尤其阿契特趁虚袭掠畜群，并称可汗未能有效保护她们；呼鲁那格描述侦察发现巴旦尼亚伏击、库吉特骑射手与瓦兰迪亚弩兵及帝国具装骑兵交战。该材料强化了“潘德拉克的社会后果延伸至氏族安全与可汗保护责任”的研究问题，但不提奥通加德，也不能证明特定城镇易手。项目 v1.4.8.119303 的逐字版本核验仍待完成。全部键值和证词摘要见：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Interview-Source-Inventory-v0.1.md。
