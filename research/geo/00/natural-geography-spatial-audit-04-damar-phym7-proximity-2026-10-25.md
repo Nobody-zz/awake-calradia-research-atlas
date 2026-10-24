@@ -5,6 +5,7 @@
 - 性质：派生图像的空间筛查；不是河道、洪泛区或海岸线定稿，不分配 CGEO 永久论文编号
 - Google Docs 原件：[自然地理空间核验备忘录04](https://docs.google.com/document/d/1P_Yy6wy1LgA4zOtT7-4u5PNb6qhK5hlPq0f1DvEdxsQ/edit)
 - 结果 CSV：[57个阿塞莱聚落实体与 PHYM7 图像近邻数据](natural-geography-spatial-audit-04-damar-phym7-proximity-2026-10-25.csv)
+- Google Drive CSV 副本：[打开](https://drive.google.com/file/d/1mk3qlxHv9jB7L-idhQf_X3AgT-moeaD6/view)
 - 复算脚本：[Python 脚本](natural-geography-spatial-audit-04-damar-phym7-proximity-2026-10-25.py)
 - 前序备忘录：[空间核验03｜纳哈撒聚落实体坐标与双版本高程图的初步配准](natural-geography-spatial-audit-03-nahasa-settlement-coordinate-overlay-2026-10-24.md)
 
