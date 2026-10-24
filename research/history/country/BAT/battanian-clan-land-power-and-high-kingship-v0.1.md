@@ -156,3 +156,10 @@ SandBox/concept_strings.xml：〈Kingdom〉〔JfnGAEnC〕、〈Army〉〔NtBrM1A
 Native/module_strings.xml：至高王／至高女王〔lb13ceVM〕，Mormaer／Banmormaer〔X4qO3jBf〕，酋长〔0zz1iDMY〕；中文分别经 Native/Languages/CNs/std_module_strings_xml-zho-CN.xml 同键核对。
 SandBox/heroes.xml：埃尔贡〔HjGYftkH〕；SandBox/spkingdoms.xml：Kingdom.battania〔ZjaaAoxd〕；SandBox/settlements.xml：瓦尔切格〔i2VkRLBg〕。
 TaleWorlds，Dev Blog 04/10/18（贵族、土地、军队、政策），https://www.taleworlds.com/en/Games/Bannerlord/Blog/80 ；Dev Blog 13/06/19（统帅与家族声望），https://www.taleworlds.com/en/Games/Bannerlord/Blog/114 ；Dev Blog 05/12/19（政治决议与君主推翻多数的代价），https://www.taleworlds.com/en/Games/Bannerlord/Blog/132 。三篇均属通用机制的开发说明，不是巴旦尼亚实录。
+
+
+十三、边疆史对王权制度模型的反向检验（2026-10-24）
+
+配套独立专题《巴旦尼亚疆域收缩、边地社会与王权战争化》已核对东部帝国征服、北方瓦尔切格政治失利、西部奥克斯·霍尔征服、沿海语言交错与《War Sails》航运资料。其最有制度解释力的一例仍是瓦尔切格：戴恩玛查有能力接受异族封臣及雇佣斯特吉亚军队维护王命，却在军费与战利品处理后失去城镇。可见“国王具备跨氏族或跨族军事行动能力”与“国王能够把行动后果稳定转成王室领土收益”并不相同，不能因为一次动员成功就假设有经常性全国财政。相反，卡格雷夫居民进入海象牙贸易、卡琉斯三语混用与 Oritan 的族际婚姻，又提醒氏族领土界线并不等同于经济与族群网络的边界。
+
+故此前“氏族自治—仪式王权—条件合作”为较优长时段结构的结论得到更具体的历史检验：外部战争可以强化统一号令的需求，也可能通过雇佣外军支付、贸易利益冲突与人口跨境流动削弱王室的排他性控制。卡拉多格强王权应被理解为对此类压力的一种有争议的政治反应，而非所有边疆失土必然导致的集权完成。完整史料与版本争议见 research/history/country/BAT/battanian-frontier-contraction-and-political-integration-v0.1.md ，https://docs.google.com/document/d/1ljsE1qNlwn_06QGAtVjGh0on-xOumuXJW20XPpQNbpM/edit 。
