@@ -101,6 +101,8 @@ GitHub: research/history/country/STU/sturgia-cross-line-evidence-handoff-pendrai
 
 本次实际对读了潘德拉克战役工作稿 v0.2 与库赛特制度史工作稿 v0.1。已将龙旗争执的版本／时序核验、岁仑／Gotug 名称差异与阿契特侵夺证据分级、朗瓦德母系诺德谱系的有效文本核查，分别交由 CHC-CAL-MIL、CHC-KHU、CHC-NOR。交接单仅列源级任务，不修改接收线正文或公共 I/Q；若没有新的有效文本，现有证据缺口继续保留。
 
+随后直接检查了项目 `StoryMode.zip`：包内只有 `module_strings.xml`、`story_mode_settlements.xml` 及英文／简中语言表，没有老奥列克、朗瓦德、龙旗争执或十九位领主访谈对白，也没有匹配 v1.4.8.119303 的运行时程序集。故当前归档不足以核验 v1.4.5 反编译访谈的版本一致性；这只是资料缺口，不证明运行时从未包含对白。Library《骑砍诺德人两代关系考究.docx》虽提及朗瓦德母亲为诺德公主，但其相关表格引注指向 Fextralife 二手页面，不能替代有效 `heroes.xml／LW92PgZz`，更不能完成具名王室谱系定位。
+
 ## 八、下一阶段执行原则
 
 下一阶段优先做整合而非新增泛化专题：
