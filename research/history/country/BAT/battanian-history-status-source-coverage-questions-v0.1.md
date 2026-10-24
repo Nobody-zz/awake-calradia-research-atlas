@@ -117,3 +117,12 @@ StoryMode v1.4.8：本轮已取得其模块ZIP并定向检查，主线19人完�
 据本轮匹配，NavalDLC与SandBox中上述46处巴旦尼亚城堡、城镇、村庄 owner 与 bound 关系均一致；但 Tor Melina〔castle_village_B3_2〕在SandBox是黏土矿村，而NavalDLC改为小麦村，属于版本重写，不能当作古今农业变化。史料同时揭示粮食、葡萄酒、马匹、林木、黏土、矿产与对外贸易的地区差别；尚无直接各氏族向至高王定期交纳何种份额的税赋文书，不得从物产与领地所有权直接推算全国财政。
 
 新增专题《氏族领地、资源动员与巴旦尼亚至高王权》归 CHC-BAT-SOC（不分配 H 编号），路径：research/history/country/BAT/battanian-clan-land-power-and-high-kingship-v0.1.md；Google Docs：https://docs.google.com/document/d/1RZE-zT5AQOqx0Z7-TZUCc4ZtnQDXZ6v2xkgoXewqx5Y/edit 。研究模型调整为氏族财产自治—仪式承认—条件协作是目前最优长期结构，卡拉多格的战争式强王政治是建立在此结构之上的转化尝试，而不是已经证明的完成集权。
+
+
+附录｜第四轮制度史交叉结论（2026-10-24）：王权的可执行范围及比较证据
+
+已在 CHC-BAT-SOC 《氏族领地、资源动员与巴旦尼亚至高王权》增补第四轮专题，重点核对 SandBox/comment_strings.xml〔cMO9JXvk、Ua0T0A7t、rhTUDKhJ〕、world_lore_strings.xml〔He0b6FpY、oUKWHMDq、zR1ONwM8、wv2jPN3Q〕与 Native/module_strings.xml〔lb13ceVM、X4qO3jBf、0zz1iDMY〕。瓦兰迪亚贵族有直接封地—效忠公式，斯特吉亚诸贵族回忆危机中形成的效忠盟约，库赛特可汗宣称祖先征服赏地是占有合法性的基础；巴旦尼亚王国概述则着重地方酋长对自家土地、羊群和附从者的掌握与晚近至高王扩权。因此不宜把巴旦尼亚一概写成已经存在统一封臣授封、固定贡赋和法定军役比例的政治制度，也不能因无明确缴税、征兵细则便断言国王无实权。
+
+本轮将王权拆成四项可独立检验的能力：得到承认、号召贵族参战、维系多氏族军队、经常性征税与重分领地。埃尔贡维护卡拉多格王位、戴恩玛查接受诺德雅尔效忠并雇外军惩戒，分别直接支持政治承认和具体军事强制，但并未证明全国固定兵额或持续财政权。SandBox/concept_strings.xml〔JfnGAEnC、NtBrM1A5〕和 TaleWorlds 2018—2019 年王国决议及军队说明仅是通用政治机制，不能作为巴旦尼亚历史朝议的直接记录。爵称 Mormaer/Banmormaer 官中被译为伯爵／女伯爵，但原文必须保留，以防译名抹平地区贵族身份的差异。
+
+完整新论见 research/history/country/BAT/battanian-clan-land-power-and-high-kingship-v0.1.md ，Google Docs：https://docs.google.com/document/d/1RZE-zT5AQOqx0Z7-TZUCc4ZtnQDXZ6v2xkgoXewqx5Y/edit 。待决最关键的三题：氏族出兵是否事先约定固定条件；国王能否以个人权力惩罚拒命氏族；军费由国王私产、氏族自备还是共同征取资源支付。
