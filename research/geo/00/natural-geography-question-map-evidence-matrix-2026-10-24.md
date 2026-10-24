@@ -2,7 +2,7 @@
 
 日期：2026-10-24
 
-Google Docs 原件：[自然地理研究问题图谱与证据矩阵](https://docs.google.com/document/d/1IzIEm-CgErZ_REROhHnuXstqvK2vKjPoSXoeyanNFUg/edit)
+Google Docs 原件：[自然地理研究问题图谱与证据矩阵 v0.4](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit?usp=drivesdk)
 
 GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md)
 
@@ -67,7 +67,7 @@ GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calrad
 
 **NAT-03／NAT-04 北方河湖：**SandBox多条地志把“伊勒坦运输线”描述为冰川湖群以及拉科尼斯湖—塔奈西斯湖间的拖船线路；NavalDLC在厄毗诺萨、庞斯、阿洛夫、乌里克斯卡拉、沙佩什特等同键条目中改写为河流分支、桥梁／渡越点、拉科尼斯湖东岸河口或塔奈西斯湖湾等不同关系。帕亚木新版明确称Davana与Karakaz汇合后流向海洋；玻瑞阿戈拉新版称Caracasos河口进入拉科尼斯湖。此文本组合不足以独自证明全大陆完整水系拓扑，也不能把两版模型合并成同一时期自然水网。
 
-**证据等级与限制：**以上属于A类官方文本的版本分层读取；本轮未重新解析地形栅格、河道几何或原始Navmesh，因此尚无新
+**证据等级与限制：**以上属于A类官方文本的版本分层读取；本轮未重新解析地形栅格、河道几何或原始Navmesh，因此尚无新增B类空间测绘结论。旧版简中只用于记录旧版本地化，不用于覆盖新版英文。地图复核仍需可恢复的原始空间资源及版本明确的几何数据。
 
 ## 七、聚落实体—文本键映射审计（2026-10-24）
 
@@ -78,11 +78,6 @@ GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calrad
 气候与植被样本进一步显示，同一文本键可从林谷、森林经营或局地降雨叙述改写为海岸、季节放牧、湿地排水或古湖床—盐渍平原等新背景；例如Cananc、Rulund、Tememos、Chornobas、Mazen、Caira、Fregian与Elipa。只有在实体、文本键和版本对应关系确定后，才能判断某条简中译文是否仍然滞后，亦不能把文本改写直接当作虚构世界内部的景观演替。
 
 完整统计、逐项案例与后续校勘规则见[自然地理源级复核备忘录02](https://docs.google.com/document/d/12tBeuWmMPpEmnM3rYZCBDj4g638RxY-4AKM0jq_jNas/edit)及[GitHub Markdown](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-source-audit-02-settlement-key-mapping-and-environmental-texts-2026-10-24.md)。本轮仍未重新解析高程栅格、河道几何、Navmesh或土地覆盖数据，没有新增B类空间测绘结论。
-
-旧版简中只用于记录旧版本地化，不用于覆盖新版英文。地图复核仍需可恢复的原始空间资源及版本明确的几何数据。
-
-)
-
 
 ## 八、2026-10-24第三轮：纳哈撒聚落实体坐标与高程图面板初步配准
 
