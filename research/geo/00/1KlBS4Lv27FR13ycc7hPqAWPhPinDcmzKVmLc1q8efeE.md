@@ -363,3 +363,5 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 - [工作簿｜版本差异审计](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1907932238)、[断言—证据绑定](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1515316224)、[导出文本来源审计](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1616318933)。
 
 当前结果的解释边界：两版聚落英文语言表共有238个键且所有共有英文值均不同；对应简中共有键值全部相同。另有43条项目导出城镇/村庄中文描述无法由归档SandBox/NavalDLC英文或简中聚落语言表的同键记录验证，来源/版本仍待查。上述键值比较不等于所有聚落的逐条语义审查，也不证明文本更新等同于世界内部历史变化。
+
+名称来源另有一项待核：项目百科导出标注Native简中`std_common_strings_xml`为名称来源，但当前Native.zip/file_manifest未包含该文件，无法由现有归档独立复现基础版名称映射；这不证明名称错误或非官方。DLC中实际存在的简中名称键已另行逐键核实。
