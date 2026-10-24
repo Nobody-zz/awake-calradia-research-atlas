@@ -96,9 +96,9 @@
 
 这不是“研究者漏读了九篇介绍”，而是这些节点在该源文件中没有独立叙述文本。可研究它们的名称、所有权、领地关系、附近村庄与其他地志提及，但不能虚构不存在的城堡介绍。
 
-## 五、需要纳入 NOR 跨国登记册的额外定居点
+## 五、已纳入首轮登记的额外跨国定居点接口
 
-此前已重点登记的跨国节点包括瓦尔切格（i2VkRLBg）、巴尔加德（Xom9DeXZ）、瓦尔诺瓦波尔（aTMypBiY）、西比尔（PPadNxa6）、罗瓦尔特（1SnAH5K8）和卡·班塞斯（QD3oaaNK）。对照 NavalDLC 与 SandBox 的有效英文聚落叙述后，还应将下列节点列为 NOR 跨线接口；这表示 NOR 线尚未完整登记，不代表其他国家线一定没有研究它们。
+此前已重点登记瓦尔切格（i2VkRLBg）、巴尔加德（Xom9DeXZ）、瓦尔诺瓦波尔（aTMypBiY）、西比尔（PPadNxa6）、罗瓦尔特（1SnAH5K8）和卡·班塞斯（QD3oaaNK）。本轮已将下列八个节点纳入 CHC-NOR-GEN-cross-line-relations-register-v0.2.md；对方国别线是否已核、是否有独立证据仍须逐项确认。
 
 | 聚落 | 源节点/键 | 直接相关的诺德信息 | 需接入的研究问题 |
 | --- | --- | --- | --- |
@@ -119,7 +119,17 @@
 4. **跨模块重复不是独立互证**：瓦尔切格、巴尔加德、瓦尔诺瓦波尔、西比尔、罗瓦尔特和卡·班塞斯在 SandBox 与 NavalDLC 间有同键或版本文本；当前解释优先按 NavalDLC 有效英文，简中滞后另行记录。
 5. **结构化字段不是完整家谱**：氏族初始定居点、角色父母/配偶字段与人物传记各有不同用途；冲突应并列登记，不自动修补。
 
-## 七、下一步执行顺序
+## 七、八条地志首轮补读与新增语言问题
+
+首轮补读形成 CHC-NOR-GEN-uncovered-settlement-gazetteer-analysis-v0.1.md，结论如下：
+
+- Lagshofn 的英文 “explorer and trade Lag” 存在语法异常，简中译为“探险家兼商人”；seat-pillars 的文化含义仍未定，不应擅自确认为某一现实神话来源。
+- Vorfjall 与 Faergap 共用 village_N4_2 的主名语言键，导致官方简中名称撞译；研究应以英文名称和 settlement ID 区分两地。
+- Aalgrun 的 char 被简中泛化为“鱼”；Dorstrand 的 char 被译为更具体的“北极红点鲑”，应保留英文类别以避免过度指定。
+- Holarsver 的 sea-trout 被误译为“海鲟”；runoff from the streams 被误译为“洋流在那里分出径流”，改变了淡水径流与海水混合的因果关系。
+- 跨国聚落接口复核另发现 Amprela、Epinosa、Radakmed、Dinar 四处当前英文与官方简中存在实质性内容失配；详见 cross-line relations register v0.2。不得把这些语言表差异写成历史上真实的迁址或叙事矛盾。
+
+## 八、下一步执行顺序
 
 1. 对八条已补读地志进行跨线核验，优先核对 Lagshofn—Drapand 鲸类活动、Vorfjall—Jumne 河名与资源走廊、以及边疆迁徙叙述。
 2. 与 EMP、STU、KHU、VLA、CGEO 研究线逐项确认 Amprela、Epinosa、Kargrev、Kvol、Radakmed、Drapand、Dinar、Karahalli 的状态；共享同一地志不算独立互证。
