@@ -114,3 +114,8 @@
 ### 项目中文导出来源补充（2026-10-24）
 
 柴坎（town_K5）与喀拉罕（village_K6_1）属于项目导出中文有段落、但settlements.xml文本键在SandBox与NavalDLC英文/简中聚落语言表中均缺失的记录（来源审计LOC-25、LOC-43）。本稿的贸易与军马论证应以原始settlements.xml英文fallback为主证据；导出中文段落的来源/版本仍未确认。喀拉罕的中文名称与描述文本必须分开判断：名称键可核对不代表描述同键存在。
+
+
+## 第三轮证据台账同步（2026-10-24）
+
+基础版柯希·阿吉克（Kohi Ajik，`castle_village_K7_2`）的原文明确写道：“The peoples of this land buy horses from the nomads to their east and sell them to the Khuzait aristocracy in the towns.” 该句给出卖方、商品、购入—转售行为及买方类别，现登记为STEP-06并绑定断言C-38。SandBox实体的文本键实际为`Settlements.Settlement.text.village_K6_4`，与实体ID不一致；V-09已记录NavalDLC中该ID改为Tismil、英文实体与文本映射互换的情况。因此这条购买—转售链只适用于SandBox基础版，不得与DLC版Tismil的马匹育种中心描述拼接，也不得与STEP-03喀拉罕向库赛特军队供马的链条混为一谈。官方简中名称键“柯希·阿吉克”已核，但DLC同ID名称键未同步。
