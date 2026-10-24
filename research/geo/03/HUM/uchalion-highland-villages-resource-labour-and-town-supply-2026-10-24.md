@@ -135,7 +135,7 @@
 
 〔1〕用户项目所存《骑马与砍杀2：霸主》v1.4.8.119303官方简体中文百科底本《encyclopedia-zh-cn.md》，来源为SandBox/ModuleData/settlements.xml及官方简体中文std_settlements_xml语言表。该转录范围含53座城镇与141个村庄，不含城堡及城堡附属聚落；因此castle_village_*条目不以该文件声称已完成中文名称核验。
 
-〔2〕项目官方原始资料库索引与校验记录：https://docs.google.com/document/d/1R4sijfL2IME3habmi0KISlzpLEU7Ok5cXuxulqRpfT0/edit 。官方模块归档目录：https://drive.google.com/drive/folders/17y4EwetqNlFBW1Zf_d_CP4yrdyjmr8Rm 。本专题所用核心SandBox地志ID包括village_B2_2、village_B4_2、village_B3_3、village_B3_1、village_B3_2、village_B5_1、village_B5_2、village_B1_1、village_B1_2、village_B2_3、village_B4_1及相邻的castle_village_B5_2、B6_1、B6_2、B8_1、B1_1、B7_1。
+〔2〕项目官方原始资料库索引与校验记录：https://docs.google.com/document/d/1R4sijfL2IME3habmi0KISlzpLEU7Ok5cXuxulqRpfT0/edit 。官方模块归档目录：https://drive.google.com/drive/folders/17y4EwetqNlFBW1Zf_d_CP4yrdyjmr8Rm 。本专题所用核心SandBox地志ID包括village_B2_2、village_B4_2、village_B3_3、village_B3_1、village_B3_2、village_B5_1、village_B5_2、village_B1_4、village_B1_1、village_B1_2、village_B2_3、village_B4_1及相邻的castle_village_B5_2、B6_1、B6_2、B8_1、B1_1、B7_1。
 
 〔3〕TSEOsiris, bannerlord-lore-dataset，基础版英文聚落地志可检索转录页：https://huggingface.co/datasets/TSEOsiris/bannerlord-lore-dataset/viewer/default/train?p=26 。该页可按village/castle_village ID定位Glenlithrig、Andurn、Tor Leiad、Bog Beth、Geunat Nal、Durn、Gainseth、Claig Ban等英文文本。该镜像是官方游戏文本的第三方转录/检索入口，不是独立官方史源，也不与原始XML构成两份独立证词。
 
