@@ -94,3 +94,11 @@
 因此，北方河谷交通地理的研究单位应从抽象的“同一条大河”细分为：可供长船进入的部分河段、湖口与河口渔场、桥梁与替代渡口、隔岸边防据点，以及春季浮冰和泛滥低地影响下的陆水交通。上述分工可直接追溯至各城镇记载，至于同一时期它们是否组成连续的贸易—军事体系，则需要对应时段的聚落位置与航线证据进一步检验。
 
 资料出处：随档《战帆》英文本地化地志 `4fLQlZya`（盖于斯达尔）、`TKeLjx14`（豪格）、`zh2tG1MX`（哈加德）、`YYYxOiCq`（安普雷拉）、`Settlements.Settlement.text.castle_village_EN7_2`（庞斯）、`castle_village_EN2_1`（罗卡那）、`castle_village_K9_2`（帕亚木）、`village_EN6_2`（玻瑞阿戈拉）、`village_EN4_3`（诺耳塔尼萨）。Caracasos／Carcasos、Davuna／Davana在现存简中同键文本中未获统一定名，论文暂保留英文原名与研究音译，不宣称已核实独立官译名称键。
+
+
+## 2026-10-24｜人文地理交叉接口：哈加德的历史贸易与水路可达性须分开
+
+历史人文地理第六轮专题《北方海产、河港与内陆粮畜的市场连接》指出，哈加德（Hargard，town_N4／zh2tG1MX）在官方英语地志中是诺德、Vanni与斯特吉亚人共同采集朱姆内河谷物产并向南出售的节点；当前NavalDLC的港口映射把它归为River类型。此处的River是当前版本导航接入类别，历史交换则由官方文字直接叙述，两者证据来源与证明对象不同。不能以导航类型证明整条河道连续通航、固定贸易量或全年航期；同样，历史记载的“向南交易”也不能代替具体河段的水文和通航检验。
+
+专题全文：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/northern-maritime-river-port-and-inland-provisioning-2026-10-24.md
+Google Docs：https://docs.google.com/document/d/1LtjH6zFrfpyu1vQkTBbcaBFiXRNcwmORrK7ixURySP8/edit
