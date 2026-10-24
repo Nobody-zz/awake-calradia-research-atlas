@@ -751,9 +751,25 @@ TaleWorlds 2018 年官方 Aserai 开发日志也把帝国在纳哈撒的影响�
 
 ### 二十八之六、下一轮查证任务
 
-1. 已完成本地逐键核验：SandBox 的 town_A4／jXBnf2hQ 与英文表、官方简中表一致；NavalDLC 复用同一 ID，英文只把 empire 首字母改为大写。下一步检索其余模块是否还有该 ID 的复用，并把模块重复视为文本复用而非独立互证。
-2. 在全部可用英文字符串中检索 Kannic、Perassic Sea、女神的四项职能、船首纹饰和保护信仰，确认是否有女神专名、其他祭祀记录或相同符号的第二次出现。
-3. 将拉齐赫、古亚兹、俄耳堤西亚放在同一张前帝国—帝国扩张的沿海关系表中，只记录原文明确支持的基地、殖民地、城邦权威和帝国整合，不推定未记载的年代或条约。
-4. 若其他文本没有新增证据，保留“坎族海上殖民传统与符号残存”为拉齐赫个案，不将其扩写为整个阿塞莱社会普遍经历的文化同化规律。
+1. 已完成 SandBox／NavalDLC 的 town_A4／jXBnf2hQ 逐键比对：同一 ID 在两个模块中复用，英文仅有 empire／Empire 的大小写差异，不计作独立互证。下一步检索不含 Kannic 一词、但可能涉及女神、藤叶、航海或沿岸殖民的相关文本。
+2. 对项目附件五个 ZIP 内的 XML 全库检索 Kannic 已完成，得到五条独立文本记录；该结果不等于相关主题穷尽。下一步检索不使用 Kannic 一词的女神、藤叶、航海与殖民文本，确认是否有女神专名或第二处符号记载。
+3. 拉齐赫、古亚兹、俄耳堤西亚与相关 NavalDLC 文本已拆分至独立专题 CHC-KAN-MAR v0.1；后续在那里继续整理沿海关系、源级差异和模块专属地图位置，不在本调查稿中重复扩写。
+4. 继续审计本地化与模块覆盖差异：古亚兹 1ImuW3My 在官方简中表中缺同键条目；NavalDLC 奥德律萨 castle_village_ES1_1 的简中仍保留基础版旧文本。区分“译错”与“模块文本未同步”，不要混为一类。
+
+本轮仍归 CHC-ASE-GEN，不修改公共 I/Q 索引，不分配 H 编号。
+
+## 二十九、坎族海上网络：跨模块补证与专题拆分（2026-10-25）
+
+本轮对项目附件中的 Native、SandBox、SandBoxCore、StoryMode、NavalDLC 五个 ZIP 所含 XML 完成 Kannic 精确检索，得到五条独立文本记录，而非五个独立历史见证：古亚兹 town_A1／1ImuW3My、拉齐赫 town_A4／jXBnf2hQ、俄耳堤西亚 town_EW4／JhBSnWAe、NavalDLC 阿塞莱流浪者背景 RQsjEaaL，以及 NavalDLC 奥德律萨 castle_village_ES1_1 的多语种涂写描述。原始节点、语言表和跨模块复用会重复出现相同文本，不能重复计数。
+
+本轮新增的关键证据有两条。第一，NavalDLC 的阿塞莱流浪者背景把来自古亚兹的水手与坎族血统、航海学徒经历和翡翠海船只股份联系起来；同键简中基本准确，但这是一种通用角色背景变体，不是具名历史人物的家谱。第二，NavalDLC 的奥德律萨描述新增了以卡拉迪语、纳哈撒语、达什语、坎族语等多种语言书写的岩石涂写。该模块的简中表仍保留 SandBox 基础版的远东边境描述，未翻译新增段落；而同一 settlement ID 在两个模块的坐标与地理描述不同，不能把它们当成同一地图地点。
+
+拉齐赫的原始英文节点和官方简中同键条目已逐键核实：SandBox town_A4 使用字符串 ID jXBnf2hQ；NavalDLC 复用同一 ID，英文只把 empire 首字母改为大写。其余翻译问题包括把 tongue 译成“口音”、把几近被遗忘强化成彻底遗忘、把藤叶纹饰具体化为神像，以及丢失符号的护佑功能。古亚兹 town_A1 的英文明确写 mercenaries，但项目提供的中文参考文本写成“商人”；由于官方简中表缺少该同键条目，这应标为参考译文错误，不应归咎于已核实的官方同键翻译。
+
+这些材料共同支持的工作模型是“坎族海上网络与多层文化记忆”，而不是已经证实的统一坎族帝国或不间断的族群血缘。相关材料已超出阿塞莱国家形成主线，故拆分为独立专题工作稿 CHC-KAN-MAR v0.1，继续在该文中整理沿海关系、模块版本和本地化证据。
+
+独立专题文档：[Google Docs](https://docs.google.com/document/d/1Nzg0-61Uf4XDzBwf8z_uQUPVGancn6DS0gfgDUH4s5I/edit)
+
+GitHub 归档：[CHC-KAN-MAR v0.1](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/CHC-KAN-MAR-kannic-maritime-network-and-coastal-memory.md)
 
 本轮仍归 CHC-ASE-GEN，不修改公共 I/Q 索引，不分配 H 编号。
