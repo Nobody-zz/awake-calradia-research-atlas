@@ -19,7 +19,7 @@
 - 用户提供的 \`encyclopedia-zh-cn.md\`：文件卷首声明游戏版本为 Bannerlord \`v1.4.8.119303\`，城镇和普通村庄中文名由 Native 的 \`std_common_strings_xml\` 核对，地志译文来自 SandBox 的简中语言表。它覆盖53座城镇、141个普通村庄，**不含城堡和 castle_village 型村落**。
 - 项目现有归档记录将 SandBox 系列资料标注为 v1.4.8.119303、NavalDLC 为 v1.2.8；本次所用 ZIP 没有 \`SubModule.xml\`，不能只凭 ZIP 字节独立重验构建号，故版本号沿用项目归档标签。本文以两个压缩包中实际读取到的 XML 内容为复验对象，不假定其为游戏运行时最终合并后的唯一文本。
 
-Native.zip 当前可见的9个文件不含 \`std_common_strings_xml-zho-CN.xml\`。因此，普通城镇与村庄主名采用用户上传的官方简中百科；城堡辖村的中文称呼在资料缺口处保留未独立核验限制。对 \`village_V1_2\`，两份 SandBox/NavalDLC 简中语言表都含同一名称键 \`Settlements.Settlement.name.village_V1_2\\`，值均为“埃蒂尔菲德”；故可确认两份源语言表沿用旧中文译名，但不能单凭 ZIP 确认目标运行时最终显示结果。
+Native.zip 当前可见的9个文件不含 \`std_common_strings_xml-zho-CN.xml\`。因此，普通城镇与村庄主名采用用户上传的官方简中百科；城堡辖村的中文称呼在资料缺口处保留未独立核验限制。对 \`village_V1_2\`，两份 SandBox/NavalDLC 简中语言表都含同一名称键 \`Settlements.Settlement.name.village_V1_2\`，值均为“埃蒂尔菲德”；故可确认两份源语言表沿用旧中文译名，但不能单凭 ZIP 确认目标运行时最终显示结果。
 
 ### 1.2 比较口径
 
