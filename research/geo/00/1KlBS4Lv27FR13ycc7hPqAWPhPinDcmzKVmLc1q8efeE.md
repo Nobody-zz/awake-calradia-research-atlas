@@ -331,3 +331,17 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 本轮读取官方归档中的SandBox、SandBoxCore、NavalDLC关键英文字符串，并对照项目官方简中百科导出/归档语言表。已登记Stathymos（wash fertile soil down）、Orthra（steppe stock）、Galend（takes in the catch... and wool）三项高优先英汉语义问题，以及Chornobas同ID的NavalDLC供粮改写与简中未同步问题。部分文本键在归档简中表缺失、但项目百科导出有中文，已标记追查，不伪称已完成同键本地化校验。
 
 下一阶段先完成译义冲突同步、中文键来源追查、版本差异登记及问题1—7强断言与证据ID的逐项绑定；之后才判断是否足以写跨区域综合机制论文。
+
+
+### 四十三、自然地理问题图谱与第一轮官方原档复核（2026-10-24）
+
+工作流标签：CGEO-NAT-LINE（内部工作流标签，不是正式论文编号）。
+
+- [自然地理研究问题图谱与证据矩阵（启动版v0.1，已补首轮原档复核）](natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1IzIEm-CgErZ_REROhHnuXstqvK2vKjPoSXoeyanNFUg/edit)
+- [自然地理源级复核备忘录01｜纳哈撒局地水文与北方河湖地志的版本分离（v0.1）](natural-geography-source-audit-01-nahasa-and-northern-waters-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1dlRqWn1R8VzeddpHjIaHdeBz-wk-fuTQLTRxSwg8dNI/edit)
+
+首轮原档结果：SandBox与NavalDLC聚落地志各有274条英文／简中字符串，共有238个ID；238条英文描述全部变化，简中同键文本全部不变。针对22个水文／地貌共同ID的定向复核也呈现相同模式。该结果只证明版本文本存在系统性分歧，不证明所有自然地理事实发生变化。
+
+目前可由两版英文共同支持的纳哈撒局部水文锚点为扎勒姆、纳赫兰、米贾伊特；吉德纳尔与拜特·哈提夫必须按版本分开。北方地区的“伊勒坦冰川湖群—两湖间拖船”与新版“多河道—河口—渡越点”是不同文本模型，不可直接拼接。
+
+下一步：完成CGEO-S-HYD-001与地貌／气候／植被专题的同键一致性审查；地图空间复核须等待可恢复、版本明确的原始几何资源。本轮未重新解析高程栅格、河道几何或原始Navmesh，不能将文字核对表述为地图测绘。
