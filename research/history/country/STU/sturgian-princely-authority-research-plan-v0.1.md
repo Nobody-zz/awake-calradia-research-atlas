@@ -171,7 +171,7 @@ GitHub: research/history/country/STU/sturgia-cross-line-evidence-handoff-pendrai
 
 ### 6.16 已完成：现有 StoryMode 资料包检查与访谈文本缺口登记
 
-已直接检查本项目当前 `/mnt/data/StoryMode.zip`。压缩包只有四个 XML：`ModuleData/module_strings.xml`、`story_mode_settlements.xml`、英文 `Languages/std_module_strings_xml.xml` 和官方简中 `Languages/CNs/std_module_strings_xml-zho-CN.xml`。其中通用任务文本提及 “Neretzes' Folly”，但没有“年长的”奥列克、朗瓦德、龙旗争执或十九位领主访谈的对白，也没有与 v1.4.8.119303 匹配的运行时程序集。Native.zip 中玩家组装 Dragon Banner 的任务通知属于另一套游戏任务字符串，不能当作历史龙旗争执的证据。
+已直接检查本项目当前 `/mnt/data/StoryMode.zip`。压缩包只有四个 XML：`ModuleData/module_strings.xml`、`story_mode_settlements.xml`、英文 `Languages/std_module_strings_xml.xml` 和官方简中 `Languages/CNs/std_module_strings_xml-zho-CN.xml`；项目 `file_manifest.csv` 将这四个文件均登记为 v1.4.8。其中通用任务文本提及 “Neretzes' Folly”，但没有“年长的”奥列克、朗瓦德、龙旗争执或十九位领主访谈的对白，包内不含任何运行时程序集，因而无法与 v1.4.8.119303 程序集逐字比对。Native.zip 中玩家组装 Dragon Banner 的任务通知属于另一套游戏任务字符串，不能当作历史龙旗争执的证据。
 
 **证据裁决：** 当前项目资料包不足以核验从 v1.4.5 反编译恢复的访谈转录是否与 v1.4.8.119303 一致。这是资料可得性缺口，不是“游戏运行时从未有过相关对白”的证明。CHC-CAL-MIL 的龙旗时序争议继续保留。
 
