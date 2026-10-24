@@ -182,3 +182,8 @@ Google Docs：https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrta
 对论文影响最大的改写包括：基础版斯塔堤摩斯肥土—麦作在DLC中被温泉/屠龙叙述替换；俄耳特拉仍以steppe stock育种但简中继续误译为“牧草”；加伦的文本键从`79R6gi4l`改为`UCrwAaba`并新增捕鲸者，简中仍沿用旧误译；乔诺巴斯DLC英文明确写出供养奥莫尔港市，而简中仍是基础版瀑布田地描述。详见[聚落文本版本与官方简中同步审计](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/settlement-text-version-and-localization-audit-2026-10-24.md)及工作簿的「版本差异审计」表。
 
 本轮修订的规则是：保留版本内直接证据；不得将基础版与DLC改写拼成一段内部年代史；不得仅凭同ID推断实体未变；名称与正文发生错配时，以实际版本的英文实体名、文本键和已核验中文名称键分别记录。
+
+
+### 项目中文百科导出来源边界（2026-10-24）
+
+聚落原始ZIP复核发现，项目导出的194条城镇/村庄描述中，有43条的文本键在SandBox与NavalDLC英文及简中聚落语言表中均缺失，但settlements.xml仍保留英文fallback、百科导出则有中文。README与file_manifest未提供逐键来源映射，故这些中文段落目前应标为“项目导出文本，官方同键来源/版本待核”，不能作为已核验的官方同键译文。详细名单见[导出文本来源审计表](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1616318933)。
