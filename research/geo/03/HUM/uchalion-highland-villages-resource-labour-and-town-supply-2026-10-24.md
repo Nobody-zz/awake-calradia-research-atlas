@@ -142,7 +142,7 @@
 
 〔6〕CGEO-S-HUM-001《卡拉迪亚大陆城市形成与聚落体系研究》及全大陆覆盖审查：HUM-001：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/CGEO-S-HUM-001.md ；覆盖审查：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/continental-human-geography-first-round-audit-2026-10-24.md 。两者是项目研究成果，不另计为独立原始史料。
 
-〔7〕版本限制：本文以SandBox v1.4.8村庄地志为主要比较对象，引用的英文转录镜像用于检索原始语义；本轮未重新解包全部官方ZIP逐键校验，也未将NavalDLC同ID条目自动并入基础版。任何同ID的NavalDLC改写都应另立版本记录，不得当作虚构世界内部的历史演变。本文为研究初稿v0.1，待按原始英文与官方简中同键复核后再决定是否升级。
+〔7〕版本限制（2026-10-24原始ZIP复核后修订）：本轮已直接解包SandBox v1.4.8与NavalDLC v1.2.8，对两版聚落定义、英文/简中语言表进行全量键集合比较，并逐项复核本文列明的核心聚落。两版英文共有238个文本键且值均不同；简中共有键值全部相同，仍保留基础版描述。此为全量键值比对，不代表所有聚落均已完成语义审查。本文以基础版村庄地志为主体，DLC同ID条目单列版本，不得当作虚构世界内部的历史演变。
 
 
 ## 第二轮原始ZIP版本校勘补充（2026-10-24）
