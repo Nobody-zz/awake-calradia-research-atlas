@@ -233,3 +233,17 @@ Google Docs：https://docs.google.com/document/d/1r5xLCwljVokxTeA5pk86bdX0jXtVzl
 其余本轮抽查的聚落名包括乌瑟莱姆、弗林托格、卡南克、鄂木罗托克、福林、乔诺巴斯、斯科林、库鲁卢克、巴里哈勒、马赫卢勒、厄利帕、萨戈拉、兰塔斯、特美摩斯、加隆托、巴格、阿利斯维斯特、弗雷吉昂、阿特里翁、鲁兰德和色雷刻托；与 SandBox/NavalDLC 同键中文文本相符。用户所附 encyclopedia 文件未覆盖城堡及附属村落，故不将其缺项当作官方译名不存在的证据。
 
 Native.zip 中的中文语言表主要用于 Native 模块通用文本，不能替代 SandBox/NavalDLC 对聚落名和聚落地志的直接本地化键。以上修订已同步至 CGEO-S-BIO-001 正文。复核范围是本文实际出现的名称，不代表完成全大陆所有地名的总校勘。
+
+
+## 2026-10-24｜北方港市：开发日志译稿与当前游戏内中文名称键分版登记
+
+第六轮人文地理专题《北方海产、河港与内陆粮畜的市场连接》使用了NavalDLC v1.2.8当前官方简体中文名称键，并与早期开发日志中文译稿分开处理。
+
+| 英文实体 | 当前NavalDLC官方中文名称键 | 早期开发日志人工中文译稿异形 | 规范 |
+|---|---|---|---|
+| Hvalvik／town_N1 | 瓦尔维克 | 哈瓦尔维克 | 正文用当前游戏名称键“瓦尔维克”；旧译保留作版本来源说明 |
+| Gretysfjord／town_N2 | 格雷蒂斯湾 | 格雷蒂斯峡湾 | 正文用“格雷蒂斯湾”；城镇专名不证明该处具有地貌学意义上的峡湾 |
+| Thronderlag／town_N3 | 特龙德拉格 | 特隆德拉格 | 正文用“特龙德拉格”，保留原始英文拼写 |
+| Hargard／town_N4 | 哈加德 | 哈加德（部分地志正文曾出现“阿加尔要塞”） | 以独立Settlement.name主名键为准；正文内部异译另行标注 |
+
+此项不是把开发日志中文译文整体判为错误，而是区分“早期开发日志的人工中文译法”与“当前游戏本地化名称键”两个不同来源。当前NavalDLC官方名称键直接匹配见CGEO-MAP-RES-010第四、五节；论文正文链接：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/northern-maritime-river-port-and-inland-provisioning-2026-10-24.md 。不以英文拼写重新创造中文名，也不把Gretysfjord字面中的fjord作为地貌成因证据。
