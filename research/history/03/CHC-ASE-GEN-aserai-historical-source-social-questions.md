@@ -804,7 +804,11 @@ SandBoxCore/ModuleData/spcultures.xml 的 Aserai 文化条目 a2AjI8nc 将阿塞
 
 SandBox/spclans.xml 与 settlements.xml 的1084年配置显示：Banu Hulyan 持有古亚兹与撒纳拉；Banu Sarran 持有侯森·富勒格与拉齐赫；Banu Qild 持有胡比亚；Banu Qaraz 持有以亚基斯；Banu Arbas 持有阿斯凯尔；Banu Atij 持有加西拉；Banu Sarmal、Banu Habbab、Banu Ruwaid 分别持有 Ain Baliq、Tamnuh、Barihal 三座城堡。前两家各持有两座城镇，其余主要家族各有一座城镇或城堡。这是当前政治配置，不能直接证明各家族的起源、历史征服过程或实际收入。
 
-家族历史的证据强度也不均衡：Qaraz 有 Carasios—Yachios—通婚的明确叙述；Hulyan 与苏丹、仲裁及富裕地位有关；Sarran 通过尼姆尔的潘德拉克军役及其被 Qild 处决进入叙事；Qild 与胡比亚的祖先复仇记忆相连；Arbas 的现有叙事主要是其当前持有阿斯凯尔，城志并未说该家族领导了最初接管；Atij 的领地有埃什乌拉神话，但神话并未被说成 Atij 家族的家谱；在本轮对已归档 XML 的字面检索范围内，尚未发现 Sarmal、Habbab、Ruwaid 的独立家族起源叙述。这里的“未发现”是当前语料的边界，不是证明这些家族没有历史。
+家族历史的证据强度也不均衡：Qaraz 有 Carasios—Yachios—通婚的明确叙述；Hulyan 与苏丹、仲裁及富裕地位有关；Sarran 通过尼姆尔的潘德拉克军役及其被 Qild 处决进入叙事；Qild 与胡比亚的祖先复仇记忆相连；Arbas 的现有叙事主要是其当前持有阿斯凯尔，城志并未说该家族领导了最初接管；Atij 的领地有埃什乌拉神话，但神话并未被说成 Atij 家族的家谱；在本轮对已归档 XML 的字面检索范围内，尚未发现 Sarmal、Habbab、Ruwaid 的独立家族起源叙述。这里的“未发现”是当前语料的边界，不是证明这些家族没有历史
+
+此外，SandBox/world_lore_strings.xml 的巴努·萨兰政治自述（gpuxIEBl）声称，祖先萨兰是阿塞拉的孙子，与吉勒德、胡勒延同样古老；但该氏族又说自己约一百年前被赶入沙漠，直到最近才返回，并抱怨其他氏族因此看轻他们。这是带有利益立场的家族自述，不能直接当作客观编年史；不过，它说明共同祖先谱系不仅用于强调团结，也被用于争取地位、解释失地和回应其他氏族的轻视。
+
+较低层级的通用流浪者背景提供了另一面（SandBox/wanderer_strings.xml；英文语言表键 TNOM6nuo、H8wpFACA、q71Cbib7）。一名角色自称来自不显赫的阿塞莱氏族，家族取名于五代以前 Qildi line 的一名不出名幼子；他们从未持有封地或积累多少财富，但会在 Qild 召集亲族或苏丹召集部族时列阵。另一个背景抱怨诗人赞颂 Banu Qild、Banu Sarran 可以赚取银钱，而小氏族缺少战功歌颂；相关文本还提到战后可能只得到沾血武器或埃米尔一句嘉奖，没有歌颂或荣誉长袍。这支持“较小氏族可以被纳入战时动员，却不享有同等资源与声望”的推论；但它属于通用人物背景，不能当成某个具名小氏族的独立历史记录，也不能据此补写正式封地、爵位或战利品分配规则。。
 
 另一个需要防止的误读是，spcultures.xml 中另列的26个 Banu 名称属于文化生成数据中的 clan_names 名称池，不是1084年实际存在的氏族清册。不能把程序化命名选项直接写成已证实的历史家族。
 
