@@ -326,7 +326,7 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 
 ### 第二阶段工具｜跨区域土地—劳动—资源控制—收益分配矩阵（2026-10-24）
 
-已建立34条核心证据行的可编辑工作簿：[Google Sheets证据矩阵](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit)；GitHub方法/摘要：[矩阵伴随文件](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/cross-regional-land-labour-resource-benefit-matrix-2026-10-24.md)。工作簿含7地域横向比较、12项复核任务和字段说明。
+已建立38条核心证据行的可编辑工作簿：[Google Sheets证据矩阵](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit)；GitHub方法/摘要：[矩阵伴随文件](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/cross-regional-land-labour-resource-benefit-matrix-2026-10-24.md)。工作簿含7地域横向比较、12项复核任务和字段说明。
 
 本轮读取官方归档中的SandBox、SandBoxCore、NavalDLC关键英文字符串，并对照项目百科导出/归档语言表。已登记Stathymos（wash fertile soil down）、Orthra（steppe stock）、Galend（takes in the catch... and wool）三项高优先英汉语义问题，以及Chornobas同ID的NavalDLC供粮改写与简中未同步问题。进一步按实际text键跨Native、SandBox、NavalDLC三个归档的全部语言表搜索，确认项目导出的194条城镇/村庄描述中有43条（26城镇、17村庄）无法由当前归档的任何语言表同键复现；这说明来源链待核，不证明导出中文错误或非官方。逐条记录见[导出文本来源审计表](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1616318933)。
 
