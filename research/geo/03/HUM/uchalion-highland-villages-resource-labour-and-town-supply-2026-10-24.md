@@ -160,4 +160,4 @@
 
 ### 项目中文导出来源补充（2026-10-24）
 
-格伦利斯里格（village_B2_2）虽在项目百科导出中有中文名称与描述，但其settlements.xml文本键在SandBox与NavalDLC英文/简中聚落语言表中均缺失（来源审计LOC-41）。木材供应的英文主证据是原始settlements.xml内嵌fallback；项目中文描述的来源/版本未决，不应标成已核验的官方同键译文。
+格伦利斯里格（village_B2_2）虽在项目百科导出中有中文名称与描述，但其settlements.xml实际text键在SandBox与NavalDLC英文/简中聚落语言表中均缺失，且跨Native、SandBox、NavalDLC三个归档的全部语言表搜索未找到（来源审计LOC-41）。木材供应的英文主证据是原始settlements.xml内嵌fallback；项目中文描述的来源/版本未决，不应标成已核验的官方同键译文，也不能据此判定为非官方。
