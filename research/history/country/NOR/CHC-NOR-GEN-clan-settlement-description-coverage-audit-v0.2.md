@@ -104,12 +104,12 @@
 | 聚落 | 源节点/键 | 直接相关的诺德信息 | 需接入的研究问题 |
 | --- | --- | --- | --- |
 | 阿姆普雷拉（帝国城镇） | town_EN6／YYYxOiCq | 帝国守军把沿卡拉卡索斯河而下的诺德长船列为威胁之一 | 诺德海上武力与帝国东北边境防务 |
-| 埃皮诺萨（帝国村庄） | castle_village_EN7_1／默认键 Settlements.Settlement.text.castle_village_EN7_1 | 记载诺德人把河称为 Jumne，词源联系斯特吉亚语中“墓冢”一词 | 跨语地名、朱姆内河流域的语言接触 |
+| 厄毗诺萨（Epinosa，帝国村庄；工作译名） | castle_village_EN7_1／默认键 Settlements.Settlement.text.castle_village_EN7_1 | 记载诺德人把河称为 Jumne，词源联系斯特吉亚语中“墓冢”一词 | 跨语地名、朱姆内河流域的语言接触 |
 | 卡格雷夫（斯特吉亚村庄） | village_S1_3／s7XNUFCD | 居民加入诺德人北赴贝恩兰及更远处寻找海象象牙 | 跨国季节劳动与象牙供应链 |
 | 克沃尔（斯特吉亚村庄） | village_S6_1／banXBv0D | 部分居民与诺德人共同参与远北海象猎捕 | 森林边疆居民、远洋劳动与迁移 |
 | 拉达克梅德（斯特吉亚村庄） | village_S6_2／默认键 Settlements.Settlement.text.village_S6_2 | 家族祖源包括南迁诺德人或放弃森林游牧生活的瓦肯人；夏季远航捕猎海象 | 诺德移民、瓦肯人、海象资源与斯特吉亚边疆 |
 | 德拉潘德（瓦兰迪亚村庄） | castle_village_V3_1／K1XMpxea | 船民有时向北至贝恩兰捕猎鲸类 | 瓦兰迪亚海上劳动与诺德航路的交叉 |
-| 迪纳尔（库赛特村庄） | castle_village_K6_1／默认键 Settlements.Settlement.text.castle_village_K6_1 | 朱姆内河谷居民因诺德近期扩张而向南迁移，并与新来的草原部族通婚 | 诺德扩张、朱姆内人口迁移与库赛特边疆 |
+| 库赛特迪纳尔（Dinar） | castle_village_K6_1／默认键 Settlements.Settlement.text.castle_village_K6_1 | 朱姆内河谷居民因诺德近期扩张而向南迁移，并与新来的草原部族通婚 | 诺德扩张、朱姆内人口迁移与库赛特边疆 |
 | 卡拉哈利（库赛特村庄） | castle_village_K6_2／VbQhrOU9 | 记载为斯特吉亚人和诺德人争夺的边境地带 | 诺德—斯特吉亚—库赛特边界关系 |
 
 ## 六、当前已知的语言表和版本风险
@@ -120,7 +120,14 @@
 4. **跨模块重复不是独立互证**：瓦尔切格、巴尔加德、瓦尔诺瓦波尔、西比尔、罗瓦尔和卡·班塞斯在 SandBox 与 NavalDLC 间有同键或版本文本；当前解释优先按 NavalDLC 有效英文，简中滞后另行记录。
 5. **结构化字段不是完整家谱**：氏族初始定居点、角色父母/配偶字段与人物传记各有不同用途；冲突应并列登记，不自动修补。
 
-## 七、八条地志首轮补读与新增语言问题
+## 七、地名消歧与新增语言问题
+
+- **Dinar／迪纳尔** 是当前 NavalDLC 的库赛特村庄 `castle_village_K6_1`；项目帝国聚落源级表未发现帝国另有同名聚落。相邻/相关的 `castle_K6` 为 Dinar Castle，仍属库赛特记录。
+- **Tial／蒂亚尔** 是斯特吉亚城镇 `town_S5`，不是 Dinar，也不属于本轮四处英汉重大失配。
+- 四处失配中的第三个是 **Radakmed／拉达克梅德**（斯特吉亚村庄 `village_S6_2`）；第四个是 **Dinar／迪纳尔**（库赛特村庄 `castle_village_K6_1`）。
+- 当前帝国聚落源级表没有找到 Epinosa 的独立官方中文名称键，因此“厄毗诺萨”仅作为研究工作译名使用，不冒称官方译名。
+
+## 八、八条地志首轮补读与新增语言问题
 
 首轮补读形成 CHC-NOR-GEN-uncovered-settlement-gazetteer-analysis-v0.1.md，结论如下：
 
