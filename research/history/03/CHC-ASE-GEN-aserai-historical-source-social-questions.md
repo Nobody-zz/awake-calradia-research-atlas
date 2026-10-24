@@ -650,6 +650,6 @@ XML 中该背景树之前的注释是“Obsessed with own genealogy”（沉迷�
 
 本轮已经通过 SandBox/ModuleData/Languages/CNs/std_wanderer_strings_xml-zho-CN.xml 与 std_comment_strings_xml-zho-CN.xml 按字符串键恢复对应官方简中，故“暴发户们”“阿塞莱埃米尔”及“阿塞莱血脉中最古老、最高贵的一支”均为可核对的官方译文，不是研究者自译。此外，Native/ModuleData/module_strings.xml 的 str_faction_ruler_name_with_title.aserai（REdb7vbQ）将王国统治者称号列为 Sultan/Sultana，官方简中对应“苏丹/苏丹娜”；str_faction_noble_name_with_title.aserai（jM9KGCIa）则列为 Emir/Emira，对应“埃米尔/埃米拉”；str_faction_official.aserai（owg6SqHF）对应“一位埃米尔”。SandBox/ModuleData/comment_strings.xml 的 str_liege_title.aserai（Xk2rNuxQ）与女性形式（5Fa0uDJn）分别对应“阿塞莱苏丹”“阿塞莱苏丹娜”，spkingdoms.xml 的 ruler_title 键（5djtBrHj）对应“苏丹”。这些正式称谓和 KGa4gmDW 中被贬斥的复数“emirs of the Aserai”互相印证：官方术语系统区分苏丹（王国统治者）与埃米尔（贵族／领主称谓），但这本身不能说明埃米尔在政治上的实际权力范围。后续如引用这组材料，应保留英文原句、中文同键、源路径和角色背景的讽刺性质。
 
-下一步应检查其他有效文本中 emir、sultan、emirate、clan chief 等政治称谓的实际用法，并区分人物对统治者的称呼、王国正式称谓和角色对白中的贬称。若没有更具体的反对派、继承争端或制度性材料，当前结论只到“谱系资本可被用于拒绝对现存埃米尔精英的效忠”为止，不延伸为国家起源或政权更替的已证事实。
+本轮已将当前归档的阿塞莱相关 emir／sultan 用例与官方简中同键核对：Native正式字段区分 Sultan/Sultana 与 Emir/Emira；人物背景中的“emirs of the Aserai”对应“阿塞莱埃米尔”，地方工程赞助者对应“埃米尔”，王国统治者对应“苏丹”。这解决了称谓层面的直接混淆，但没有确定埃米尔的具体辖权或法定义务。下一步应寻找具体的埃米尔—氏族冲突、继承争端、拒绝召集或改投他主事件；若缺少这类材料，当前结论只到“谱系资本可被用于拒绝对现存埃米尔精英的效忠”为止，不延伸为国家起源或政权更替的已证事实。
 
 本轮仍归 CHC-ASE-GEN，不修改公共 I/Q 索引，不分配 H 编号。
