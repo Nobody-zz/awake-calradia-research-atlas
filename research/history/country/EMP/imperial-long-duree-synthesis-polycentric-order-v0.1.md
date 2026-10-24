@@ -42,7 +42,7 @@ SandBoxCore/ModuleData/spcultures.xml的帝国文化正文X0kKBzsW称，卡拉�
 
 早期沙拉斯、巴拉维诺斯和俄耳堤西亚之间可见殖民起点、都城更替和“mother republic”政治亲缘叙述，但并没有统一可定年的殖民地自治法。帝国对帕拉地区有多个并行接口：
 - 密泽亚的李图通过抵御草原袭扰的保护关系促成较和平的归附（town_EN5/8UJ3cPrZ），又因元老院竞争试图动员另一个共和政权；
-- 阿尔戈隆（Argoron，研究暂译，独立官中名称键待核）当地拉科尼亚首领加入元老院，地方与卡拉德移民通婚（town_EN4/LqPJY4s9）；
+- 阿耳戈隆（Argoron；官方百科导出标题与town_EN4匹配，当前归档未含原始Native名称语言表）当地拉科尼亚首领加入元老院，地方与卡拉德移民通婚（town_EN4/LqPJY4s9）；
 - 拉革塔的佣兵先以暴力夺城后献纳，元老院谴责其做法但接受领土结果（town_EW1/ZAGUIKOn）；
 - 吕卡隆先经和平合邦，后来遭叛军夺取，周围银矿使其在数百年中成为帝国皇位觊觎者反复争夺的据点（town_ES4/WGtzBswe）。
 
@@ -97,7 +97,7 @@ SandBoxCore/ModuleData/spcultures.xml，vlandia／1Ww5lg6I说来自海上的瓦�
 
 SandBox/ModuleData/spkingdoms.xml，sturgia／bVihnRUu更明确说来自帝国的压力促使北方诸国共同推举军事领袖，随后王公职位逐渐世袭。其主要主体仍是北方贸易城市、部族首领、诺德及其他雇佣兵组成的联盟；不能说帝国“建立了斯特吉亚”，只能说帝国压力**参与改变其政治整合条件**。这反过来提示卡拉德自身持续战争—最高军权集中机制并非唯一文明所有：在边界另一侧，外部压力亦可能使非帝国集团更集中地组织战争。
 
-SandBox/ModuleData/settlements.xml，Ostican（town_V8/Eb7Lgq10；既有研究暂译“奥斯蒂坎”，独立官中名称键待核）还保存帝国晚期不同政治派系利用北方海盗袭击对手的回顾；这些以帝国冲突为收入来源的海上人群，与较早瓦兰迪亚移民接触并定居当地。地志猜测他们可能把财富消息传给亲族，原句“no doubt”是作者推论，不是可证具体通信史。它进一步提示**帝国内部政治竞争会制造边疆外部暴力企业家的就业机会**，可能回流为长时段边疆压力。
+SandBox/ModuleData/settlements.xml，Ostican（town_V8/Eb7Lgq10；官方百科导出标题为“奥斯蒂港”，当前归档未含原始Native名称语言表）还保存帝国晚期不同政治派系利用北方海盗袭击对手的回顾；这些以帝国冲突为收入来源的海上人群，与较早瓦兰迪亚移民接触并定居当地。地志猜测他们可能把财富消息传给亲族，原句“no doubt”是作者推论，不是可证具体通信史。它进一步提示**帝国内部政治竞争会制造边疆外部暴力企业家的就业机会**，可能回流为长时段边疆压力。
 
 ## 八、1077—1084：旧军团的终结与帝国内战为何不是同一件事
 
@@ -168,7 +168,7 @@ SandBox/ModuleData/spclans.xml，legion_of_the_betrayed／bhxVA9w7，直接叙�
 
 ## 十二、下一阶段应做什么，而非继续制造总论
 
-1. **可行的独立专题是“帝国中介统治的社会史”**，重点用秘密之手（nQOf27Rx）、自由民（9qAWNBvA）、边疆元老授地（aEfsyVH4）、瓦兰迪亚佣兵授地（1Ww5lg6I）、奥斯蒂坎海盗（Eb7Lgq10）检验国家如何利用私人暴力、非法暴力和有条件授予的政治权利。这是新证据支持的实质切口，不重复H-0005的最高统帅任期史；但要严格区分私人扈从、具官方头衔边民、黑帮与外籍佣兵各自法律关系。
+1. **可行的独立专题是“帝国中介统治的社会史”**，重点用秘密之手（nQOf27Rx）、自由民（9qAWNBvA）、边疆元老授地（aEfsyVH4）、瓦兰迪亚佣兵授地（1Ww5lg6I）、奥斯蒂港海盗（Eb7Lgq10）检验国家如何利用私人暴力、非法暴力和有条件授予的政治权利。这是新证据支持的实质切口，不重复H-0005的最高统帅任期史；但要严格区分私人扈从、具官方头衔边民、黑帮与外籍佣兵各自法律关系。
 2. **需由跨线协调的问题**：斯特吉亚在帝国压力下推举王公应归北方国史主体，帝国线只研究压力这一接口；瓦兰迪亚奥斯里克获帝国承认亦由瓦兰迪亚线复核时间及外交关系，不越权更动他国草稿。罗瓦拉堤斯的非均质移民史涉及瓦兰迪亚／诺德历史地理，不作帝国法定人口统计。
 3. **最缺的材料类别**：具体财政和海军军饷记录，元老院授职与地方授地权文书，贸易与纳税行政，军团及私人扈从编成、实际政治召集程序；有效StoryMode主线全段英语对话及人物访谈；晚期区域人口、军力和城镇控制的可比较时序。缺乏它们时只能够在C级限界内发表有力历史解释，不能静默补成按年连续叙事。
 4. **后续主论文学术目标**：待上述关键比较测试出现新增可独立核销的材料，再选择能形成独立中心论证的H系列论文。不因本稿是综合研究便自动立为新H，也不把“有条件通过”冒充完成审查。
@@ -178,7 +178,7 @@ SandBox/ModuleData/spclans.xml，legion_of_the_betrayed／bhxVA9w7，直接叙�
 **有效英文原始XML**：
 - SandBoxCore/ModuleData/spcultures.xml：Empire/X0kKBzsW，Vlandia/1Ww5lg6I。
 - SandBox/ModuleData/spkingdoms.xml：Empire北aEfsyVH4、西mOZsbV8j、南Xtyb9Dyr；Vlandia/IudGLWQZ；Sturgia/bVihnRUu。
-- SandBox/ModuleData/settlements.xml：贾尔马律斯town_EW3/TI3fS2xN；沃斯特鲁姆town_ES2/ytBRXqt8；密泽亚town_EN5/8UJ3cPrZ；Argoron（暂译“阿尔戈隆”）town_EN4/LqPJY4s9；拉革塔town_EW1/ZAGUIKOn；吕卡隆town_ES4/WGtzBswe；罗瓦拉堤斯town_V9/1SnAH5K8；古亚兹Quyaz town_A1/1ImuW3My；Ostican（地名官中待核）town_V8/Eb7Lgq10。
+- SandBox/ModuleData/settlements.xml：贾尔马律斯town_EW3/TI3fS2xN；沃斯特鲁姆town_ES2/ytBRXqt8；密泽亚town_EN5/8UJ3cPrZ；Argoron（暂译“阿耳戈隆”）town_EN4/LqPJY4s9；拉革塔town_EW1/ZAGUIKOn；吕卡隆town_ES4/WGtzBswe；罗瓦拉堤斯town_V9/1SnAH5K8；古亚兹Quyaz town_A1/1ImuW3My；Ostican（官方百科标题：奥斯蒂港）town_V8/Eb7Lgq10。
 - SandBox/ModuleData/spclans.xml：秘密之手hidden_hand/nQOf27Rx；自由民eleftheroi/9qAWNBvA；被弃者军团legion_of_the_betrayed/bhxVA9w7。
 - SandBox/ModuleData/heroes.xml：彭同lord_1_5/04xAg0yN；阿庇斯·瓦罗斯/xL95EfpQ；厄庇斐里娅/SeQ5dM4H；法戎/pl86rbh9。
 - SandBox/ModuleData/world_lore_strings.xml：卢孔Cx2FCePF、拉盖娅SCogGc7N、加里俄斯uK4IX036。
