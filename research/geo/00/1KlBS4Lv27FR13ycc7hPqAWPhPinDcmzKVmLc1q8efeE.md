@@ -148,9 +148,9 @@ Baltakhand项目统一译为巴尔塔罕，而不再沿用研究暂译巴尔塔�
 ### 译名第二轮补核与分版本说明（2026-10-23）
 继续依据随档 `SandBox.zip`、`NavalDLC.zip` 对地名英文与简体中文同字符串ID进行逐条核验，新增修订于CGEO-S-HYD-001：
 - Caira：**恺拉**（旧“凯拉”）；Tepes：**泰佩斯**（旧“特佩斯”）；Zalm：**扎勒姆**（旧“扎尔姆”）；Qidnar：**吉德纳尔**（旧“基德纳尔”）；Jarjara Escarpment：**杰尔贾赖峭壁**（旧“贾尔贾拉崖地”）。上述五项均能由两版聚落英文—简中同键条目支持。
-- Askar：采用既有中文城镇索引的**阿斯凯尔**（旧“阿斯卡尔”），但随档缺少对应独立官方名称key，属索引级别而非同键验证级别。
+- Askar／town_A7：官方《游戏百科中文文本》标题与实体ID直接匹配**阿斯凯尔**（旧“阿斯卡尔”撤销）；当前Native.zip缺原始std_common_strings_xml-zho-CN.xml，因此名称由官方百科导出标题确认，独立名称键未从压缩包重新提取。
 - Tanaesis湖草原语别名采用**达那孜（Tanaz）**，见`bPDqyqkb`。基础版`Atrion`同键文本记涅维斯河谷，《战帆》英文则改记三角洲附近，不能把旧中文描述当作新版地貌证据。
-- `Alatys`、`Masangara`、`Mabwaz`、`Argoron`现仅保留第三方转录定位，不能由本轮两套已存本地化语言表直接证明为官方译名。尤其 `Alatys` 不能仅凭 `Rovalatys` 子串核实。
+- `Alatys`、`Masangara`、`Mabwaz` 的地志描述文本键未能在当前两版聚落语言表中复现；其中Alatys、Mabwaz的中文名称可由官方百科标题按ID核对，Masangara为城堡附属村庄，不在该百科范围。Argoron的中文名称“阿耳戈隆”也已由官方百科标题确认；其长篇描述键缺载是另一项来源问题，不应与名称核验混为一谈。尤其Alatys的文本键不能仅凭 `Rovalatys` 子串核实。
 
 完整来源键、证据分级与修订统计详见 [CGEO-TOP-AUD-001](../90/EVD/CGEO-TOP-AUD-001.md) 和 [Google Docs校勘档](https://docs.google.com/document/d/1TBFat1RzfI8-sPRDEntJ_bmoZ1xx2kxC4bSo7djV1qc/edit)。本系列按中英同键原文确定译名，不将中文译文本身当作独立自然地理事实证据。
 
