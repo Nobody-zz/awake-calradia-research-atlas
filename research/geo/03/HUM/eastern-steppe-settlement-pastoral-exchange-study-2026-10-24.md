@@ -118,4 +118,4 @@
 
 ## 第三轮证据台账同步（2026-10-24）
 
-基础版柯希·阿吉克（Kohi Ajik，`castle_village_K7_2`）的原文明确写道：“The peoples of this land buy horses from the nomads to their east and sell them to the Khuzait aristocracy in the towns.” 该句给出卖方、商品、购入—转售行为及买方类别，现登记为STEP-06并绑定断言C-38。SandBox实体的文本键实际为`Settlements.Settlement.text.village_K6_4`，与实体ID不一致；V-09已记录NavalDLC中该ID改为Tismil、英文实体与文本映射互换的情况。因此这条购买—转售链只适用于SandBox基础版，不得与DLC版Tismil的马匹育种中心描述拼接，也不得与STEP-03喀拉罕向库赛特军队供马的链条混为一谈。官方简中名称键“柯希·阿吉克”已核，但DLC同ID名称键未同步。
+基础版柯希·阿吉克（Kohi Ajik，`castle_village_K7_2`）的原文明确写道：“The peoples of this land buy horses from the nomads to their east and sell them to the Khuzait aristocracy in the towns.” 该句给出卖方、商品、购入—转售行为及买方类别，现登记为STEP-06并绑定断言C-38。SandBox实体的文本键实际为`Settlements.Settlement.text.village_K6_4`，与实体ID不一致；V-09已记录NavalDLC中该ID改为Tismil、英文实体与文本映射互换的情况。因此这条购买—转售链只适用于SandBox基础版，不得与DLC版Tismil的马匹育种中心描述拼接，也不得与STEP-03喀拉罕向库赛特军队供马的链条混为一谈。SandBox基础版名称键直接对应`castle_village_K7_2`＝Kohi Ajik／“柯希·阿吉克”、`village_K2_2`＝Tismil／“帖斯密勒”。NavalDLC英文名在两个ID间互换，但对应简中键值仍分别保留“柯希·阿吉克”和“帖斯密勒”，因此DLC的中文键值相对于英文实体名错配；最终运行时显示仍需核对模块资源合并顺序。
