@@ -322,3 +322,12 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 证据纪律：区分A官方文字、B版本地图直接呈现、C研究推断、D非官方材料与M游戏机制；分开记录原版和《战帆》；不把Navmesh当自然水系，不把版本差异当世界内部变迁，不从单一村志推断完整自然区域。
 
 当前同步状态：Drive中CGEO-S-HYD-001正文为v0.2，GitHub既有快照仍为v0.1；CGEO-S-CLM-001 v0.1目前链接在Draft PR #1。第一阶段应先审计版本和双端镜像，再根据证据缺口决定论文修订顺序。
+
+
+### 第二阶段工具｜跨区域土地—劳动—资源控制—收益分配矩阵（2026-10-24）
+
+已建立32条核心证据行的可编辑工作簿：[Google Sheets证据矩阵](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit)；GitHub方法/摘要：[矩阵伴随文件](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/cross-regional-land-labour-resource-benefit-matrix-2026-10-24.md)。工作簿含7地域横向比较、12项复核任务和字段说明。
+
+本轮读取官方归档中的SandBox、SandBoxCore、NavalDLC关键英文字符串，并对照项目官方简中百科导出/归档语言表。已登记Stathymos（wash fertile soil down）、Orthra（steppe stock）、Galend（takes in the catch... and wool）三项高优先英汉语义问题，以及Chornobas同ID的NavalDLC供粮改写与简中未同步问题。部分文本键在归档简中表缺失、但项目百科导出有中文，已标记追查，不伪称已完成同键本地化校验。
+
+下一阶段先完成译义冲突同步、中文键来源追查、版本差异登记及问题1—7强断言与证据ID的逐项绑定；之后才判断是否足以写跨区域综合机制论文。
