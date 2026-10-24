@@ -345,7 +345,7 @@ v1.9 使用完整高程图绘图区和中性相对高程色带，不执行海陆
 - [RES-008：原始 Navmesh 港口点在多边形验证](geo/90/EVD/CGEO-MAP-RES-008.md)
 - [RES-012：留存港口与导航网络源程序、派生数据](geo/90/EVD/CGEO-MAP-RES-012.md)
 
-本次重读 RES-012 ZIP 中29条港口与summary.json：23 CoastalSea(18)、6 River(11)一致，保有navmesh_reference.py解析器，但该ZIP不含完整顶点/面或原始导航二进制。RES-001记录有原版及《战帆》地图资源的完整前序SHA-256；本轮尚未取得二进制原件进行重哈希。继续恢复可靠海岸线之前，不再把二次绘图海域分类冒充直接地图几何。GitHub仓库中的原始资源研究索引不代表已备份游戏二进制本体。
+本轮再次取回RES-012 ZIP并重算SHA-256：`9bca8d83d9b814c3722c88ee89b50f57fccf01957a4e4729f1055279c6f930c3`（579,804 B，ZIP CRC通过）；RES-018追溯包SHA-256：`0362b8290e40def44bdff926b7d1410b19e34d346b92cddb1ced272a02667619`（7,845 B，CRC通过）。复算CSV与summary.json一致，但两个包均不含原始地图二进制。RES-001记录的原始SHA-256仍是前序历史指纹，本轮未对原件重哈希。RES-018 v1.1：[Google Docs](https://docs.google.com/document/d/1DAC0wDXLP0tantGCQo522EUF3v1AQXS-yztADc43miU/edit) · [GitHub](geo/90/EVD/CGEO-MAP-RES-018.md)。旧版Drive Markdown含未替换模板变量，已重命名并标记为被v1.1取代。继续恢复可靠海岸线之前，不把二次绘图海域分类冒充直接地图几何。
 
 
 ## CGEO 论文主线恢复｜2026-10-23
