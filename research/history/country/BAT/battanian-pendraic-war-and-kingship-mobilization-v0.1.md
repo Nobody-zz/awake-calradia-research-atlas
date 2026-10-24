@@ -109,3 +109,10 @@ NavalDLC/settlements.xml 的潘德拉克村落条目〔castle_village_B4_1；Set
 - 交叉研究：《埃里尔·乌瑟莱恩—卡拉多格继位：巴旦尼亚氏族政治与强王权的形成》；《氏族领地、资源动员与巴旦尼亚至高王权》；《巴旦尼亚疆域收缩、边地社会与王权战争化》；《潘德拉克战役：多国联盟、战场失利与胜利后的政治分裂》。
 
 - 项目官方资源包：SandBoxCore.zip、SandBox.zip、NavalDLC.zip、Native.zip、StoryMode.zip（本轮直接检索了所持 XML；未声称已逐行审读所有文件）。
+## 十、原始资源审计补充（2026-10-24）
+
+配套《潘德拉克战争原始资源审计与证据矩阵》现已完成。对项目所持压缩包逐项盘点后，StoryMode.zip 仅含 module_strings.xml、story_mode_settlements.xml 及语言表，未提供十九位领主采访的专门对白资源；SandBoxCore.zip 仅含 spcultures.xml 及语言表。因此，当前仍不能声称已从原始 StoryMode 对白逐句校核休战誓约、各盟军的具体战术分工和战后战利品争议。
+
+可直接核验的官方英文证据包括：SandBox/heroes.xml〔8SiW73EF、HjGYftkH〕关于卡拉多格继位疑云与埃尔贡的有保留服从；SandBox/settlements.xml〔X3MsaG39〕关于埃里尔王在肖农附近失踪的地志；wanderer_strings.xml〔DzyAgYIX〕与 companion_strings.xml〔mk0l1BfB〕关于德罗修斯·涅雷采斯率军进入巴旦尼亚森林伏击的角色记忆；spclans.xml〔bhxVA9w7〕关于潘德拉克之后阿雷尼科斯废除帝国常备军并依赖总督私人扈从的“最后军团”叙述。以上支持战役的核心记忆与制度后果，但不支持此前玩家转录中的全部战术细节。
+
+新审计论文：research/history/country/BAT/battanian-pendraic-source-audit-and-evidence-matrix-v0.1.md；Google Docs：https://docs.google.com/document/d/10QphOpdszJF2AdbauG234WTmlz6lq8PxXJTL39cubb8/edit 。
