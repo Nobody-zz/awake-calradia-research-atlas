@@ -6,6 +6,7 @@
 - 前序：[空间核验备忘录04｜达玛尔河文本锚点与基础版 PHYM7 图像近邻检验](natural-geography-spatial-audit-04-damar-phym7-proximity-2026-10-25.md)
 - Google Docs 原件：[打开备忘录05](https://docs.google.com/document/d/1B413zXgcVLG9CBKYUkLoNkgnAc8eV_tD1F9ej7tER1I/edit)
 - 叠加图：[Google Drive PNG](https://drive.google.com/file/d/14YrS9350TUqDq71ZVqXhx0gSrLY3T3xI/view)
+- 复算脚本：[Python](natural-geography-spatial-audit-05-damar-path-candidate-2026-10-25.py)；脚本验证的是PNG派生距离和已归档包围盒，不解析原始二进制。
 
 ## 一、当前结论
 
