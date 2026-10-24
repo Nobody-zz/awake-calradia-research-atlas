@@ -6,7 +6,7 @@ Google Docs 原件：[自然地理源级复核备忘录01](https://docs.google.c
 
 GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-source-audit-01-nahasa-and-northern-waters-2026-10-24.md)
 
-版本：v0.2
+版本：v0.3
 
 性质：源级校勘与问题矩阵补充，不是正式论文，不分配CGEO永久论文编号。
 
@@ -28,7 +28,7 @@ GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calrad
 
 上述SHA-256与研究仓库 `research/source-archives/README.md` 所登记的指纹一致。本轮对相关语言表进行逐键提取和对照，而非依赖第三方百科或网页转录。
 
-两版聚落地志各有274条英文和274条简体中文字符串；共同字符串ID为238个。复核结果为：**238个共同ID的英文描述全部不同，而238个对应的简体中文描述全部相同。** 这说明中文版没有同步反映这些英文地志改写；它不意味着238处自然地理对象都发生了变化。为启动自然地理空间核验，本轮抽取22个涉及河流、湖泊、湿地、山地与局地水源的共同ID；22个ID的英文文本均不同，中文文本均相同。
+两版聚落地志各有274条英文和274条简体中文字符串，共有238个共同语言表ID；其中210个为 Settlements.Settlement.text.* 键、3个为 Settlements.Settlement.name.* 键、25个为其他／哈希式ID。238个共同ID的英文值全部不同，简中值全部相同。此结果只说明共同字符串键的表值存在系统性差异，不能直接推断实际游戏内238条地志的中文都未更新：共有聚落实体中有38个改换text键，其中32个新键的简中值与旧键不同、6个相同；另有实体ID与名称的改派。具体映射见[自然地理源级复核备忘录02](https://docs.google.com/document/d/12tBeuWmMPpEmnM3rYZCBDj4g638RxY-4AKM0jq_jNas/edit)。为启动自然地理空间核验，本轮抽取22个涉及河流、湖泊、湿地、山地与局地水源的共同ID；22个键的英文值不同、简中值相同，但仍应结合 settlements.xml 的实体—文本键映射判断其是否为该实体当前引用的文本。
 
 ## 二、纳哈撒：洪泛平原与旱谷集水必须分开
 
