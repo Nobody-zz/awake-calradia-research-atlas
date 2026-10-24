@@ -142,3 +142,7 @@ SandBox/spclans.xml 的 XML 开发注释写：卡拉蒂尔德（Calatild）为�
 
 ## 瓦兰迪亚社会史新专题索引（2026-10-24）
 新增《瓦兰迪亚乡村地权、绿林兄弟会与沙拉斯叛乱：王国政治整合的社会成本》v0.1：依据已核官方英文 XML 与同键简中，比较佃农地权、绿林兄弟会转型、杰屈朗异见、沙拉斯行会反王室围城、海运粮商营利与贵族海岸搜捕、码头帮派及流民。特别注明 DLC 只记“戴·科尔坦男爵”而不记具体姓名，不能直接认定为因加泰尔；目前 StoryMode 包也未收录潘德拉克十九人访谈。GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandian-peasant-tenure-brotherhood-charas-rebellion-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1A0DVKq8f9fULHQhtsnr9v6N3lE9dQy3L2ZMORGLcHKI/edit。不分配 H 编号，不修改中央 S/E/P/D 登记。
+
+
+## 聚落地志的模块版本限制（2026-10-24）
+本稿使用聚落地志时，应明确区分 SandBox 与 NavalDLC 文本层。对比发现52个共同瓦兰迪亚聚落ID的坐标均有变化，35条英文描述不同，且多条中文译文未随英文更新；这不构成故事世界内部的年代序列。详见：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-warsails-settlement-variants-localization-audit-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1x-rgVuMsHbRkDUXvs8j194srP-DKgGzcQV98MYl7-SE/edit。
