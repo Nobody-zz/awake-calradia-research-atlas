@@ -75,6 +75,17 @@
 - [CHC-CAL-MIL｜潘德拉克战役主线采访：十九名受访者与证词对读索引（v0.1，A2源级恢复，待v1.4.8核校）](history/03/Pendraic-Interview-Source-Inventory-v0.1.md) · [Google Docs](https://docs.google.com/document/d/1MfRelvEPnZR08CN5ftJEcna6QYZmXeDTz_188fVKlls/edit)
 - [CHC-CAL-MIL｜潘德拉克战役专题：多国联盟、战场失利与胜利后的政治分裂（独立论文工作稿v0.3，未授H号）](history/03/Pendraic-Battle-Research-Working-Draft.md) · [Google Docs原件](https://docs.google.com/document/d/1hc4HEGsIcvZ-y3sAwSlxAg-08yFbcUk4xA0hujGnDoM/edit)
 - [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化（研究稿v1.7；CHC-EMP-POL）](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
+## history/country/EMP
+
+- [CHC-EMP-GEN｜帝国史研究进度与下一步（2026-10-24）](history/country/EMP/imperial-research-progress-status-2026-10-24.md)
+- [CHC-EMP-GEN｜地方治理、土地权力与普通人生活：证据札记 v0.4](history/country/EMP/imperial-local-governance-social-structure-evidence-v0.4.md)
+- [CHC-EMP-GEN｜土地—法律—军役：跨文化源级交叉表 v0.1](history/country/EMP/imperial-land-law-service-cross-table-v0.1.md) · [CSV](history/country/EMP/imperial-land-law-service-cross-table-v0.1.csv)
+- [CHC-EMP-GEN｜正式权力—地方强制：跨文化源级交叉表 v0.1（含波罗斯译文审计）](history/country/EMP/imperial-formal-power-local-coercion-cross-table-v0.1.md) · [CSV](history/country/EMP/imperial-formal-power-local-coercion-cross-table-v0.1.csv)
+- [CHC-EMP-GEN｜两组交叉表源级审计与专题论文提纲 v0.1](history/country/EMP/imperial-cross-table-audit-and-paper-outline-v0.1.md)
+- [CHC-EMP-GEN｜帝国地方秩序的多重来源：源级与本地化审计 v0.2](history/country/EMP/imperial-local-order-source-and-localization-audit-v0.2.md)
+- [CHC-EMP-GEN｜帝国地方秩序的多重来源：论文候选稿 v0.1（待跨线审查，不授H号）](history/country/EMP/imperial-local-order-paper-candidate-v0.1.md)
+- [CHC-EMP-GEN｜论文候选稿终审记录 v0.2](history/country/EMP/imperial-local-order-paper-draft-final-audit-v0.2.md)
+
 ## history/country/BAT
 
 - [CHC-BAT-GEN｜巴旦尼亚历史研究现状、史料覆盖与重大问题（v0.1，未授H号）](history/country/BAT/battanian-history-status-source-coverage-questions-v0.1.md) · [Google Docs](https://docs.google.com/document/d/1XKWR3EgFQ-qdZ8UBS62s5tjVJjJduXybrKBb9KCNQYr4/edit)
