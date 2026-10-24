@@ -101,7 +101,7 @@
 
 ## 八、下一轮源级核查的三项关键任务
 1. 取得实际官方 SandBoxCore/spcultures.xml（vlandia 键1Ww5lg6I）、SandBox/spkingdoms.xml（vlandia 键 IudGLWQZ）和版本对应英文/简中表，逐字校核 land grants / seized fortresses / recognised / suzerainty / barons / counts 的原始语义；补查 NavalDLC 有效同类文本及替换顺序。
-2. 从 SandBox/settlements.xml 与 NavalDLC/settlements.xml 逐 ID 校验 Ostican、Rovalt、Sargot、Caleus、Remental、Halisvust、Ormanfard、Charas、Pravend，排除版本地图改写与翻译滞后，核验“Vlandian invasion”“Massa”“northern seafarers”等关键措辞。
+2. 【第一轮已完成，见独立异文审计】逐 ID 比较 SandBox 与 NavalDLC 的瓦兰迪亚聚落坐标、英文描述和简中键；52个共同ID坐标均变化，35条英文描述不同，且存在简中译文滞后。仍待用完整运行时资料确认模块加载/覆盖顺序及当前版本显示结果。
 3. 直接核对 SandBox/heroes.xml 的 Derthert（lord_4_1）、spclans.xml 的 dey Meroc（clan_vlandia_1）及其他具有背景正文的瓦兰迪亚氏族，并取得 StoryMode 潘德拉克有效人物对白；区分国王政治经历的传记叙述与受访者的自利辩护。
 
 ## 附录A：可追溯材料与史料限制
@@ -181,3 +181,7 @@ Google Docs：https://docs.google.com/document/d/1CzUP3AsVe9zvgSkWG1HfAt-STWS83l
 
 ## 瓦兰迪亚社会史新专题索引（2026-10-24）
 新增《瓦兰迪亚乡村地权、绿林兄弟会与沙拉斯叛乱：王国政治整合的社会成本》v0.1：依据已核官方英文 XML 与同键简中，比较佃农地权、绿林兄弟会转型、杰屈朗异见、沙拉斯行会反王室围城、海运粮商营利与贵族海岸搜捕、码头帮派及流民。特别注明 DLC 只记“戴·科尔坦男爵”而不记具体姓名，不能直接认定为因加泰尔；目前 StoryMode 包也未收录潘德拉克十九人访谈。GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandian-peasant-tenure-brotherhood-charas-rebellion-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1A0DVKq8f9fULHQhtsnr9v6N3lE9dQy3L2ZMORGLcHKI/edit。不分配 H 编号，不修改中央 S/E/P/D 登记。
+
+
+## 新增完成：SandBox／NavalDLC聚落地志异文审计（2026-10-24）
+原待办“逐 ID 校验 SandBox 与 NavalDLC 的聚落描述”已完成第一轮。共同的52个瓦兰迪亚聚落ID中，52/52的posX、posY不同；35条英文地志正文不同，12条换键、23条沿用旧键；18条实质性英文改写未获相应简中内容更新。此为模块文本与地图配置差异，不得当作故事世界内部的历史事件。详见《战帆》聚落地志异文审计：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-warsails-settlement-variants-localization-audit-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1x-rgVuMsHbRkDUXvs8j194srP-DKgGzcQV98MYl7-SE/edit。
