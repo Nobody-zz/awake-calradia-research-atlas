@@ -81,6 +81,7 @@
 - [CHC-BAT-SOC｜氏族领地、资源动员与巴旦尼亚至高王权（v0.1，未授H号）](history/country/BAT/battanian-clan-land-power-and-high-kingship-v0.1.md) · [Google Docs](https://docs.google.com/document/d/1RZE-zT5AQOqx0Z7-TZUCc4ZtnQDXZ6v2xkgoXewqx5Y/edit)
 - [CHC-BAT-GEN｜巴旦尼亚疆域收缩、边地社会与王权战争化（v0.1，未授H号）](history/country/BAT/battanian-frontier-contraction-and-political-integration-v0.1.md) · [Google Docs](https://docs.google.com/document/d/1ljsE1qNlwn_06QGAtVjGh0on-xOumuXJW20XPpQNbpM/edit)
 - [CHC-BAT-GEN｜潘德拉克战争中的巴旦尼亚：战场贡献、盟军分工与至高王权的动员边界（v0.1，未授H号）](history/country/BAT/battanian-pendraic-war-and-kingship-mobilization-v0.1.md) · [Google Docs](https://docs.google.com/document/d/1MRDSiB-ua1kN3QF988JxrsP8M10wxKe-EF9AJjhcG-Q/edit)
+- [CHC-BAT-GEN｜潘德拉克战争原始资源审计与证据矩阵（v0.1，未授H号）](history/country/BAT/battanian-pendraic-source-audit-and-evidence-matrix-v0.1.md) · [Google Docs](https://docs.google.com/document/d/10QphOpdszJF2AdbauG234WTmlz6lq8PxXJTL39cubb8/edit)
 
 ## history/90
 
