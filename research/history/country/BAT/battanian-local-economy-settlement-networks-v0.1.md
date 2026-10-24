@@ -20,46 +20,46 @@ SandBox/ModuleData/settlements.xml 中，当前文化字段为 Culture.battania 
 - town_B5 彭·坎诺克：4OAz8urz；
 - village_B3_2 格纳特·纳尔：Settlements.Settlement.text.village_B3_2；
 - village_B3_3 托·莱阿德：Settlements.Settlement.text.village_B3_3；
-- castle_village_B8_1 乌瑟莱姆：Settlements.Settlement.text.castle_village_B8_1；
-- castle_village_B6_2 格林托尔：Settlements.Settlement.text.castle_village_B6_2；
+- castle_village_B8_1 Uthelaim：Settlements.Settlement.text.castle_village_B8_1；
+- castle_village_B6_2 Glintor：Settlements.Settlement.text.castle_village_B6_2；
 - village_B5_3 韦农·埃蒂尔：Settlements.Settlement.text.village_B5_3。
 
-有些语言表条目未提供可直接对应的简中译文；这种情况下保留英文原文，不把英文回填冒充官方简中。聚落的现有文化字段是当前游戏数据的分类，不代表该地过去从未由其他人群居住或统治。
+有些语言表条目未提供可直接对应的简中译文；《encyclopedia-zh-cn.md》也未收录所有堡镇附属村落的中文名称。对缺少可核官方中文名称的 castle_village 条目，本稿保留英文地名与 settlement ID，不自行音译；可核的普通村庄名称沿用官方简中底本。聚落的现有文化字段是当前游戏数据的分类，不代表该地过去从未由其他人群居住或统治。
 
 二、资源生产与地方分工
 
 1. 谷物与葡萄酒：不同地形的生产组合
-达尔门格斯（Dalmengus；village_B1_1）位于乌卡利翁中央暗湖泰瓦尔湖畔，平坦且水源充足的土地适宜小麦和大麦。莫里希格（Morihig；village_B2_3）也以小麦和大麦生产闻名。雷姆托伊尔（Rhemtoil；castle_village_B5_1）被描述为巴旦尼亚较肥沃的土地之一，盛产小麦。
-葡萄种植则分布于不同山坡与丘陵：埃贝雷斯（Ebereth；village_B1_2）生产甜白葡萄酒；阿布·科梅尔（Ab Comer；castle_village_B1_1）酿造深受帝国与瓦兰迪亚贵族欢迎的白葡萄酒；布林·格拉斯（Bryn Glas；village_B4_1）生产受到瓦兰迪亚人与帝国人珍视的浓郁深红葡萄酒；阿斯特（Aster；castle_village_B7_1）则由部落长老鼓励种植葡萄，酿造特别醇厚的酒；伊姆拉赫（Imlagh；castle_village_B7_2）专种用于巴旦尼亚甜酒的白葡萄。
+达尔门格斯（Dalmengus；village_B1_1）位于乌卡利翁中央暗湖泰瓦尔湖畔，平坦且水源充足的土地适宜小麦和大麦。莫里希格（Morihig；village_B2_3）也以小麦和大麦生产闻名。Rhemtoil（castle_village_B5_1）被描述为巴旦尼亚较肥沃的土地之一，盛产小麦。
+葡萄种植则分布于不同山坡与丘陵：埃贝雷斯（Ebereth；village_B1_2）生产甜白葡萄酒；Ab Comer（castle_village_B1_1）酿造深受帝国与瓦兰迪亚贵族欢迎的白葡萄酒；布林·格拉斯（Bryn Glas；village_B4_1）生产受到瓦兰迪亚人与帝国人珍视的浓郁深红葡萄酒；Aster（castle_village_B7_1）则由部落长老鼓励种植葡萄，酿造特别醇厚的酒；Imlagh（castle_village_B7_2）专种用于巴旦尼亚甜酒的白葡萄。
 推论：地方生产既受地形影响，也有外部需求的明示。帝国与瓦兰迪亚贵族不是单纯的军事对手，也是某些巴旦尼亚产品的消费群体。此处支持跨境市场联系，但不能证明贸易规模、出口比例、关税或贸易路线由国家统一控制。
 
 2. 森林、木材与造船／建筑需求
-弗林托格（Flintolg；castle_village_B6_1）土壤贫瘠但森林茂密，被称为巴旦尼亚木材的重要来源。乌瑟莱姆（Uthelaim；castle_village_B8_1）的林农采伐橡树、紫杉和松树，卖给建筑工与造船工。托·莱阿德（Tor Leiad；village_B3_3）的文本称巴旦尼亚人几个世纪以来悉心照料当地森林，以保证木材持续采伐与出售。格伦利斯里格（Glenlithrig；village_B2_2）的林农向邓格拉尼斯和卡·班塞斯两处堡镇供应木材。
+Flintolg（castle_village_B6_1）土壤贫瘠但森林茂密，被称为巴旦尼亚木材的重要来源。Uthelaim（castle_village_B8_1）的林农采伐橡树、紫杉和松树，卖给建筑工与造船工。托·莱阿德（Tor Leiad；village_B3_3）的文本称巴旦尼亚人几个世纪以来悉心照料当地森林，以保证木材持续采伐与出售。格伦利斯里格（Glenlithrig；village_B2_2）的林农向邓格拉尼斯和卡·班塞斯两处堡镇供应木材。
 推论：木材并非只供村落自用，而进入城镇建筑与船舶制造网络；文本还暗示部分森林有长期管理实践。由于“几个世纪”是地志中的相对叙述，不能据此给出林业制度起始年代，也不能自动推断存在国家林务机构或统一产权。
 
 3. 黏土、陶器与城镇加工
-克莱格·班（Claig Ban；castle_village_B5_2）的村民从米尔河收集黏土，卖给巴旦尼亚各城镇的陶工。杜恩（Durn；village_B5_1）和盖恩塞斯（Gainseth；village_B5_2）从河边水池、湿地收集泥土并运往彭·坎诺克的陶工。迪安托格麦尔（Diantogmail；village_B2_1）从暗湖岸边取土供附近工匠使用；托·梅利纳（Tor Melina；castle_village_B3_2）也向附近城镇陶工出售黏土。
+Claig Ban（castle_village_B5_2）的村民从米尔河收集黏土，卖给巴旦尼亚各城镇的陶工。杜恩（Durn；village_B5_1）和盖恩塞斯（Gainseth；village_B5_2）从河边水池、湿地收集泥土并运往彭·坎诺克的陶工。迪安托格麦尔（Diantogmail；village_B2_1）从暗湖岸边取土供附近工匠使用；Tor Melina（castle_village_B3_2）也向附近城镇陶工出售黏土。
 推论：至少有一些地方存在“村落采集原料—运输—城镇工匠加工”的明确分工。它可以用于研究城镇与乡村之间的经济依存，但不能单独证明陶工是独立行会、黏土交易使用货币，或城镇有固定征收制度。
 
 4. 矿产与长期劳动景观
-贝格洛米艾（Beglomuar；village_B1_3）有山地矿床与山地沼泽的沼铁；德鲁伊莫尔（Druimmor；castle_village_B3_1）的矿工在山坡裂缝中发现银矿；韦农·埃蒂尔（Fenon Etir；village_B5_3）附近则有富铁矿开采留下的矿渣堆，文本将其描述为数百年采矿的遗留物。
+贝格洛米艾（Beglomuar；village_B1_3）有山地矿床与山地沼泽的沼铁；Druimmor（castle_village_B3_1）的矿工在山坡裂缝中发现银矿；韦农·埃蒂尔（Fenon Etir；village_B5_3）附近则有富铁矿开采留下的矿渣堆，文本将其描述为数百年采矿的遗留物。
 推论：金属生产可能构成巴旦尼亚经济与军事供给的组成部分；矿渣还提供一种不同于王族传记的长期劳动景观。不过，现有文本没有给出矿山规模、冶炼技术、产量、劳动组织、矿权、贸易方向或采矿是否由某一氏族垄断。
 
 5. 牲畜、毛皮与地方产品
-拉诺克·亨（Llanoc Hen；castle_village_B2_1）以养猪闻名，并位于分别通往瓦兰迪亚和帝国的两条山口之间。坎特雷克（Cantrec；castle_village_B2_2）土地并不肥沃，但高处灌木林地适合养猪。潘德拉克（Pendraic；castle_village_B4_1）同样养猪，却处于瓦兰迪亚、巴旦尼亚和斯特吉亚劫掠队反复出没的低烈度战争地带。格林托尔（Glintor；castle_village_B6_2）的马匹受到北方斯特吉亚商人与劫掠者青睐。博格·贝斯（Bog Beth；village_B3_1）与格纳特·纳尔（Geunat Nal；village_B3_2）以捕捉河狸、狐狸等毛皮兽为生。
+Llanoc Hen（castle_village_B2_1）以养猪闻名，并位于分别通往瓦兰迪亚和帝国的两条山口之间。Cantrec（castle_village_B2_2）土地并不肥沃，但高处灌木林地适合养猪。Pendraic（castle_village_B4_1）同样养猪，却处于瓦兰迪亚、巴旦尼亚和斯特吉亚劫掠队反复出没的低烈度战争地带。Glintor（castle_village_B6_2）的马匹受到北方斯特吉亚商人与劫掠者青睐。博格·贝斯（Bog Beth；village_B3_1）与格纳特·纳尔（Geunat Nal；village_B3_2）以捕捉河狸、狐狸等毛皮兽为生。
 推论：资源生产、贸易机会和安全风险并非分离。猪群和马匹既是生产资产，也可能是劫掠目标；毛皮捕猎与北方市场潜在相关，但具体交易规模仍未说明。
 
 三、市场联系、交通走廊与边疆风险
 
 1. 双向贸易与敌对关系可以并存
-阿布·科梅尔和布林·格拉斯的酒类面向帝国、瓦兰迪亚贵族；格林托尔的马匹受到斯特吉亚商人与劫掠者青睐；乌瑟莱姆木材卖给建筑工和造船工。这些文本显示，官方叙事中的敌对政治共同体并未构成绝对封闭的经济边界。需要区分消费者、商人、劫掠者、军队与国家，不能把“产品被某国人喜爱”直接写成正式贸易协定。
+Ab Comer和布林·格拉斯的酒类面向帝国、瓦兰迪亚贵族；Glintor的马匹受到斯特吉亚商人与劫掠者青睐；Uthelaim木材卖给建筑工和造船工。这些文本显示，官方叙事中的敌对政治共同体并未构成绝对封闭的经济边界。需要区分消费者、商人、劫掠者、军队与国家，不能把“产品被某国人喜爱”直接写成正式贸易协定。
 
 2. 山口与河谷是通道，不只是自然背景
-拉诺克·亨的两条山口分别通向瓦兰迪亚和帝国；阿斯·卡瓦尔（Ath Cafal；village_B1_4）位于通往帝国领土的陡峭山谷入口；因韦斯（Inveth；castle_village_B1_2）位于特朗河与埃蒂尔河汇合、流向瓦兰迪亚中央平原之处；彭·坎诺克俯瞰特朗河从乌卡利翁高原进入瓦兰迪亚低地的落差地带。它们为跨境商品流动和军事行动提供了可定位的地理关系。
+Llanoc Hen的两条山口分别通向瓦兰迪亚和帝国；阿斯·卡瓦尔（Ath Cafal；village_B1_4）位于通往帝国领土的陡峭山谷入口；Inveth（castle_village_B1_2）位于特朗河与埃蒂尔河汇合、流向瓦兰迪亚中央平原之处；彭·坎诺克俯瞰特朗河从乌卡利翁高原进入瓦兰迪亚低地的落差地带。它们为跨境商品流动和军事行动提供了可定位的地理关系。
 推论：地理通道可将生产区、城镇、边界与外部市场连起来，但不能从地图位置独自推断实际商路流量、全年可通行性或固定边界。
 
 3. 地方防务与生产互相牵制
-潘德拉克村民一听到警戒号角，就将畜群赶入山中藏身处；格纳特·纳尔的护林人帮助卡·班塞斯守卫通往巴旦尼亚腹地的北方通道；肖尔达斯（Seordas；castle_village_B8_2）的农场受乌瑟莱姆要塞保护，以防东来的斯特吉亚劫掠者。肖农（Seonon；town_B4）地志也将当地多次遭斯特吉亚劫掠与埃里尔失踪地点放在同一地区叙述中。
+Pendraic 的村民一听到警戒号角，就将畜群赶入山中藏身处；格纳特·纳尔的护林人帮助卡·班塞斯守卫通往巴旦尼亚腹地的北方通道；Seordas（castle_village_B8_2）的农场受Uthelaim要塞保护，以防东来的斯特吉亚劫掠者。肖农（Seonon；town_B4）地志也将当地多次遭斯特吉亚劫掠与埃里尔失踪地点放在同一地区叙述中。
 推论：安全不是经济之外的独立变量；警戒、隐藏牲畜、护林人和要塞保护都影响地方生产能否持续。但不能由这些地志确定实际驻军、税收换防务的制度或战争损失规模。
 
 四、宗教传说、地方记忆与经济空间
