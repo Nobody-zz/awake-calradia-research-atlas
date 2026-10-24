@@ -1,12 +1,21 @@
 # 自然地理研究问题图谱与证据矩阵（启动版 v0.2）
-日期：2026-10-24  
+
+日期：2026-10-24
+
 Google Docs 原件：[自然地理研究问题图谱与证据矩阵](https://docs.google.com/document/d/1IzIEm-CgErZ_REROhHnuXstqvK2vKjPoSXoeyanNFUg/edit)
-GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md)  
+
+GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md)
+
 性质：内部研究工作底稿，不是正式论文，不分配CGEO永久论文编号。
+
 ## 一、当前结论状态
+
 现有材料足以建立卡拉迪亚存在多种自然环境组合的初步解释，但尚不足以绘制经过完整验证的大陆自然区划图。地貌、水文、气候和植被论文已经形成局部模型；它们的主要短板是空间边界、版本间同键异文、自然水系拓扑以及跨专题证据配准，而不是缺少一篇泛论。
+
 证据等级沿用CGEO规则：A＝官方明确记载；B＝选定版本地图直接呈现；C＝研究者推断；D＝非官方或二创材料；M＝游戏机制属性。下表的等级按当前能支持的最窄命题填写；A类文字证据和C类综合解释不得混为一谈。
+
 ## 二、启动矩阵
+
 | ID | 试点／问题 | 当前材料能支持什么 | 证据状态 | 不能据此声称什么 | 下一步核验 |
 | --- | --- | --- | --- | --- | --- |
 | NAT-01 | 大陆自然区与过渡带 | CGEO-O-REG-001提出“区域核心—待定边缘—跨区联系”及七个工作性单元；西部滨海—耕作区、南方海域与丘陵等仍是待考单元。 | C：分区模型；其局地基础来自A类地志。 | 七个单元已是客观、排他的自然区；任何一处都必须唯一归区。 | 逐项回到GEO／CLM／HYD／BIO原文和地图，列出区域核心、边缘、过渡带的独立证据。 |
@@ -21,17 +30,23 @@ GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calrad
 | NAT-10 | 高程栅格与地貌量化 | RES-003及后续档案记录曾将两版HGHT图块恢复并拼接为4097×4097栅格；相关技术记录可为地形剖面和分水岭候选分析提供基础。 | B：版本资源解析结果；部分数值为派生分析。 | 灰度值就是现实米制海拔；既有解析等于本轮重新读取原始二进制；未经校准的坡度／高差可直接当最终地貌事实。 | 复核RES-003／004的高度换算、坐标映射、原始文件可访问性及资源哈希；输出时注明场景单位和转换假设。 |
 | NAT-11 | 海岸线、水域边界与导航网格 | 《战帆》Navmesh及港口／登陆点分析显示游戏可航面有自身类型和拓扑；这些结果有助于理解地图实现与运输机制。 | M：机制／导航属性；若有直接可见地图证据则另记B。 | Navmesh外缘就是自然海岸线；导航连通证明河流天然连通或实际可通航。 | 单独建立水体／海岸地物层，核对water_plane、地形边界、河流几何与地图画面；不以Navmesh替代自然地物。 |
 | NAT-12 | 土壤、岩性、侵蚀与沉积 | 现有地志偶有“贫瘠土壤”、岩隙、淤泥和冲积等定性描述。 | A：个别地点文字；C：有限过程解释。 | 已有完整岩性图、土壤类型图、侵蚀率或沉积年代。 | 仅记录原文明确说明的地点和过程；将缺少直接证据的自然过程登记为知识缺口，不套用现实世界地质史。 |
+
 ## 三、当前最关键的跨专题矛盾
+
 1. **文字版本差异与空间差异的关系：**同一实体ID在基础版和《战帆》中的英文地志可能被重写。必须先区分措辞变化、地理定位变化、自然环境描述变化及明确的内部景观改造叙述。
 2. **自然水文与导航网络的关系：**水文v0.3可使用既有高程栅格、河道资源和Navmesh记录提出检验，但导航连通不是天然水力连通。
 3. **景观名词与自然区划的关系：**森林、草原、沙漠、滨海农业区等可能是植被、气候、土地利用或文化地域的不同概念，不能未经独立证据就互相替代。
 4. **定性文本与定量地图的关系：**官方地志可支持局地自然环境描述；只有空间数据经过版本、坐标、尺度和语义核验后，才能用于更强的空间结论。
+
 ## 四、下一轮工作顺序
+
 1. 优先完成NAT-02至NAT-04的实体ID和版本分离审计，因这些问题同时牵涉地貌、水文和地图资源。
 2. 对NAT-05至NAT-09补齐自然地理地点覆盖，尤其是草原边缘、北方海陆交错区及西部滨海—丘陵过渡带。
 3. 在原始资源可核验的前提下复查高程与河道／水体配准；未复算的数据只引用已有档案，不重新包装成新测量。
 4. 完成矩阵后，再决定修订GEO、CLM、HYD、BIO中的哪一篇，或是否有充分理由另开自然区域专题。当前不新增正式论文编号。
+
 ## 五、主要关联资料
+
 - [CGEO总索引与研究规范](https://docs.google.com/document/d/1KlBS4Lv27FR13ycc7hPqAWPhPinDcmzKVmLc1q8efeE/edit)
 - [CGEO-O-GEN-001 地理总论 v0.3](https://docs.google.com/document/d/13SUKPrj1jBJJ2LzPwMgnBJK6xoxuG8kLIaVSEHkX5IA/edit)
 - [CGEO-O-REG-001 区域划分 v0.1](https://docs.google.com/document/d/1H5CZKgad7YI60WnZu3t7W0PSBuNUd80tw8LMgCMWx_0/edit)
@@ -41,10 +56,17 @@ GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calrad
 - [CGEO-S-BIO-001 植被与自然景观 v0.1](https://docs.google.com/document/d/1MzHUgiMoIIn35bwU4S5aWlM-OHIEn4r53v7LBD-mGzw/edit)
 - [官方地理证据登记表](https://docs.google.com/document/d/1UmtjdtlvO6mcFPYcQicHuprkZDxmWv0aMbUxk-TlfeM/edit)
 - [CGEO-MAP-AUD-001 地图图像实见记录](https://docs.google.com/document/d/1tsQ0Mz_nHNZYI0wAyazB3RFfW3Kg06nPYKD2bXc7jy0/edit
+
 ## 六、2026-10-24第一轮官方原档同键复核结果
+
 第一轮实际读取SandBox.zip与NavalDLC.zip内的官方聚落英文和简体中文语言表；两份ZIP的SHA-256与官方原始资料归档清单一致。两版各有274条英文与274条简中字符串，共有238个英文字符串ID；238条英文文本全部不同，而同ID的238条简中文本全部相同。此结果说明两版中文地志未同步反映英文改写，不代表238处自然地理事实均发生变化。
+
 对22个水文／地貌相关共同ID进行定向复核，22个ID的英文文本均不同，简中文本均未变化。完整逐项结果见[自然地理源级复核备忘录01](https://docs.google.com/document/d/1dlRqWn1R8VzeddpHjIaHdeBz-wk-fuTQLTRxSwg8dNI/edit)及[GitHub Markdown](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-source-audit-01-nahasa-and-northern-waters-2026-10-24.md)。
+
 **NAT-02 纳哈撒：**目前最稳定的达玛尔河文本锚点是扎勒姆（`village_A7_4`，河流进入杰尔贾赖峭壁的通道）、纳赫兰（`village_A6_4`，年际洪泛与淤泥）、马卜瓦兹（实体 `village_A7_3`，两版 `settlements.xml` 内嵌英文 fallback 文本均记载达玛尔河穿过杰尔贾赖峭壁台地及洪泛平原淤泥种植）及米贾伊特（`village_A6_1`，河口与淤泥沉积）。马卜瓦兹文本键未进入两版 `std_settlements_xml` 语言表，因此它是官方文本锚点，不代表其跨版本地图位置已经配准。吉德纳尔（`castle_village_A4_2`）与拜特·哈提夫（`village_A7_2`）在SandBox英文中被写作达玛尔河洪泛平原，在NavalDLC英文中则改为峭壁内侧岩丘／旱谷和罕见强降雨供水，故须标为版本冲突锚点。阿卜巴、阿斯麦特、本盖兹分别支持地下蓄水、暴雨拦蓄与旱谷井水等局地机制；不能推断它们与达玛尔河属于同一含水层。
+
 **NAT-03／NAT-04 北方河湖：**SandBox多条地志把“伊勒坦运输线”描述为冰川湖群以及拉科尼斯湖—塔奈西斯湖间的拖船线路；NavalDLC在厄毗诺萨、庞斯、阿洛夫、乌里克斯卡拉、沙佩什特等同键条目中改写为河流分支、桥梁／渡越点、拉科尼斯湖东岸河口或塔奈西斯湖湾等不同关系。帕亚木新版明确称Davana与Karakaz汇合后流向海洋；玻瑞阿戈拉新版称Caracasos河口进入拉科尼斯湖。此文本组合不足以独自证明全大陆完整水系拓扑，也不能把两版模型合并成同一时期自然水网。
+
 **证据等级与限制：**以上属于A类官方文本的版本分层读取；本轮未重新解析地形栅格、河道几何或原始Navmesh，因此尚无新增B类空间测绘结论。旧版简中只用于记录旧版本地化，不用于覆盖新版英文。地图复核仍需可恢复的原始空间资源及版本明确的几何数据。
+
 )
