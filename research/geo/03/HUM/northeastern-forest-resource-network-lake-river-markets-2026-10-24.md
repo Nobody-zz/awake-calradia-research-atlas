@@ -171,3 +171,7 @@ TaleWorlds 于2017年12月14日发布的《Sturgia》开发日志称，斯特吉
 乔诺巴斯（village_S3_1）是实质性供给关系改写：基础版记森林开垦、瀑布和水雾田地中的黑麦/大麦；DLC版记伊卡拉丘陵新近清林、向奥莫尔港市供粮，以及东北方斯特吉亚定居者继续砍林播种。简中仍保留基础版描述。本文的奥莫尔粮食腹地结论必须明确限定于NavalDLC英文文本，不能把两版写成乔诺巴斯在世界内部先后经历的两个历史阶段。
 
 此外，DLC简中仍未同步西比尔与奥姆卡尼的地理改写。相关逐键记录见[聚落文本版本与官方简中同步审计](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/settlement-text-version-and-localization-audit-2026-10-24.md)。
+
+### 项目中文导出来源补充（2026-10-24）
+
+博乔瓦戈卡（village_S4_1）是本稿涉及的项目导出中文缺乏同键来源记录之一（来源审计LOC-30）：其settlements.xml英文fallback存在，但SandBox与NavalDLC英文/简中聚落语言表均缺该文本键。正文关于该村渔业的判断以原始英文fallback为依据；中文导出段落不视为已核验的官方同键译文。
