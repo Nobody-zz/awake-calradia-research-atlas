@@ -167,8 +167,13 @@ https://docs.google.com/document/d/1CzUP3AsVe9zvgSkWG1HfAt-STWS83lJGXcyWUOibjB8/
 
 
 ## 瓦兰迪亚社会史新专题索引（2026-10-24）
-新增《瓦兰迪亚乡村地权、绿林兄弟会与沙拉斯叛乱：王国政治整合的社会成本》v0.1：依据已核官方英文 XML 与同键简中，比较佃农地权、绿林兄弟会转型、杰屈朗异见、沙拉斯行会反王室围城、海运粮商营利与贵族海岸搜捕、码头帮派及流民。特别注明 DLC 只记“戴·科尔坦男爵”而不记具体姓名，不能直接认定为因加泰尔；目前 StoryMode 包也未收录潘德拉克十九人访谈。GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandian-peasant-tenure-brotherhood-charas-rebellion-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1A0DVKq8f9fULHQhtsnr9v6N3lE9dQy3L2ZMORGLcHKI/edit。不分配 H 编号，不修改中央 S/E/P/D 登记。
+新增《瓦兰迪亚乡村地权、绿林兄弟会与沙拉斯叛乱：王国政治整合的社会成本》v0.1：依据已核官方英文 XML 与同键简中，比较佃农地权、绿林兄弟会转型、杰屈朗异见、沙拉斯行会反王室围城、海运粮商营利与贵族海岸搜捕、码头帮派及流民。特别注明 DLC 只记“戴·科尔坦男爵”而不记具体姓名，不能直接认定为因加泰尔；现有 StoryMode XML 包未收录潘德拉克十九人访谈；公开 v1.4.5 反编译代码已恢复其英文对白，项目 v1.4.8 版本匹配仍待核验。GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandian-peasant-tenure-brotherhood-charas-rebellion-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1A0DVKq8f9fULHQhtsnr9v6N3lE9dQy3L2ZMORGLcHKI/edit。不分配 H 编号，不修改中央 S/E/P/D 登记。
 
 
 ## 跨模块异文限定（2026-10-24）
 本稿中有关勒芒塔尔（Remental）的“森林自由、男爵统治较南方宽松”只适用于 SandBox 文本层。NavalDLC 将勒芒塔尔改写为银矿枯竭后的盐业，并把较轻男爵统治的句子新增到卡南克（Cananc）；两个模块的地图坐标也不同。相关地志不能无版本标注地拼成同一套描述。详见：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-warsails-settlement-variants-localization-audit-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1x-rgVuMsHbRkDUXvs8j194srP-DKgGzcQV98MYl7-SE/edit。
+
+
+## 潘德拉克主线采访的版本边界（2026-10-24）
+
+本稿所涉瓦兰迪亚—帝国关系可与潘德拉克主线采访对读。德泰尔、因加泰尔、恩泰里的回答已从 Bannerlord v1.4.5 反编译代码恢复为 A2 级文本；它们揭示援帝誓约、贵族自主与战后扩张愿望之间的冲突，但不构成中立的外交条约记录。现有 StoryMode XML 未包含采访对白，且项目 v1.4.8.119303 的逐字核验仍待完成。详见十九人索引：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Interview-Source-Inventory-v0.1.md。
