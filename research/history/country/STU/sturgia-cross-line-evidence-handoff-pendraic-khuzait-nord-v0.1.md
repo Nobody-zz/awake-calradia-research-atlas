@@ -17,22 +17,22 @@
 ### 已定位材料
 - 潘德拉克独立战役史工作稿 v0.2：`research/history/03/Pendraic-Battle-Research-Working-Draft.md`。该稿说明已恢复 v1.4.5 反编译访谈文本，仍待与 v1.4.8.119303 比对。
 - 斯特吉亚核心制度稿 v0.2：`research/history/country/STU/sturgian-war-oath-boyar-rights-and-gundaroving-dynasty-working-paper-v0.2.md`。
-- 有效 SandBox／ModuleData／heroes.xml／`dead_lord_2_1`（`bsOLRZyS`）称年长的奥列克在潘德拉克战役中亲赴前线并阵亡。
-- 玩家访谈转录中的龙旗故事称，年长的奥列克从德罗修斯身旁取得龙旗；瓦丁斯拉夫死后，朗瓦德要求交还，奥列克拒绝并折断旗杆。该说法与“战役中阵亡”的有效人物传记存在表面时序张力。
+- 有效 SandBox／ModuleData／heroes.xml／`dead_lord_2_1`（`bsOLRZyS`）称“年长的”奥列克在潘德拉克战役中亲赴前线并阵亡。
+- 玩家访谈转录中的龙旗故事称，“年长的”奥列克从德罗修斯身旁取得龙旗；瓦丁斯拉夫死后，朗瓦德要求交还，奥列克拒绝并折断旗杆。该说法与“战役中阵亡”的有效人物传记存在表面时序张力。
 
 ### 资料包实际检查（2026-10-24）
 
-本项目当前 `StoryMode.zip` 已直接检查。包内只有四个 XML：`ModuleData/module_strings.xml`、`story_mode_settlements.xml`、英文 `Languages/std_module_strings_xml.xml` 与简中 `Languages/CNs/std_module_strings_xml-zho-CN.xml`。其中仅有通用任务文字提到 “Neretzes' Folly”；未找到年长的奥列克、朗瓦德、龙旗争执或十九位领主访谈的对白，也没有匹配 v1.4.8.119303 的运行时程序集。因此，**当前项目资料包不能完成访谈转录的版本核验**。这只能证明现有归档缺少所需文件，不能证明游戏运行时从未包含这些对白。Native.zip 中关于玩家组装“Dragon Banner”的任务通知属于另一套玩家任务字符串，不是年长的奥列克的历史龙旗事件。
+本项目当前 `StoryMode.zip` 已直接检查。包内只有四个 XML：`ModuleData/module_strings.xml`、`story_mode_settlements.xml`、英文 `Languages/std_module_strings_xml.xml` 与简中 `Languages/CNs/std_module_strings_xml-zho-CN.xml`。其中仅有通用任务文字提到 “Neretzes' Folly”；未找到“年长的”奥列克、朗瓦德、龙旗争执或十九位领主访谈的对白，也没有匹配 v1.4.8.119303 的运行时程序集。因此，**当前项目资料包不能完成访谈转录的版本核验**。这只能证明现有归档缺少所需文件，不能证明游戏运行时从未包含这些对白。Native.zip 中关于玩家组装“Dragon Banner”的任务通知属于另一套玩家任务字符串，不是“年长的”奥列克的历史龙旗事件。
 
-不过，当前有效 NavalDLC／`naval_dialog_strings.xml` 仍有三条相关但范围不同的对白：`Y1fwBgHt` 记一名水手回忆“涅雷采斯死于潘德拉克后，帝国无力支付军饷”；`DtEBwPpJ` 记可汗曾在大湖与斯特吉亚人交战并高薪雇用懂船的水手；`p4OvT9BS` 记可汗与斯特吉亚解决冲突后转而与帝国作战。这些是有效的海军人物背景，能支持各自叙述内部的顺序，但不包含龙旗争执、年长的奥列克或具体斯特吉亚指挥链，不能用来核定折旗时间。
+不过，当前有效 NavalDLC／`naval_dialog_strings.xml` 仍有三条相关但范围不同的对白：`Y1fwBgHt` 记一名水手回忆“涅雷采斯死于潘德拉克后，帝国无力支付军饷”；`DtEBwPpJ` 记可汗曾在大湖与斯特吉亚人交战并高薪雇用懂船的水手；`p4OvT9BS` 记可汗与斯特吉亚解决冲突后转而与帝国作战。这些是有效的海军人物背景，能支持各自叙述内部的顺序，但不包含龙旗争执、“年长的”奥列克或具体斯特吉亚指挥链，不能用来核定折旗时间。
 
 ### 请接收线核查
 1. 对照 v1.4.5 反编译访谈、项目当前版本 v1.4.8.119303 的 StoryMode／运行时程序集及玩家转录，逐句确认龙旗对白来源、版本与上下文。
 2. 确认“在战役中阵亡”与战后对峙是否真有冲突，还是“战后”属于转录整理者的时间解释。
-3. 分别登记龙旗取得、德罗修斯阵亡、瓦丁斯拉夫阵亡、朗瓦德索旗、折旗和年长奥列克死亡的证据锚点；无法建立先后关系时明确标记不可排序。
+3. 分别登记龙旗取得、德罗修斯阵亡、瓦丁斯拉夫阵亡、朗瓦德索旗、折旗和“年长的”奥列克死亡的证据锚点；无法建立先后关系时明确标记不可排序。
 4. 区分 1077 年战役锚点、有效人物传记、恢复的旧版访谈与玩家解释；不以一种材料替代其他层次。
 
-**斯特吉亚线边界：** 本线接受有效人物传记所载的年长奥列克在潘德拉克战役中阵亡；不把龙旗折断的具体时序写成已确认事实。“亲身军功”与“世袭指挥资格”的冲突可作为解释假说，但不能反过来证明转录的每项细节都是当前版本生效对白。
+**斯特吉亚线边界：** 本线接受有效人物传记所载的“年长的”奥列克在潘德拉克战役中阵亡；不把龙旗折断的具体时序写成已确认事实。“亲身军功”与“世袭指挥资格”的冲突可作为解释假说，但不能反过来证明转录的每项细节都是当前版本生效对白。
 
 ## 三、CHC-KHU：温都勒之死、阿契特—库吉特冲突与复仇政治（优先级 P1）
 
@@ -40,7 +40,7 @@
 - 斯特吉亚源级审查：`research/history/country/STU/siga-varra-raganvad-arkit-marriage-death-source-audit-v0.1.md`。
 - 斯特吉亚战后政治稿：`research/history/country/STU/sturgian-post-pendraic-military-honor-princely-authority-and-kuloving-blood-feud-v0.1.md`。
 - 库赛特制度史工作稿：`research/history/country/KHU/khuzait-khanate-land-oath-and-clan-power-working-v0.1.md`。
-- 有效人物传记 `QyFdfZrC` 记瓦尔拉死于潘德拉克战役次年；`5939sUCg` 为现任奥列克，`bsOLRZyS` 为年长的奥列克。
+- 有效人物传记 `QyFdfZrC` 记瓦尔拉死于潘德拉克战役次年；`5939sUCg` 为现任奥列克，`bsOLRZyS` 为“年长的”奥列克。
 - SandBox／ModuleData／world_lore_strings.xml 的注释对白 `U7xbAEpr`、`7CPvlhjw`、`Nqjv6fwc`、`RkS0cwHl` 提供婚盟破裂、温都勒被杀、瓦尔拉参与姐姐西加的行动、朗瓦德处死瓦尔拉及西加向蒙楚格立誓复仇的事件链。它们是早期剧情重建材料，不是当前有效对白。
 - 库赛特稿区分有效人物关系、开发注释与玩家主线访谈：有效 `heroes.xml` 记岁仑（Solun）为墨速宜丈夫并记其死于潘德拉克；玩家转录另以 Gotug 称阵亡库吉特那颜。开发注释称阿契特曾试图夺取库吉特领地，但“十年前”的参照点不明。
 
