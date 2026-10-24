@@ -43,7 +43,7 @@ RES-001 的《战帆》主 `water_plane` 实体中心Z是 **2.570** 场景单位
 ## 本次可下载的审计文件
 
 - [Google Drive 完整复核包：报告、29港口CSV、8项原件指纹表与复核JSON](https://drive.google.com/file/d/1buCN7S784RaduPZnJVfcaYifGDBOP-s8/view)
-- [Google Drive Markdown 完整论文](https://drive.google.com/file/d/1alwdPxpAiQJptm8jN38nl2FPWjE4qKRX/view)
+- [旧版 Google Drive Markdown（含未替换模板变量，已由 v1.1 取代）](https://drive.google.com/file/d/1alwdPxpAiQJptm8jN38nl2FPWjE4qKRX/view)
 
 这些新增文件是衍生研究报告和表格，**不包含游戏原始版权二进制**。
 
