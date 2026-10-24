@@ -186,10 +186,10 @@ Google Docs：https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrta
 
 ### 项目中文百科导出来源边界（2026-10-24）
 
-聚落原始ZIP复核发现，项目导出的194条城镇/村庄描述中，有43条的文本键在SandBox与NavalDLC英文及简中聚落语言表中均缺失，但settlements.xml仍保留英文fallback、百科导出则有中文。README与file_manifest未提供逐键来源映射，故这些中文段落目前应标为“项目导出文本，官方同键来源/版本待核”，不能作为已核验的官方同键译文。详细名单见[导出文本来源审计表](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1616318933)。
+聚落原始ZIP复核发现，项目导出的194条城镇/村庄描述中，有43条（26城镇、17村庄）的实际text键在SandBox与NavalDLC英文及简中聚落语言表中均缺失；跨Native、SandBox、NavalDLC三个归档的全部语言表搜索也未找到这些键，而settlements.xml仍保留英文fallback、百科导出则有中文。两版各有56个非空聚落文本键不在对应英文/简中表中，其中43条在项目导出内，另有12个城堡附属聚落及1个retirement_retreat。README与file_manifest未提供逐键来源映射，故这些中文段落应标为“项目导出文本，官方同键来源/版本待核”，不能作为已核验的官方同键译文。详细名单见[导出文本来源审计表](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1616318933)。
 
 ### 城市体系总论中的中文导出来源补充（2026-10-24）
 
-拉尔纳克（village_V3_3）与格伦利斯里格（village_B2_2）是本稿用于讨论城市消费与堡镇供给的两个核心村庄；其settlements.xml文本键在SandBox与NavalDLC英文/简中聚落语言表中均缺失，但项目百科导出有中文段落（来源审计LOC-38、LOC-41）。关于销售/供给关系的论证以原始英文fallback为准，中文导出文本的来源/版本仍未确认。
+拉尔纳克（village_V3_3）与格伦利斯里格（village_B2_2）是本稿用于讨论城市消费与堡镇供给的两个核心村庄；其settlements.xml文本键在SandBox与NavalDLC英文/简中聚落语言表中均缺失，且跨三个归档的全部语言表搜索未找到，但项目百科导出有中文段落（来源审计LOC-38、LOC-41）。关于销售/供给关系的论证以原始英文fallback为准，中文导出文本的来源/版本仍未确认。
 
 名称来源也需与描述来源分开处理：项目百科导出声称名称来自Native简中`std_common_strings_xml`，但当前Native.zip/file_manifest未收录该文件，故基础版名称来源无法从现有归档独立复现。这不等于名称错误；本文保留项目导出写法，同时只对已在NavalDLC简中名称键中直接找到的名称作“键级已核验”标记。
