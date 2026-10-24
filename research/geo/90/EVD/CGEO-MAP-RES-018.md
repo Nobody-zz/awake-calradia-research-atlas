@@ -1,6 +1,10 @@
 # CGEO-MAP-RES-018｜原始地图资源可恢复性与《战帆》港口衍生几何复审
 
-日期：2026-10-23。性质：原始资料追溯与保留数据复核；**不是新一轮原始二进制解析或精确海岸线测绘**。
+版本：v1.1；复核日期：2026-10-24。性质：原始资源可恢复性检查与衍生数据复算；**不构成原始地图二进制重解析或正式海岸线测绘**。
+
+- [Google Docs v1.1（本轮复核正文）](https://docs.google.com/document/d/1DAC0wDXLP0tantGCQo522EUF3v1AQXS-yztADc43miU/edit)
+- [RES-012 派生分析 ZIP](https://drive.google.com/file/d/1GMG8gXe70m376txGvIcZH0lQrSz5552G/view)
+- [RES-018 资源追溯复核 ZIP](https://drive.google.com/file/d/1buCN7S784RaduPZnJVfcaYifGDBOP-s8/view)
 
 ## 第一、第二手数据分级
 
@@ -42,3 +46,16 @@ RES-001 的《战帆》主 `water_plane` 实体中心Z是 **2.570** 场景单位
 - [Google Drive Markdown 完整论文](https://drive.google.com/file/d/1alwdPxpAiQJptm8jN38nl2FPWjE4qKRX/view)
 
 这些新增文件是衍生研究报告和表格，**不包含游戏原始版权二进制**。
+
+
+## v1.1｜精确归档校验与模板变量勘误（2026-10-24）
+
+本轮通过已知 Drive 链接重新取回 RES-012 ZIP，重新计算 SHA-256 为 `9bca8d83d9b814c3722c88ee89b50f57fccf01957a4e4729f1055279c6f930c3`，文件大小 579,804 字节，ZIP CRC 通过。RES-018 资源追溯包重新取回后，SHA-256 为 `0362b8290e40def44bdff926b7d1410b19e34d346b92cddb1ced272a02667619`，大小 7,845 字节，ZIP CRC 通过。两者均为派生资料包，不含原始地图二进制。
+
+从 `town_port_network_access.csv` 复算的 CoastalSea 标记 Z 中位数 2.580、范围 2.5698–3.327，20/23 位于 2.569–2.581；River 标记 Z 中位数 5.736、范围 3.885–9.996。72个村庄父级中，56个直线最近港口与网络代理最近港口一致，16个不一致；28对双状态标记 XY 完全重合，44对非零间距，最大 0.63712 场景单位。以上基本计数均与 `summary.json` 一致。它们仍是既有派生数据的重新计算，不是原始 Navmesh 的再解析。
+
+**模板变量勘误：** RES-018 ZIP 内嵌的 Markdown 副本在若干统计位置保留了未替换的模板表达式（例如 `{meta['input_bundle_sha256']}`）。该副本的相关数字行不应直接引用；本 v1.1 以 ZIP 实际字节、JSON 和 CSV 复核后列出确定数值。请优先引用本版报告与 Google Docs v1.1。
+
+本轮再次检查了当前对话附件、Library 的 `Calradia Geography Research Source Files` 及 Drive 精确文件名检索结果，仍未取回原版或《战帆》的 `scene.xscene`、`terrain.bin`、`navmesh.bin`、`river_triangles.bin` 或 `flowmap.dds`。RES-001 中的原始 SHA-256 仍为前序历史指纹，本轮没有原件可供重算。这个结论仅限当前可访问范围，不代表原件从未上传或不存在于其他旧附件/存储层。
+
+**对地理研究的处理：** 达玛尔河等地点的官方文本证据可继续研究，但“聚落坐标—真实河道几何—高程”的同版本配准仍待核；不以港口候选坐标或渲染 PNG 推定正式海岸线、河岸线、河口位置或完整水系拓扑。
