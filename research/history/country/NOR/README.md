@@ -13,6 +13,8 @@
 
 5. **CHC-NOR-SOC｜《诺德社会等级、家族财产、劳动与依附关系：从村庄、家族到雅尔权力》**，社会史独立专题工作稿 v0.1（2026-10-24）。[GitHub 正文](CHC-NOR-SOC-kinship-property-dependency-and-status-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1mAnvQhH8CjRNmEmPyO_mET61ufTh9-_E5RGcDza-8pM/edit)。区分家族财产、劳动服务、逃亡/流民与奴隶身份；不将人物自述泛化为全国法律。
 
+6. **CHC-NOR-SOC｜《俘虏、奴隶市场、逃亡者与依附劳动：诺德身份史料的证据边界》**，专项史料覆盖审计 v0.1（2026-10-24）。[GitHub 正文](CHC-NOR-SOC-captivity-status-dependent-labor-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/10Dzzwbmt-uAat0n7y7RQDVDTrImFKDT7Nc5XFy9bDr8/edit)。核对 67 个模块 XML；结论为奴隶市场存在已证，身份转换、奴隶法、世袭和王室控制未证。
+
 ## 阶段性校勘及前后版本的阅读顺序
 
 请先看 v0.1 的整体史料范围与历史问题，然后用 v0.3 的更具体核验修订前稿相关结论：
@@ -30,6 +32,12 @@
 - 巴尔加德贡达尔公平分配阵亡同族武器的立权故事是明确标注的传说，供 STU 线互校，不将其误写为诺德维格全国分赃法。
 - DLC 通用海盗台词中的 tax on ships / seller's market 带有暴力敲诈的反讽，不是诺德国王实施航道税的历史文书。
 - 官方英文迪纳尔文本含近期诺德扩张、朱姆内流亡者与库赛特边境通婚，同 ID 简中版本却描述风寒与绵羊，英汉失配不能视为两篇互证。
+
+## 第六轮身份史料审计
+
+- NavalDLC 21 个 XML 中，slave/slaver 仅出现在诺德王国沿革、卡拉迪亚主线贩运剧情及帝国贾尔马律斯地志；captives 见于诺德沿革和主线线索。未找到诺德专属的 servants/serfs、奴隶世袭、赎买自由、释放规则或奴隶劳动制度条目。
+- DJCei132 的 fugitives and runaways from various estates 只能支持朱姆内河谷领地逃亡者/流民定居，不能定性为逃奴或农奴。KfUc1Hhl 的 outlawing 是 Thing 对个人的司法制裁，不是同一种身份。
+- SandBox 对库赛特人物写有被卖为 servants、对阿塞莱人物写有买得自由；这些可说明官方文本使用身份转换术语，但不能移植为诺德制度。Native/StoryMode 的赎俘/招募俘虏 UI 属玩法说明，不作为历史制度证据。
 
 ## 第五轮社会史校勘
 
