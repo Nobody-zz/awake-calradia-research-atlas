@@ -93,7 +93,15 @@
 
 **总裁决：** 当前不建议任何工作稿直接领取 H 编号。核心 POL 稿已整合为 v0.2 并完成内部源级复核，但仍缺关键制度与军事行为材料，故继续保留工作稿。下一步以跨线核验和新证据接收为主；资源、婚盟、社会史和战争事件各稿继续作为专题支撑，避免把源审查、进度记录或静态配置表误当成已完成的独立历史论文。
 
-## 七、下一阶段执行原则
+## 七、跨线交接执行记录（2026-10-24）
+
+已建立 CHC-STU-GEN／POL《斯特吉亚研究线跨线证据交接单：潘德拉克、库赛特战后政治与诺德母系关系》v0.1。
+Google Docs: https://docs.google.com/document/d/1P3HA-0U4M4uQXmlDHIkAJlVp1yjNY5rIX655TBCbd8s/edit
+GitHub: research/history/country/STU/sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.1.md
+
+本次实际对读了潘德拉克战役工作稿 v0.2 与库赛特制度史工作稿 v0.1。已将龙旗争执的版本／时序核验、岁仑／Gotug 名称差异与阿契特侵夺证据分级、朗瓦德母系诺德谱系的有效文本核查，分别交由 CHC-CAL-MIL、CHC-KHU、CHC-NOR。交接单仅列源级任务，不修改接收线正文或公共 I/Q；若没有新的有效文本，现有证据缺口继续保留。
+
+## 八、下一阶段执行原则
 
 下一阶段优先做整合而非新增泛化专题：
 
