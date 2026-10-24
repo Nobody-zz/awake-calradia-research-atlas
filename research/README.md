@@ -96,6 +96,9 @@
 - [CHC-EMP-GEN｜帝国权威的地方接口：论文候选稿 v0.5](history/country/EMP/imperial-local-order-paper-candidate-v0.5.md)
 - [CHC-EMP-GEN｜帝国权威的地方接口：论文候选稿 v0.6](history/country/EMP/imperial-local-order-paper-candidate-v0.6.md)
 - [CHC-EMP-GEN｜帝国官方叙事中的地方权威接口：论文候选稿 v0.7](history/country/EMP/imperial-local-order-paper-candidate-v0.7.md)
+- [CHC-EMP-GEN｜帝国官方文本中的地方权威关系：论文候选稿 v0.8](history/country/EMP/imperial-local-order-paper-candidate-v0.8.md)（[Google Docs v0.8](https://docs.google.com/document/d/1XiHW61SLoN1LMOLYa0EKi3y1uipzXL2bo8Vo6aqtMrE/edit)）
+- [CHC-EMP-GEN｜跨线方法审查 v0.2：吸收瓦兰迪亚反例审查](history/country/EMP/imperial-local-order-paper-cross-line-method-review-v0.2.md)
+- [CHC-VLA-GEN｜帝国官方叙事中的地方权威接口：跨国反例审查 v0.1](history/country/VLA/cross-national-counterexample-review-imperial-local-authority-interface-v0.1.md)
 - [CHC-EMP-GEN｜《帝国官方叙事中的地方权威接口》跨线方法审查 v0.1](history/country/EMP/imperial-local-order-paper-cross-line-method-review-v0.1.md)
 - [CHC-EMP-GEN｜帝国权威的地方接口：结构与证据一致性复审 v0.1](history/country/EMP/imperial-local-order-paper-review-v0.1.md)
 - [CHC-EMP-GEN｜帝国城镇与家族简介全量覆盖审计 v0.1](history/country/EMP/imperial-town-and-clan-description-coverage-audit-v0.1.md)
