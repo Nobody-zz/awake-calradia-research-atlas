@@ -103,6 +103,10 @@ GitHub: research/history/country/STU/sturgia-cross-line-evidence-handoff-pendrai
 
 随后直接检查了项目 `StoryMode.zip`：包内只有 `module_strings.xml`、`story_mode_settlements.xml` 及英文／简中语言表，没有“年长的”奥列克、朗瓦德、龙旗争执或十九位领主访谈对白，也包内不含任何运行时程序集，因而无法与 v1.4.8.119303 程序集逐字比对。故当前归档不足以核验 v1.4.5 反编译访谈的版本一致性；这只是资料缺口，不证明运行时从未包含对白。当前有效 NavalDLC／`naval_dialog_strings.xml` 的 `Y1fwBgHt` 记水手对潘德拉克后帝国海军欠饷的回忆，`DtEBwPpJ` 与 `p4OvT9BS` 记可汗与斯特吉亚大湖交战、和解后转战帝国的相对顺序；这些文本不涉及龙旗争执。Library《骑砍诺德人两代关系考究.docx》虽提及朗瓦德母亲为诺德公主，但其相关表格引注指向 Fextralife 二手页面，不能替代有效 `heroes.xml／LW92PgZz`，更不能完成具名王室谱系定位。
 
+## 七附、人物称谓一致性复核（2026-10-24）
+
+本轮将当前斯特吉亚工作稿与潘德拉克战役工作稿统一为“年长的”奥列克（Olek the Old；`dead_lord_2_1`／`bsOLRZyS`），以区别在世族长奥列克（Olek；`lord_2_3`／`5939sUCg`）。该中文对照沿用项目既有角色事实审计的用法；它是对英文称谓的研究性译名约定，不把“年长的”误作独立姓名。I-0003／Q-0011 的旧称尚未改动，待公共登记簿正式修订时再同步。
+
 ## 八、下一阶段执行原则
 
 下一阶段优先做整合而非新增泛化专题：
