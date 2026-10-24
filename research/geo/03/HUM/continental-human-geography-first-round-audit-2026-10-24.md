@@ -272,3 +272,10 @@ Google Docs：https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrta
 本轮对SandBox v1.4.8、SandBoxCore v1.4.8、NavalDLC v1.2.8归档中的关键英文字符串进行原文读取，并与项目百科导出及归档官方简中表对读。确认三个高优先译义风险：Stathymos的“wash fertile soil down”不能译义为人工灌溉；Orthra的“steppe stock”指育种牲畜/马种而非“牧草”；Galend的“takes in the catch ... as well as the wool”明确表示城市接收渔获和羊毛。另确认Chornobas的NavalDLC英文文本新增向奥莫尔港市供粮，但项目简中导出仍保留基础版描述。以上问题已登记为复核任务，不修改原始官方文件。
 
 本矩阵的当前比较结论仍是：土地改造、授地、强制定居、地方保护与市场供给可以作为跨区域问题比较，但现有证据不足以把它们归并为统一的全大陆封建制、税制或劳役制度。下一步优先处理译义冲突、中文同键来源缺失、版本差异和每篇论文的强断言—证据ID绑定；产权、税租、劳动合同与收益分配仍列为核心证据缺口。
+
+
+### 第二轮版本校勘｜对总论的约束（2026-10-24）
+
+跨区域矩阵现已增加「版本差异审计」表，逐键记录SandBox v1.4.8与NavalDLC v1.2.8的实体ID、英文名称、文本键、英文描述与简中同步状态。当前已确认Tismil/Kohi Ajik的两个聚落ID在DLC中发生英文实体映射互换，且简中名称键未同步；Etirfurd/Echarfurd同ID改名和位置改写；Stathymos、Galend、Chornobas等地志出现会改变历史地理解释的英文重写。
+
+因此，城市腹地与聚落生产链分析必须同时记录“生产者—商品—买方—时层—模块版本—实体ID”。不同版本同ID的文本不能自动拼成连续历史；官方简中表缺键或保留旧版描述时，英文原文用于判断经济含义，中文名称另行校核。
