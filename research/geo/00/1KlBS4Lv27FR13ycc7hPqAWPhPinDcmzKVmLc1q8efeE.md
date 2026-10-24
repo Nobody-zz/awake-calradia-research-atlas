@@ -342,7 +342,7 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 
 首轮原档结果：SandBox与NavalDLC聚落地志各有274条英文／简中字符串，共有238个ID；238条英文描述全部变化，简中同键文本全部不变。针对22个水文／地貌共同ID的定向复核也呈现相同模式。该结果只证明版本文本存在系统性分歧，不证明所有自然地理事实发生变化。
 
-目前可由两版英文共同支持的纳哈撒文本锚点为扎勒姆、纳赫兰、马卜瓦兹、米贾伊特；其中马卜瓦兹来自两版settlements.xml内嵌英文fallback文本，而非std_settlements_xml语言表。吉德纳尔与拜特·哈提夫必须按版本分开。北方地区的“伊勒坦冰川湖群—两湖间拖船”与新版“多河道—河口—渡越点”是不同文本模型，不可直接拼接。
+目前可由两版英文共同支持的纳哈撒文本锚点为扎勒姆、纳赫兰、马卜瓦兹、米贾伊特；其中马卜瓦兹来自两版settlements.xml内嵌英文fallback文本，而非std_settlements_xml语言表。吉德纳尔与拜特·哈提夫必须按版本分开。北方地区的“伊勒坦冰川湖群—两湖间拖船”与新版“多河道—河口—渡越点”是不同文本模型，不可直接拼接。第三轮已将两版官方settlements.xml坐标叠加到RES-005高程图面板，但未取得有效河道几何，因此仍不宣称完成B类水文测绘。详见[空间核验备忘录03](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-03-nahasa-settlement-coordinate-overlay-2026-10-24.md)；图件：https://drive.google.com/file/d/1tZiucv0sSqJ_ED1CNLFfW5DLzgxmTrHO/view
 
 下一步：完成CGEO-S-HYD-001与地貌／气候／植被专题的同键一致性审查；地图空间复核须等待可恢复、版本明确的原始几何资源。本轮未重新解析高程栅格、河道几何或原始Navmesh，不能将文字核对表述为地图测绘。
 
