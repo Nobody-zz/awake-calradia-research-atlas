@@ -19,6 +19,8 @@
 
 8. **CHC-NOR-REL｜《圣地、祭祀与王朝权威：诺德宗教史料摸底》**，宗教史独立专题 v0.1（2026-10-24）。[GitHub 正文](CHC-NOR-REL-shrines-rituals-royal-legitimacy-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1HRO4HckTIrmWKNgZBSlgOUde1-_AaZvFuMU1BX5kVME/edit)。核验伊克斯伦德、德赖于格米尔、姆亚拉格达、法尔加普及伊丽卡相关文本；暂不认定存在中央祭司体系或统一国家宗教。
 
+9. **CHC-NOR-GEN｜《诺德史关键叙事与结构化数据交叉校勘：春分集会、宗教权威与王室亲属》**，综合校勘补充 v0.1（2026-10-24）。[GitHub 正文](CHC-NOR-GEN-cross-audit-assembly-ritual-royal-kinship-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/15UduZ-pscNfQEAvvjA9Z09kYWH4h_FVc72TXSmdRU_g/edit)。核对 Lg5rbZse、OAvlqAql、wKMRsw16、82aSnTOv 及人物/氏族字段；春分集会无明文宗教环节，Skylfing rule 与哈尔达尔的 Throsniring 归属保留为未决差异。
+
 ## 阶段性校勘及前后版本的阅读顺序
 
 请先看 v0.1 的整体史料范围与历史问题，然后用 v0.3 的更具体核验修订前稿相关结论：
@@ -62,6 +64,16 @@ SOC v0.1 将亲族与继承、旧氏族集会、村庄派出的 fyrdman、劳动
 - KtN9VSiR（姆亚拉格达）英文是 glyph，官方简中译为“符文”；不可把它直接等同于 PKlv8jCB（法尔加普）明确记载的 runic inscriptions / 如尼铭文。
 - OAvlqAql 把伊丽卡的森林圣地、秘密仪式与哈尔达尔继位政治相连，但没有称她为 priestess 或说明常设祭司制度。
 - Lg5rbZse 的春分集会明确具有政治功能；是否包含宗教仪式尚无直接记载。m6ZgnpN9 的 shrine 或奴隶市场是早期地方中心的概括，不证明神职与王权合一。
+
+## 第九轮政治—宗教—家谱交叉校勘
+
+- Lg5rbZse 的春分集会正文只明载争端调解、夏季劫掠目标选择与战争领袖选举；未提祭祀、神职或神明。旧氏族集会与现行国王咨询少数雅尔的对照，是政治组织形式变化的直接证据，不是国家宗教的证据。
+- 同一英文条目末尾把地点拼作 Thonderlag；首句为 Thronderlag，官方简中均译“特龙德拉格”。不把拼写差异拆成两个地点。
+- “a select group of his jarls” 指特选/选定的一小群雅尔，不能解释成这些雅尔经选举产生；“elect a warleader” 才是原文明确的选举动作。
+- OAvlqAql 与 wKMRsw16 分别写伊丽卡的秘密仪式、王朝政治和沃尔比约恩墓冢巫术传闻。两者可以支持王朝叙事采用神秘意象，但原文未把两套内容连为同一仪式或教义。
+- 82aSnTOv 的 Skylfing rule 与结构化字段中 Halthdar 所属 Throsniring 不一致；Surnir 只在传记和语言表中出现，当前 heroes.xml 没有以该名字明文命名的独立 Hero 字段。lord_7_6 的配偶关系和缺少 alive=false 是可核验字段，身份对应仍依赖叙述推断。
+- 官方简中将 “has confirmed her as jarl” 译为“任命她为雅尔”，比英文 confirmed 更像首次任命；没有程序文本，不以此单独建立成文任命制度。
+- heroes.xml 注释 “Nord - Gundaroving” 与有效氏族字段 Throsniring 不同；注释不属于游戏有效正文，不作为正式王朝名证据。
 
 ## 下一研究检验
 
