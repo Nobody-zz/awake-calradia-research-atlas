@@ -247,3 +247,10 @@ Native.zip 中的中文语言表主要用于 Native 模块通用文本，不能�
 | Hargard／town_N4 | 哈加德 | 哈加德（部分地志正文曾出现“阿加尔要塞”） | 以独立Settlement.name主名键为准；正文内部异译另行标注 |
 
 此项不是把开发日志中文译文整体判为错误，而是区分“早期开发日志的人工中文译法”与“当前游戏本地化名称键”两个不同来源。当前NavalDLC官方名称键直接匹配见CGEO-MAP-RES-010第四、五节；论文正文链接：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/northern-maritime-river-port-and-inland-provisioning-2026-10-24.md 。不以英文拼写重新创造中文名，也不把Gretysfjord字面中的fjord作为地貌成因证据。
+
+
+## 2026-10-24｜聚落中文描述的跨归档键缺失核验
+
+对用户提交的`encyclopedia-zh-cn.md`所列194条城镇/村庄描述，按`settlements.xml`实际`text`属性解析字符串键，而非由实体ID推造键名，再与原始SandBox.zip、NavalDLC.zip及Native.zip内所有已归档语言表逐键比较。结果为：43条（26城镇、17村庄）的文本键在三个归档的所有语言表中均不存在；两版`settlements.xml`仍保留英文fallback，项目百科导出则有中文段落。SandBox与NavalDLC各自另有12个城堡附属聚落和1个`retirement_retreat`的非空文本键不在对应英文/简中聚落语言表中。此处所称“缺键”仅描述当前归档范围，不证明游戏安装目录或其他版本没有相应翻译资源，也不证明项目导出中文错误或非官方。
+
+README与`file_manifest.csv`仅记录所归档文件的模块路径、版本、哈希和节点数，未提供这43条中文段落的逐键来源映射。当前应把其状态记为“项目导出有中文；官方同键来源/版本无法由当前归档复现”。逐条记录见[工作簿「导出文本来源审计」](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1616318933)。这项来源问题与“中文地名键是否存在”是两个不同问题，必须分别审计。
