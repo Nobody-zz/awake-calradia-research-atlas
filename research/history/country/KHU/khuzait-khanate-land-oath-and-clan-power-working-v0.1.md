@@ -331,7 +331,7 @@ A14-03｜两版 village_K3_1（沙佩什特盐矿／湖湾渔业）、village_K3
 A14-04｜SandBox 中 village_K2_2=Tismil、castle_village_K7_2=Kohi Ajik；NavalDLC 中 village_K2_2=Kohi Ajik、castle_village_K7_2=Tismil；两者的 text 键也随名称对调。不可仅靠 Settlement ID 当作稳定跨版本地名映射。
 A14-05｜SandBox／ModuleData/Languages/CNs/std_settlements_xml-zho-CN.xml 与 NavalDLC 同名简中语言表保留的旧词义，包括乌兰强制迁居、沙佩什特盐矿、马津捕鱼、达纳拉盐湖；不自动等同于 NavalDLC 新英语。强制定居、出产种类及史料版本由对应英语正文核定，中文用于专名。
 
-## 十六、游牧与定居的冲突：从生计差异到税役、保护与地方权力（2026-10-24专题深化）
+## 十五、游牧与定居的冲突：从生计差异到税役、保护与地方权力（2026-10-24专题深化）
 
 ### 一、先拆开“游牧—定居”：四个不同变量
 
@@ -405,14 +405,14 @@ spclans.xml 将该组织标记为 is_nomad、is_outlaw、is_minor_faction。这�
 6. 可汗和那颜是否依赖游牧部族的马匹、牲畜市场与军事服务，却又试图限制其袭掠和移动自由？这种依赖是否构成汗权的实际边界？
 7. NavalDLC 保留乌兰强制定居的核心叙述，却改写地貌与亚麻生计措辞；这种文本改动应如何与基础版的旧译文分别登记，而不被误写成世界内的历史变化？
 
-A16-01｜SandBoxCore／ModuleData/spcultures.xml／Culture.khuzait／v5bWtXj1；官方简中 Languages/CNs/std_spcultures_xml-zho-CN.xml 同键。那颜、游牧生活、封地、堡垒资金、佃户、半村半营。
-A16-02｜SandBox／ModuleData/spclans.xml／Faction.karakhuzaits／XJbDRBfd；官方简中 std_spclans_xml-zho-CN.xml 同键。喀拉库吉特拒绝定居、耕地与农奴—税收和军事征召交换，兼有贸易、通婚、绑架与袭掠叙述。
-A16-03｜SandBox／ModuleData/comment_strings.xml／str_comment_special_clan_intro_karakhergit.default／DLV6F3ob；官方简中 std_comment_strings_xml-zho-CN.xml 同键。群体自述将拒绝可汗、拒绝农耕与“古道”联系起来。
-A16-04｜SandBox／ModuleData/settlements.xml／village_K1_2／Settlements.Settlement.text.village_K1_2；NavalDLC 同 ID 英文同键；简中对应文本仍为基础版地貌描述。乌兰的强制定居与亚麻生产。
-A16-05｜SandBox／ModuleData/settlements.xml／village_K6_2、village_K4_2、village_K4_3；官方简中同键。努丘克定居牧羊、兰萨木养马、米万占养羊。
-A16-06｜SandBox 基础版／ModuleData/settlements.xml／village_K2_2／Settlements.Settlement.text.village_K2_2；官方简中同键。帖斯密勒牧羊及可汗压制游牧袭掠者的地方叙述；NavalDLC 同 ID 已改为 Kohi Ajik，不作跨版本同实体史料。
-A16-07｜SandBox／ModuleData/settlements.xml／village_K6_1／Settlements.Settlement.text.village_K6_1。Karahan 从流动部族购买马匹并自行繁育，连接村落市场与军队需求；该地中文专名仍待同键核验。
-A16-08｜SandBox.zip SHA-256 54c358e5b318ffeda8a69ce41a7e665f3b9bef06a6e49b142a972c80ea9c1d55；SandBoxCore.zip SHA-256 a98810bfd5ddaa6d7b8b8927754a0159fed751eff672aef57613417c7284e642；NavalDLC.zip SHA-256 e41ad1c75665e736cad7d02319193a2cc6e0ed68e8bf2e44e1f151b62020b468。对应官方原始资料归档说明见 research/source-archives/README.md。
+A15-01｜SandBoxCore／ModuleData/spcultures.xml／Culture.khuzait／v5bWtXj1；官方简中 Languages/CNs/std_spcultures_xml-zho-CN.xml 同键。那颜、游牧生活、封地、堡垒资金、佃户、半村半营。
+A15-02｜SandBox／ModuleData/spclans.xml／Faction.karakhuzaits／XJbDRBfd；官方简中 std_spclans_xml-zho-CN.xml 同键。喀拉库吉特拒绝定居、耕地与农奴—税收和军事征召交换，兼有贸易、通婚、绑架与袭掠叙述。
+A15-03｜SandBox／ModuleData/comment_strings.xml／str_comment_special_clan_intro_karakhergit.default／DLV6F3ob；官方简中 std_comment_strings_xml-zho-CN.xml 同键。群体自述将拒绝可汗、拒绝农耕与“古道”联系起来。
+A15-04｜SandBox／ModuleData/settlements.xml／village_K1_2／Settlements.Settlement.text.village_K1_2；NavalDLC 同 ID 英文同键；简中对应文本仍为基础版地貌描述。乌兰的强制定居与亚麻生产。
+A15-05｜SandBox／ModuleData/settlements.xml／village_K6_2、village_K4_2、village_K4_3；官方简中同键。努丘克定居牧羊、兰萨木养马、米万占养羊。
+A15-06｜SandBox 基础版／ModuleData/settlements.xml／village_K2_2／Settlements.Settlement.text.village_K2_2；官方简中同键。帖斯密勒牧羊及可汗压制游牧袭掠者的地方叙述；NavalDLC 同 ID 已改为 Kohi Ajik，不作跨版本同实体史料。
+A15-07｜SandBox／ModuleData/settlements.xml／village_K6_1／Settlements.Settlement.text.village_K6_1。Karahan 从流动部族购买马匹并自行繁育，连接村落市场与军队需求；该地中文专名仍待同键核验。
+A15-08｜SandBox.zip SHA-256 54c358e5b318ffeda8a69ce41a7e665f3b9bef06a6e49b142a972c80ea9c1d55；SandBoxCore.zip SHA-256 a98810bfd5ddaa6d7b8b8927754a0159fed751eff672aef57613417c7284e642；NavalDLC.zip SHA-256 e41ad1c75665e736cad7d02319193a2cc6e0ed68e8bf2e44e1f151b62020b468。对应官方原始资料归档说明见 research/source-archives/README.md。
 
 本章的官方 XML 和简中同键是同一游戏叙事的不同语言载体，不计作独立互证；东部草原定居化与农牧交换的人文地理论文是交叉分析成果，不另算新增原始证人。后续结论应继续区分文本明说、人物或组织自我表述、地方赞颂性记忆与解释性推论。
 ## 十六、结论与下一步研究动作
