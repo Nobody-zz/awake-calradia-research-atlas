@@ -91,6 +91,7 @@
 - [CHC-EMP-GEN｜帝国权威的地方接口：论文候选稿 v0.3](history/country/EMP/imperial-local-order-paper-candidate-v0.3.md)
 - [CHC-EMP-GEN｜帝国权威的地方接口：论文候选稿 v0.4](history/country/EMP/imperial-local-order-paper-candidate-v0.4.md)
 - [CHC-EMP-GEN｜论文候选稿 v0.4 逐节论证审查](history/country/EMP/imperial-local-order-paper-candidate-argument-review-v0.1.md)
+- [CHC-EMP-GEN｜论文候选稿 v0.4 语言与证据一致性校对](history/country/EMP/imperial-local-order-paper-candidate-consistency-audit-v0.1.md)
 - [CHC-EMP-GEN｜论文候选稿 v0.3 结构复审记录](history/country/EMP/imperial-local-order-paper-candidate-structural-review-v0.1.md)
 - [CHC-EMP-GEN｜反叛组织的资源、赞助与强制：第二篇候选专题卡 v0.1](history/country/EMP/imperial-rebel-organizations-resources-patronage-coercion-research-card-v0.1.md)
 
