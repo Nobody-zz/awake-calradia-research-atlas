@@ -279,3 +279,12 @@ Google Docs：https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrta
 跨区域矩阵现已增加「版本差异审计」表，逐键记录SandBox v1.4.8与NavalDLC v1.2.8的实体ID、英文名称、文本键、英文描述与简中同步状态。当前已确认Tismil/Kohi Ajik的两个聚落ID在DLC中发生英文实体映射互换，且简中名称键未同步；Etirfurd/Echarfurd同ID改名和位置改写；Stathymos、Galend、Chornobas等地志出现会改变历史地理解释的英文重写。
 
 因此，城市腹地与聚落生产链分析必须同时记录“生产者—商品—买方—时层—模块版本—实体ID”。不同版本同ID的文本不能自动拼成连续历史；官方简中表缺键或保留旧版描述时，英文原文用于判断经济含义，中文名称另行校核。
+
+
+### 8.9 第二轮聚落原始ZIP与简中同步审计（2026-10-24）
+
+已新增[聚落文本版本与官方简中同步审计](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/settlement-text-version-and-localization-audit-2026-10-24.md)及工作簿「版本差异审计」表。首轮覆盖矩阵中的28个聚落实体，另核对Tismil/Kohi Ajik的ID互换。SandBox聚落文件含493个ID，NavalDLC含540个，另增47个ID；两模块英文聚落语言表的238个共同键字符串均有差异，其中既有实质改写，也有位置/措辞更新。
+
+本轮最重要的校勘结果：基础版Stathymos肥土—麦作在DLC中被温泉/屠龙叙述替换；Orthra的steppe stock仍指育种种畜/马种，但官中误译“牧草”；Galend在DLC改用新文本键并增加捕鲸者，简中仍保留旧误译；Chornobas DLC英文明确增加奥莫尔供粮，简中仍保留基础版描述；Tismil与Kohi Ajik两个ID在DLC中英文实体映射互换，简中名称键仍是旧映射。部分条目在简中语言表缺同键而百科导出有中文，统一标记为来源/版本待查。
+
+下一步优先把上述版本差异同步到各专题摘要、表格与总论，不把模块文本改写当作虚构世界内部的年代事件。
