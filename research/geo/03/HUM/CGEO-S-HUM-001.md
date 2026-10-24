@@ -191,3 +191,5 @@ Google Docs：https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrta
 ### 城市体系总论中的中文导出来源补充（2026-10-24）
 
 拉尔纳克（village_V3_3）与格伦利斯里格（village_B2_2）是本稿用于讨论城市消费与堡镇供给的两个核心村庄；其settlements.xml文本键在SandBox与NavalDLC英文/简中聚落语言表中均缺失，但项目百科导出有中文段落（来源审计LOC-38、LOC-41）。关于销售/供给关系的论证以原始英文fallback为准，中文导出文本的来源/版本仍未确认。
+
+名称来源也需与描述来源分开处理：项目百科导出声称名称来自Native简中`std_common_strings_xml`，但当前Native.zip/file_manifest未收录该文件，故基础版名称来源无法从现有归档独立复现。这不等于名称错误；本文保留项目导出写法，同时只对已在NavalDLC简中名称键中直接找到的名称作“键级已核验”标记。
