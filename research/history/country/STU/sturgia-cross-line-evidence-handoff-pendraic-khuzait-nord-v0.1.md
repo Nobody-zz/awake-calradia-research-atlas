@@ -22,7 +22,7 @@
 
 ### 资料包实际检查（2026-10-24）
 
-本项目当前 `StoryMode.zip` 已直接检查。包内只有四个 XML：`ModuleData/module_strings.xml`、`story_mode_settlements.xml`、英文 `Languages/std_module_strings_xml.xml` 与简中 `Languages/CNs/std_module_strings_xml-zho-CN.xml`。其中仅有通用任务文字提到 “Neretzes' Folly”；未找到“年长的”奥列克、朗瓦德、龙旗争执或十九位领主访谈的对白，也没有匹配 v1.4.8.119303 的运行时程序集。因此，**当前项目资料包不能完成访谈转录的版本核验**。这只能证明现有归档缺少所需文件，不能证明游戏运行时从未包含这些对白。Native.zip 中关于玩家组装“Dragon Banner”的任务通知属于另一套玩家任务字符串，不是“年长的”奥列克的历史龙旗事件。
+本项目当前 `StoryMode.zip` 已直接检查。包内只有四个 XML；项目 `file_manifest.csv` 将这些文件均登记为 v1.4.8：`ModuleData/module_strings.xml`、`story_mode_settlements.xml`、英文 `Languages/std_module_strings_xml.xml` 与简中 `Languages/CNs/std_module_strings_xml-zho-CN.xml`。其中仅有通用任务文字提到 “Neretzes' Folly”；未找到“年长的”奥列克、朗瓦德、龙旗争执或十九位领主访谈的对白，也包内不含任何运行时程序集，因而无法与 v1.4.8.119303 程序集逐字比对。因此，**当前项目资料包不能完成访谈转录的版本核验**。这只能证明现有归档缺少所需文件，不能证明游戏运行时从未包含这些对白。Native.zip 中关于玩家组装“Dragon Banner”的任务通知属于另一套玩家任务字符串，不是“年长的”奥列克的历史龙旗事件。
 
 不过，当前有效 NavalDLC／`naval_dialog_strings.xml` 仍有三条相关但范围不同的对白：`Y1fwBgHt` 记一名水手回忆“涅雷采斯死于潘德拉克后，帝国无力支付军饷”；`DtEBwPpJ` 记可汗曾在大湖与斯特吉亚人交战并高薪雇用懂船的水手；`p4OvT9BS` 记可汗与斯特吉亚解决冲突后转而与帝国作战。这些是有效的海军人物背景，能支持各自叙述内部的顺序，但不包含龙旗争执、“年长的”奥列克或具体斯特吉亚指挥链，不能用来核定折旗时间。
 
