@@ -202,3 +202,16 @@ GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/re
 Google Docs：https://docs.google.com/document/d/1r5xLCwljVokxTeA5pk86bdX0jXtVzlDIhIGNb09vcoM/edit
 
 本稿沿用已登记的跨版本校勘，不新增未经核实的译名。重点涉及同 ID 地志英文本改写而官中未同步的三例：乔诺巴斯（基础版瀑布旁谷作，NavalDLC英文明确为奥莫尔港市供粮）、斯科林（基础版湖湾渔业，DLC英文林地—草地毛皮猎取）、拉达克梅德（基础版车尔特格山地毛皮动物，DLC英文比亚里海沿岸海象猎取）。这些差异须标为版本重写，不当作历史内部的产业演变。另需分开记录“wild honey／野蜜”和“bog iron／沼铁”的宏观资源叙述，与马拉布罗特的山地铁矿；目前无依据把三者定位为同一地点或同一种采冶过程。
+
+
+## 2026-10-24｜CGEO-S-BIO-001按Native.zip与百科底本复核（回读结果）
+
+本轮重新解压项目中当前保存的`Native.zip`并读取`encyclopedia-zh-cn.md`全文，结果如下：
+
+1. 当前Native.zip实际包含`global_strings.xml`、`module_strings.xml`、`native_strings.xml`及相应的三组英汉语言表，**没有`std_common_strings_xml-zho-CN.xml`**。因此，它不能直接为论文中的所有城镇、村庄及城堡附属村庄提供名称键；百科文件的编纂说明虽注明其普通城镇／村庄名称曾按Native common strings核对，但这是百科所载的版本来源说明，不能倒推当前Native.zip内有该文件。
+2. 按百科标题及聚落ID核对，论文涉及且百科确实收录的11个普通村庄名均一致：卡南克（`village_V8_2`）、乔诺巴斯（`village_S3_1`）、斯科林（`village_S3_2`）、马赫卢勒（`village_A5_1`）、厄利帕（`village_EW5_1`）、萨戈拉（`village_ES4_1`）、兰塔斯（`village_ES5_1`）、巴格（`village_A1_2`）、阿利斯维斯特（`village_V9_2`）、弗雷吉昂（`village_V2_3`）、鲁兰德（`village_V3_2`）。未发现这些条目的中文名称错配。
+3. 其余本文使用的乌瑟莱姆、弗林托格、拉诺克·亨、鄂木罗托克、奥夫、福林、库鲁卢克、巴里哈勒、特美摩斯、加隆托、本盖兹、阿特里翁、色雷刻托，逐项与SandBox简中地志正文开头的名称核对一致；它们不应被误称为从百科独立标题或Native独立name键中取得。先前的“兰诺克·亨”“布恩卡兹”“艾尔塔·德鲁因”“伊尔卡里亚”分别已订正为**拉诺克·亨、本盖兹、艾塔·德鲁因、伊卡拉荒原**。
+4. “埃博半岛”是当前归档中文地志中最常见的形式，但“埃伯半岛”“伊博半岛”也确实出现，故正文统一用前者并保留异文记录。“伊察拉平原”（`Plain of Ichala`）没有在归档简中地志中检出，正文已在首次出现处标为**研究暂译**。诺德地域“诺德维格”（`Nordvyg`）与“贝恩兰岛”（`Beinland`）沿用项目地名表的开发者日志中文译法，不属于Native.zip或旧版百科中可直接核验的游戏内中文名称键；正文现标为项目统一译名，避免冒充游戏内官方汉化。
+5. 斯温斯塔克、达格比、雅斯克韦格、比约伦比尔的译名来源是另一项NavalDLC独立名称键校勘，不是Native.zip或百科。它们的证据级别与前述基础版名称应分开登记。
+
+**最终判定：**在Native.zip／百科能够直接覆盖的论文聚落名称中，本轮没有发现剩余中文名称错配；需要保留的限制是新增DLC地域名的来源等级、城堡附属村庄缺少百科独立标题，以及Plain of Ichala尚无已核简中名称键。论文正文与Google Docs版已同步补注这些限制。
