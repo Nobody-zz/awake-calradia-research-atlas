@@ -128,7 +128,8 @@
 - [CHC-NOR-GEN｜诺德史跨国关系首轮对照登记册（v0.1）](history/country/NOR/CHC-NOR-GEN-cross-line-relations-register-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1hq3rAfNnaYREXQAyVI73-S72uU_ENNG3oSw_dyz_7Lg/edit)
 - [CHC-NOR-GEN｜社会群体覆盖与证据单位审计（v0.1）](history/country/NOR/CHC-NOR-GEN-social-coverage-audit-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1H7hibK338Ibk8WPLu2fJc6Wp2nmIkIFQyOvx0fyYERA/edit)
 - [CHC-NOR-GEN｜诺德国家形成的相对年代与因果机制检验（v0.1）](history/country/NOR/CHC-NOR-GEN-relative-chronology-causal-test-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1Wfep743y5aYvUgHbN9xVAwU3WRd5HhHDToN3-NKOj6Q/edit)
-- [CHC-NOR-GEN｜下一阶段执行计划与验收门槛（v0.5）](history/country/NOR/CHC-NOR-GEN-execution-plan-v0.5.md) · [Google Docs 原件](https://docs.google.com/document/d/1_0TYncrTGPvP7rdWcUSGjuBYGyCNoWdGewnsCN93dgM/edit)
+- [CHC-NOR-GEN｜哈尔达尔时期王权的持续性与实际控制范围（v0.1）](history/country/NOR/CHC-NOR-GEN-halthdar-kingship-continuity-control-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1T8qFxZZu621hxrndEmIIimrqR0k5EGnJALqzP6zNOgM/edit)
+- [CHC-NOR-GEN｜下一阶段执行计划与验收门槛（v0.6）](history/country/NOR/CHC-NOR-GEN-execution-plan-v0.6.md) · [Google Docs 原件](https://docs.google.com/document/d/1Z-wHo7vmjmlOeH5mMeTTr-HLmIMiOZD7r2f-2cGkKEo/edit)
 - [CHC-NOR-POL｜从旧氏族集会到新王权：雅尔、土地与地方自治的制度转换（v0.4）](history/country/NOR/CHC-NOR-POL-assemblies-jarls-land-v0.4.md) · 政治制度专题，征服整合仅为其中一项待证假说。
 
 ## history/90
