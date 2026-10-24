@@ -313,7 +313,9 @@ Google Docs：https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrta
 工作流标签：CGEO-NAT-LINE（内部管理标签，不是正式论文编号）。自然地理研究线接入既有CGEO体系，暂不新增正式论文编号。
 
 交接与工作计划（Google Docs）：https://docs.google.com/document/d/17YLRDnYY4o0SI0Om_oJ_MZQMTJu_Qvd3nTUOHk7tGVw/edit  
-GitHub Markdown：[自然地理研究线交接文件](natural-geography-research-line-handover-2026-10-24.md)
+GitHub Markdown：[自然地理研究线交接文件](natural-geography-research-line-handover-2026-10-24.md)  
+首轮启动矩阵（Google Docs）：https://docs.google.com/document/d/1IzIEm-CgErZ_REROhHnuXstqvK2vKjPoSXoeyanNFUg/edit  
+GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geography-question-map-evidence-matrix-2026-10-24.md)
 
 第一阶段目标：审计地理总论v0.3、区域划分v0.1、地形地貌v0.1、气候与自然环境v0.1、水文v0.2、植被与自然景观v0.1及CGEO-MAP技术档案；建立自然地理研究问题图谱和稳定实体ID证据矩阵；先核验纳哈撒山地—旱谷—绿洲与达玛尔河、北方Nordvyg／Beinland—朱姆内河—海岸河谷、拉科尼斯湖—塔奈西斯湖及相关河流、中部草原边缘与西部滨海—丘陵过渡区四组试点。
 
