@@ -543,7 +543,7 @@ SandBox/ModuleData/wanderer_strings.xml 的 spc_wanderer_aserai_1 背景树描�
 
 现有证据不支持以下推论：阿塞莱埃米尔称号是近期才出现；谱系战士属于一个有组织的反苏丹派系；其批评专门针对温吉德或巴努·胡勒延；所有阿塞莱贵族都以同一套谱系标准争夺合法性；或苏丹的选举只依赖财富而不依赖其他氏族承认。KGa4gmDW 未给出说话者的氏族、明确年代、竞争者或实际叛乱行动，必须保留为有立场的背景叙述。
 
-本轮官方简中按 SandBox/ModuleData/Languages/CNs/std_wanderer_strings_xml-zho-CN.xml 与 std_comment_strings_xml-zho-CN.xml 同键核对；英文“emirs of the Aserai”对应“阿塞莱埃米尔”，而 comment_strings.xml 的领袖称谓使用“sultan of the Aserai”／“阿塞莱苏丹”。二者不可在引用或论证时互相替换。
+本轮官方简中按 SandBox/ModuleData/Languages/CNs/std_wanderer_strings_xml-zho-CN.xml 与 std_comment_strings_xml-zho-CN.xml 同键核对；英文“emirs of the Aserai”对应“阿塞莱埃米尔”，而 comment_strings.xml 的领袖称谓使用“sultan of the Aserai”／“阿塞莱苏丹”。Native/ModuleData/module_strings.xml 进一步在正式称谓上区分 str_faction_ruler_name_with_title.aserai（REdb7vbQ）的 Sultan/Sultana（“苏丹/苏丹娜”）与 str_faction_noble_name_with_title.aserai（jM9KGCIa）的 Emir/Emira（“埃米尔/埃米拉”），并将 str_faction_official.aserai（owg6SqHF）译为“一位埃米尔”；SandBox/spkingdoms.xml 的 ruler_title（5djtBrHj）也对应“苏丹”。因此，不应将“埃米尔”静默改写为“苏丹”。不过，正式称谓的差别只能确认游戏术语层级，不能单凭称谓字段推定埃米尔的实际辖权、财政权或对苏丹的法律义务。
 
 ### 二十四之六、下一批验证方向
 
