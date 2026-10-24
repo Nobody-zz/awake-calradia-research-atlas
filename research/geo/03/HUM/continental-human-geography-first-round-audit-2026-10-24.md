@@ -288,3 +288,8 @@ Google Docs：https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrta
 本轮最重要的校勘结果：基础版Stathymos肥土—麦作在DLC中被温泉/屠龙叙述替换；Orthra的steppe stock仍指育种种畜/马种，但官中误译“牧草”；Galend在DLC改用新文本键并增加捕鲸者，简中仍保留旧误译；Chornobas DLC英文明确增加奥莫尔供粮，简中仍保留基础版描述；Tismil与Kohi Ajik两个ID在DLC中英文实体映射互换，简中名称键仍是旧映射。部分条目在简中语言表缺同键而百科导出有中文，统一标记为来源/版本待查。
 
 下一步优先把上述版本差异同步到各专题摘要、表格与总论，不把模块文本改写当作虚构世界内部的年代事件。
+
+
+### 8.10 项目中文百科导出的来源边界（2026-10-24）
+
+对本项目导出的194条城镇/村庄描述与原始ZIP进行逐键比对后，发现43条（26城镇、17村庄）的settlements.xml文本键在SandBox与NavalDLC的英文及简中std_settlements_xml表中均缺失，但项目导出中有中文段落。另有12个城堡附属聚落与1个retirement_retreat的fallback键同样缺失，但不在该导出的194条记录内。README与file_manifest只记录文件级来源与哈希，不提供逐键翻译映射，因此现阶段不能把这43条导出中文当作已由归档官方同键语言表验证的译文；也不能在来源未明时断言其必然不是官方译文。逐条名单见[导出文本来源审计表](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1616318933)。
