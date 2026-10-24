@@ -231,9 +231,9 @@ CGEO-S-BIO-001《卡拉迪亚大陆植被与自然景观研究——森林类型
 
 ### 气候与植被专题：官方中文名称复核（2026-10-24）
 
-直接比对旧版百科（v1.4.8.119303）、当前提供的 Native.zip 实际内容、SandBox与NavalDLC两版英汉同键地志及NavalDLC新增诺德聚落名称键。CGEO-S-BIO-001订正拉诺克·亨（Llanoc Hen）、本盖兹（Bunqaz）、伊卡拉荒原（Irkaria／Ircara）与艾塔·德鲁因（Ailta Druin）。CGEO-S-CLM-001中“伊卡拉平原”属于误将Plain of Ichala与Ircara/Irkaria混同，已在可下载修订稿改成“伊察拉平原（研究暂译）”。埃博半岛为多数同键官方中文用法，官方内部亦存埃伯、伊博异译；新增诺德四处地名已获NavalDLC独立中文name键确认。
+直接比对旧版百科（v1.4.8.119303）、当前Native.zip、SandBox与NavalDLC两版英汉同键地志及NavalDLC新增诺德聚落名称键。百科确实收录且本文引用的11个普通村庄名称均逐项一致；城堡附属村庄及新增聚落则分别按同键官方中文地志正文或NavalDLC名称键核验，不冒充Native独立名称键。CGEO-S-BIO-001中此前错写的拉诺克·亨（Llanoc Hen）、本盖兹（Bunqaz）、艾塔·德鲁因（Ailta Druin）与伊卡拉荒原（Irkaria／Ircara）均已订正。Plain of Ichala不在归档简中地志中出现，正文统一标作“伊察拉平原（研究暂译）”。“埃博半岛”为多数同键中文用法，同时记录“埃伯半岛”“伊博半岛”异译。
 
-**方法性发现：** 当前Native.zip无std_common_strings_xml简体中文表；旧百科虽注明其标题译名经该表解析，不能据此假装当前压缩包包含这份表。校勘矩阵见[CGEO-TOP-AUD-002](../90/EVD/CGEO-TOP-AUD-002.md)，所校勘的BIO论文已完成Google Docs和GitHub同步。
+**方法性发现：** 当前Native.zip无std_common_strings_xml简体中文表；旧百科虽注明其标题译名经该表解析，不能据此假装当前压缩包包含这份表。“诺德维格”（Nordvyg）与“贝恩兰岛”（Beinland）是项目地名表沿用的开发者日志中文译法，不属于Native.zip／旧版百科中可核验的游戏内名称键；论文现标明这一证据等级。校勘矩阵见[CGEO-TOP-AUD-002](../90/EVD/CGEO-TOP-AUD-002.md)，正文与Google Docs已同步。
 
 
 ### 历史人文地理线第四轮（2026-10-24）｜西部港市与乡村腹地
