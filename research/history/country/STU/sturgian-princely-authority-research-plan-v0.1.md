@@ -175,6 +175,8 @@ GitHub: research/history/country/STU/sturgia-cross-line-evidence-handoff-pendrai
 
 **证据裁决：** 当前项目资料包不足以核验从 v1.4.5 反编译恢复的访谈转录是否与 v1.4.8.119303 一致。这是资料可得性缺口，不是“游戏运行时从未有过相关对白”的证明。CHC-CAL-MIL 的龙旗时序争议继续保留。
 
+同时，当前有效 NavalDLC／`naval_dialog_strings.xml` 的 `Y1fwBgHt` 记载诺德水手对“涅雷采斯死于潘德拉克后帝国海军欠饷”的回忆；`DtEBwPpJ` 与 `p4OvT9BS` 记载可汗与斯特吉亚在大湖交战、和解后转战帝国的相对顺序。这些文本确实可在当前资料包中核验，但不包含年长的奥列克或龙旗争执，不能用来解决折旗时序。
+
 同时复核了 Library 中的《骑砍诺德人两代关系考究.docx》。它提及朗瓦德母亲为诺德公主，但相关表格的注释引用 Fextralife 的 Skolderbroda 页面；该二手材料不能替代有效 `heroes.xml／LW92PgZz`，也不能把母亲接入沃尔比约恩、哈尔达尔或其他具名王室谱系。斯特吉亚线仍只确认有效传记所载的母系身份与可召集亲族。
 
 ### 6.17 下一阶段：接收跨线源级回覆并关闭可关闭的问题
