@@ -3,6 +3,9 @@
 本目录仅维护诺德史独立研究稿，依 I-0001 v1.4 与 I-0004 v2.2 分类；未分配任何 H-000x 号，不替代公共 I/Q 索引。
 
 ## 当前总方向与下一阶段
+- [CHC-NOR-GEN｜第一批关系卡：源键审计与语义修订（v0.2）](CHC-NOR-GEN-historical-relations-cards-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/1ioz48RHCSSdBdnP-Gwad0dF-n85wHIUQdnY9TwEhqwU/edit)。校正瓦尔诺瓦波尔源键、圭卡案指代、Thing/集会译文语义，并区分 SandBox 与 NavalDLC 的重复文本及当前英文修订。
+- [CHC-NOR-GEN｜第一批关系卡与时空骨架源键审计（v0.1）](CHC-NOR-GEN-source-key-audit-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1Nl2xt4Fp39uK_sY7nNn721rYoUYdzQw1SbF0aUN0BXQ/edit)。审计65个唯一键，登记英文/官方简中表路径、六组跨模块重复键、翻译滞后和流浪者背景叙述的证据单位。
+- [CHC-NOR-GEN｜诺德史时间—空间骨架：源级校订版（v0.2）](CHC-NOR-GEN-time-space-skeleton-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/10cGlZJOE4VwFGjAQpBy5mgg2ksYpSOVyWaLX222wb9U/edit)。补入巴尔加德、西比尔、卡·班塞斯的版本差异，避免旧简中覆盖当前 NavalDLC 英文。
 - [CHC-NOR-GEN｜下一阶段执行计划与验收门槛（v0.2）](CHC-NOR-GEN-execution-plan-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/1xmTWBvnHJxwhXXPW0aPBL2Am0UPBM9oJwMzFLKIjhFU/edit)。将工作拆为证据整合、时间—空间骨架、跨国核验、社会覆盖和竞争解释五条工作流，规定交付物与进入正式选题的门槛。
 - [CHC-NOR-GEN｜诺德史时间—空间骨架：第一轮可核验重建（v0.1）](CHC-NOR-GEN-time-space-skeleton-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1FV6mNMfw9pcJrlB9ak3uxnG6h5-zEqhEP-rXMwB_MsA/edit)。以相对年代与区域为单位，整理北方沿海、贝恩兰、朱姆内河谷、接触地带和海外网络，标注原文键、未决关系和跨线接口。
 - [CHC-NOR-GEN｜诺德史历史关系卡：区域、迁徙、权力与跨境网络（第一批 v0.1）](CHC-NOR-GEN-historical-relations-cards-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1Ohnbucw3BMQfGnx__fDpM-F0ppOECKdMoi6RpeXAYVg/edit)。首批21张关系卡将现有材料跨越区域、时间、社会群体和国家边界重新排列；它们是起始样本，不是完整覆盖，也不代表各条关系已完成他国线独立互证。
