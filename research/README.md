@@ -10,6 +10,10 @@
 ## geo/02/REG
 
 - [CGEO-O-REG-001｜卡拉迪亚大陆地理区域划分与地域结构（论文初稿 v0.1）](geo/02/REG/1H5CZKgad7YI60WnZu3t7W0PSBuNUd80tw8LMgCMWx_0.md) · [云盘原件](https://docs.google.com/document/d/1H5CZKgad7YI60WnZu3t7W0PSBuNUd80tw8LMgCMWx_0/edit)
+## geo/03/CLM
+
+- [CGEO-S-CLM-001｜卡拉迪亚大陆气候与自然环境研究（研究初稿 v0.1）](geo/03/CLM/CGEO-S-CLM-001.md) · [云盘原件](https://docs.google.com/document/d/1npAJZ89iVXYaEjpv5qQIAVCzA28YhdNivXc9vT6yQfI/edit)
+
 ## geo/03/HYD
 
 - [CGEO-S-HYD-001｜卡拉迪亚大陆河流水系与湖泊研究（论文初稿 v0.1）](geo/03/HYD/1Cl-YL13V_bHN9qOnSgSJmQ40Y2AtOXk5O-xvFd8RYco.md) · [云盘原件](https://docs.google.com/document/d/1Cl-YL13V_bHN9qOnSgSJmQ40Y2AtOXk5O-xvFd8RYco/edit)
