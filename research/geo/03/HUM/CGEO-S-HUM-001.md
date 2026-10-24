@@ -159,7 +159,7 @@ Google Docs：https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrta
 
 ## 第八轮｜跨区域土地—劳动—资源控制—收益分配证据矩阵（2026-10-24）
 
-已建立[跨区域证据矩阵工作簿](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit)与[GitHub方法摘要]( https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/cross-regional-land-labour-resource-benefit-matrix-2026-10-24.md )。工作簿包含32条核心证据行、7地域比较、12项复核任务。
+已建立[跨区域证据矩阵工作簿](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit)与[GitHub方法摘要]( https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/cross-regional-land-labour-resource-benefit-matrix-2026-10-24.md )。工作簿包含34条核心证据行、7地域比较、12项复核任务。
 
 此矩阵将“资源存在、本地生产、明确销售/供给、强制/授地/保护、产权/收益”分层登记，避免把资源、邻近、当前聚落绑定或水路连通当作历史交易。已确认三项高优先译义风险：Stathymos的wash fertile soil down不能证明人工灌溉；Orthra的steppe stock应指育种牲畜/马种而非牧草；Galend的takes in the catch... and wool是城市接收渔获与羊毛。Chornobas的NavalDLC英文另明确写出向奥莫尔港市供粮，但项目简中导出仍显示基础版文本，须分版引用。
 
