@@ -136,6 +136,41 @@ SandBox 将科沃尔（Kvol）描述为山脚下的小型耐寒牛饲养村，�
 
 矩阵显示，**直接财政证据集中在西比尔，军事报酬证据集中在瓦尔切格，政治控制多次更替证据集中在瓦尔诺瓦波尔，王朝合法性与反记忆集中在巴尔加德—雷维尔对照。** 不应把一种聚落的证据填入另一种聚落的缺口。
 
+### 4.1 1084年前后配置中的城镇—城堡—村庄关系
+
+原始 `settlements.xml` 还提供了另一层资料：城镇和城堡的 `owner` 字段，以及村庄 `Village` 组件中的 `bound=Settlement...` 绑定关系。这些字段能重建游戏起始局势下的管理网络，却不是早期历史记录。它们不能单独证明该绑定何时形成、领主如何取得该地，或该村庄实际向中心缴纳何种税役。
+
+**城镇及其绑定村庄：**
+
+| 城镇 ID／官方中文名 | 起始所有者字段 | 绑定村庄（官方简中名） |
+| --- | --- | --- |
+| town_S1 瓦尔切格 | clan_sturgia_1 | village_S1_1 罗多巴斯；village_S1_3 卡格雷夫 |
+| town_S2 巴尔加德 | clan_sturgia_1 | village_S2_1 萨夫纳；village_S2_2 马拉布罗特 |
+| town_S3 奥莫尔 | clan_sturgia_2 | village_S3_1 乔诺巴斯；village_S3_2 斯科林 |
+| town_S4 瓦尔诺瓦波尔 | clan_sturgia_4 | village_S4_1 博乔瓦戈卡；village_S4_3 奥姆卡尼；village_S4_4 扬古图姆 |
+| town_S5 蒂亚尔 | clan_sturgia_3 | village_S5_1 维西布罗特；village_S5_2 布基茨 |
+| town_S6 西比尔 | clan_sturgia_6 | village_S6_1 克沃尔；village_S6_2 拉达克梅德；village_S6_3 阿莱巴特 |
+| town_S7 雷维尔 | clan_sturgia_5 | village_S7_1 科尔夏斯；village_S7_2 卡布尔 |
+
+**城堡及其绑定村庄：**
+
+| 城堡 ID／英文名 | 起始所有者字段 | 绑定村庄（官方简中名） |
+| --- | --- | --- |
+| castle_S1 Ustokol Castle | clan_sturgia_5 | castle_village_S1_1 乌斯托科；castle_village_S1_2 哲米扬 |
+| castle_S2 Mazhadan Castle | clan_sturgia_1 | castle_village_S2_1 马扎丹；castle_village_S2_2 福林 |
+| castle_S3 Nevyansk Castle | clan_sturgia_1 | castle_village_S3_1 涅维扬斯克；castle_village_S3_2 德宁 |
+| castle_S4 Kranirog Castle | clan_sturgia_9 | castle_village_S4_1 克拉尼罗格；castle_village_S4_2 伊斯米尔科格 |
+| castle_S5 Ov Castle | clan_sturgia_7 | castle_village_S5_1 奥夫；castle_village_S5_2 费赫 |
+| castle_S6 Takor Castle | clan_sturgia_8 | castle_village_S6_1 塔科尔；castle_village_S6_2 德沃鲁斯塔 |
+| castle_S7 Urikskala Castle | clan_sturgia_3 | castle_village_S7_1 乌里克斯卡拉；castle_village_S7_2 阿洛夫 |
+| castle_S8 Vladiv Castle | clan_sturgia_4 | castle_village_S8_1 弗拉基夫；castle_village_S8_2 格拉夫斯特伦 |
+
+这张表揭示的是**起始配置的多氏族领地结构**：城镇与城堡分属多个氏族，贡达罗夫氏族（clan_sturgia_1）掌握瓦尔切格、巴尔加德以及两座城堡；其他城镇分别归库洛夫、奥米多夫、瓦吉罗夫、伊夏罗夫、托加罗夫等氏族，城堡则进一步分散于 clan_sturgia_3、4、5、7、8、9。该分布与“斯特吉亚是由多个地方领主构成、王权仍需协商的政治共同体”相容，但当前所有权本身不能证明这些领地何时分配、各氏族的具体军役份额，或大公是否能直接调用每座城堡的收入。
+
+还必须区分三个层次：一是村庄绑定至城镇或城堡的配置关系；二是地志明文描述的物产、迁徙、贸易和历史征服；三是领主实际征收税役或动员居民的证据。前两者不自动推出第三者。现有直接材料中，西比尔地志确实写到波耶要求税收和劳役、居民因而迁入避开服从；但不能把这一条扩大为所有三十二个村庄都向绑定中心缴纳相同税役。相反，乔诺巴斯为奥莫尔供粮只在 NavalDLC 文本中被明确写出；其余村庄即使有明确物产，也须逐条检查是否存在直接买方、征取者或军役要求。
+
+因此，当前的城镇—城堡网络可以作为1084年前后地方政治结构的**横截面基准**，却不能替代建国史。它支持多中心控制的判断，不能提供完整的历史产权链，也不能将游戏的 `bound` 字段直接等同于某种历史封建法权。
+
 ## 五、比较解释：斯特吉亚如何把地方节点纳入政治共同体？
 
 ### 模型 A：领土征服自动带来财政与行政整合
