@@ -5,7 +5,7 @@
 **卡拉德帝国史第三轮专题研究稿 v0.1｜2026-10-24｜CHC-EMP-MIL/POL/SOC 研究接口**  
 **档案状态**：帝国线独立工作文件，不占H编号；与CHC-CAL-MIL《潘德拉克战役》跨国战役史保持分工，不更动H-0005、I/Q公共索引及已签发世界书正典。Q5-09仍开放。  
 **研究时段**：德罗修斯·涅雷采斯时期至1084年帝国内战中三方对峙，严格保留材料没有提供的绝对纪年空白。  
-**资料层次**：项目归档SandBox v1.4.8、NavalDLC v1.2.8的有效英文XML及对应简中语言表；2018-02-08 TaleWorlds《Empire – Part 1》和2014-08-29《Developer Blog 7 - Imperial Declines》仅按官方作者史述/创作说明分层使用。现有StoryMode归档未包含完整十九人潘德拉克主线人物访谈原文，因此**不以玩家转录构筑本篇任何新战术事实**。
+**资料层次**：项目归档SandBox v1.4.8、NavalDLC v1.2.8的有效英文XML及对应简中语言表；2018-02-08 TaleWorlds《Empire – Part 1》和2014-08-29《Developer Blog 7 - Imperial Declines》仅按官方作者史述/创作说明分层使用。现有 StoryMode XML 归档未包含十九人采访答话，但公开的 Bannerlord v1.4.5 反编译代码已恢复完整采访，属 A2 级官方对白恢复；项目 v1.4.8.119303 的逐字核验仍待完成。本文不把人物战后自述当作无立场战术事实，而将其用于分析战役记忆、军队组织与战后供养危机的叙事关联。
 
 ## 摘要
 
@@ -169,3 +169,10 @@ SandBox/ModuleData/spclans.xml，eleftheroi／9qAWNBvA，官中“自由民，�
 - A7：SandBox/ModuleData/heroes.xml，lord_1_5／04xAg0yN，彭同·涅雷采斯；world_lore_strings.xml，Cx2FCePF／SCogGc7N／uK4IX036。
 - A8：TaleWorlds，《Dev Blog 08/02/18》，2018-02-08，https://www.taleworlds.com/en/Games/Bannerlord/Blog/45；和《Developer Blog 7 - Imperial Declines》，https://www.taleworlds.com/en/games/bannerlord/blog/8。后者用于史述与创作方法批判，不充当古代事件发生日期的证据。
 - A9：已有研究边界：CHC-CAL-MIL《潘德拉克战役：多国联盟、战场失利与胜利后的政治分裂》v0.1；H-0005 v1.7；Q-0007 v0.5、Q-0009 v0.4、Q-0011 v1.13；CHC-EMP-GEN第二轮军事财政工作稿。
+
+
+## 采访恢复后的帝国证词使用边界（2026-10-24）
+
+Bannerlord v1.4.5 反编译代码已恢复卢孔（lord_1_1）、彭同（lord_1_5）、加里俄斯（lord_1_7）、拉盖娅（lord_1_14）的四段采访回答，共十六段 A2 文本。卢孔与彭同围绕帝国出兵义务、瓦兰迪亚背誓及战场撤退提供竞争性解释；加里俄斯将前卫遭伏击与未获弓兵掩护联系起来；拉盖娅明确承认自己不是战场目击者，而以阿雷尼科斯的回忆解释撤退、首都秩序与继承合法性。
+
+这些答话可用来研究官方叙事如何把军事决策、撤退与皇位继承相连，但不能直接证明帝国财政破产、军费数额、改革的准确执行范围或单一战役造成全部欠饷。有关军制改革仍须以有效组织 XML、老兵背景和《War Sails》海员叙述分层分析。文本等级为 A2，项目 v1.4.8.119303 同版本逐字核验待完成。全体证词键与摘要见：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Interview-Source-Inventory-v0.1.md。
