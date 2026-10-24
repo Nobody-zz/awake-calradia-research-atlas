@@ -1,8 +1,8 @@
-# 自然地理研究问题图谱与证据矩阵（启动版 v0.5）
+# 自然地理研究问题图谱与证据矩阵（启动版 v0.6）
 
 日期：2026-10-24
 
-Google Docs 原件：[自然地理研究问题图谱与证据矩阵 v0.5](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit?usp=drivesdk)
+Google Docs 原件：[自然地理研究问题图谱与证据矩阵 v0.6](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit?usp=drivesdk)
 
 GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md)
 
@@ -89,7 +89,7 @@ GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calrad
 **目前能支持的结论：**
 - 已完成的是版本内的实体坐标—高程图面板可视配准。图件提供地形背景线索，但不是海陆掩膜或河道图。
 - Zalm、Mabwaz、Nahlan与Mijayit的官方英文描述在两版中均支持达玛尔河通道、洪泛平原或河口的局地关系；这仍是A类文本证据。高程图叠加尚未直接确认河道与各点的几何邻接。
-- Qidnar与Bait Hatif在SandBox中描述为达玛尔河洪泛平原，在NavalDLC中改为峭壁陆侧岩丘／旱谷及偶发强降雨供水。其版本内坐标也不同，但因场景尺度、布局与资源均有版本差异，不能把它解释为世界内部聚落搬迁或河道改道。
+- Qidnar（castle_village_A4_2）在SandBox中被描述为达玛尔河洪泛平原，在NavalDLC中改为峭壁陆侧、面向内陆沙漠的岩丘，并强调偶发强降雨导流；Bait Hatif（village_A7_2）在SandBox中也是洪泛平原，在NavalDLC中则改为由罕见强降雨切割的旱谷，以井水支持局地耕作。两者不是同一种“旱谷—暴雨供水”机制，必须分开登记。另须注意，village_A7_2（Bait Hatif）与castle_village_A7_2（Bunqaz）是不同实体，不能仅凭A7_2后缀合并。两者版本内坐标也不同，但因场景尺度、布局与资源均有版本差异，不能把它解释为世界内部聚落搬迁或河道改道。
 - 高程面板颜色表达相对场景Z值，不能把低值蓝色当作海洋或河流；本轮没有重新解析terrain.bin、river_triangles.bin、Flowmap或Navmesh。
 
 因此本轮不宣称完成B类自然水文测绘，不新增洪泛区边界、河岸线、面积或流域拓扑。下一步先恢复版本明确的原始河流Paths／水面几何，配准达玛尔河主干与稳定文本锚点，再独立检查Qidnar、Bait Hatif的版本冲突。若原始几何不可恢复，保留“官方文本支持、空间配准待核”的状态。
@@ -106,3 +106,13 @@ GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calrad
 RES-018旧版Markdown副本含未替换的模板变量，已标记为旧版并由v1.1复核报告取代：[Google Docs v1.1](https://docs.google.com/document/d/1DAC0wDXLP0tantGCQo522EUF3v1AQXS-yztADc43miU/edit) · [GitHub v1.1](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/90/EVD/CGEO-MAP-RES-018.md)。
 
 **对研究队列的调整：**在原始几何恢复前，NAT-02纳哈撒与NAT-03/NAT-04北方河湖的文本研究可以继续；但地图空间配准状态仍为“官方文本支持、空间配准待核”。不能以港口候选坐标或已渲染PNG补足原始河道几何。
+
+## 十、2026-10-24第五轮：水文—地貌—气候—植被—区域划分同键审查
+
+新增[CGEO-NAT-AUD-001自然地理专题同键一致性审查](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-cross-paper-consistency-audit-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1c9zvE0ZkzxkzSPj29s5wh8xY6RMYh998RJRI1mlyezQ/edit)。
+
+对HYD-001 v0.3、GEO-001 v0.1、CLM-001 v0.1、BIO-001 v0.1及REG-001 v0.1的高优先级共同地点作了定向比较，暂未发现需要立即撤回的实质性跨论文矛盾。主要修正是：Qidnar的DLC描述应记作“岩丘—偶发暴雨导流”，Bait Hatif的DLC描述应记作“旱谷—井水”；不能将两者合并为同一种水文机制。village_A7_2 Bait Hatif与castle_village_A7_2 Bunqaz也须按完整实体ID区分。
+
+其余共同方法原则保持一致：北方寒冷／森林描述是局地环境证据，不等于同质大陆气候或单一植被带；伊勒坦转运、可航水路与天然水文连通分别论证；同键版本改写不等于世界内部气候、植被或水系演变。Mabwaz（village_A7_3）等inline fallback记录须以对应版本的settlements.xml为来源，不可伪称来自语言表键。
+
+本轮没有原始地图二进制可供重算，故不新增B类空间测绘。后续仍须分开维护“官方文本支持的环境机制”与“已经直接测绘的空间关系”。
