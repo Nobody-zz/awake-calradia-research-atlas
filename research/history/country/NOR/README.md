@@ -9,7 +9,7 @@
 
 3. **CHC-NOR-POL｜《从旧氏族集会到新王权：雅尔、土地与地方自治的制度转换》v0.4**，第四轮政治机制审查（现行专题工作版，2026-10-24）。[GitHub 正文](CHC-NOR-POL-assemblies-jarls-land-v0.4.md) · [Google Docs 原件](https://docs.google.com/document/d/1yrSQTQi60B9iEvgjN4m7-vUyqm7OgH4yKO4QxZwMoJY/edit)。新增审查“通过把臣属注意力转向征服来加强脆弱纽带”是官方提出的可能策略，但未记载统一后的具体征服行动；v0.3 保留为上一阶段版本，v0.2 亦继续保留。
 
-4. **CHC-NOR-ECO｜《诺德维格的海洋财富、俘虏交易与早期王权财政：商品流通如何转化为统治权？》**，经济史独立专题工作稿 v0.1（2026-10-24）。[GitHub 正文](CHC-NOR-ECO-maritime-wealth-captives-fiscal-power-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/18jQ4C0kdk9whAHdt3ujOVzkzlplG46dU6PuiGMiGhoA/edit)。与 POL v0.3 交叉，但不把私人财富、市场交易、奴隶/俘虏与统一王国税收混算。
+4. **CHC-NOR-ECO｜《诺德维格的海洋财富、俘虏交易与早期王权财政：商品流通如何转化为统治权？》**，经济史独立专题工作稿 v0.1（2026-10-24）。[GitHub 正文](CHC-NOR-ECO-maritime-wealth-captives-fiscal-power-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/18jQ4C0kdk9whAHdt3ujOVzkzlplG46dU6PuiGMiGhoA/edit)。与现行 POL v0.4 交叉，但不把私人财富、市场交易、奴隶/俘虏与统一王国税收混算。
 
 5. **CHC-NOR-SOC｜《诺德社会等级、家族财产、劳动与依附关系：从村庄、家族到雅尔权力》**，社会史独立专题工作稿 v0.1（2026-10-24）。[GitHub 正文](CHC-NOR-SOC-kinship-property-dependency-and-status-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1mAnvQhH8CjRNmEmPyO_mET61ufTh9-_E5RGcDza-8pM/edit)。区分家族财产、劳动服务、逃亡/流民与奴隶身份；不将人物自述泛化为全国法律。
 
