@@ -130,3 +130,7 @@
 | `Native.zip` | 文件清单 | 无 std_common_strings；未核Caleus官中名键 | 仅源包覆盖审计 |
 
 **归档原则：**仅将必要的键、短语及解释写入本专题。原始压缩资料来自用户私人 Library，不向公共 GitHub 转载原始 ZIP，也不改动原始文件。全部人物的“曾祖父”“战争义务”“被剥夺土地”等可检验陈述都明确限定其发话者、文本类型和版本。
+
+
+## 聚落地志的模块版本限制（2026-10-24）
+本稿的王权、封臣和沙拉斯围城论证应将地志文本与有效人物/对白分开。SandBox与NavalDLC中共同瓦兰迪亚聚落ID的坐标和部分英文描述存在大范围差异，不能把不同模块的地方史叙述自动并成同一编年。详见：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-warsails-settlement-variants-localization-audit-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1x-rgVuMsHbRkDUXvs8j194srP-DKgGzcQV98MYl7-SE/edit。
