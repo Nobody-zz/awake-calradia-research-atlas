@@ -281,3 +281,7 @@ TaleWorlds 官方《Merging Module XML Files with Native》明确写道：Banner
 仍缺少的证据包括：目标构建实际安装的 SandBox 与 NavalDLC 的完整 `SubModule.xml`、其中的 `XmlNode id/path` 与 `IncludedGameTypes`、启动器的启用模块及顺序，以及合并后的对象/语言资源或游戏内实测。当前研究 ZIP 只有选取的 ModuleData XML 和语言表，不包含这些注册文件。官方文档提供通用算法，并不自动证明这些特定归档版本的每一条注册配置。
 
 本次重新解析归档的复验结果：SandBox.zip SHA-256 `54c358e5b318ffeda8a69ce41a7e665f3b9bef06a6e49b142a972c80ea9c1d55`，NavalDLC.zip SHA-256 `e41ad1c75665e736cad7d02319193a2cc6e0ed68e8bf2e44e1f151b62020b468`。在52个共同瓦兰迪亚 ID 中，除前文已列的中心坐标、城门坐标、港口字段、英文 name 与 text 外，逐项比较未发现其他 XML 属性值差异；`owner` 与 `culture` 也均未变。两份简中地志语言表中，23个旧键条目的译文均完全相同；唯一改英文名称值的 `village_V1_2` 在两份简中名称表中都仍为“埃蒂尔菲德”。
+
+
+### 附录F.1：新增港口坐标的对象清单
+逐 ID 对比后，NavalDLC 新增 `port_posX` 与 `port_posY` 字段的12个共同瓦兰迪亚对象为：`castle_village_V2_1`、`castle_village_V3_1`、`castle_village_V3_2`、`castle_village_V7_1`、`town_V3`、`town_V5`、`town_V7`、`town_V8`、`village_V3_2`、`village_V3_3`、`village_V3_4`、`village_V5_2`。这是字段存在性清单；它不等同于已确认的运行时港口列表，也不证明每个点均可供舰船停靠。
