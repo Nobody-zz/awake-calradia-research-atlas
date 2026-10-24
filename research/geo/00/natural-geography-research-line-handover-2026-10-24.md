@@ -4,7 +4,7 @@
 - 版本：v0.1
 - 日期：2026-10-24
 - Google Drive 原件：[自然地理研究线｜交接与第一阶段工作计划](https://docs.google.com/document/d/17YLRDnYY4o0SI0Om_oJ_MZQMTJu_Qvd3nTUOHk7tGVw/edit)
-- 当前问题矩阵：[v0.4](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit)
+- 当前问题矩阵：[v0.5](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit)
 - 最新空间核验：[备忘录03 v0.1](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-03-nahasa-settlement-coordinate-overlay-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1bILR1-Lrt7Ai9nrwfECG_ln7jF07KfCj9QMWP9VL0BU/edit) · [图件](https://drive.google.com/file/d/1tZiucv0sSqJ_ED1CNLFfW5DLzgxmTrHO/view)
 - 原始地图资源复核：[RES-018 v1.1](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/90/EVD/CGEO-MAP-RES-018.md) · [Google Docs](https://docs.google.com/document/d/1DAC0wDXLP0tantGCQo522EUF3v1AQXS-yztADc43miU/edit) · [RES-012 派生 ZIP](https://drive.google.com/file/d/1GMG8gXe70m376txGvIcZH0lQrSz5552G/view)
 - GitHub 版本：[Markdown交接文件](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-research-line-handover-2026-10-24.md)
