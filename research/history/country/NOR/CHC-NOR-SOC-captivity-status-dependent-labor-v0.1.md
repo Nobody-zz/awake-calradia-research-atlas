@@ -3,7 +3,7 @@
 **版本**：v0.1，2026-10-24  
 **研究归属**：CHC-NOR-SOC；不分配 H-000x。与 CHC-NOR-POL v0.3、CHC-NOR-ECO v0.1、CHC-NOR-SOC 亲族与劳动专题 v0.1 交叉，但不代替其他国别线。  
 **问题**：官方资料是否支持重建诺德维格的奴隶制、俘虏身份转换、逃亡者的原有身份，以及家户/领地劳动者的法律地位？  
-**材料范围**：项目归档的 SandBox v1.4.8.119303、SandBoxCore、Native、StoryMode 与 War Sails / NavalDLC v1.2.8 有效 XML 和官方简体中文语言表。此次对五个模块的 67 个 XML 文件进行字面词项检索，并逐项复核涉及 Nord、captives、slave market、fugitives/runaways、servants、serfs、estate、inheritance、outlaw 等的正文。检索可确定当前文本的覆盖边界，不能证明未出现的制度在虚构世界中绝不存在。
+**材料范围**：项目归档的 SandBox v1.4.8.119303、SandBoxCore、Native、StoryMode 与 War Sails / NavalDLC v1.2.8 有效 XML 和官方简体中文语言表。此次对五个模块归档的 67 个 XML 文件（包括有效正文、官方英文语言表和官方简体中文语言表）进行字面词项初筛，并对涉及 Nord、captives、slave market、fugitives/runaways、servants、serfs、estate、inheritance、outlaw 等的命中正文逐项复核。检索可确定当前文本的覆盖边界，不能证明未出现的制度在虚构世界中绝不存在。
 
 ## 摘要与核心结论
 
@@ -17,7 +17,7 @@
 
 ### 1.1 NavalDLC 词项检索
 
-本轮对 21 个 NavalDLC XML 正文文件检索。相关词项分布如下（以含词项的正文条目计，不是事件数量）：
+本轮对 NavalDLC 归档的 7 个正文 XML 文件进行词项检索；归档另含 7 个官方英文语言表与 7 个官方简体中文语言表，合计 21 个 XML 文件。相关词项分布如下（以含词项的正文条目计，不是事件数量）：
 
 | 英文词项 | 命中条目 | 对诺德史的意义 |
 | --- | --- | --- |
