@@ -125,7 +125,8 @@
 - [CHC-NOR-GEN｜第一批关系卡：源键审计与语义修订（v0.2）](history/country/NOR/CHC-NOR-GEN-historical-relations-cards-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/1ioz48RHCSSdBdnP-Gwad0dF-n85wHIUQdnY9TwEhqwU/edit)
 - [CHC-NOR-GEN｜第一批关系卡与时空骨架源键审计（v0.1）](history/country/NOR/CHC-NOR-GEN-source-key-audit-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1Nl2xt4Fp39uK_sY7nNn721rYoUYdzQw1SbF0aUN0BXQ/edit)
 - [CHC-NOR-GEN｜时间—空间骨架源级校订版（v0.2）](history/country/NOR/CHC-NOR-GEN-time-space-skeleton-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/10cGlZJOE4VwFGjAQpBy5mgg2ksYpSOVyWaLX222wb9U/edit)
-- [CHC-NOR-GEN｜下一阶段执行计划与验收门槛（v0.2）](history/country/NOR/CHC-NOR-GEN-execution-plan-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/1xmTWBvnHJxwhXXPW0aPBL2Am0UPBM9oJwMzFLKIjhFU/edit)
+- [CHC-NOR-GEN｜诺德史跨国关系首轮对照登记册（v0.1）](history/country/NOR/CHC-NOR-GEN-cross-line-relations-register-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1hq3rAfNnaYREXQAyVI73-S72uU_ENNG3oSw_dyz_7Lg/edit)
+- [CHC-NOR-GEN｜下一阶段执行计划与验收门槛（v0.3）](history/country/NOR/CHC-NOR-GEN-execution-plan-v0.3.md) · [Google Docs 原件](https://docs.google.com/document/d/1iTfaFEK61aNpB3gTv66oadHsUq0H9UqEOTv2lh-97U8/edit)
 - [CHC-NOR-POL｜从旧氏族集会到新王权：雅尔、土地与地方自治的制度转换（v0.4）](history/country/NOR/CHC-NOR-POL-assemblies-jarls-land-v0.4.md) · 政治制度专题，征服整合仅为其中一项待证假说。
 
 ## history/90
