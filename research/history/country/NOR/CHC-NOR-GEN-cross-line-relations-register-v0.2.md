@@ -56,18 +56,25 @@ STU、BAT、VLA 多条工作稿已分别注意到上述事件，但多线重复�
 | 接口 | 源节点／键 | 对照研究线 | 当前英文可支持的内容 | 官方简中差异与边界 |
 | --- | --- | --- | --- | --- |
 | 拉葛斯霍芬—德拉邦：比亚里海至北部海洋的鲸类活动 | NOR village_N1_2／OBPnMiGG；VLA castle_village_V3_1／K1XMpxea；VLA town_V5／UCrwAaba | VLA、CGEO | Lagshofn 地志称 Lag 的后裔沿比亚里海与北部海洋之间的迁徙路线捕猎露脊鲸、blackfish 等；Drapand 地志称当地船民捕猎露脊鲸、blackfish，有时北上至贝恩兰追逐弓头鲸和独角鲸。 | 这支持官方设定中两岸航海社群的活动范围有重叠，不支持诺德王室或瓦兰迪亚王室垄断鲸类资源，也不证明两地船民存在组织协作。Lagshofn 英文的 “explorer and trade Lag” 有语法异常，简中解释为“探险家兼商人”；应保留异文。 |
-| 沃夫亚尔—朱姆内河—埃皮诺萨：地名与资源走廊 | NOR village_N4_2／Q3lvcUub；EMP castle_village_EN7_1／Settlements.Settlement.text.castle_village_EN7_1；NOR village_N4_1／dwkbyCqk；NOR village_N4_3／PKlv8jCB | EMP、STU、KHU、CGEO | Vorfjall 在朱姆内河以东山丘采盐；Epinosa 的当前英文地志区分 Caracasos、Karakaz、Jumne、Davuna 等河名及其语言来源；Grudhammar 记载雅尔属下的 thegn 在河以东建立前哨；Faergap 记载穿过山口的诺德迁徙者如尼铭文。 | Epinosa 官方简中同键文本没有保留当前英文关于河名、跨语言来源与贸易冲突历史的叙述，而改述帝国极北运输与牛群。Vorfjall 与 Faergap 又共用村名语言键，导致中文名称撞译。以上是当前资料中的语言表/本地化问题，不能将其解释为真实历史上的河名变更或两个聚落同名。盐矿是否沿河运输、是否纳税仍未知。 |
+| 沃夫亚尔—朱姆内河—厄毗诺萨：地名与资源走廊 | NOR village_N4_2／Q3lvcUub；EMP castle_village_EN7_1／Settlements.Settlement.text.castle_village_EN7_1；NOR village_N4_1／dwkbyCqk；NOR village_N4_3／PKlv8jCB | EMP、STU、KHU、CGEO | Vorfjall 在朱姆内河以东山丘采盐；Epinosa 的当前英文地志区分 Caracasos、Karakaz、Jumne、Davuna 等河名及其语言来源；Grudhammar 记载雅尔属下的 thegn 在河以东建立前哨；Faergap 记载穿过山口的诺德迁徙者如尼铭文。 | Epinosa 官方简中同键文本没有保留当前英文关于河名、跨语言来源与贸易冲突历史的叙述，而改述帝国极北运输与牛群。Vorfjall 与 Faergap 又共用村名语言键，导致中文名称撞译。以上是当前资料中的语言表/本地化问题，不能将其解释为真实历史上的河名变更或两个聚落同名。盐矿是否沿河运输、是否纳税仍未知。 |
 | 阿姆普雷拉：帝国东北防务中的诺德长船 | EMP town_EN6／YYYxOiCq | EMP、NOR、CGEO | 当前英文把沿 Caracasos 河而下的 Nord longships 列为东北帝国需要警戒的威胁之一；同段还提及库赛特骑射手、斯特吉亚森林居民与帝国边境堡垒。 | 官方简中省略了诺德长船这一明确威胁，增加了西方边境要塞与帝国—斯特吉亚贸易控制的表述。该差异改变了防务叙事的具体对象；引用诺德海上威胁时以当前英文为准。它仍是防务描述，不是某次真实海战的记录。 |
-| 埃皮诺萨：朱姆内河名与跨语言接触 | EMP castle_village_EN7_1／Settlements.Settlement.text.castle_village_EN7_1 | EMP、STU、KHU、NOR、CGEO | 英文说北支流称 Caracasos，名字源自斯特吉亚语 Karakaz，而后者又源自库赛特语言；诺德人称之 Jumne，词源关联斯特吉亚语中的 barrow；南支流则称 Davuna。该地名链可作为多语接触的直接设定材料。 | 同键简中文本完全改述为帝国极北、湖间运输线和养牛，没有呈现上述河名链。不能拿简中缺失当作英文叙述不存在的证据；也不能把英文地名解释自动延伸成所有相关族群的完整语言史。 |
+| 厄毗诺萨：朱姆内河名与跨语言接触 | EMP castle_village_EN7_1／Settlements.Settlement.text.castle_village_EN7_1 | EMP、STU、KHU、NOR、CGEO | 英文说北支流称 Caracasos，名字源自斯特吉亚语 Karakaz，而后者又源自库赛特语言；诺德人称之 Jumne，词源关联斯特吉亚语中的 barrow；南支流则称 Davuna。该地名链可作为多语接触的直接设定材料。 | 同键简中文本完全改述为帝国极北、湖间运输线和养牛，没有呈现上述河名链。不能拿简中缺失当作英文叙述不存在的证据；也不能把英文地名解释自动延伸成所有相关族群的完整语言史。 |
 | 卡格雷夫：斯特吉亚村民参与诺德远北海象猎捕 | STU village_S1_3／s7XNUFCD | STU、NOR、CGEO | 地志称卡格雷夫曾是巴旦尼亚酋长格莱夫的环形堡垒，两代人前被斯特吉亚征服；近来村民加入诺德人与其他人群，每年夏季前往贝恩兰及更远区域寻找海象象牙。 | 官方简中基本对应英文。材料直接支持跨国季节性劳动与资源网络，但不支持所有猎手均为诺德人，也不说明雇佣合同、份额或王室许可。 |
 | 克沃尔：流亡者后裔、季节劳动与海象猎捕 | STU village_S6_1／banXBv0D | STU、NOR、SOC、ECO | 地志把克沃尔居民描述为卡拉迪亚各地逃亡者与不满者后裔；他们种大麦维生，部分人远行季节性工作，另有部分人加入诺德人及其他群体的远北海象猎捕。 | 官方简中基本对应英文。该材料说明同一社群可同时拥有农业基底与跨区季节劳动；不能将所有村民写成猎手，也不能把“逃亡者后裔”直接改写成奴隶后代。 |
 | 拉达克梅德：南迁诺德人与瓦肯家族的海象猎捕 | STU village_S6_2／Settlements.Settlement.text.village_S6_2 | STU、NOR、CGEO | 英文说当地许多家族追溯到南迁诺德人，或放弃森林游牧生活的瓦肯人；居民夏季向北捕猎海象，获取食肉、交易象牙与照明用脂。 | 官方简中同键文本却说该地位于车尔特格山脉盆地、荒野盛产狐狸、貂和兔子，与当前英文的沿海迁徙、海象捕猎和用途叙述不符。这是严重同键失配；当前 NOR/STU 研究须保存英文原文与中文异文，不以中文替代英文。 |
-| 迪纳尔：诺德扩张、朱姆内难民南迁与跨族通婚 | KHU castle_village_K6_1／Settlements.Settlement.text.castle_village_K6_1 | KHU、NOR、STU、CGEO | 英文说，近期诺德扩张把朱姆内河谷难民推向南方；他们与新近从草原抵达的部族通婚，村民如今在草原放牧绵羊。 | 官方简中同键文本描述无树山丘、冰冻河风与浓密羊毛，遗漏难民南迁和通婚关系。该差异会遮蔽诺德扩张造成的人口后果；应以当前英文分析迁徙机制，并把中文文本另存为译文异文。 |
+| 库赛特迪纳尔（Dinar）：诺德扩张、朱姆内难民南迁与跨族通婚 | KHU castle_village_K6_1／Settlements.Settlement.text.castle_village_K6_1 | KHU、NOR、STU、CGEO | 英文说，近期诺德扩张把朱姆内河谷难民推向南方；他们与新近从草原抵达的部族通婚，村民如今在草原放牧绵羊。 | 官方简中同键文本描述无树山丘、冰冻河风与浓密羊毛，遗漏难民南迁和通婚关系。该差异会遮蔽诺德扩张造成的人口后果；应以当前英文分析迁徙机制，并把中文文本另存为译文异文。 |
 | 卡拉哈力：诺德—斯特吉亚争夺的库赛特边疆 | KHU castle_village_K6_2／VbQhrOU9 | KHU、NOR、STU、CGEO | 英文明确称此地为库赛特联盟最北部、由斯特吉亚人与诺德人争夺的边境地区；冷冬与春季牧草支持当地养羊。 | 官方简中基本保留争夺边境与羊毛适应叙述。此处的“争夺”不能直接等同于固定国界、连续战争或任何一方的长期主权；具体战役、年代与控制持续时间未知。 |
+
+### 地名消歧补记（2026-10-25）
+
+- **Dinar／迪纳尔** 对应当前 NavalDLC 的 `castle_village_K6_1`，属于库赛特聚落；同名的 `castle_K6` 为 Dinar Castle，项目记录中也属于库赛特势力。当前帝国聚落源级表登记了 Amprela（`town_EN6`）与 Epinosa（`castle_village_EN7_1`），没有发现一个帝国聚落也叫 Dinar。此结论限定于当前核对的项目源级表与模块版本，不外推至所有历史版本。
+- **Tial／蒂亚尔** 对应 `town_S5`，是斯特吉亚城镇，与 Dinar 是不同聚落，也不是本轮四处英汉重大失配之一。
+- 本轮四处失配中的第三个是 **Radakmed／拉达克梅德**（`village_S6_2`，斯特吉亚村庄）；第四个是 **Dinar／迪纳尔**（`castle_village_K6_1`，库赛特村庄）。
+- 当前帝国聚落源级表未找到 Epinosa 的独立官方中文名称键，因此“厄毗诺萨”在此作为研究工作译名使用，不称为官方译名。
 
 ### 本轮跨线校勘的优先事项
 
-1. **当前英文与简中异文并列保存**：Amprela、Epinosa、Radakmed、Dinar 的简中内容与有效英文在关键叙事上不一致；Holarsver 另有 sea-trout 和 runoff 两处明显误译。研究正文不应将其拼接为一段“统一叙事”。
+1. **当前英文与简中异文并列保存**：Amprela（帝国城镇）、Epinosa（帝国村庄）、Radakmed（斯特吉亚村庄）、Dinar（库赛特村庄）的简中内容与有效英文在关键叙事上不一致；Holarsver 另有 sea-trout 和 runoff 两处明显误译。研究正文不应将其拼接为一段“统一叙事”。
 2. **把文化接触、国家边界和人口迁移分开**：诺德人可能作为移民、猎手、雇佣劳动者、被驱赶人口来源或边境竞争者出现；不能一律解释为诺德维格王室的国家行动。
 3. **不把共享资源区当成国家垄断区**：鲸类、海象、盐、鱼类与木材在不同聚落的叙述中出现，但没有明确的排他权、税率、资源许可或王室分成。
 4. **跨线独立性要逐条标注**：STU、VLA、EMP、KHU 与 NOR 线若引用同一条官方聚落地志，属于多线解读，不是多份独立史料。对方线确认状态仍须逐一补齐。
