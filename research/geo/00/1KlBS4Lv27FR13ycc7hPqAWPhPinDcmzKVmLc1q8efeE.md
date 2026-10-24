@@ -226,7 +226,7 @@ CGEO-S-BIO-001《卡拉迪亚大陆植被与自然景观研究——森林类型
 
 依据SandBox北帝国aEfsyVH4的原始英语“marcher lords”“pacified”“They drained marshes ...”等，以及聚落village_EN1_2、EN3_1、EN4_2、EN5_1、EN5_2、EN5_4、EN6_1、EN4_4。主结论：王国史述直接将授地、防边、排沼垦谷、伐林改牧相联，但微观村志无法逐村定位排沼工程；北方雨养麦地、肥土冲积谷地、尚存森林的牧马坡地、军用育马场、桑树梯田、灌丛清理、湖岸渔业与帕拉语林农共同构成多样农业地域。西部涅俄科律斯的地主近期清林建马场只能作外部比较，不能伪作北方工程证据。与CHC-EMP-GEN土地—军役研究交叉，却不重复元老院产权政治史。
 
-**关键源级校勘**：斯塔堤摩斯英文“highland streams wash fertile soil down the hillsides”是山溪携带肥土，不等于官方简中“溪流灌溉”；俄耳特拉英文“breed imperial horses with steppe stock from the east”是用东部草原育种牲畜配种，而不是官方简中“从东方草原运来牧草”。如不校正会虚构灌渠史或长途干草贸易。英文语义本轮经有效v1.4.8转录校核；完整官方SandBox ZIP本轮未重新逐条解包，NavalDLC文本变动需分版核验。新增校勘记入CGEO-TOP-AUD-002，外部文学对照不能算独立第二史料。
+**关键源级校勘**：斯塔堤摩斯英文“highland streams wash fertile soil down the hillsides”是山溪携带肥土，不等于官方简中“溪流灌溉”；俄耳特拉英文“breed imperial horses with steppe stock from the east”是用东部草原育种牲畜配种，而不是官方简中“从东方草原运来牧草”。如不校正会虚构灌渠史或长途干草贸易。英文语义现已通过SandBox v1.4.8原始ZIP与实际文本键复核；NavalDLC v1.2.8原始ZIP亦已解包并分版对照。两版共有238个聚落语言表键完成全量值比较，但这不等于对全部聚落逐条完成语义分类。新增校勘记入CGEO-TOP-AUD-002，外部文学对照不能算独立第二史料。
 
 历史队列注释（截至2026-10-23）：西部港市、东北森林与北方海岸贸易当时仍列入待研究队列；截至2026-10-24，问题4—6均已有独立初稿。
 
@@ -328,7 +328,7 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 
 已建立32条核心证据行的可编辑工作簿：[Google Sheets证据矩阵](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit)；GitHub方法/摘要：[矩阵伴随文件](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/cross-regional-land-labour-resource-benefit-matrix-2026-10-24.md)。工作簿含7地域横向比较、12项复核任务和字段说明。
 
-本轮读取官方归档中的SandBox、SandBoxCore、NavalDLC关键英文字符串，并对照项目官方简中百科导出/归档语言表。已登记Stathymos（wash fertile soil down）、Orthra（steppe stock）、Galend（takes in the catch... and wool）三项高优先英汉语义问题，以及Chornobas同ID的NavalDLC供粮改写与简中未同步问题。部分文本键在归档简中表缺失、但项目百科导出有中文，已标记追查，不伪称已完成同键本地化校验。
+本轮读取官方归档中的SandBox、SandBoxCore、NavalDLC关键英文字符串，并对照项目百科导出/归档语言表。已登记Stathymos（wash fertile soil down）、Orthra（steppe stock）、Galend（takes in the catch... and wool）三项高优先英汉语义问题，以及Chornobas同ID的NavalDLC供粮改写与简中未同步问题。进一步按实际text键跨Native、SandBox、NavalDLC三个归档的全部语言表搜索，确认项目导出的194条城镇/村庄描述中有43条（26城镇、17村庄）无法由当前归档的任何语言表同键复现；这说明来源链待核，不证明导出中文错误或非官方。逐条记录见[导出文本来源审计表](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1616318933)。
 
 下一阶段先完成译义冲突同步、中文键来源追查、版本差异登记及问题1—7强断言与证据ID的逐项绑定；之后才判断是否足以写跨区域综合机制论文。
 
