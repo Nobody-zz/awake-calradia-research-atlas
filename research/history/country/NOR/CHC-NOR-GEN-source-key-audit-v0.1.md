@@ -45,7 +45,7 @@
 | 14 家户财产、私人船只与海上武装 | ZlbiEKZL、d5lpGY8m、Gtdo9T3r、aEEnTzJY、l0jyALdX | NavalDLC naval_dialog_strings.xml |
 | 15 瓦尔诺瓦波尔与西比尔的毛皮网络 | aTMypBiY、PPadNxa6 | SandBox 与 NavalDLC settlements.xml；使用当前 DLC 英文时优先 NavalDLC 版本 |
 | 16 瓦尔切格的独立臣属关系 | i2VkRLBg | SandBox 与 NavalDLC settlements.xml |
-| 17 罗瓦拉堤斯与卡·班塞斯的诺德活动 | 1SnAH5K8、QD3oaaNK | SandBox 与 NavalDLC settlements.xml；卡·班塞斯英文在 NavalDLC 中有实质性改写 |
+| 17 罗瓦尔（旧称罗瓦拉堤斯）与卡·班塞斯的诺德活动 | 1SnAH5K8、QD3oaaNK | SandBox 与 NavalDLC settlements.xml；卡·班塞斯英文在 NavalDLC 中有实质性改写 |
 | 18 朱姆内水手在库赛特可汗麾下受雇 | DtEBwPpJ、HTe5X0E5、p4OvT9BS | NavalDLC naval_dialog_strings.xml |
 | 19 诺德水手的帝国海军经历与潘德拉克记忆 | iyfKyaRB、W01GTKJa、Y1fwBgHt、g0mUObp7 | NavalDLC naval_dialog_strings.xml |
 | 20 地方圣地、资源利用与王朝政治 | mSaQ0Cof、Y5YbDNKp、KtN9VSiR、OAvlqAql | NavalDLC settlements.xml、heroes.xml |
@@ -75,7 +75,7 @@
 - 两模块版本的核心叙事一致：诺德创立者为与巴旦尼亚内陆贸易而臣属于至高王，卷入当地政治后被斯特吉亚军队击败，城镇被对方索取。
 - NavalDLC 英文做了轻微编辑，不构成独立证据，也没有改变主要因果关系。
 
-### 4. 1SnAH5K8｜罗瓦拉堤斯
+### 4. 1SnAH5K8｜罗瓦尔（正文旧称罗瓦拉堤斯）
 
 - 两模块版本的主要叙事一致：诺德移民因银矿与毛皮财富传闻涌入；在瓦兰迪亚入侵前，诺德人口已多于卡拉德人。
 - 英文编辑差异主要是地名大小写，不改变当前可支持的结论。
