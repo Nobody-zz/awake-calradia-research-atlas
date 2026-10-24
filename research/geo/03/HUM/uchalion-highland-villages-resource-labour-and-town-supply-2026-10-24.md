@@ -143,3 +143,10 @@
 〔6〕CGEO-S-HUM-001《卡拉迪亚大陆城市形成与聚落体系研究》及全大陆覆盖审查：HUM-001：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/CGEO-S-HUM-001.md ；覆盖审查：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/continental-human-geography-first-round-audit-2026-10-24.md 。两者是项目研究成果，不另计为独立原始史料。
 
 〔7〕版本限制：本文以SandBox v1.4.8村庄地志为主要比较对象，引用的英文转录镜像用于检索原始语义；本轮未重新解包全部官方ZIP逐键校验，也未将NavalDLC同ID条目自动并入基础版。任何同ID的NavalDLC改写都应另立版本记录，不得当作虚构世界内部的历史演变。本文为研究初稿v0.1，待按原始英文与官方简中同键复核后再决定是否升级。
+
+
+## 第二轮原始ZIP版本校勘补充（2026-10-24）
+
+基础版与NavalDLC的同ID文本对照显示：格伦利斯里格（village_B2_2）的英文木材供给叙述未改，但SandBox与NavalDLC官方简中语言表均缺该描述键；项目百科导出有中文，故应继续追查导出来源/版本，不能把语言表缺键写成官方中文不存在。托·莱阿德（village_B3_3）在DLC中被重新定位到卡·班塞斯附近的巴旦尼亚低地，长期照料林木并供木材出售的关系仍在。杜恩（village_B5_1）基础版从河岸池塘/沼地采泥，DLC改为从山间溪床采泥，仍运往彭·坎诺克；盖恩塞斯（village_B5_2）由Rhennod山下林谷改为彭·坎诺克堡垒附近密林，出售湿地泥土给陶工的关系保留。格纳特·纳尔（village_B3_2）则把卡·班塞斯从“悬崖上的要塞”改为“海上要塞”，协助防守北方通道的叙述仍在。
+
+以上中文描述仍多沿用基础版位置文本。原料供给链和协助防御的直接陈述可以按各版本保留；采集地点、城镇相对位置与要塞地貌必须分版引用。本文尚未对安杜恩等未纳入本轮核心矩阵的所有条目完成逐键审计。
