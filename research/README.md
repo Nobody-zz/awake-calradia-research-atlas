@@ -101,6 +101,12 @@
 - [CHC-NOR-GEN｜诺德史历史关系卡：区域、迁徙、权力与跨境网络（第一批 v0.1）](history/country/NOR/CHC-NOR-GEN-historical-relations-cards-v0.1.md) · 首批21张关系卡，涵盖北方区域差异、国家形成、普通社会及跨国网络。
 - [CHC-NOR-POL｜从旧氏族集会到新王权：雅尔、土地与地方自治的制度转换（v0.4）](history/country/NOR/CHC-NOR-POL-assemblies-jarls-land-v0.4.md) · 政治制度专题，征服整合仅为其中一项待证假说。
 
+## history/country/NOR
+
+- [诺德史独立研究线总目录](history/country/NOR/README.md)
+- [CHC-NOR-GEN｜下一阶段执行计划与验收门槛（v0.2）](history/country/NOR/CHC-NOR-GEN-execution-plan-v0.2.md)
+- [CHC-NOR-GEN｜诺德史时间—空间骨架（v0.1）](history/country/NOR/CHC-NOR-GEN-time-space-skeleton-v0.1.md)
+
 ## history/90
 
 - [《卡拉迪亚之王》时间线二创文本梳理（公开仓库平行核对稿）](history/90/1TfweX-znEVL4mzd_Ct0l5fSj-0dQgIJ9kqBn7RUMXAs.md) · [云盘原件](https://docs.google.com/document/d/1TfweX-znEVL4mzd_Ct0l5fSj-0dQgIJ9kqBn7RUMXAs/edit)
