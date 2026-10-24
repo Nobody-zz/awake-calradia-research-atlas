@@ -216,5 +216,5 @@ NavalDLC／naval_dialog_strings.xml／d5lpGY8m 中一名诺德冒险者讲述自
 * CHC-STU-GEN／POL《斯特吉亚研究线跨线证据交接单》v0.1：用于潘德拉克龙旗时序、岁仑／Gotug 与阿契特侵夺、朗瓦德母系诺德谱系的跨线核验；不替代接收线结论。
 * 项目 `StoryMode.zip` 资料包检查（2026-10-24）：包内仅有 `module_strings.xml`、`story_mode_settlements.xml` 及英文／简中语言表；没有主线人物访谈对白或运行时程序集。此为当前归档缺口，不证明运行时从未包含相关对白。
 * SandBox／ModuleData／spclans.xml：clan_sturgia_1—clan_sturgia_9，A4wIVnM4、Eu932blQ、mddbprXj、AppNvfPv、s0AVQCbJ、EnZHNc2k、xw0eTkkb、W2HkbCeX、WssI6mOE；佣兵／边地团体 bsPd5zri、0u8ipbgn。
-* NavalDLC／ModuleData／naval_dialog_strings.xml：d5lpGY8m（领主 druzhina）。
+* NavalDLC／ModuleData／naval_dialog_strings.xml：d5lpGY8m（领主 druzhina）；Y1fwBgHt（诺德水手对潘德拉克后帝国海军欠饷的回忆）；DtEBwPpJ、p4OvT9BS（可汗与斯特吉亚在大湖交战、和解后转战帝国的回忆）。这些有效文本不包含年长的奥列克或龙旗争执。
 * 官方简中：SandBox／ModuleData／Languages／CNs／std_{spclans,settlements,heroes,world_lore_strings}_xml-zho-CN.xml；NavalDLC 对应 CNs 语言表。
