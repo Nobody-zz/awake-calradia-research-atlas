@@ -196,3 +196,6 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 ---
 
 Source of truth: [Google Docs](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
+
+
+43. 潘德拉克六方叙述综合比较（2026-10-24）：潘德拉克独立战役史工作稿更新至v0.3，新增帝国、斯特吉亚、巴旦尼亚、瓦兰迪亚、库赛特、阿塞莱六方记忆比较，分析战争动员理由、战场功劳与政治权威的错位、氏族损失的长期扩散，以及胜败叙事如何服务于后续权力合法性。依据为 v1.4.5 反编译恢复的十九名人物官方对白；这能研究官方叙事的结构，不等于十九份独立证词，也未完成与项目 v1.4.8.119303 程序集的逐字核验。I-0003已补充十九名人物与全部文本键值索引，版本记录追加校勘v3.16。潘德拉克工作稿：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Battle-Research-Working-Draft.md。
