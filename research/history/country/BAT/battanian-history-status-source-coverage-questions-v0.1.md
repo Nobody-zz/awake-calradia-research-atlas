@@ -153,3 +153,9 @@ GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/re
 当前官方英文资源直接支持：德罗修斯·涅雷采斯率帝国军团进入巴旦尼亚森林伏击（SandBox/wanderer_strings.xml〔DzyAgYIX〕、companion_strings.xml〔mk0l1BfB〕）；“最后军团”派系将阿雷尼科斯在潘德拉克之后废除剩余常备军、改依赖总督私人扈从与成本和领土控制相联系（SandBox/spclans.xml〔bhxVA9w7〕）；人物志将卡拉多格的继位疑云、小氏族支持与埃尔贡要求亲族忠于新王并列（heroes.xml〔8SiW73EF、HjGYftkH〕）。角色背景不是独立的中立战报，不能由这些材料补出兵力、伤亡和完整战术顺序。
 
 原始资源审计全文：research/history/country/BAT/battanian-pendraic-source-audit-and-evidence-matrix-v0.1.md；Google Docs：https://docs.google.com/document/d/10QphOpdszJF2AdbauG234WTmlz6lq8PxXJTL39cubb8/edit 。
+
+附录｜跨文化婚姻与巴旦尼亚精英网络（2026-10-24）
+
+纳入一条新的人物关系线索：来自卡·班塞斯的巴旦尼亚领主梅利迪尔·芬·乌万，其妻阿尔凯娅是帝国人。它与埃尔贡作为先王埃里尔·乌瑟莱恩之兄的线索共同提醒研究者，巴旦尼亚政治精英不能只按单一民族边界理解：王室亲缘、氏族组织、婚姻网络与跨帝国关系可能彼此交错。
+
+此例目前支持的只是“跨文化婚姻值得纳入政治网络分析”，不支持直接认定婚姻属于外交安排、梅利迪尔亲帝国、阿尔凯娅代表帝国利益，或巴旦尼亚贵族普遍与帝国通婚。下一步应核对两人的官方英文人物志、官方简中显示名、婚姻及氏族字段，再调查相对年代与其他可互证的跨文化婚姻案例。
