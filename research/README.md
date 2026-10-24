@@ -366,9 +366,9 @@ v1.9 使用完整高程图绘图区和中性相对高程色带，不执行海陆
 - [自然地理研究线｜交接与第一阶段工作计划（v0.1）](geo/00/natural-geography-research-line-handover-2026-10-24.md) · [Google Docs 原件](https://docs.google.com/document/d/17YLRDnYY4o0SI0Om_oJ_MZQMTJu_Qvd3nTUOHk7tGVw/edit)
 - [自然地理源级复核备忘录01｜纳哈撒局地水文与北方河湖地志的版本分离（v0.3）](geo/00/natural-geography-source-audit-01-nahasa-and-northern-waters-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1dlRqWn1R8VzeddpHjIaHdeBz-wk-fuTQLTRxSwg8dNI/edit)
 - [自然地理源级复核备忘录02｜聚落实体与文本键映射、气候植被同键异文审计（v0.1）](geo/00/natural-geography-source-audit-02-settlement-key-mapping-and-environmental-texts-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/12tBeuWmMPpEmnM3rYZCBDj4g638RxY-4AKM0jq_jNas/edit)
-- [自然地理研究问题图谱与证据矩阵（启动版 v0.7）](geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs 原件](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit)
+- [自然地理研究问题图谱与证据矩阵（启动版 v0.8）](geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs 原件](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit)
 - [CGEO-NAT-AUD-001｜水文、地貌、气候、植被与区域划分同键一致性审查 v0.1](geo/00/natural-geography-cross-paper-consistency-audit-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1c9zvE0ZkzxkzSPj29s5wh8xY6RMYh998RJRI1mlyezQ/edit)
-- [纳哈撒的局地水文地理：达玛尔河洪泛地、旱谷集水与井水绿洲的分异（专题论文初稿 v0.1）](geo/00/natural-geography-nahasa-local-hydrology-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1CrH8FMibF0hwEEwiWebFUCKvmjSYZX8JoFEONnpmV-I/edit)
+- [纳哈撒的水文地貌分异与聚落用水适应：达玛尔河洪泛走廊与杰尔贾赖峭壁旱谷（专题论文初稿 v0.2）](geo/00/natural-geography-nahasa-local-hydrology-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1CrH8FMibF0hwEEwiWebFUCKvmjSYZX8JoFEONnpmV-I/edit)
 - [CGEO-MAP-RES-018｜原始地图资源可恢复性与港口衍生几何复审 v1.1](geo/90/EVD/CGEO-MAP-RES-018.md) · [Google Docs v1.1](https://docs.google.com/document/d/1DAC0wDXLP0tantGCQo522EUF3v1AQXS-yztADc43miU/edit)
 - [自然地理空间核验备忘录03｜纳哈撒聚落实体坐标与双版本高程图的初步配准（v0.1）](geo/00/natural-geography-spatial-audit-03-nahasa-settlement-coordinate-overlay-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1bILR1-Lrt7Ai9nrwfECG_ln7jF07KfCj9QMWP9VL0BU/edit) · [图件](https://drive.google.com/file/d/1tZiucv0sSqJ_ED1CNLFfW5DLzgxmTrHO/view)
 - [CGEO-O-GEN-001｜卡拉迪亚大陆地理总论（v0.3）](geo/02/GEN/13SUKPrj1jBJJ2LzPwMgnBJK6xoxuG8kLIaVSEHkX5IA.md) · [云盘原件](https://docs.google.com/document/d/13SUKPrj1jBJJ2LzPwMgnBJK6xoxuG8kLIaVSEHkX5IA/edit)
@@ -380,4 +380,4 @@ v1.9 使用完整高程图绘图区和中性相对高程色带，不执行海陆
 - [CGEO｜官方地理证据登记表](geo/90/EVD/1UmtjdtlvO6mcFPYcQicHuprkZDxmWv0aMbUxk-TlfeM.md) · [云盘原件](https://docs.google.com/document/d/1UmtjdtlvO6mcFPYcQicHuprkZDxmWv0aMbUxk-TlfeM/edit)
 - [CGEO-MAP-AUD-001｜原版与《战帆》地图图像实见记录](geo/90/EVD/1tsQ0Mz_nHNZYI0wAyazB3RFfW3Kg06nPYKD2bXc7jy0.md) · [云盘原件](https://docs.google.com/document/d/1tsQ0Mz_nHNZYI0wAyazB3RFfW3Kg06nPYKD2bXc7jy0/edit)
 
-**同步提醒：** Google Drive 与 GitHub 不会自动同步；CGEO-S-HYD-001 已于2026-10-24修订至v0.3并完成双端同步。CGEO-S-CLM-001 v0.1仍链接在Draft PR #1。自然地理研究线已完成首篇纳哈撒局地水文地理专题论文初稿v0.1，并将问题矩阵更新至v0.7；后续转入论文内部审阅、证据逐项复核及可证伪的原始河道几何恢复，不再停留于无差别摸底。
+**同步提醒：** Google Drive 与 GitHub 不会自动同步；CGEO-S-HYD-001 已于2026-10-24修订至v0.3并完成双端同步。CGEO-S-CLM-001 v0.1仍链接在Draft PR #1。自然地理研究线已完成首篇纳哈撒水文地貌专题论文已按地理学叙述重写至v0.2，问题矩阵更新至v0.8；后续围绕河流—洪泛走廊、山地—旱谷集水地域及其可证伪空间关系推进。版本差异仅作为资料不确定性控制，不再主导论文叙述。
