@@ -292,6 +292,6 @@ Google Docs：https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrta
 
 ### 8.10 项目中文百科导出的来源边界（2026-10-24）
 
-对本项目导出的194条城镇/村庄描述与原始ZIP进行逐键比对后，发现43条（26城镇、17村庄）的settlements.xml文本键在SandBox与NavalDLC的英文及简中std_settlements_xml表中均缺失，但项目导出中有中文段落。另有12个城堡附属聚落与1个retirement_retreat的fallback键同样缺失，但不在该导出的194条记录内。README与file_manifest只记录文件级来源与哈希，不提供逐键翻译映射，因此现阶段不能把这43条导出中文当作已由归档官方同键语言表验证的译文；也不能在来源未明时断言其必然不是官方译文。逐条名单见[导出文本来源审计表](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1616318933)。
+对本项目导出的194条城镇/村庄描述与原始ZIP进行逐键比对后，发现43条（26城镇、17村庄）的实际text键在SandBox与NavalDLC英文及简中std_settlements_xml表中均缺失，跨Native、SandBox、NavalDLC三个归档的全部语言表搜索也未找到这些键，但settlements.xml仍保留英文fallback、项目导出中有中文段落。两版聚落定义各有56个非空文本键不在对应英文/简中聚落表中，其中43条出现在该导出的194条记录内，另有12个城堡附属聚落及1个retirement_retreat。README与file_manifest只记录文件级来源与哈希，不提供逐键翻译映射，因此现阶段不能把这43条导出中文当作已由归档官方同键语言表验证的译文；也不能在来源未明时断言其必然不是官方译文。逐条名单见[导出文本来源审计表](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1616318933)。
 
 另一个相关可复现性问题是名称来源：`encyclopedia-zh-cn.md`标注中文名称来自Native简中`std_common_strings_xml`，但当前Native.zip与file_manifest.csv均不含该文件，故不能从本归档复现其名称映射。该情况不证明导出名称错误或非官方；只应将其来源链标记为待核。NavalDLC中实际存在的官方简中名称键则可逐键直接确认。
