@@ -1,8 +1,8 @@
 # 自然地理研究问题图谱与证据矩阵（启动版 v0.9）
 
-日期：2026-10-24
+日期：2026-10-25
 
-Google Docs 原件：[自然地理研究问题图谱与证据矩阵 v0.8](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit?usp=drivesdk)
+Google Docs 原件：[自然地理研究问题图谱与证据矩阵 v0.9](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit?usp=drivesdk)
 
 GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md)
 
