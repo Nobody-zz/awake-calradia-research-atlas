@@ -352,3 +352,14 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 新增[聚落文本版本与官方简中同步审计](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/settlement-text-version-and-localization-audit-2026-10-24.md)和工作簿「版本差异审计」表。审计按实际实体ID、英文名称、文本键、英文描述与简中名称/描述对照，而不假定同ID在两个模块中始终是同一实体。关键发现包括Stathymos的DLC英文已不再写肥土/麦作、Galend文本键与捕鲸者描述改写、Chornobas明确向奥莫尔供粮，以及Tismil/Kohi Ajik实体映射互换。当前32条证据登记中的字段错位已修复，所有证据类型和复核状态通过下拉选项校验。
 
 本矩阵仍是核心案例抽样，不是全部聚落或七篇专题的穷尽式审计。后续按优先级将各论文强断言绑定到证据ID，并继续追查简中缺键、DLC旧译与产权/税租/收益分配缺证。
+
+
+## CGEO-S-HUM第二轮核心校勘与断言绑定（2026-10-24）
+
+- [聚落文本版本与官方简中同步审计](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/settlement-text-version-and-localization-audit-2026-10-24.md)：SandBox v1.4.8与NavalDLC v1.2.8的聚落ID、英文实体名、文本键、英文/简中语言表差异及核心案例。
+- [全大陆人文地理核心断言—证据绑定表](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/claim-evidence-crosswalk-2026-10-24.md)：问题1—7、城市体系总论和跨区域比较的28条首轮断言绑定。
+- [跨区域土地—劳动—资源控制—收益分配证据矩阵](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/cross-regional-land-labour-resource-benefit-matrix-2026-10-24.md)：统一的比较边界、证据等级和后续任务。
+- [全大陆覆盖审查与优先问题图谱](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/continental-human-geography-first-round-audit-2026-10-24.md)：包含原始ZIP全量键集合比较与中文导出来源边界。
+- [工作簿｜版本差异审计](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1907932238)、[断言—证据绑定](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1515316224)、[导出文本来源审计](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1616318933)。
+
+当前结果的解释边界：两版聚落英文语言表共有238个键且所有共有英文值均不同；对应简中共有键值全部相同。另有43条项目导出城镇/村庄中文描述无法由归档SandBox/NavalDLC英文或简中聚落语言表的同键记录验证，来源/版本仍待查。上述键值比较不等于所有聚落的逐条语义审查，也不证明文本更新等同于世界内部历史变化。
