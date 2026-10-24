@@ -784,7 +784,7 @@ SandBox／ModuleData/spclans.xml 记录九个库赛特氏族的 initial_home_set
 
 ### 五、开发注释的限度与奥通加德假说
 
-clan_khuzait_2 附近的旧开发注释称，库吉特在兀儿浑征服中获得广阔领地，后来男性成员损失严重，阿契特曾试图夺取其领土，墨速宜领导反攻。这是解释“库吉特历史授地—当前阿契特持有奥通加德”这一差异的重要设计史线索，但注释没有点名奥通加德，也没有说明反攻的结果。它不能单独证明阿契特夺取的就是奥通加德，更不能给该城的产权转手定年。
+clan_khuzait_2 附近的旧开发注释称，库吉特在兀儿浑征服中获得广阔领地，后来男性成员损失严重，阿契特曾试图夺取其领土，墨速宜领导反攻。这是解释“库吉特历史授地—当前阿契特持有奥通加德”这一差异的重要设计史线索，但注释没有点名奥通加德，也没有说明反攻的结果。更值得注意的是，SandBox／ModuleData/settlements.xml 在 town_K1（巴尔塔罕）之前的旧注释标为“clan 3, Arkits”，在 town_K4（奥通加德）之前则标为“clan 2, Khergits”；而生效 owner 字段恰好相反：town_K1 归 clan_khuzait_2（库吉特），town_K4 归 clan_khuzait_3（阿契特）。现行 spclans.xml 的 initial_home_settlement 又与生效 owner 一致，分别把巴尔塔罕列为库吉特据点、奥通加德列为阿契特据点。这组交叉错位与“开发阶段曾将两城分属两氏族、后来改动开局分配而未同步所有注释或历史地志”的解释相容，但不能证明改动的时间、原因，也不能排除真实世界内发生过领地转移。由于 SandBox 与 NavalDLC 复载了同一组注释，它们不是独立的第二份证据。
 
 同一批开发注释存在人物标签与生效字段不一致的例子。因此，本研究只把其中的“阿契特曾试图争夺库吉特领土”视为开发阶段的政治冲突构想，不把它升格为已经证实的事件；注释中的亲属标签也不用于推翻本线已采用的墨速宜—岁仑夫妻关系。
 
@@ -807,7 +807,7 @@ A21-02｜SandBox v1.4.8／ModuleData/settlements.xml／town_K1 YNm9vaHw、town_K
 A21-03｜NavalDLC v1.2.8／ModuleData/settlements.xml／town_K4 jlLJSudl 与 Languages/CNs/std_settlements_xml-zho-CN.xml：奥通加德地志语法修订，但授地对象仍为库吉特；当前 owner 仍为阿契特。
 A21-04｜SandBox v1.4.8／ModuleData/heroes.xml／dead_lord_6_2 dfmSNTZk、lord_6_4 ALtZaRzc、lord_6_8、lord_6_81、lord_6_11、dead_lord_6_3 CCfjl9eU、dead_lord_6_4 f9Ha1S0s、lord_6_5 及其子女字段：墨速宜—岁仑家庭、库由格与阿契特现任领袖的父子关系、兀儿浑乃特家族字段。
 A21-05｜SandBox v1.4.8／ModuleData/world_lore_strings.xml／dpYb59BB、RyrdJI5j、l4quU1x3、yqn4Wtwr 及官方简中同键：墨速宜对保护与氏族安全的政治解释、阿契特的祖先谱系和有条件效忠。
-A21-06｜SandBox v1.4.8／ModuleData/spclans.xml／clan_khuzait_2 与 clan_khuzait_3 后的 XML 注释：只作为开发阶段的设计史材料，不计为生效历史叙述的独立互证。
+A21-06｜SandBox v1.4.8／ModuleData/spclans.xml／clan_khuzait_2、clan_khuzait_3 附近注释，以及 settlements.xml 中 town_K1、town_K4 前的氏族标签：这些开发阶段标签与生效 owner／initial_home_settlement 不一致，只作设计史线索，不计为生效历史叙述的独立互证。
 A21-07｜Native、SandBoxCore、SandBox、StoryMode、NavalDLC 归档 ZIP 的 XML 与语言表关键词排查记录：Ortongard 仅见于两版聚落条目；Gotug 无命中；相关 StoryMode 候选包不含主线访谈正文。
 
 ## 二十二、结论与下一步研究动作
