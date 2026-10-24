@@ -26,11 +26,9 @@
 
 本文所称“权威接口”是研究者的关系性分析术语，并非游戏文本中的法定制度名称。它指国家权力、地方行动者与受影响群体发生联系时可观察到的关系形式。比较时采用三个共同问题：**关系状态**（正式授权、功能性利用、选择性吸纳、冲突、受邀介入或合同关系）；**资源基础**（地方知识、组织服务、信息与声誉控制、社区认可、合同与支付）；**服从结果**（实际服从、选择性合作、公开抵抗、程序性接受或无法确定）。这些维度并不预设案例属于同一种制度，也不把“国家能力”当作可以从角色故事直接测量的数量。
 
-本文以官方英文为主要解释依据，官方简中用于校验译义和人物身份。两处本地化差异直接影响制度解释：自由民英文原文称年轻人进入执政官和皇帝的 “retinues”，对应简中译为“私兵”；本文保留英文较宽的“随从队伍”，不预先判定其法定身份。波罗斯英文地志 key rGXdJybe 存在于 settlements.xml，但未在本轮随附的 std_settlements_xml-zho-CN.xml 中找到对应 key；项目百科有《波罗斯》中文条目，却将 “Livestock rustling and blood feuds are common here” 写成“嘶鸣的牲畜和流血的斗殴在此地成了一道靓丽的风景线”。因此，波罗斯的自治、牲畜盗窃、血仇和仲裁论证以英文为主，中文条目只作辅助文本，具体本地化来源链保留为待核问题。
+本文以官方英文为主要解释依据，官方简中用于校验译义和人物身份。自由民英文原文称年轻人进入执政官和皇帝的 “retinues”，对应简中译为“私兵”；本文保留英文较宽的“随从队伍”，不预先判定其法定身份。波罗斯 key rGXdJybe 与阿耳戈隆 key LqPJY4s9 均存在于 settlements.xml，但未在本轮随附的 std_settlements_xml-zho-CN.xml 中找到对应 key；项目百科提供两条中文地志文本，因此在本稿中只将其作为辅助中文材料，不伪称为当前语言表的逐键命中。波罗斯百科将 “Livestock rustling and blood feuds are common here” 写成“嘶鸣的牲畜和流血的斗殴在此地成了一道靓丽的风景线”，存在明显修辞偏移，故相关解释以英文为主。
 
 本文也不将不同文化中的相似机制直接等同。阿塞莱巷区守护者和巴努·奇拉勒等材料只作为比较案例；它们可以检验“社区信任”“保护费”或“地方强制”等分析概念的外推范围，却不能证明帝国与阿塞莱拥有同样的制度。本文的结论因此分为三层：文本直接叙述、可提出的机制解释，以及现有材料不能支持的强结论。
-
-此外，两处英汉差异直接影响制度解释。自由民英文原文称年轻人进入执政官和皇帝的 “retinues”，对应简中译为“私兵”；本文保留英文较宽的“随从队伍”，不预先判定其法定身份。波罗斯英文地志 key rGXdJybe 存在于 settlements.xml，但未在本轮随附的 std_settlements_xml-zho-CN.xml 中找到对应 key；项目百科有《波罗斯》中文条目，却将 “Livestock rustling and blood feuds are common here” 写成“嘶鸣的牲畜和流血的斗殴在此地成了一道靓丽的风景线”。因此，波罗斯的自治、牲畜盗窃、血仇和仲裁论证以英文为主，中文条目只作辅助文本，具体本地化来源链保留为待核问题。
 
 ## 三、功能性利用：秘密之手与正式授权的边界
 
@@ -101,7 +99,7 @@
 - SandBox v1.4.8，spclans.xml：hidden_hand，key nQOf27Rx；eleftheroi，key 9qAWNBvA；legion_of_the_betrayed，key bhxVA9w7。
 - SandBox v1.4.8，wanderer_strings.xml：backstory_b/c.spc_wanderer_empire_10，keys pzK7TN05、sfFLudTM；backstory_a/b/c.spc_wanderer_aserai_4，keys LjkQ4fYp、Z8TfQDSV、PWpTT0NM。
 - SandBox v1.4.8，settlements.xml：town_ES3，key rGXdJybe；town_EN6，key YYYxOiCq；town_EN4，key LqPJY4s9；town_EN5，key 8UJ3cPrZ。
-- 官方简中校勘：对应角色／派系 key 的语言表；《波罗斯》中文条目见项目上传的 encyclopedia-zh-cn.md，但 rGXdJybe 未在当前附件的 std_settlements_xml-zho-CN.xml 中找到直接命中，详见附录。
+- 官方简中校勘：对应角色／派系 key 的语言表；《波罗斯》《阿耳戈隆》中文条目见项目上传的 encyclopedia-zh-cn.md，但 rGXdJybe 与 LqPJY4s9 未在当前附件的 std_settlements_xml-zho-CN.xml 中找到直接命中，详见附录。
 
 ## 附录一：源级证据清单
 
@@ -129,7 +127,8 @@
 - Legion of the Betrayed：“被弃者军团”。
 - Bureau of Barbarian Affairs：角色故事简中“蛮族事务局”。
 - Aserai alley protector：对应简中使用“守护者”。
-- rGXdJybe：英文原文存在于 settlements.xml，但本轮对应简中语言表没有该 key；项目百科的中文条目作为辅助文本使用，不能称为当前语言表逐键命中。
+- rGXdJybe（波罗斯）、LqPJY4s9（阿耳戈隆）：英文原文存在于 settlements.xml，但本轮对应简中语言表没有这些 key；项目百科的中文条目作为辅助文本使用，不能称为当前语言表逐键命中。
+- 8UJ3cPrZ（密泽亚）、YYYxOiCq（安普雷拉）：英文与简中语言表均存在同键文本；英文作为主要解释依据，简中用于校译。
 
 ## 附录三：版本与校验信息
 
