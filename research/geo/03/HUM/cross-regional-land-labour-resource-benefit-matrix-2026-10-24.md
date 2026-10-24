@@ -47,7 +47,7 @@
 ## 五、下一轮执行顺序
 
 1. **逐段清理正文中的旧表述**：Stathymos、Orthra、Galend的语义冲突已登记，乔诺巴斯、Tismil/Kohi Ajik等版本差异已核对；接下来检索并修订各论文正文、摘要和史料表中的残留旧译、旧版位置及“暂用名”声明。
-2. **追查中文导出与归档语言表缺键**：全量检查项目导出的194条城镇/村庄描述后，发现43条（26城镇、17村庄）的settlements.xml文本键在SandBox与NavalDLC的英文及简中聚落语言表中均缺失，但项目导出有中文段落。README与file_manifest只提供文件级路径、版本、哈希和节点数，未解释逐键翻译来源；来源仍未决。详见[导出文本来源审计表](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1616318933)。
+2. **追查中文导出与归档语言表缺键**：已对照原始SandBox.zip、NavalDLC.zip与Native.zip，核验项目导出的194条城镇/村庄描述。43条（26城镇、17村庄）的实际`text`键在这三个归档中的全部语言表里均找不到，但两版`settlements.xml`仍有英文fallback、项目导出有中文。全模块聚落定义另有12个城堡附属聚落及1个retirement_retreat的非空文本键也不在对应英文/简中表中。README与file_manifest只提供文件级路径、版本、哈希和节点数，未解释逐键翻译来源；来源仍未决。详见[导出文本来源审计表](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1616318933)。
 3. **扩大断言—证据绑定**：工作簿已新增“断言—证据绑定”表，首轮绑定28条可检验断言。下一步逐段检查七篇专题与城市体系总论，补上遗漏断言、反证和证据不足标记。
 4. **按优先级分类全量键差异**：两版共有238个英文文本键已完成值差异比对，但尚未逐项进行历史语义分类；先分类可能改变政治、生产、市场或地貌解释的条目，再扩展其余案例。
 5. **保留核心制度缺口**：产权、收益分配、人口/市场总量、税租与劳动合同仍缺直接证据；不据此撰写统一制度论或定量人口论文。
