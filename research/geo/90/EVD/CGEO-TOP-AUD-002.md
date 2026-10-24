@@ -215,3 +215,21 @@ Google Docs：https://docs.google.com/document/d/1r5xLCwljVokxTeA5pk86bdX0jXtVzl
 5. 斯温斯塔克、达格比、雅斯克韦格、比约伦比尔的译名来源是另一项NavalDLC独立名称键校勘，不是Native.zip或百科。它们的证据级别与前述基础版名称应分开登记。
 
 **最终判定：**在Native.zip／百科能够直接覆盖的论文聚落名称中，本轮没有发现剩余中文名称错配；需要保留的限制是新增DLC地域名的来源等级、城堡附属村庄缺少百科独立标题，以及Plain of Ichala尚无已核简中名称键。论文正文与Google Docs版已同步补注这些限制。
+
+
+## 2026-10-24｜CGEO-S-BIO-001 官方中文译名复核与修订
+
+本轮以用户提供的 `encyclopedia-zh-cn.md` 及 `Native.zip`、`SandBox.zip`、`NavalDLC.zip` 内官方简体中文地志逐键核对植被论文中的聚落和地理名称。确认并修订如下：
+
+| 英文名称／ID | 论文旧用名 | 官方中文地志用名或处理 | 依据与说明 |
+| --- | --- | --- | --- |
+| Llanoc Hen / `castle_village_B2_1` | 兰诺克·亨 | **拉诺克·亨** | SandBox、NavalDLC同键中文均如此 |
+| Bunqaz / `castle_village_A7_2` | 布恩卡兹 | **本盖兹** | SandBox、NavalDLC同键中文均如此 |
+| Ailta Druin | 艾尔塔·德鲁因 | **艾塔·德鲁因** | SandBox官方中文世界知识地志可核；旧文多加“尔”字 |
+| Irkaria / Ircara | 伊尔卡里亚 | **伊卡拉荒原** | 多条SandBox与NavalDLC中文地志直接用“伊卡拉荒原”；保留英文异拼用于源文检索 |
+| Plain of Ichala | 伊察拉平原／伊察拉古湖床 | **Ichala平原**（保留英文） | 已检查的官方简体中文地志没有为 Plain of Ichala 提供一致、直接的译名；不能将自行音译误称官方译名 |
+| Ebor Peninsula | 埃博半岛 | **保留“埃博半岛”，附异译说明** | NavalDLC官方中文文本出现“埃博半岛”“埃伯半岛”“伊博半岛”，同一模块内不一致；不应声称其为统一稳定的官方译名 |
+
+其余本轮抽查的聚落名包括乌瑟莱姆、弗林托格、卡南克、鄂木罗托克、福林、乔诺巴斯、斯科林、库鲁卢克、巴里哈勒、马赫卢勒、厄利帕、萨戈拉、兰塔斯、特美摩斯、加隆托、巴格、阿利斯维斯特、弗雷吉昂、阿特里翁、鲁兰德和色雷刻托；与 SandBox/NavalDLC 同键中文文本相符。用户所附 encyclopedia 文件未覆盖城堡及附属村落，故不将其缺项当作官方译名不存在的证据。
+
+Native.zip 中的中文语言表主要用于 Native 模块通用文本，不能替代 SandBox/NavalDLC 对聚落名和聚落地志的直接本地化键。以上修订已同步至 CGEO-S-BIO-001 正文。复核范围是本文实际出现的名称，不代表完成全大陆所有地名的总校勘。
