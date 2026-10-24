@@ -88,6 +88,8 @@
 - [跨文化地方中介与非正式权力关系矩阵 v0.1](history/03/cross-cultural-local-intermediaries-power-relations-matrix-v0.1.md) · [CSV](history/03/cross-cultural-local-intermediaries-power-relations-matrix-v0.1.csv)
 - [CHC-EMP-GEN｜地方中介关系矩阵后的论文范围裁决 v0.2](history/country/EMP/imperial-local-order-matrix-scope-adjudication-v0.2.md)
 - [CHC-EMP-GEN｜帝国权威的地方接口：论文候选稿 v0.2](history/country/EMP/imperial-local-order-paper-candidate-v0.2.md)
+- [CHC-EMP-GEN｜帝国权威的地方接口：论文候选稿 v0.3](history/country/EMP/imperial-local-order-paper-candidate-v0.3.md)
+- [CHC-EMP-GEN｜论文候选稿 v0.3 结构复审记录](history/country/EMP/imperial-local-order-paper-candidate-structural-review-v0.1.md)
 - [CHC-EMP-GEN｜反叛组织的资源、赞助与强制：第二篇候选专题卡 v0.1](history/country/EMP/imperial-rebel-organizations-resources-patronage-coercion-research-card-v0.1.md)
 
 ## history/country/BAT
