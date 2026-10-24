@@ -75,7 +75,7 @@ NavalDLC 的 Glintor〔castle_village_B6_2〕写巴旦尼亚海崖谷地饲养�
 
 在较晚王权阶段，现有 heroes.xml〔lord_5_1；8SiW73EF，lord_5_3；HjGYftkH〕以及肖农〔town_B4；X3MsaG39〕可直接确认：前王埃里尔·乌瑟莱恩与卡拉多格有收养关系；旧王在肖农附近失踪；旧王亲族芬·登吉尔怀疑卡拉多格，却仍因维护共同王权而承认新王。乌瑟莱恩是埃里尔的姓氏，不应另造一位“乌瑟莱恩王”。卡拉多格是否谋害先王仍无有效原始文本予以断言。
 
-《潘德拉克战役》既有主工作稿所据玩家对白整理，还记梅利迪尔称旧王曾与帝国皇帝订立休战誓约、卡拉多格登位后战争立场变化，卡拉多格和埃尔贡则突出新王军功。这里必须再次标明：本项目保存的 StoryMode.zip 尚不包含完整现行主线人物访谈英语资源，故这些对白只作为待与原文比对的二手转录，不能冒充已完成主线原始校勘，也不能由其直接确立1070年代任一年准确的出兵日序。
+《潘德拉克战役》主工作稿所引梅利迪尔、卡拉多格和埃尔贡答话现可从 Bannerlord v1.4.5 反编译代码恢复为 A2 级文本：梅利迪尔称旧王曾与帝国皇帝订立休战誓约，卡拉多格与埃尔贡则以不同方式解释新王继位、战争诉求和军功。项目保存的 StoryMode.zip 不含采访答话 XML，且 v1.4.8.119303 同版本逐字核验尚未完成；这些回答证明的是官方叙事中的人物说法，不能独立确立誓约法律效力或1070年代任一年的准确出兵日序。
 
 较为稳健的结构性推断是：此前对帝国及北、西诸国长期边境压力，使军事统合具有现实吸引力；旧王失踪和继位争议让不同贵族的对外战争政策重新获得争论空间；卡拉多格的军事声望为他巩固王权提供工具，但联盟作战成本和不同氏族对战争利益的判断可能制约其统治。这三层关系尚没有足以证明“卡拉多格通过一次胜利完成国家统一”的证据。若旧王真实愿意维持休战，则更说明同一外部压力之下，国王与氏族仍可能作出不同政策选择；不能把战争视作巴旦尼亚各阶层的唯一目标。
 
@@ -127,5 +127,10 @@ A5 NavalDLC/ModuleData/settlements.xml：town_V2〔nhmBQIC4〕、village_V2_2 Or
 A6 SandBox/ModuleData/heroes.xml：lord_5_1〔8SiW73EF〕、lord_5_3〔HjGYftkH〕；SandBox/wanderer_strings.xml〔wH5GepOD、WmGxA0P1〕。
 A7 官方简体中文显示名的附带文献：本项目 v1.4.8.119303《encyclopedia-zh-cn.md》，对应聚落 title 和历史地志；中文译文涉及人物职业、vanished 等语义时，以当前对应模块有效英文为准。
 O1 TaleWorlds 2017-10-19 官方巴旦尼亚文化介绍：https://www.taleworlds.com/en/Games/Bannerlord/Blog/30 ，同源于 Culture.battania 的历史简介，不算与游戏同段完全独立互证。另见其明确说明人物、建筑采取复合历史灵感，而非单一现实民族投影。
-B1 跨国《潘德拉克战役》主工作稿，Google Docs：https://docs.google.com/document/d/1hc4HEGsIcvZ-y3sAwSlxAg-08yFbcUk4xA0hujGnDoM/edit ；其中主线人物对白部分主要来自玩家英语转录，尚未与本项目现行 StoryMode 有效原始对白完全比对。
+B1 跨国《潘德拉克战役》主工作稿，Google Docs：https://docs.google.com/document/d/1hc4HEGsIcvZ-y3sAwSlxAg-08yFbcUk4xA0hujGnDoM/edit ；其中主线人物对白现有 A2 级反编译文本可核，尚未与本项目 v1.4.8.119303 运行时逐字比对。
 B2 Mount & Blade Wiki《Battania》与《Battle of Pendraic》仅供发现待核命题，不作为官史等级证据；特别注意 Cantrec 旧语一说需要实际早期版本文本支持。
+
+
+## 补记｜潘德拉克对白源级状态（2026-10-24）
+
+卡拉多格、埃尔贡、梅利迪尔的十二段采访答话已从 v1.4.5 反编译代码恢复。它们可作为研究巴旦尼亚战时动员和新王合法性叙事的 A2 文本，但不能证明弑君、休战条约的法律效力或各氏族统一服从卡拉多格。完整十九人证词索引：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Interview-Source-Inventory-v0.1.md。
