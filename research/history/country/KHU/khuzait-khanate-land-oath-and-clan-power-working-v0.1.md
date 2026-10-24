@@ -790,7 +790,7 @@ clan_khuzait_2 附近的旧开发注释称，库吉特在兀儿浑征服中获�
 
 ### 六、阶段性命题与下一步
 
-全模块检索的负面结果：本轮对 Native、SandBoxCore、SandBox、StoryMode、NavalDLC 五个归档 ZIP 内的 XML 及官方语言表检索。Ortongard 只出现在 SandBox／NavalDLC 的 town_K4 聚落正文、名称字段及对应语言表；未发现其他官方条目把该城与后来的领地争夺相连。Gotug 在这些归档的 XML 和语言表中没有命中；“ten years ago”与“made a bid for their territories”只出现在 SandBox／ModuleData/spclans.xml 的旧开发注释。已上传 StoryMode.zip 仅含 module_strings.xml、story_mode_settlements.xml 及两份语言表，其中没有 Khergit、Arkit、Mesui、Solun、Gotug、Ortongard、Pendraic 或 Monchug 的正文命中。此结果只限定于现有候选归档，不能证明完整游戏资源或其他版本绝无相关对白；但它说明当前没有可用的独立官方主线文本来补上奥通加德的产权链。
+全模块检索的负面结果：本轮对 Native、SandBoxCore、SandBox、StoryMode、NavalDLC 五个归档 ZIP 内的 XML 及官方语言表检索。字符串 Ortongard 只出现在 SandBox／NavalDLC 的 town_K4 聚落正文、名称字段及对应语言表；没有发现生效人物传记或政治对白直接把奥通加德与后来的领地争夺相连。不过，settlements.xml 在 town_K1、town_K4 前分别保留“clan 3, Arkits”和“clan 2, Khergits”的旧标签，且与生效 owner 交叉错位；这是开发阶段配置线索，不是事件叙述。Gotug 在这些归档的 XML 和语言表中没有命中；“ten years ago”与“made a bid for their territories”只出现在 SandBox／ModuleData/spclans.xml 的旧开发注释。已上传 StoryMode.zip 仅含 module_strings.xml、story_mode_settlements.xml 及两份语言表，其中没有 Khergit、Arkit、Mesui、Solun、Gotug、Ortongard、Pendraic 或 Monchug 的正文命中。此结果只限定于现有候选归档，不能证明完整游戏资源或其他版本绝无相关对白；但它说明当前没有可用的独立官方主线文本来补上奥通加德的产权链。
 
 P-KHU-POL-LOCAL-08（工作命题）：1084年前后开局配置显示九氏族之间的六城九堡分布不平均；这是领地格局的证据，不是历史授予与继承过程的完整记录。
 
@@ -810,7 +810,7 @@ A21-03｜NavalDLC v1.2.8／ModuleData/settlements.xml／town_K4 jlLJSudl 与 Lan
 A21-04｜SandBox v1.4.8／ModuleData/heroes.xml／dead_lord_6_2 dfmSNTZk、lord_6_4 ALtZaRzc、lord_6_8、lord_6_81、lord_6_11、dead_lord_6_3 CCfjl9eU、dead_lord_6_4 f9Ha1S0s、lord_6_5 及其子女字段：墨速宜—岁仑家庭、库由格与阿契特现任领袖的父子关系、兀儿浑乃特家族字段。
 A21-05｜SandBox v1.4.8／ModuleData/world_lore_strings.xml／dpYb59BB、RyrdJI5j、l4quU1x3、yqn4Wtwr 及官方简中同键：墨速宜对保护与氏族安全的政治解释、阿契特的祖先谱系和有条件效忠。
 A21-06｜SandBox v1.4.8／ModuleData/spclans.xml／clan_khuzait_2、clan_khuzait_3 附近注释，以及 settlements.xml 中 town_K1、town_K4 前的氏族标签：这些开发阶段标签与生效 owner／initial_home_settlement 不一致，只作设计史线索，不计为生效历史叙述的独立互证。
-A21-07｜Native、SandBoxCore、SandBox、StoryMode、NavalDLC 归档 ZIP 的 XML 与语言表关键词排查记录：Ortongard 仅见于两版聚落条目；Gotug 无命中；相关 StoryMode 候选包不含主线访谈正文。
+A21-07｜Native、SandBoxCore、SandBox、StoryMode、NavalDLC 归档 ZIP 的 XML 与语言表关键词排查记录：Ortongard 字符串仅见于两版聚落条目；town_K1／town_K4 前的旧氏族标签与生效 owner 交叉错位；Gotug 无命中；相关 StoryMode 候选包不含主线访谈正文。
 
 ## 二十二、结论与下一步研究动作
 
