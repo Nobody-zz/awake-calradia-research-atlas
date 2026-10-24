@@ -3,14 +3,14 @@
 本目录仅维护诺德史独立研究稿，依 I-0001 v1.4 与 I-0004 v2.2 分类；未分配任何 H-000x 号，不替代公共 I/Q 索引。
 
 ## 当前总方向与下一阶段
-- [CHC-NOR-GEN｜第一批关系卡：源键审计与语义修订（v0.2）](CHC-NOR-GEN-historical-relations-cards-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/1ioz48RHCSSdBdnP-Gwad0dF-n85wHIUQdnY9TwEhqwU/edit)。校正瓦尔诺瓦波尔源键、圭卡案指代、Thing/集会译文语义，并区分 SandBox 与 NavalDLC 的重复文本及当前英文修订。
+- [CHC-NOR-GEN｜第一批关系卡：源键审计与语义修订（v0.3）](CHC-NOR-GEN-historical-relations-cards-v0.3.md) · [Google Docs 原件](https://docs.google.com/document/d/1nZXDxj_4KweqULAJo69ogwDdx9tAu0eh3NPM972pEtw/edit)。在21张既有关系卡基础上新增第22卡，整合朱姆内河谷拓居、资源冲突与迪纳尔南迁难民材料。
 - [CHC-NOR-GEN｜第一批关系卡与时空骨架源键审计（v0.1）](CHC-NOR-GEN-source-key-audit-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1Nl2xt4Fp39uK_sY7nNn721rYoUYdzQw1SbF0aUN0BXQ/edit)。审计65个唯一键，登记英文/官方简中表路径、六组跨模块重复键、翻译滞后和流浪者背景叙述的证据单位。
 - [CHC-NOR-GEN｜诺德史时间—空间骨架：源级校订版（v0.2）](CHC-NOR-GEN-time-space-skeleton-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/10cGlZJOE4VwFGjAQpBy5mgg2ksYpSOVyWaLX222wb9U/edit)。补入巴尔加德、西比尔、卡·班塞斯的版本差异，避免旧简中覆盖当前 NavalDLC 英文。
 - [CHC-NOR-GEN｜诺德国家形成的相对年代与因果机制检验（v0.1）](CHC-NOR-GEN-relative-chronology-causal-test-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1Wfep743y5aYvUgHbN9xVAwU3WRd5HhHDToN3-NKOj6Q/edit)。将现有材料组织成部分排序的相对年代骨架，比较军事征服、财富集中、地方整合与复合王权模型，并登记反证及未决年代。
 - [CHC-NOR-GEN｜哈尔达尔时期王权的持续性与实际控制范围（v0.1）](CHC-NOR-GEN-halthdar-kingship-continuity-control-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1T8qFxZZu621hxrndEmIIimrqR0k5EGnJALqzP6zNOgM/edit)。区分王位延续、地方精英确认与实际行政、军役、税收、海军和司法控制；标出直接证据与未证制度。
 - [CHC-NOR-GEN｜八条遗漏定居点地志补充分析（v0.1）](CHC-NOR-GEN-uncovered-settlement-gazetteer-analysis-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1zjOF_xww0rjzef0dUct3vRaeFtyuuqvQabL0O7Ukx08/edit)。逐条分析 Lagshofn、Vorfjall、Dagby、Nifdal、Aalgrun、Dorstrand、Ostrif、Holarsver，并记录英文—简中校勘与可支持命题。
 - [CHC-NOR-GEN｜氏族与诺德定居点地志覆盖审计（v0.2）](CHC-NOR-GEN-clan-settlement-description-coverage-audit-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/1UkObYQgbsj479hfg-jfMXEfg_eUf3DfNrPQ7ii7S95k/edit)。核对9个氏族节点、5条人物传记、47个诺德文化聚落节点；八条遗漏地志已完成首轮分析，跨线核验待办。
-- [CHC-NOR-GEN｜下一阶段执行计划与验收门槛（v1.1）](CHC-NOR-GEN-execution-plan-v1.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1gB4wd6aQ52smlpzhgrXvsJ5FPBXor2f-a6l0B5U4SJk/edit)。朱姆内河谷的迁徙、拓居与冲突材料已纳入；下一步检验定居扩张与王室征服两种机制。
+- [CHC-NOR-GEN｜下一阶段执行计划与验收门槛（v1.2）](CHC-NOR-GEN-execution-plan-v1.2.md) · [Google Docs 原件](https://docs.google.com/document/d/1XxEXoudSeUOjCZEB2pmjXU0YLOrbptS04wvfDjJmiFk/edit)。关系卡总表更新至v0.3，共22卡。
 - [CHC-NOR-GEN｜社会群体覆盖与证据单位审计（v0.1）](CHC-NOR-GEN-social-coverage-audit-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1H7hibK338Ibk8WPLu2fJc6Wp2nmIkIFQyOvx0fyYERA/edit)。综合现有 SOC/ECO/REL 工作稿，区分已覆盖的社会群体、单一个案、制度未证命题和资料缺席领域。
 - [CHC-NOR-GEN｜跨国史料核验第一批（v0.1）](CHC-NOR-GEN-cross-line-verification-batch-01-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1QrgaFH7ZpsmSjJp7dcwmCdInHpiGGmvFH8PQH3ux9Cc/edit)。逐条核验安普雷拉、厄毗诺萨、拉达克梅德与迪纳尔，识别版本差异、直接事实与不能推出的结论。
 - [CHC-NOR-GEN｜迪纳尔“近期诺德扩张”来源归属检验（v0.2）](CHC-NOR-GEN-dinar-nord-expansion-linkage-test-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/1sa8yM89qhRQinoZ7naMc6ed_-lx36PenShM3rMLLxfk/edit)。新增朱姆内移民第一人称自述、东向聚落及雅尔属员前哨材料；具体事件仍未具名。
