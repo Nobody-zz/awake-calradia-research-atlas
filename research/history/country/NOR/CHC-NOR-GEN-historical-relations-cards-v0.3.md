@@ -203,11 +203,11 @@ CHC-NOR-GEN｜第一批关系卡 v0.3｜源键审计与语义修订｜2026-10-25
 
 ### 关系卡 22｜朱姆内河谷的拓居、资源冲突与南迁难民
 
-关系双方：东向诺德移民家庭—朱姆内河谷的瓦尼群体—哈加尔雅尔属员—迪纳尔地志所述南迁难民及草原新来群体。  
+关系双方：东向诺德移民家庭—朱姆内河谷的瓦尼群体—哈加德雅尔属员—迪纳尔地志所述南迁难民及草原新来群体。  
 关系类型：迁徙、定居、土地使用、婚姻协商、资源竞争、地方暴力与边疆人口变化。  
 直接来源：
 - Hargard（town_N4／zh2tG1MX）：诺德部落数代以前向东推进并建堡；朱姆内河谷在当前叙述时点连接诺德、瓦肯、斯特吉亚及其他群体。
-- Grud（village_N4_1／dwkbyCqk）：格鲁德是哈加尔雅尔的 thegn；英文将他、河东前哨和以其名命名的村庄联系起来，但“who established an outpost”的指代有歧义，不能断言前哨建立者必为格鲁德或雅尔。
+- Grud（village_N4_1／dwkbyCqk）：Grud是哈加德雅尔的 thegn；英文将他、河东前哨和以其名命名的村庄联系起来，但“who established an outpost”的指代有歧义，不能断言前哨建立者必为Grud或雅尔。
 - Faergap（village_N4_3／PKlv8jCB）：山口路线与诺德移民进入朱姆内河谷的旅程及如尼铭文有关。
 - 诺德流浪者第一人称背景（naval_dialog_strings.xml：PG95aHx1、gGLcvhD9、DN6XgaS3）：家庭为耕地迁入，与瓦尼人通过土地安排、婚姻和物资交换建立关系；更多诺德人随后迁入，围猎资源冲突使协商破裂并发生杀戮。
 - Dinar（castle_village_K6_1／Settlements.Settlement.text.castle_village_K6_1）：当前 NavalDLC 英文将近期诺德扩张与朱姆内河谷难民南迁及其与草原新来群体通婚联系起来。
