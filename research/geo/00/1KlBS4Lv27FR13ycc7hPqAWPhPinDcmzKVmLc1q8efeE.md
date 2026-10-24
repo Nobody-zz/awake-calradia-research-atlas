@@ -260,3 +260,7 @@ Google Docs：https://docs.google.com/document/d/1r5xLCwljVokxTeA5pk86bdX0jXtVzl
 跨线关系：本稿以空间节点、资源腹地、湖河与转运结构为主；CHC-STU-ECO《北方贸易、边疆开发与地方财政权力》负责博雅尔、赋役和政治经济解释；CGEO-S-HYD-001／CGEO-S-TRN-001负责自然水系和交通条件。不同版本的乔诺巴斯、斯科林、拉达克梅德不可拼接成一条连续产业史。
 
 **当前队列**：人文地理摸底问题4（西部港市）和问题5（东北森林）均已有独立初稿；下一优先为问题6“北方渔猎海产与内陆农牧消费是否通过稳定港市形成联系”。
+
+
+### CGEO-S-BIO-001 官方中文译名复核（2026-10-24）
+已依据 encyclopedia-zh-cn.md 与 Native/SandBox/NavalDLC 官方语言表校订植被论文：拉诺克·亨（非“兰诺克·亨”）、本盖兹（非“布恩卡兹”）、艾塔·德鲁因（非“艾尔塔·德鲁因”）；Irkaria/Ircara统一按官方地志写作“伊卡拉荒原”。Plain of Ichala在所查官方简体中文地志中未见稳定对应译名，论文保留“​​Ichala平原”；Ebor Peninsula在NavalDLC官方中文中存在“埃博／埃伯／伊博半岛”异译，正文保留主用“埃博半岛”并注明异文。其余本轮抽查聚落名称与SandBox/NavalDLC同键中文相符。校勘详表见 [CGEO-TOP-AUD-002](../90/EVD/CGEO-TOP-AUD-002.md)；论文已修订：[CGEO-S-BIO-001](../03/BIO/CGEO-S-BIO-001.md)。
