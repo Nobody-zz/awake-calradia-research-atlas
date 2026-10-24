@@ -135,3 +135,13 @@ StoryMode v1.4.8：本轮已取得其模块ZIP并定向检查，主线19人完�
 《War Sails》另记卡格雷夫（village_S1_3）一处曾属巴旦尼亚首领的环形堡垒在约两代人前落入斯特吉亚，其部分居民此后参与诺德北方海象牙贸易；卡·班塞斯（town_B3/QD3oaaNK）新增航海氏族的渡海祖源自述、Muir Mon→Muir Gal 的政治海域命名及至高王蒙归来传说。有关先祖渡海、先王归来皆是有立场的叙事，不得据此编造全民族迁徙年表。尤其需按英文校勘：拉革塔 town_EW1/ZAGUIKOn 的 rogue imperial mercenary 是帝国雇佣兵，不是旧官中“流放的帝国商人”；High King Mon 的 vanished 不等于官中“已逝”。帕拉人被叛主征服之事可以进入巴旦尼亚政治记忆，却不能把受害帕拉酋长自动认作巴旦尼亚人。
 
 历史解释的优先序更新为：区域边疆多路径侵蚀与社会再编组解释实际变化；战争压力推动某些至高王强化动员与政治忠诚，是有约束的次级机制，并非必然结果。新专题保留于 CHC-BAT-GEN，暂不申请 H 编号。研究路径：research/history/country/BAT/battanian-frontier-contraction-and-political-integration-v0.1.md；Google Docs：https://docs.google.com/document/d/1ljsE1qNlwn_06QGAtVjGh0on-xOumuXJW20XPpQNbpM/edit 。
+
+
+附录｜第六轮研究（2026-10-24）：潘德拉克战争与巴旦尼亚王权动员边界
+
+新增专题《潘德拉克战争中的巴旦尼亚：战场贡献、盟军分工与至高王权的动员边界》从巴旦尼亚史内部检验潘德拉克战役。其核心判断是：林地伏击的战场贡献不能直接等同于巴旦尼亚单独击败帝国，更不能证明卡拉多格已垄断各氏族的兵力与资源。王国概述对地方酋长土地、畜群和侍从自主的描述，与埃尔贡对新王的有保留服从相互约束，支持“战争压力推动复合王权强化”的解释，而非已完成中央集权的模型。
+
+证据等级再次明确：有效官方 XML 可确认人物志、王权概述和角色政治修辞确实存在；《潘德拉克战役》工作稿中的具体战术、休战誓约及战后战利品细节仍主要来自玩家转录。现有 StoryMode.zip 未提供完整的十九位领主采访原始对白，本轮未将这些转录提升为直接史料。NavalDLC 对潘德拉克村落地志的英文修订也未同步更新对应官方简中语言表，地理描述不可拼合。
+
+专题原件：https://docs.google.com/document/d/1MRDSiB-ua1kN3QF988JxrsP8M10wxKe-EF9AJjhcG-Q/edit
+GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/BAT/battanian-pendraic-war-and-kingship-mobilization-v0.1.md
