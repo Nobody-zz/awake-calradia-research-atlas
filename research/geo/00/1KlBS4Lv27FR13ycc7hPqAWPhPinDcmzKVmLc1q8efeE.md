@@ -403,3 +403,14 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 - **工作簿：**[跨区域土地—劳动—资源控制—收益分配证据矩阵](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit)，重点工作表为“证据登记”“版本差异审计”“断言—证据绑定”“横向比较”与“复核队列”。
 
 相关正文已同步更新：[城市形成与聚落体系总论](../03/HUM/CGEO-S-HUM-001.md)、[全大陆人文地理核心断言—证据绑定表](../03/HUM/claim-evidence-crosswalk-2026-10-24.md)、[跨区域土地—劳动—资源控制—收益分配证据矩阵](../03/HUM/cross-regional-land-labour-resource-benefit-matrix-2026-10-24.md)、[全大陆覆盖审查](../03/HUM/continental-human-geography-first-round-audit-2026-10-24.md)。本轮完成的是台账与核心案例同步，不代表七篇专题已完成逐句穷尽审查；土地权属、租税、劳动合同、价格、数量、路线和收益分配仍缺直接证据。
+
+ 
+### 四十六、首篇自然地理专题论文：纳哈撒局地水文地理（2026-10-24）
+
+- [《纳哈撒的局地水文地理：达玛尔河洪泛地、旱谷集水与井水绿洲的分异》v0.1（GitHub）](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-nahasa-local-hydrology-2026-10-24.md)
+- [Google Docs 正文](https://docs.google.com/document/d/1CrH8FMibF0hwEEwiWebFUCKvmjSYZX8JoFEONnpmV-I/edit)
+- [自然地理问题图谱与证据矩阵 v0.7（GitHub）](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit)
+
+论文以官方SandBox与NavalDLC英文聚落地志的已归档源级校勘为基础，将纳哈撒地点级水文证据分为达玛尔河洪泛—淤泥—农耕组，以及山地径流—旱谷—地下水／井水组。扎勒姆、纳赫兰、米贾伊特与马卜瓦兹构成较稳定的达玛尔河文本锚点；阿卜巴、阿斯麦特、本盖兹体现不同局地供水机制；吉德纳尔与拜特·哈提夫作为重大版本改写案例分别处理。
+
+“多机制镶嵌模型”是官方文本基础上的综合解释（C类），不是已完成的自然水文空间测绘。现有证据不支持推定所有地点共享同一河流系统、地下含水层或灌溉网络。原始河道几何、精确洪泛范围、流量与地下水边界仍待核验。该稿不分配永久论文编号，后续进入内部审阅与可证伪空间核验。
