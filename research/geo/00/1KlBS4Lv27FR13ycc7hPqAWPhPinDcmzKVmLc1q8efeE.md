@@ -379,3 +379,15 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 当前对话附件、Library源文件夹及Drive精确文件名检索仍未重新取得scene.xscene、terrain.bin、navmesh.bin、river_triangles.bin或flowmap.dds原始字节；RES-001历史SHA-256未重算。该状态仅限当前可访问范围。RES-018旧版Markdown副本含未替换模板变量，已重命名为旧版并由v1.1取代。
 
 研究处理原则不变：派生表复算不等于原始地图重解析；港口候选坐标与渲染图不作为正式海岸线或河道几何。NAT-02纳哈撒、NAT-03/NAT-04北方河湖的官方文本审计可继续，空间配准保持“官方文本支持、空间配准待核”。
+
+### 四十五、自然地理专题同键一致性审查与纳哈撒机制分项校正（2026-10-24）
+
+- [CGEO-NAT-AUD-001｜水文、地貌、气候、植被与区域划分同键一致性审查 v0.1（GitHub）](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-cross-paper-consistency-audit-2026-10-24.md)
+- [CGEO-NAT-AUD-001｜Google Docs 正文](https://docs.google.com/document/d/1c9zvE0ZkzxkzSPj29s5wh8xY6RMYh998RJRI1mlyezQ/edit)
+- [自然地理问题图谱与证据矩阵 v0.6（GitHub）](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit)
+
+本轮对HYD-001 v0.3、GEO-001 v0.1、CLM-001 v0.1、BIO-001 v0.1及REG-001 v0.1的高优先级共同地点作定向比较，暂未发现需要立即撤回的实质性跨论文矛盾。主要校正是：Qidnar（castle_village_A4_2）的DLC描述为“岩丘—偶发暴雨导流”；Bait Hatif（village_A7_2）的DLC描述为“旱谷—井水”，两者机制不可合并。village_A7_2（Bait Hatif）与castle_village_A7_2（Bunqaz）是不同实体，必须使用完整ID。
+
+其余方法原则一致：北方寒冷／森林是局地环境描述，不等于同质大陆气候或单一植被带；伊勒坦转运、可航水路和天然水文连通分别论证；同键版本改写不等于世界内部气候、植被或水系演变。Mabwaz（village_A7_3）等inline fallback地点须引用对应版本settlements.xml，而不是声称来自语言表键。
+
+本轮没有原始地图二进制可供重算，故不新增B类空间测绘。纳哈撒与北方河湖继续按“官方文本支持、空间配准待核”管理。
