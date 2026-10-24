@@ -139,3 +139,9 @@ TaleWorlds, Digital Companion Release, 2022-12-16, https://www.taleworlds.com/en
 
 专题原件：https://docs.google.com/document/d/1MRDSiB-ua1kN3QF988JxrsP8M10wxKe-EF9AJjhcG-Q/edit
 GitHub镜像：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/BAT/battanian-pendraic-war-and-kingship-mobilization-v0.1.md
+
+十四、潘德拉克原始资源审计后的证据边界（2026-10-24）
+
+《潘德拉克战争原始资源审计与证据矩阵》逐项检查了当前项目所持五个模块资源包。StoryMode.zip 并未提供玩家手录十九位领主采访的专门对白资源，因此本札记中关于旧王与帝国休战、王女婚配的具体法律效力、战后战利品争执等内容继续维持待核级别。直接官方英文材料能支持的是：人物志将卡拉多格的继位疑云、小氏族支持、战友网络与婚盟并列（heroes.xml〔8SiW73EF〕）；埃尔贡的人物志写明他是埃里尔的兄弟、氏族不信任卡拉多格，但他坚持要求亲族忠于新王（〔HjGYftkH〕）；肖农地志把埃里尔失踪与卡拉多格崛起联系起来（settlements.xml〔X3MsaG39〕）。这些文本不构成弑君证据，也不证明已有固定的全国征兵或继承法。
+
+官方人物政治哲学文本中关于埃尔贡和梅利迪尔的两条字符串 ID 含空格，现行游戏是否实际调用尚未核清；本札记不把它们当作已确认触发的主线对白。完整校勘见《潘德拉克战争原始资源审计与证据矩阵》：research/history/country/BAT/battanian-pendraic-source-audit-and-evidence-matrix-v0.1.md；Google Docs：https://docs.google.com/document/d/10QphOpdszJF2AdbauG234WTmlz6lq8PxXJTL39cubb8/edit 。
