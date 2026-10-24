@@ -1,8 +1,8 @@
-# 自然地理研究问题图谱与证据矩阵（启动版 v0.6）
+# 自然地理研究问题图谱与证据矩阵（启动版 v0.7）
 
 日期：2026-10-24
 
-Google Docs 原件：[自然地理研究问题图谱与证据矩阵 v0.6](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit?usp=drivesdk)
+Google Docs 原件：[自然地理研究问题图谱与证据矩阵 v0.7](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit?usp=drivesdk)
 
 GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md)
 
@@ -116,3 +116,13 @@ RES-018旧版Markdown副本含未替换的模板变量，已标记为旧版并�
 其余共同方法原则保持一致：北方寒冷／森林描述是局地环境证据，不等于同质大陆气候或单一植被带；伊勒坦转运、可航水路与天然水文连通分别论证；同键版本改写不等于世界内部气候、植被或水系演变。Mabwaz（village_A7_3）等inline fallback记录须以对应版本的settlements.xml为来源，不可伪称来自语言表键。
 
 本轮没有原始地图二进制可供重算，故不新增B类空间测绘。后续仍须分开维护“官方文本支持的环境机制”与“已经直接测绘的空间关系”。
+ 
+## 十一、2026-10-24第六轮：首篇自然地理专题论文初稿
+
+新增专题论文《纳哈撒的局地水文地理：达玛尔河洪泛地、旱谷集水与井水绿洲的分异》v0.1：
+- [GitHub Markdown](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-nahasa-local-hydrology-2026-10-24.md)
+- [Google Docs 正文](https://docs.google.com/document/d/1CrH8FMibF0hwEEwiWebFUCKvmjSYZX8JoFEONnpmV-I/edit)
+
+论文将纳哈撒地点级水文证据分为两组：达玛尔河洪泛—淤泥—农耕组（扎勒姆、纳赫兰、米贾伊特、马卜瓦兹）与山地径流—旱谷—地下水／井水组（阿卜巴、阿斯麦特、本盖兹，以及NavalDLC版本中的吉德纳尔、拜特·哈提夫）。重点结论是：文本支持不同的局地供水机制，但不支持把它们合并为同一河流系统、含水层或统一灌溉网络。吉德纳尔与拜特·哈提夫的版本改写分别处理，不解释为已证实的世界内部河道改道或聚落迁移。
+
+本稿属于官方英文文本基础上的综合解释（C类），不是自然水文空间测绘。原始河道几何、精确洪泛范围、流量与地下水边界仍待核验；论文明确保留这些限制。后续工作从无差别摸底转入专题论文审阅和可证伪空间核验。
