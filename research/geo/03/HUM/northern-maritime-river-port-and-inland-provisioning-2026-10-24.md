@@ -136,7 +136,7 @@
 
 〔2〕TaleWorlds Entertainment, “Dev Blog: Setting Sail,” 4 Jul 2025. https://www.taleworlds.com/en/News/578 。该文介绍诺德维格海岸、贝恩兰岛、朱姆内河向南延伸及湖岸贸易/劫掠的区域关系。此为开发者的世界地理说明，不等于实际货运账册。
 
-〔3〕NavalDLC v1.2.8官方模块归档：ModuleData/kingdoms.xml（诺德王国文本键m6ZgnpN9）；ModuleData/settlements.xml及对应英语/简体中文语言表。重点聚落键包括town_N1/Zn9NwSTf、town_N2/nxmX99pO、town_N3/Lg5rbZse、town_N4/zh2tG1MX、village_N3_4/fVkcvgSc、castle_village_N1_1/yOezgAaK、village_N3_1/JJ0fLBlD、castle_village_N4_2/h5tD3Cjj。
+〔3〕NavalDLC v1.2.8官方模块归档：ModuleData/kingdoms.xml（诺德王国文本键m6ZgnpN9）；ModuleData/settlements.xml及对应英语/简体中文语言表。重点聚落键包括town_N1/Zn9NwSTf、town_N2/nxmX99pO、town_N3/Lg5rbZse、town_N4/zh2tG1MX、village_N3_4/fVkcvgSc、castle_village_N1_1/yOezgAaK、village_N3_1/JJ0fLBlD、castle_village_N4_2/h5tD3Cjj；另对照SandBox基础版乌里克斯卡拉`castle_village_S7_1`与NavalDLC同键文本。
 
 〔4〕CGEO-MAP-RES-010《〈战帆〉港口与登陆点聚落ID及官方地名核对》v1.0。当前NavalDLC官方中文名称键确认瓦尔维克、格雷蒂斯湾、特龙德拉格、哈加德；并将前三城的港口标记归为CoastalSea、哈加德归为River。该分类是当前版本导航资源，不是历史贸易量测定。https://docs.google.com/document/d/1JmXqLuMxxWbxvd7HMZ49RExaLj9ff5Mf74MLWulFAm8/edit
 
