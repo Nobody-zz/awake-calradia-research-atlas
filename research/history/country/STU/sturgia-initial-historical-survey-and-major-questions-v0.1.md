@@ -181,7 +181,7 @@ GitHub: https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/res
 
 交接范围为：CHC-CAL-MIL 核验“年长的”奥列克在潘德拉克战役中阵亡与龙旗折断访谈的时序张力；CHC-KHU 核验岁仑／Gotug 名称差异、阿契特侵夺的证据等级与奥通加德是否存在可证的产权转移；CHC-NOR 核查朗瓦德母亲是否能由有效人物／氏族字段定位，以及母系亲族与护盾兄弟会之间是否存在更强的直接证据。交接单不编辑接收线正文或公共 I/Q。
 
-本轮直接检查项目 `StoryMode.zip`：包内只有 `module_strings.xml`、`story_mode_settlements.xml`、英文语言表与官方简中语言表；没有“年长的”奥列克、朗瓦德、龙旗争执或十九位领主访谈对白，也没有匹配 v1.4.8.119303 的运行时程序集。因此，现有归档不能核验 v1.4.5 反编译访谈与当前版本是否一致。这是资料可得性缺口，不证明相关对白从未存在。Native.zip 中玩家组装 Dragon Banner 的任务通知与历史龙旗争执无关。当前有效 NavalDLC／`naval_dialog_strings.xml` 的 `Y1fwBgHt` 记水手对潘德拉克后帝国海军欠饷的回忆，`DtEBwPpJ` 与 `p4OvT9BS` 记可汗与斯特吉亚在大湖交战、和解后转战帝国的相对顺序；它们不涉及“年长的”奥列克或龙旗争执。
+本轮直接检查项目 `StoryMode.zip`：包内只有 `module_strings.xml`、`story_mode_settlements.xml`、英文语言表与官方简中语言表；没有“年长的”奥列克、朗瓦德、龙旗争执或十九位领主访谈对白，也包内不含任何运行时程序集，因而无法与 v1.4.8.119303 程序集逐字比对。因此，现有归档不能核验 v1.4.5 反编译访谈与当前版本是否一致。这是资料可得性缺口，不证明相关对白从未存在。Native.zip 中玩家组装 Dragon Banner 的任务通知与历史龙旗争执无关。当前有效 NavalDLC／`naval_dialog_strings.xml` 的 `Y1fwBgHt` 记水手对潘德拉克后帝国海军欠饷的回忆，`DtEBwPpJ` 与 `p4OvT9BS` 记可汗与斯特吉亚在大湖交战、和解后转战帝国的相对顺序；它们不涉及“年长的”奥列克或龙旗争执。
 
 此外，Library 中的《骑砍诺德人两代关系考究.docx》提及朗瓦德母亲为诺德公主，但相关表格引注指向 Fextralife 的 Skolderbroda 页面。该文可作为问题线索，不能替代有效 `heroes.xml／LW92PgZz`，更不能将母亲接入沃尔比约恩、哈尔达尔或其他具名王室谱系。
 
