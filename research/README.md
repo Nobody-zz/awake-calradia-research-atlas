@@ -310,3 +310,18 @@ v1.9 使用完整高程图绘图区和中性相对高程色带，不执行海陆
 - [CGEO-N-N001-001｜卡拉德帝国历史政治地理研究](geo/05/N001/CGEO-N-N001-001.md) · [Google Docs](https://docs.google.com/document/d/1dQTGRCmNPolxcENMKy2XWnnAr1uQB2w1BpPd35VbCng/edit)
 
 现有 [CGEO-O-GEN-001](geo/02/GEN/13SUKPrj1jBJJ2LzPwMgnBJK6xoxuG8kLIaVSEHkX5IA.md)、[CGEO-O-REG-001](geo/02/REG/1H5CZKgad7YI60WnZu3t7W0PSBuNUd80tw8LMgCMWx_0.md) 与 [CGEO-S-HYD-001](geo/03/HYD/1Cl-YL13V_bHN9qOnSgSJmQ40Y2AtOXk5O-xvFd8RYco.md) 同日增加阶段补论；原稿v0.3/v0.1/v0.2修订号暂不提升。新论文及补论将地图资源前序分析、自然地貌、引擎导航与历史实际往来分别立论。CGEO-MAP地图工程继续独立核验，不得再由渲染图颜色猜测海岸线或将版本差异写成世界内部历史地貌变化。
+
+
+## 自然地理研究线（2026-10-24）
+
+- [自然地理研究线｜交接与第一阶段工作计划（v0.1）](geo/00/natural-geography-research-line-handover-2026-10-24.md) · [Google Docs 原件](https://docs.google.com/document/d/17YLRDnYY4o0SI0Om_oJ_MZQMTJu_Qvd3nTUOHk7tGVw/edit)
+- [CGEO-O-GEN-001｜卡拉迪亚大陆地理总论（v0.3）](geo/02/GEN/13SUKPrj1jBJJ2LzPwMgnBJK6xoxuG8kLIaVSEHkX5IA.md) · [云盘原件](https://docs.google.com/document/d/13SUKPrj1jBJJ2LzPwMgnBJK6xoxuG8kLIaVSEHkX5IA/edit)
+- [CGEO-O-REG-001｜卡拉迪亚大陆地理区域划分与地域结构（v0.1）](geo/02/REG/1H5CZKgad7YI60WnZu3t7W0PSBuNUd80tw8LMgCMWx_0.md) · [云盘原件](https://docs.google.com/document/d/1H5CZKgad7YI60WnZu3t7W0PSBuNUd80tw8LMgCMWx_0/edit)
+- [CGEO-S-GEO-001｜卡拉迪亚大陆地形与地貌研究（v0.1）](geo/03/GEO/CGEO-S-GEO-001.md) · [云盘原件](https://docs.google.com/document/d/1pDODiOQ2PR0zz9q2Ximt4MBJwnl_EmZOXvwFdnXsTL0/edit)
+- [CGEO-S-CLM-001｜卡拉迪亚大陆气候与自然环境研究（v0.1）](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/research/cgeo-clm-001-v0.1-20261024/research/geo/03/CLM/CGEO-S-CLM-001.md) · [云盘原件](https://docs.google.com/document/d/1npAJZ89iVXYaEjpv5qQIAVCzA28YhdNivXc9vT6yQfI/edit) · [Draft PR #1](https://github.com/Nobody-zz/awake-calradia-research-atlas/pull/1)
+- [CGEO-S-HYD-001｜河流水系与湖泊研究（GitHub 当前快照为 v0.1）](geo/03/HYD/1Cl-YL13V_bHN9qOnSgSJmQ40Y2AtOXk5O-xvFd8RYco.md) · [云盘当前正文 v0.2](https://docs.google.com/document/d/1qoWxPgRqqHxPSjv9NqeVfy2oj3fkqlEq_xF5CxPrpTc/edit)
+- [CGEO-S-BIO-001｜卡拉迪亚大陆植被与自然景观研究（v0.1）](geo/03/BIO/CGEO-S-BIO-001.md) · [云盘原件](https://docs.google.com/document/d/1MzHUgiMoIIn35bwU4S5aWlM-OHIEn4r53v7LBD-mGzw/edit)
+- [CGEO｜官方地理证据登记表](geo/90/EVD/1UmtjdtlvO6mcFPYcQicHuprkZDxmWv0aMbUxk-TlfeM.md) · [云盘原件](https://docs.google.com/document/d/1UmtjdtlvO6mcFPYcQicHuprkZDxmWv0aMbUxk-TlfeM/edit)
+- [CGEO-MAP-AUD-001｜原版与《战帆》地图图像实见记录](geo/90/EVD/1tsQ0Mz_nHNZYI0wAyazB3RFfW3Kg06nPYKD2bXc7jy0.md) · [云盘原件](https://docs.google.com/document/d/1tsQ0Mz_nHNZYI0wAyazB3RFfW3Kg06nPYKD2bXc7jy0/edit)
+
+**同步提醒：** Google Drive 与 GitHub 不会自动同步。当前 Drive 中水文正文已到 v0.2，而仓库此路径仍是历史 v0.1；气候 v0.1 仍处于 Draft PR。第一阶段先核对版本状态并补齐可追溯的双端镜像，不将旧快照误称为最新正文。
