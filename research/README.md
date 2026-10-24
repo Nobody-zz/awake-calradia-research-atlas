@@ -97,6 +97,7 @@
 - [CHC-BAT-GEN｜巴旦尼亚历史研究全时段问题图谱与研究重定向（v0.2，未授H号）](history/country/BAT/battanian-full-period-question-atlas-and-redirection-v0.2.md) · [Google Docs](https://docs.google.com/document/d/1vUAAiGtJd8343UI-IDewH2TvLW3wBzNML4ZotQt7MsE/edit)
 - [CHC-BAT-GEN｜巴旦尼亚历史关系卡：王权、氏族、边疆、婚姻与地方社会（v0.1，未授H号）](history/country/BAT/battanian-historical-relations-cards-v0.1.md) · [Google Docs](https://docs.google.com/document/d/1-Vr1O-fZrAMMhznda6GkhrcKi5XYyUc2sqctvMokhik/edit)
 - [CHC-BAT-SOC｜巴旦尼亚地方经济与聚落网络：资源、市场、交通与边疆风险（v0.1，未授H号）](history/country/BAT/battanian-local-economy-settlement-networks-v0.1.md) · [Google Docs](https://docs.google.com/document/d/1vl4pjQSdPkyNI7Kgjg8_fdEDOYzRKYjYeIaTEkmZjjQ/edit)
+- [CHC-BAT-SOC｜巴旦尼亚八氏族资源组合与战争动员约束：1084年领地横断面（v0.1，未授H号）](history/country/BAT/battanian-eight-clan-resource-portfolios-and-mobilization-v0.1.md) · [Google Docs](https://docs.google.com/document/d/1OVSW_EaqXwxMM5S2HUWPD_Z2uNUOFsEo0ykV4MUvLIc/edit)
 - [CHC-BAT-SOC｜巴旦尼亚氏族—聚落—资源—通道—风险矩阵（v0.1，未授H号）](history/country/BAT/battanian-clan-settlement-resource-network-matrix-v0.1.md) · [Google Docs](https://docs.google.com/document/d/1Ary_MoqLswBdbMmwlowKmYCp93p53usvXiqgG2IB5_k/edit)
 - [CHC-BAT-GEN｜从资源到军令：巴旦尼亚王权的动员链条与证据边界（v0.1，未授H号）](history/country/BAT/battanian-resource-to-command-mobilization-chain-v0.1.md) · [Google Docs](https://docs.google.com/document/d/1k6lqN2NZ4XgJb8Veut0z88qHSyzcwphrLn78MOkQW-E/edit)
 
