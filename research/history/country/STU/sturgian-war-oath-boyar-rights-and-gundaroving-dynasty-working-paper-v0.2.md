@@ -109,7 +109,7 @@ SandBox／spclans.xml 中贡达罗夫的 initial_home_settlement 是 Settlement.
 
 库洛夫（Kuloving）族长奥列克——不是潘德拉克战死的同名父亲——在 5939sUCg 中把“在你麾下作战的伤口”与“向你府库纳税的痛楚”相对举。通过文学化的私人名言，传记把他塑造成**战争协同可以接受、持续财政索取却有损本族权利**的代表。同时，nQn87o0F 通过“我们的土地依然由我们统治”表达相同立场。两件文字可以互证该人物的一贯政治姿态，但来源和编写体系相近，不可当作两份互不关联的古代诉状。
 
-奥列克的父亲“年长的奥列克”（Hero.dead_lord_2_1／bsOLRZyS）在潘德拉克战役亲赴前线而死，传记还把他与朗瓦德的指挥表现对照。这里显示库洛夫可能以自身战争牺牲提出政治道德要求，但其战役时序另案查证，不能借此认定大公曾合法要求奥列克之父放弃税权。
+奥列克的父亲““年长的”奥列克”（Hero.dead_lord_2_1／bsOLRZyS）在潘德拉克战役亲赴前线而死，传记还把他与朗瓦德的指挥表现对照。这里显示库洛夫可能以自身战争牺牲提出政治道德要求，但其战役时序另案查证，不能借此认定大公曾合法要求奥列克之父放弃税权。
 
 ### （二）戈敦：交税的封臣仍是潜在竞争者
 
@@ -185,11 +185,11 @@ NavalDLC／naval_dialog_strings.xml／d5lpGY8m 中一名诺德冒险者讲述自
 
 **版本检查：** NavalDLC／settlements.xml／Xom9DeXZ 把巴尔加德首批移民来源从 SandBox 的“Nordlands”改写为“Nordvyg”，并变更周边地理措辞。不能据这一措辞差异倒推出贡达尔属于后来统一的诺德维格王国，诺德维格本国形成史由 CHC-NOR 单线处理。NavalDLC 的 Sibir 仅更改局部地貌描述，而同一西比尔地方税役逻辑保持；此次仍以两模块共同叙事核心为依据。
 
-**仍欠原始支持：** 首次选举对象姓名、受誓者名单、具体封臣义务条款、各家族族谱、各地司法税率、中央对领地的撤封实践、当代各氏族的实际常备兵数量，以及潘德拉克战役中年长奥列克之死与龙旗争执的生效英文对白。对这些缺口不可编造填空。
+**仍欠原始支持：** 首次选举对象姓名、受誓者名单、具体封臣义务条款、各家族族谱、各地司法税率、中央对领地的撤封实践、当代各氏族的实际常备兵数量，以及潘德拉克战役中“年长的”奥列克之死与龙旗争执的生效英文对白。对这些缺口不可编造填空。
 
 ### 瓦尔拉事件的主导重建与证据状态
 
-有效人物传记 `QyFdfZrC` 记瓦尔拉死于潘德拉克战役次年；官方简中把英文 `the year after` 误作“战役发生当年”，应以英文为准。现行有效人物字段确认瓦尔拉、现任奥列克和西加同属年长奥列克的核心家庭。保留在 `world_lore_strings.xml` 注释中的早期对白 `U7xbAEpr`、`7CPvlhjw`、`Nqjv6fwc`、`RkS0cwHl` 则提供婚盟破裂、西加袭击温都勒、朗瓦德命人处死瓦尔拉并将首级送往库赛特的剧情链。
+有效人物传记 `QyFdfZrC` 记瓦尔拉死于潘德拉克战役次年；官方简中把英文 `the year after` 误作“战役发生当年”，应以英文为准。现行有效人物字段确认瓦尔拉、现任奥列克和西加同属“年长的”奥列克的核心家庭。保留在 `world_lore_strings.xml` 注释中的早期对白 `U7xbAEpr`、`7CPvlhjw`、`Nqjv6fwc`、`RkS0cwHl` 则提供婚盟破裂、西加袭击温都勒、朗瓦德命人处死瓦尔拉并将首级送往库赛特的剧情链。
 
 本稿继续采纳 **Pira＝瓦尔拉** 的主导重建，正文统一写官方有效姓名“瓦尔拉”。但这项重建须明确标为“有效传记的时间锚点＋未启用创作对白的事件复原”，不能声称详细处死经过是当前有效游戏对白。完整键级论证见 CHC-STU-SRC《西加、瓦尔拉与朗瓦德：婚盟、处死与库洛夫血仇》。龙旗折断的有效英文对白与时序仍未核销，交由 CHC-CAL-MIL。
 
@@ -206,7 +206,7 @@ NavalDLC／naval_dialog_strings.xml／d5lpGY8m 中一名诺德冒险者讲述自
 * SandBoxCore／ModuleData／spcultures.xml：Culture.sturgia，Ud1AMybr。
 * SandBox／ModuleData／spkingdoms.xml：Kingdom.sturgia，bVihnRUu。
 * SandBox／ModuleData／world_lore_strings.xml：He0b6FpY，aifXT4E1，nz6ff0nw，nQn87o0F，oUKWHMDq。
-* SandBox／ModuleData／heroes.xml：LW92PgZz（朗瓦德），5939sUCg（奥列克），6lZGNChB（戈敦），bsOLRZyS（年长奥列克）。
+* SandBox／ModuleData／heroes.xml：LW92PgZz（朗瓦德），5939sUCg（奥列克），6lZGNChB（戈敦），bsOLRZyS（“年长的”奥列克）。
 * SandBox／ModuleData／settlements.xml：Xom9DeXZ（巴尔加德），T2E4xKVn（雷维尔），i2VkRLBg（瓦尔切格），PPadNxa6（西比尔），pbHXtJ82（奥莫尔），F5HlQdgf（蒂亚尔）；同 ID 对照 NavalDLC settlements.xml。
 * CHC-STU-ECO《城镇控制权更替、经济腹地与财政连续性》v0.1：用于校核当前城镇／城堡所有者、村庄绑定与财政连续性的证据边界。
 * CHC-STU-POL《持地不等于服从》v0.1：用于核对九氏族起始配置与实际政治行为证据的差别。
@@ -216,5 +216,5 @@ NavalDLC／naval_dialog_strings.xml／d5lpGY8m 中一名诺德冒险者讲述自
 * CHC-STU-GEN／POL《斯特吉亚研究线跨线证据交接单》v0.1：用于潘德拉克龙旗时序、岁仑／Gotug 与阿契特侵夺、朗瓦德母系诺德谱系的跨线核验；不替代接收线结论。
 * 项目 `StoryMode.zip` 资料包检查（2026-10-24）：包内仅有 `module_strings.xml`、`story_mode_settlements.xml` 及英文／简中语言表；没有主线人物访谈对白或运行时程序集。此为当前归档缺口，不证明运行时从未包含相关对白。
 * SandBox／ModuleData／spclans.xml：clan_sturgia_1—clan_sturgia_9，A4wIVnM4、Eu932blQ、mddbprXj、AppNvfPv、s0AVQCbJ、EnZHNc2k、xw0eTkkb、W2HkbCeX、WssI6mOE；佣兵／边地团体 bsPd5zri、0u8ipbgn。
-* NavalDLC／ModuleData／naval_dialog_strings.xml：d5lpGY8m（领主 druzhina）；Y1fwBgHt（诺德水手对潘德拉克后帝国海军欠饷的回忆）；DtEBwPpJ、p4OvT9BS（可汗与斯特吉亚在大湖交战、和解后转战帝国的回忆）。这些有效文本不包含年长的奥列克或龙旗争执。
+* NavalDLC／ModuleData／naval_dialog_strings.xml：d5lpGY8m（领主 druzhina）；Y1fwBgHt（诺德水手对潘德拉克后帝国海军欠饷的回忆）；DtEBwPpJ、p4OvT9BS（可汗与斯特吉亚在大湖交战、和解后转战帝国的回忆）。这些有效文本不包含“年长的”奥列克或龙旗争执。
 * 官方简中：SandBox／ModuleData／Languages／CNs／std_{spclans,settlements,heroes,world_lore_strings}_xml-zho-CN.xml；NavalDLC 对应 CNs 语言表。
