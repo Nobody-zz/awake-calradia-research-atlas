@@ -158,3 +158,8 @@
 ### 项目中文导出来源补充（2026-10-24）
 
 格伦利斯里格（village_B2_2）虽在项目百科导出中有中文名称与描述，但其settlements.xml实际text键在SandBox与NavalDLC英文/简中聚落语言表中均缺失，且跨Native、SandBox、NavalDLC三个归档的全部语言表搜索未找到（来源审计LOC-41）。木材供应的英文主证据是原始settlements.xml内嵌fallback；项目中文描述的来源/版本未决，不应标成已核验的官方同键译文，也不能据此判定为非官方。
+
+
+## 第三轮证据台账同步（2026-10-24）
+
+堡村克莱格·班（Claig Ban，`castle_village_B5_2`）的基础版英文明确记载：“The villagers here gather clay from the nearby Myr river for sale to the potters of the Battanian towns.” 该材料补录为HIG-08并绑定C-39，买方是泛称的巴旦尼亚城镇陶工，不可缩成某一座城镇。NavalDLC同ID英文改为：“The clays of this region are much prized for their vivid red hues.” 新版不再提村民采集、出售或陶工买方；但官方简中同键仍保留基础版销售句。该差异已登记为V-37：销售链只适用于SandBox v1.4.8，不得将旧简中描述当作NavalDLC英文的同义复述。该附属聚落的中文名称“克莱格·班”仅在官方简中描述正文中复现，当前归档未复现独立名称键。
