@@ -135,6 +135,8 @@ RQ-KHU-12｜斯特吉亚境内 Alkit 小汗国属于兀儿浑时代之前、期�
 
 RQ-KHU-05 的推进结果：目前可比较封地与现行持有的差异，也能识别城镇取得路径的多样性；仍缺撤封、继承、税役与兵额的明确规则。RQ-KHU-07 的推进结果：奥通加德是强产权链缺口，SandBox 与 NavalDLC 两版英文都保留“授予库吉特”的历史主干，NavalDLC 只修正 SandBox 英文句法；两版 owner 均为阿契特。开发注释称阿契特曾试图夺取库吉特领土，却未点名奥通加德，也未说明反攻结果，故不能据此宣布夺城已证实。
 
+全模块检索的负面结果：本轮对 Native、SandBoxCore、SandBox、StoryMode、NavalDLC 五个归档 ZIP 内的 XML 及官方语言表检索。Ortongard 仅出现在 SandBox／NavalDLC 的 town_K4 聚落正文、名称字段及对应语言表；未发现其他官方条目把该城与后来的领地争夺相连。Gotug 在这些归档的 XML 和语言表中没有命中；“ten years ago”与“made a bid for their territories”只出现在 SandBox／ModuleData/spclans.xml 的旧开发注释。已上传 StoryMode.zip 仅含 module_strings.xml、story_mode_settlements.xml 及两份语言表，其中没有 Khergit、Arkit、Mesui、Solun、Gotug、Ortongard、Pendraic 或 Monchug 的正文命中。此结果只限定于现有候选归档，不能证明完整游戏资源或其他版本绝无相关对白；但它说明当前没有可用的独立官方主线文本来补上奥通加德的产权链。
+
 本轮结论仍为 C 级工作解释：库赛特更适合暂时理解为由多种地方权力、不同领地取得路径和不均衡谱系证据组成的差异化领地联盟。后续优先查找奥通加德的具名申索、转封或领主变更记录，并将主线对白作为独立证据层核查；不预占 H 编号，不修改共享 I/Q 索引。
 
 ## 附录：原文追索与版本说明
