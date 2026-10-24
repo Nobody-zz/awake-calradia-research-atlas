@@ -245,7 +245,7 @@ wanderer_strings.xml中阿塞莱小氏族战士自述TNOM6nuo称本族出于五�
 ## 十七、Native文化概述、区域经济多元性与氏族领地配置（阶段证据增订 v0.7）
 
 ### 十七之一、资料覆盖状态的实际变化
-本轮直接解包复核了项目中已上传的SandBox.zip（30个XML）、SandBoxCore.zip（3个XML）、NavalDLC.zip（21个XML）、Native.zip（9个XML）和StoryMode.zip（4个XML）。其中Native.zip和StoryMode.zip在此前的全大陆史料覆盖图谱v0.1中仍被记作当时未取得的资料；这一记录对其发布时的覆盖状态成立，但截至本轮已不再反映现状。本线实际细读了Native的阿塞莱文化描述及其简中同键，也复核SandBox、SandBoxCore、NavalDLC的阿塞莱相关文本；本轮没有系统检阅StoryMode的全部四个XML，不宣称StoryMode的历史材料已完成调查。
+本轮确认并解包读取了项目附件中五个ZIP的文件清单：SandBox.zip含30个XML、SandBoxCore.zip含3个、NavalDLC.zip含21个、Native.zip含9个、StoryMode.zip含4个；这不等于逐条审完全部67个XML。本线实际细读了Native的阿塞莱文化描述及其简中同键，也复核SandBox、SandBoxCore、NavalDLC中与阿塞莱问题有关的原始英文和官方简中；本轮没有系统检阅StoryMode的全部四个XML，不宣称StoryMode的历史材料已完成调查。Native.zip和StoryMode.zip在此前的全大陆史料覆盖图谱v0.1中仍被记作当时未取得的资料；这一记录对其发布时的覆盖状态成立，但截至本轮已不再反映现状。
 跨线建议：请协调对话在修订全大陆史料覆盖图谱时更新Native／StoryMode资料状态，注明本轮实际读取范围。阿塞莱线不直接改写公共I/Q索引或全大陆图谱，避免在国别分线内擅自更改公共来源状态。
 
 ### 十七之二、Native与SandBox的阿塞莱文化叙述应并读但不能重复计证
