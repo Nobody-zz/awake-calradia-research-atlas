@@ -137,7 +137,7 @@
 - Holarsver 的 sea-trout 被误译为“海鲟”；runoff from the streams 被误译为“洋流在那里分出径流”，改变了淡水径流与海水混合的因果关系。
 - 跨国聚落接口复核另发现 Amprela、Epinosa、Radakmed、Dinar 四处当前英文与官方简中存在实质性内容失配；详见 cross-line relations register v0.2。不得把这些语言表差异写成历史上真实的迁址或叙事矛盾。
 
-## 八、下一步执行顺序
+## 九、下一步执行顺序
 
 1. 对八条已补读地志进行跨线核验，优先核对 Lagshofn—Drapand 鲸类活动、Vorfjall—Jumne 河名与资源走廊、以及边疆迁徙叙述。
 2. 与 EMP、STU、KHU、VLA、CGEO 研究线逐项确认 Amprela、Epinosa、Kargrev、Kvol、Radakmed、Drapand、Dinar、Karahalli 的状态；共享同一地志不算独立互证。
