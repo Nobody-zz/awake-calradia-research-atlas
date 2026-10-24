@@ -30,7 +30,7 @@
 
 ## 三、第一批直接史料覆盖基线（本次已经实读部分）
 
-本次在项目归档 SandBox/ModuleData/settlements.xml 上，以 culture=Culture.empire 且存在非空 text 的聚落作为起步样本，得到117条英文叙述：19条town_城市记录、47条village_村庄记录、50条castle_village_城堡附属村庄记录，以及1条retirement_retreat特殊地点记录。这里的文化标签只是归档XML中的当前数据分类，不等于帝国全史领土，也不意味着这些聚落在所有历史时期均属于帝国。现属瓦兰迪亚等其他文化的城市也可能保存重要帝国历史，须另加跨文化回检。19座城市描述已完成第一轮英文原文与官中名称核对；47条town-bound村庄描述已完成第一轮阅读；50条castle_village描述尚待系统分析；retirement_retreat仅为游戏地点说明，不作为帝国历史叙事。
+本次在项目归档 SandBox/ModuleData/settlements.xml 上，以 culture=Culture.empire 且存在非空 text 的聚落作为起步样本，得到117条英文叙述：19条town_城市记录、47条village_村庄记录、50条castle_village_城堡附属村庄记录，以及1条retirement_retreat特殊地点记录。这里的文化标签只是归档XML中的当前数据分类，不等于帝国全史领土，也不意味着这些聚落在所有历史时期均属于帝国。现属瓦兰迪亚等其他文化的城市也可能保存重要帝国历史，须另加跨文化回检。19座城市描述、47条village_村庄描述与50条castle_village城堡附属村庄描述均已完成第一轮阅读；retirement_retreat仅为游戏地点说明，不作为帝国历史叙事。50条castle_village记录中，47条有可用简中描述译文，3条缺少对应译文；50条均未发现独立的简中名称键，因此不自行编造其官方中文村名。
 
 ### 19条帝国现属城市条目的英文源键：可复核起点，不预先归入一个年代
 
@@ -60,7 +60,7 @@
 
 ### 非城市样本与非聚落材料的必要补入
 
-- **98条当前帝国文化非城市记录**：其中47条village_村庄、50条castle_village_城堡附属村庄、1条retirement_retreat特殊地点。按农业生产、牧业、矿业、交通、宗教、墓葬、地方群体和对外战争分类，去掉纯地貌重复。47条village_村庄已完成首轮阅读；50条castle_village村庄尚待逐条分析；特殊地点不应当作历史叙述。不能只读城镇就宣称已研究帝国经济。
+- **98条当前帝国文化非城市记录**：其中47条village_村庄、50条castle_village_城堡附属村庄、1条retirement_retreat特殊地点。按农业生产、牧业、矿业、交通、宗教、墓葬、地方群体和对外战争分类，去掉纯地貌重复。47条village_村庄与50条castle_village村庄均已完成首轮阅读；其中3条castle_village描述缺少对应简中译文；特殊地点不应当作历史叙述。不能只读城镇就宣称已研究帝国经济。
 - **SandBoxCore/spcultures.xml X0kKBzsW**：从文化史总论提炼政治和社会转型主张，保持回顾性文本地位。
 - **SandBox/spkingdoms.xml aEfsyVH4、mOZsbV8j、Xtyb9Dyr**：取其可追溯的地方社会史线索，不直接用1084战时地图反推古代区域边界。
 - **SandBox/spclans.xml／heroes.xml／wanderer_strings.xml／companion_strings.xml／world_lore_strings.xml**：优先抽取农户、奴役与佃农、军役职业、地方执政官、家产、非正式暴力、妇女经济地位、宗教活动的文本；不能只筛皇帝、军团或政治精英。
@@ -73,10 +73,10 @@
 
 ### 工作包A｜帝国历史材料的时间与主题分层（当前主工作包）
 
-**对象**：117条当前帝国文化聚落叙述的全量第一轮语义分类。城市层19条已完成；关联村庄层47条已完成首轮阅读；castle_village层50条尚待逐条分析；另有1条retirement_retreat特殊地点说明，不作为历史叙事。随后补入NavalDLC关键异文与现属其他文化、但保留帝国历史记忆的聚落。  
+**对象**：117条当前帝国文化聚落记录已完成第一轮文本判读：19条town、47条village、50条castle_village及1条retirement_retreat（排除为非历史性地点提示）。下一步整合116条历史叙述的受控源级总表，统一标注经济／社会／宗教／行政／边疆主题、相对时段、版本与证据等级，再补入现属其他文化但保留帝国历史记忆的聚落。  
 **实际历史问题**：现存文本所保存的帝国生活，哪些属于建国或征服记忆、哪些是长期社会实践、哪些只是1084年前后现状或叙述者的晚期评价？可否构建不同政治状态的**相对分期**，而不是虚构皇帝世系纪年？  
-**交付**：一张受控源级总表（id／英文键／对象身份／社会领域／史述时段／人物视角／版本／可以支持的命题／不能支持的命题），并在城市、普通村庄、城堡附属村庄及特殊地点四类间分别注明已完成与未完成范围。城市第一轮实证成果见[七城研究札记](imperial-cities-regional-economy-seven-cities-v0.1.md)及[其余十二城源级分析](imperial-cities-regional-economy-remaining-twelve-v0.1.md)。  
-**验收**：全部117项至少有一次英文正文历史相关性判断；对跨文化帝国旧史进行抽样；“帝国成熟期”未被强制赋予任何无证世纪；城市经济史的首选案例与可能推翻它的反例确定。**当前状态：19城文本已完成第一轮；47条village_村庄描述已完成第一轮阅读；50条castle_village村庄描述与跨文化旧帝国聚落尚待分析，1条retirement_retreat不纳入历史叙事，A包整体未完成。**
+**交付**：一张受控源级总表（id／英文键／对象身份／社会领域／史述时段／人物视角／版本／可以支持的命题／不能支持的命题），并在城市、普通村庄、城堡附属村庄及特殊地点四类间分别注明已完成与未完成范围。第一轮实证成果见[七城研究札记](imperial-cities-regional-economy-seven-cities-v0.1.md)、[其余十二城源级分析](imperial-cities-regional-economy-remaining-twelve-v0.1.md)及[50条城堡附属村庄源级分析](imperial-castle-village-source-review-v0.1.md)。  
+**验收**：全部117项至少有一次英文正文历史相关性判断；对跨文化帝国旧史进行抽样；“帝国成熟期”未被强制赋予任何无证世纪；城市经济史的首选案例与可能推翻它的反例确定。**当前状态：19城、47条village_村庄、50条castle_village城堡附属村庄均已完成第一轮阅读；1条retirement_retreat不纳入历史叙事。A包仍未完成：116条历史叙述的统一主题表尚待整合，跨文化旧帝国聚落尚待回检。**
 
 ### 工作包B｜城市、生产与帝国经济网络（第一项实质专题）
 
@@ -125,8 +125,8 @@
 
 ## 六、下一次研究动作已确定
 
-已完成工作包A的19城第一轮原文与官中名称核对，并对47条village_村庄描述作首轮阅读。详细札记见[七城研究](imperial-cities-regional-economy-seven-cities-v0.1.md)和[其余十二城分析](imperial-cities-regional-economy-remaining-twelve-v0.1.md)。下一步逐条分析50条castle_village_城堡附属村庄描述，并把47条village_村庄按经济／社会／宗教／行政／边疆主题归并；retirement_retreat只作非历史性地点说明。随后抽查现属其他文化但保留帝国历史的聚落。全程区分SandBox v1.4.8与NavalDLC v1.2.8文本，不把版本异文拼接成历史变化，也不按1084年三方内战阵营断开更早历史。
+已完成19城、47条village_村庄及50条castle_village城堡附属村庄的第一轮英文原文判读；retirement_retreat排除为非历史性地点提示。阶段报告见[七城研究](imperial-cities-regional-economy-seven-cities-v0.1.md)、[其余十二城分析](imperial-cities-regional-economy-remaining-twelve-v0.1.md)和[城堡附属村庄分析](imperial-castle-village-source-review-v0.1.md)。下一步整合116条历史叙述的统一源级主题表，完成跨文化旧帝国聚落回检，重点核对帕拉汶德、萨哥特、沙拉斯、奥斯蒂港等现属其他文化但保存帝国历史的聚落。全程区分SandBox v1.4.8与NavalDLC v1.2.8文本，不把版本异文拼接成历史变化，也不按1084年三方内战阵营断开更早历史。
 
 **第一批要争取回答的一个实质问题**：**在元老院和皇帝的官方制度之外，各地城市依托哪些不同的生产、交换与地方治理关系，持续成为帝国统治的社会基础？** 这不是预设所有城市必须服务同一个中央财政，也不预设地方经济发达必然导致割据。
 
-**起步状态（2026-10-24）**：19座城市描述均已完成第一轮核读，47条village_村庄描述已完成首轮阅读；城市与村庄的SandBox/NavalDLC关键异文已逐条标记。源级样本共117条：19城、47条普通村庄、50条城堡附属村庄、1条特殊地点。当前待推进的核心缺口是50条castle_village描述及跨文化旧帝国聚落的回检；98条非城市记录的全量主题分类尚未完成。
+**起步状态（2026-10-24）**：117条源级记录已完成第一轮核读，其中116条具有历史叙述，1条retirement_retreat为非历史性地点提示。组成是19城、47条普通村庄、50条城堡附属村庄；50条castle_village中有3条缺少对应简中描述译文。当前待推进的核心缺口是整合116条叙述的统一主题表与跨文化旧帝国聚落回检；SandBox/NavalDLC的关键文本异文均按版本分别记录。
