@@ -315,6 +315,8 @@ v1.9 使用完整高程图绘图区和中性相对高程色带，不执行海陆
 ## 自然地理研究线（2026-10-24）
 
 - [自然地理研究线｜交接与第一阶段工作计划（v0.1）](geo/00/natural-geography-research-line-handover-2026-10-24.md) · [Google Docs 原件](https://docs.google.com/document/d/17YLRDnYY4o0SI0Om_oJ_MZQMTJu_Qvd3nTUOHk7tGVw/edit)
+- [自然地理研究问题图谱与证据矩阵（启动版 v0.1；已补首轮源级复核）](geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1IzIEm-CgErZ_REROhHnuXstqvK2vKjPoSXoeyanNFUg/edit)
+- [自然地理源级复核备忘录01｜纳哈撒局地水文与北方河湖地志的版本分离（v0.1）](geo/00/natural-geography-source-audit-01-nahasa-and-northern-waters-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1dlRqWn1R8VzeddpHjIaHdeBz-wk-fuTQLTRxSwg8dNI/edit)
 - [自然地理研究问题图谱与证据矩阵（启动版 v0.1）](geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs 原件](https://docs.google.com/document/d/1IzIEm-CgErZ_REROhHnuXstqvK2vKjPoSXoeyanNFUg/edit)
 - [CGEO-O-GEN-001｜卡拉迪亚大陆地理总论（v0.3）](geo/02/GEN/13SUKPrj1jBJJ2LzPwMgnBJK6xoxuG8kLIaVSEHkX5IA.md) · [云盘原件](https://docs.google.com/document/d/13SUKPrj1jBJJ2LzPwMgnBJK6xoxuG8kLIaVSEHkX5IA/edit)
 - [CGEO-O-REG-001｜卡拉迪亚大陆地理区域划分与地域结构（v0.1）](geo/02/REG/1H5CZKgad7YI60WnZu3t7W0PSBuNUd80tw8LMgCMWx_0.md) · [云盘原件](https://docs.google.com/document/d/1H5CZKgad7YI60WnZu3t7W0PSBuNUd80tw8LMgCMWx_0/edit)
