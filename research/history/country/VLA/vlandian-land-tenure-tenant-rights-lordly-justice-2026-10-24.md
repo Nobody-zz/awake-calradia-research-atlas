@@ -40,6 +40,10 @@ SandBox/ModuleData/spkingdoms.xml 的瓦兰迪亚王国沿革，键 **IudGLWQZ**
 
 这段王国沿革还说，不同国王或试图扩张王权，或允许男爵互相争斗，只要需要时仍能取得钱财和兵力。它将封臣土地权力放在军事动员框架内，但**没有说明农民的税率、租期、继承资格或驱逐程序**。【A】
 
+另有一条瓦兰迪亚贵族自我介绍，SandBox/ModuleData/comment_strings.xml，source id **str_comment_noble_introduces_self_and_clan.vlandia_2**，字符串键 **cMO9JXvk**，原文为：“We hold our lands in fief to {LIEGE_TITLE}, and we honor our oaths of fealty.” 官中同键译作：“{LIEGE_TITLE}封给我们土地，而我们也恪守效忠的誓言。”【A：官方对话模板】
+
+它补强了封地与效忠誓言相绑定的贵族自我表述，但它仍是通用对话模板，不是一份具体契约或某次历史事件记录。英文 “hold our lands in fief to” 更强调依附于领主的封地保有关系，官中“封给我们土地”略偏向授予行为本身。文本没有说明封地能否自由转让、继承、收回，亦没有将贵族封地关系直接延伸到佃农使用权。
+
 ### 2.3 “封建社会”是宏观分类，不是已知的统一法制
 
 Native/ModuleData/module_strings.xml，键 **ZPaw3WuO**，将瓦兰迪亚描述为帝国权威衰落后发展出的组织有序的封建社会，由尚武贵族阶层领导。【A：官方文化概述】
@@ -56,7 +60,9 @@ SandBox/ModuleData/concept_strings.xml 的村庄概念条目，键 **zeJHD2qj**�
 2. **土地所有者与实际耕作者可以分离。** 地主拥有地产，而其他村民作为佃户受雇或依附于其土地。官方文本没有说明这种关系在所有地区都以同一合同、租率或义务维系。
 3. **乡村经济与城镇市场相连。** 村庄提供粮食和原材料，再换取制成品；土地关系不仅是村内的权力问题，也牵涉城镇需求、贸易与战争造成的市场变化。
 
-但这是一篇解释游戏世界中“村庄”这一对象的概念条目，不是某个瓦兰迪亚村庄的历史档案，也不是法律文本。它可用来确认官方世界观设定中地主—佃户关系是一般农村结构的一部分，却不能独立证明于桑克故事中的三分之一收成规则。
+同一概念文件的家族条目键 **mvCgqAyT** 还称，一个王国通常由拥有封地并领导军队的家族组成，家族领袖去世后，其领导权和头衔由继承人承接。【A：通用制度说明】这进一步把封地、军事领导和家族延续联系起来，但仍是跨王国的系统性说明，不是瓦兰迪亚某家族的地权契约。
+
+这两条概念条目都是解释游戏世界对象的通用文本，不是某个瓦兰迪亚村庄的历史档案，也不是法律文本。它们可用来确认官方世界观设定中地主—佃户关系和封地家族结构是一般社会模型的一部分，却不能独立证明于桑克故事中的三分之一收成规则。
 
 ## 四、于桑克佃农故事：目前唯一具体的地权保护规则
 
@@ -128,7 +134,7 @@ SandBox/ModuleData/wanderer_strings.xml 的瓦兰迪亚码头工人背景，键 
 
 SandBox/ModuleData/comment_strings.xml 的通用对话键 **k6TABWrF** 中，领主在玩家洗劫村庄后声称：“我有义务保护我的佃户，如果我没能保护好他们，我就要替他们报仇。”【A：通用角色话语】
 
-这说明官方对话把领主—佃户关系表现为一种保护与报复义务。但它是针对玩家行为触发的通用游戏对话，不是某个历史领主履行职责的记录。另一条键 **Z3E8MDaB** 英文说领主作为 “my tenants' protector” 有义务替他们报复，官中却译作“作为属民的守护者”，弱化了 tenants 的明确佃户关系。该差异值得登记，但不宜仅凭一条对话推导出法律上的监护义务。
+这说明官方对话把领主—佃户关系表现为一种保护与报复义务。但它是针对玩家行为触发的通用游戏对话，不是某个历史领主履行职责的记录。另一条键 **Z3E8MDaB** 英文说领主作为 “my tenants' protector” 有义务替他们报复，官中却译作“作为属民的守护者”，弱化了 tenants 的明确佃户关系。另一个条件对话键 **ghawrJRK** 则把被袭村庄称为 “my property”（官中：“我的地产”），并把袭击理解为对领主威信的挑战。这些模板共同呈现两种并存的话语：领主既宣称保护佃户，也将村庄和土地视为自身地产与威信的一部分。它们不是法律条款，不能单独裁定佃户是否享有可独立于领主的产权。
 
 ### 6.2 领主对暴力追随者的裁断
 
@@ -163,6 +169,8 @@ SandBox/ModuleData/companion_strings.xml 键 **QNVJgFbF** 描写一名宗教流�
 | 英文原词 | 官方简中／本文用法 | 研究限制 |
 |---|---|---|
 | land grants | 官中“土地补贴”；本文按英文解释为授地／土地授予 | 不应误读为现金补助 |
+| hold our lands in fief to [liege] | 官中“领主封给我们土地” | 英文强调依附性保有，中文强调授予行为；不等于土地自由所有权 |
+| my property / my tenants' protector | 官中“我的地产”／“属民的守护者” | 对话模板把地产主张、佃户保护和领主威信交织；不是正式产权法条 |
 | suzerainty over their lands | 对其土地的宗主权 | 不等同于每块土地均由国王直接赐出 |
 | tenant farmer | 佃农 | 身份本身不说明租率或法律资格 |
 | landlord | 地主 | 不应自动等同于王国国王或领主 |
@@ -220,6 +228,9 @@ SandBox/ModuleData/companion_strings.xml 键 **QNVJgFbF** 描写一名宗教流�
 | Native/ModuleData/module_strings.xml，Vlandia 文化说明 | ZPaw3WuO | “封建社会”宏观标签，不是具体法典 |
 | SandBox/ModuleData/spkingdoms.xml，Vlandia | IudGLWQZ | 奥斯里克、男爵伯爵、土地宗主权与战时集结 |
 | SandBox/ModuleData/concept_strings.xml，Villages | zeJHD2qj | 一般村庄经济、地主与佃户结构 |
+| SandBox/ModuleData/concept_strings.xml，Clans | mvCgqAyT | 通用模型中的封地家族、军事领导与继承 |
+| SandBox/ModuleData/comment_strings.xml，Vlandian clan introduction | cMO9JXvk | 贵族称土地为对领主持有的封地，并承诺效忠 |
+| SandBox/ModuleData/comment_strings.xml，raided-village dialogue | ghawrJRK | 领主把村庄称为自己的地产并将袭击视作威信挑战 |
 | SandBox/ModuleData/wanderer_strings.xml，vlandia_7 | iPCX96mA | 于桑克佃农、三分之一收成税、资格文件争议 |
 | 同上，vlandia_7 generic backstory | WtNQGw3o | 泛化佃农背景，不重复具体法律规则 |
 | SandBox/ModuleData/wanderer_strings.xml，vlandia_5 | 8Caa7QPs、fGhNWKgK、KAK7DLTq | 土地不足、失地、迁居沙拉斯及城市劳动压力 |
