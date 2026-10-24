@@ -133,8 +133,8 @@
 
 | 聚落与字符串键 | 官方简中关键语义 | 对应基础版英文语义 | 对历史地理的影响 | 核查等级 |
 | --- | --- | --- | --- | --- |
-| 斯塔堤摩斯 Stathymos／`Settlements.Settlement.text.village_EN1_2` | “高地的溪流灌溉着山坡上的沃土” | “The highland streams wash fertile soil down the hillsides”：山溪向坡下冲运肥沃土壤 | 不应因中文“灌溉”就创设人工灌渠、地主灌溉工程史；当地谷地麦作仍有直接文字支持 | 英汉语义复核确认；原包本轮未复解 |
-| 俄耳特拉 Orthra／`Settlements.Settlement.text.village_EN5_2` | “从东方草原运来牧草，为帝国骑兵部队提供马匹” | “It was founded as a stud farm to breed imperial horses with steppe stock from the east”：较新军用育马场使用来自东部草原的育种牲畜／马种 | 被误译的贸易对象从活畜／马种变为草料；禁止据此建立东方向西长途干草路线；可以提出跨地域种畜育种联系但规模与路线仍未证 | 英汉语义复核确认；原包本轮未复解 |
+| 斯塔堤摩斯 Stathymos／`Settlements.Settlement.text.village_EN1_2` | “高地的溪流灌溉着山坡上的沃土” | “The highland streams wash fertile soil down the hillsides”：山溪向坡下冲运肥沃土壤 | 不应因中文“灌溉”就创设人工灌渠、地主灌溉工程史；当地谷地麦作仍有直接文字支持 | 英汉语义复核确认；已直接解包SandBox.zip并按实际文本键核对，DLC另行分版登记 |
+| 俄耳特拉 Orthra／`Settlements.Settlement.text.village_EN5_2` | “从东方草原运来牧草，为帝国骑兵部队提供马匹” | “It was founded as a stud farm to breed imperial horses with steppe stock from the east”：较新军用育马场使用来自东部草原的育种牲畜／马种 | 被误译的贸易对象从活畜／马种变为草料；禁止据此建立东方向西长途干草路线；可以提出跨地域种畜育种联系但规模与路线仍未证 | 英汉语义复核确认；已直接解包SandBox.zip并按实际文本键核对，DLC另行分版登记 |
 
 比较示范：CGEO-S-HUM北方新稿已依据这两处英文语义重写了麦田水土机制和军马供应机制；阿瓦辛顿村的英文“cleared away the thickets and thornbrush”是清除灌木与荆棘，不能无来源改写为伐尽成熟森林。以上风险无须否认官方译名的有效性，错误集中在动词和贸易对象，正是本项目“英语决定内涵、中文决定专名”的适用案例。
 
