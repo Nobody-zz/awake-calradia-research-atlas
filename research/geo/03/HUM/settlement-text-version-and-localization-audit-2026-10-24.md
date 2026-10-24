@@ -6,7 +6,7 @@
 
 本轮对项目官方原始资料库中的 **SandBox v1.4.8** 与 **NavalDLC v1.2.8** 进行原始ZIP回读。逐一解析两模块的 `settlements.xml`、`Languages/std_settlements_xml.xml` 与 `Languages/CNs/std_settlements_xml-zho-CN.xml`，以实际聚落ID为起点，分别核对英文实体名、文本键、英文描述、简中名称键和简中描述。不能仅凭字符串键相同就假定它们在两个版本中仍指向同一实体。
 
-逐条对照登记在[跨区域证据矩阵工作簿的「版本差异审计」表]( https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit )；原始模块归档见[Google Drive官方资料库]( https://drive.google.com/drive/folders/17y4EwetqNlFBW1Zf_d_CP4yrdyjmr8Rm )。此处只汇总会影响既有论文结论的结果，不替代工作簿中的逐键记录。
+逐条对照登记在[跨区域证据矩阵工作簿的「版本差异审计」表](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit)；原始模块归档见[Google Drive官方资料库](https://drive.google.com/drive/folders/17y4EwetqNlFBW1Zf_d_CP4yrdyjmr8Rm)。此处只汇总会影响既有论文结论的结果，不替代工作簿中的逐键记录。
 
 ## 二、总体发现
 
