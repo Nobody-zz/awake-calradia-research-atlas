@@ -1,4 +1,4 @@
-# 自然地理研究问题图谱与证据矩阵（启动版 v0.3）
+# 自然地理研究问题图谱与证据矩阵（启动版 v0.4）
 
 日期：2026-10-24
 
@@ -79,6 +79,22 @@ GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calrad
 
 完整统计、逐项案例与后续校勘规则见[自然地理源级复核备忘录02](https://docs.google.com/document/d/12tBeuWmMPpEmnM3rYZCBDj4g638RxY-4AKM0jq_jNas/edit)及[GitHub Markdown](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-source-audit-02-settlement-key-mapping-and-environmental-texts-2026-10-24.md)。本轮仍未重新解析高程栅格、河道几何、Navmesh或土地覆盖数据，没有新增B类空间测绘结论。
 
-增B类空间测绘结论。旧版简中只用于记录旧版本地化，不用于覆盖新版英文。地图复核仍需可恢复的原始空间资源及版本明确的几何数据。
+旧版简中只用于记录旧版本地化，不用于覆盖新版英文。地图复核仍需可恢复的原始空间资源及版本明确的几何数据。
 
 )
+
+
+## 八、2026-10-24第三轮：纳哈撒聚落实体坐标与高程图面板初步配准
+
+空间核验备忘录03：[Google Docs](https://docs.google.com/document/d/1bILR1-Lrt7Ai9nrwfECG_ln7jF07KfCj9QMWP9VL0BU/edit) · [GitHub Markdown](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-03-nahasa-settlement-coordinate-overlay-2026-10-24.md)  
+图件：[双版本纳哈撒地点坐标叠加图](https://drive.google.com/file/d/1tZiucv0sSqJ_ED1CNLFfW5DLzgxmTrHO/view)
+
+本轮直接读取并校验SandBox.zip与NavalDLC.zip；SHA-256分别为 `54c358e5b318ffeda8a69ce41a7e665f3b9bef06a6e49b142a972c80ea9c1d55` 与 `e41ad1c75665e736cad7d02319193a2cc6e0ed68e8bf2e44e1f151b62020b468`，与源档归档清单一致。从两版 `settlements.xml` 提取Zalm、Mabwaz、Nahlan、Mijayit、Qidnar、Bait Hatif、Abba、Asmait与Ezbet Nahul等聚落实体的坐标、名称和inline英文描述，并叠加到RES-005已归档的同尺度场景Z高程面板。基础版坐标范围为848场景单位，《战帆》为1040场景单位，分别按本版坐标绘制，不将两版坐标直接视为同址。
+
+**目前能支持的结论：**
+- 已完成的是版本内的实体坐标—高程图面板可视配准。图件提供地形背景线索，但不是海陆掩膜或河道图。
+- Zalm、Mabwaz、Nahlan与Mijayit的官方英文描述在两版中均支持达玛尔河通道、洪泛平原或河口的局地关系；这仍是A类文本证据。高程图叠加尚未直接确认河道与各点的几何邻接。
+- Qidnar与Bait Hatif在SandBox中描述为达玛尔河洪泛平原，在NavalDLC中改为峭壁陆侧岩丘／旱谷及偶发强降雨供水。其版本内坐标也不同，但因场景尺度、布局与资源均有版本差异，不能把它解释为世界内部聚落搬迁或河道改道。
+- 高程面板颜色表达相对场景Z值，不能把低值蓝色当作海洋或河流；本轮没有重新解析terrain.bin、river_triangles.bin、Flowmap或Navmesh。
+
+因此本轮不宣称完成B类自然水文测绘，不新增洪泛区边界、河岸线、面积或流域拓扑。下一步先恢复版本明确的原始河流Paths／水面几何，配准达玛尔河主干与稳定文本锚点，再独立检查Qidnar、Bait Hatif的版本冲突。若原始几何不可恢复，保留“官方文本支持、空间配准待核”的状态。
