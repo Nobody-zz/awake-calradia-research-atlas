@@ -1,8 +1,8 @@
-# 自然地理研究问题图谱与证据矩阵（启动版 v0.4）
+# 自然地理研究问题图谱与证据矩阵（启动版 v0.5）
 
 日期：2026-10-24
 
-Google Docs 原件：[自然地理研究问题图谱与证据矩阵 v0.4](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit?usp=drivesdk)
+Google Docs 原件：[自然地理研究问题图谱与证据矩阵 v0.5](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit?usp=drivesdk)
 
 GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md)
 
@@ -93,3 +93,16 @@ GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calrad
 - 高程面板颜色表达相对场景Z值，不能把低值蓝色当作海洋或河流；本轮没有重新解析terrain.bin、river_triangles.bin、Flowmap或Navmesh。
 
 因此本轮不宣称完成B类自然水文测绘，不新增洪泛区边界、河岸线、面积或流域拓扑。下一步先恢复版本明确的原始河流Paths／水面几何，配准达玛尔河主干与稳定文本锚点，再独立检查Qidnar、Bait Hatif的版本冲突。若原始几何不可恢复，保留“官方文本支持、空间配准待核”的状态。
+
+
+## 九、2026-10-24第四轮：衍生资源包恢复与原始几何状态复核
+
+本轮通过既有精确 Drive 链接重新取回 RES-012 派生 ZIP，确认大小 579,804 字节、SHA-256 `9bca8d83d9b814c3722c88ee89b50f57fccf01957a4e4729f1055279c6f930c3`，ZIP CRC 通过。RES-018 资源追溯 ZIP 大小 7,845 字节、SHA-256 `0362b8290e40def44bdff926b7d1410b19e34d346b92cddb1ced272a02667619`，CRC 通过。两个包都只包含派生 CSV、JSON、脚本、PNG或报告，没有原始地图二进制。
+
+从RES-012的 `town_port_network_access.csv` 与 `village_parent_port_assignment.csv` 重新计算基本统计，结果与 `summary.json` 一致：29个城镇港口（23 CoastalSea、6 River）；CoastalSea标记Z中位数2.580、范围2.5698–3.327，20/23落在2.569–2.581；River标记Z中位数5.736、范围3.885–9.996；72个村庄父级中56个直线最近港口与网络代理最近港口一致，16个不一致。以上是对留存派生表的复算，不是原始Navmesh重解析，也不新增自然河道、海岸线或水文拓扑证据。
+
+本轮重新检查当前对话附件、Library中的 `Calradia Geography Research Source Files` 与Drive精确文件名检索，仍未取得 `scene.xscene`、`terrain.bin`、`navmesh.bin`、`river_triangles.bin` 或 `flowmap.dds` 原始字节。RES-001所记原始哈希仍是前序直接读取的历史指纹，本轮未对原件重哈希。该状态只描述当前可访问范围，不证明原件从未上传或不存在于其他旧附件/存储层。
+
+RES-018旧版Markdown副本含未替换的模板变量，已标记为旧版并由v1.1复核报告取代：[Google Docs v1.1](https://docs.google.com/document/d/1DAC0wDXLP0tantGCQo522EUF3v1AQXS-yztADc43miU/edit) · [GitHub v1.1](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/90/EVD/CGEO-MAP-RES-018.md)。
+
+**对研究队列的调整：**在原始几何恢复前，NAT-02纳哈撒与NAT-03/NAT-04北方河湖的文本研究可以继续；但地图空间配准状态仍为“官方文本支持、空间配准待核”。不能以港口候选坐标或已渲染PNG补足原始河道几何。
