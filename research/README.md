@@ -16,6 +16,7 @@
 ## geo/07/TOP
 
 - [CGEO-TOP-WS｜《战帆》北方地名英汉对照与异译校勘（v1.0）](geo/07/TOP/1zfNg7Fz2uOkLD34p_VWl04_A3JoS-SCf3MhyR0XmBHg.md) · [云盘原件](https://docs.google.com/document/d/1zfNg7Fz2uOkLD34p_VWl04_A3JoS-SCf3MhyR0XmBHg/edit)
+- [卡拉迪亚城镇异名、文化称名与历史更名：首轮证据清单（v0.1；未授H号）](geo/07/TOP/calradia-settlement-cultural-names-inventory-v0.1.md)
 ## geo/90/DEV/CN
 
 - [CGEO-SRC-WS｜《战帆》英文原文—中文译文与地理证据索引（v1.0）](geo/90/DEV/CN/1B8sqCVRmYFv9_B7Lqu7SVpN6v3QjcOGfHWc1AOUC3Z0.md) · [云盘原件](https://docs.google.com/document/d/1B8sqCVRmYFv9_B7Lqu7SVpN6v3QjcOGfHWc1AOUC3Z0/edit)
