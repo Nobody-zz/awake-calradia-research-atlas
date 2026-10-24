@@ -1,0 +1,58 @@
+entity_id,entity_type,english_name,x_scene_units,y_scene_units,analysis_group,nearest_PHYM7_mask_distance_scene_units,nearest_PHYM7_pixel_x_scene_units,nearest_PHYM7_pixel_y_scene_units,approx_center_Z_from_rendered_heightfield,approx_local_median_Z_within_10_scene_units,approx_local_q10_Z_within_10_scene_units,approx_local_q90_Z_within_10_scene_units
+town_A6,town,Sanala,401.068,207.927,Damar_corridor_city,1.735,402.664,209.085,2.161,2.039,-0.027,2.89
+town_A7,town,Askar,379.425,118.472,Damar_corridor_city,3.882,382.492,115.813,5.2,5.565,3.863,6.173
+village_A2_2,village,Abu Khih,706.23,202.192,comparison_other_Aserai_entity,0.777,706.02,201.313,6.173,6.416,4.592,7.267
+village_A2_3,village,Hoqqa,725.889,249.251,comparison_other_Aserai_entity,2.196,724.64,251.058,5.2,5.322,3.741,5.929
+town_A2,town,Husn Fulq,686.263,234.344,comparison_other_Aserai_entity,8.101,694.382,236.29,5.322,5.078,4.227,5.322
+castle_village_A6_1,castle_village,Shibal Zumr,679.928,245.814,comparison_other_Aserai_entity,8.403,684.296,252.612,3.255,3.62,2.282,4.835
+village_A6_3,village,Jahasim,390.38,216.602,comparison_other_Aserai_entity,10.086,400.337,216.858,1.796,1.796,-0.027,3.133
+castle_A6,castle,Shibal Zumr Castle,666.93,245.247,comparison_other_Aserai_entity,17.032,678.866,258.053,4.471,4.106,3.376,5.042
+castle_village_A4_1,castle_village,Medeni,436.693,178.229,comparison_other_Aserai_entity,21.994,422.06,194.317,3.376,3.255,2.647,3.376
+castle_village_A7_1,castle_village,Uqba,378.735,220.777,comparison_other_Aserai_entity,22.069,400.337,216.858,2.769,1.918,0.216,3.255
+castle_A4,castle,Medeni Castle,444.093,150.416,comparison_other_Aserai_entity,28.124,418.957,137.577,4.592,4.714,3.741,8.969
+castle_village_A6_2,castle_village,Lamesa,659.674,230.062,comparison_other_Aserai_entity,33.499,683.521,253.39,4.835,4.471,3.498,6.173
+castle_village_A9_1,castle_village,Barihal,357.184,162.152,comparison_other_Aserai_entity,36.101,392.578,167.89,6.051,6.173,6.051,7.631
+castle_village_A9_2,castle_village,Wadar,355.391,140.124,comparison_other_Aserai_entity,36.241,380.941,114.258,7.51,7.145,6.294,10.525
+castle_village_A8_1,castle_village,Tamnuh,641.98,241.732,comparison_other_Aserai_entity,36.862,629.987,276.708,3.133,3.133,2.89,3.376
+castle_A7,castle,Uqba Castle,357.485,216.349,comparison_other_Aserai_entity,42.672,400.337,216.081,3.376,3.133,1.553,3.741
+castle_A8,castle,Tamnuh Castle,650.405,210.393,comparison_other_Aserai_entity,42.785,692.831,213.749,4.227,4.349,2.89,5.078
+castle_village_A8_2,castle_village,Kuqa,652.93,189.194,comparison_other_Aserai_entity,45.818,694.382,209.085,4.835,4.957,3.984,5.686
+village_A8_2,village,Abghan,465.728,168.624,comparison_other_Aserai_entity,47.223,432.146,202.09,2.89,3.012,1.553,3.498
+castle_village_A3_2,castle_village,Deir Hawa,344.876,192.836,comparison_other_Aserai_entity,52.759,392.578,169.445,5.565,5.322,4.714,8.361
+castle_A9,castle,Barihal Castle,339.854,156.395,comparison_other_Aserai_entity,54.03,392.578,167.89,6.416,7.024,6.173,7.875
+village_A3_1,village,Abba,474.865,101.265,comparison_other_Aserai_entity,55.704,422.06,118.922,5.808,5.565,4.714,7.218
+village_A4_4,village,Doqa,630.642,182.594,comparison_other_Aserai_entity,68.792,693.607,210.64,2.647,2.769,1.188,3.376
+town_A8,town,Qasira,490.694,163.097,comparison_other_Aserai_entity,69.973,432.146,202.09,1.796,1.918,0.337,2.647
+castle_village_A5_2,castle_village,Hunab,493.275,130.275,comparison_other_Aserai_entity,70.875,422.836,124.363,3.984,4.349,3.887,6.416
+castle_A3,castle,Ain Baliq Castle,323.167,186.28,comparison_other_Aserai_entity,71.136,392.578,169.445,7.388,6.78,5.322,10.78
+town_A3,town,Iyakis,493.537,111.743,comparison_other_Aserai_entity,71.558,422.836,123.586,6.659,7.145,5.832,9.09
+town_A1,town,Quyaz,299.553,264.853,comparison_other_Aserai_entity,74.49,336.717,329.562,2.282,2.282,1.918,3.34
+village_A4_2,village,Mussum,630.013,167.928,comparison_other_Aserai_entity,76.445,694.382,209.085,3.741,3.863,3.012,5.565
+village_A1_1,village,Tasheba,314.183,256.015,comparison_other_Aserai_entity,77.192,336.717,329.562,1.796,1.796,0.58,2.404
+castle_village_A7_2,castle_village,Bunqaz,322.492,210.122,comparison_other_Aserai_entity,77.833,400.337,216.081,4.835,4.835,4.227,5.443
+town_A4,town,Razih,615.08,180.537,comparison_other_Aserai_entity,84.019,693.607,210.64,2.769,1.796,0.337,3.012
+castle_A1,castle,Tubilis Castle,274.181,272.167,comparison_other_Aserai_entity,85.192,336.717,329.562,6.294,5.686,4.714,6.051
+village_A8_1,village,Ezbet Nahul,509.571,147.601,comparison_other_Aserai_entity,89.475,422.06,129.804,3.62,3.741,3.255,6.294
+castle_A5,castle,Jamayeh Castle,516.555,130.572,comparison_other_Aserai_entity,94.083,422.836,124.363,4.349,4.592,3.863,7.753
+village_A1_2,village,Baq,296.806,241.59,comparison_other_Aserai_entity,96.333,336.717,329.562,5.808,5.443,4.714,5.808
+castle_village_A1_2,castle_village,Fanab,272.077,253.368,comparison_other_Aserai_entity,99.745,336.717,329.562,4.714,4.835,4.714,5.2
+castle_village_A5_1,castle_village,Jamayeh,530.507,139.644,comparison_other_Aserai_entity,100.774,520.593,240.176,3.863,3.62,1.553,4.106
+village_A3_3,village,Bir Seif,522.539,111.056,comparison_other_Aserai_entity,100.854,422.836,123.586,6.173,7.145,5.322,11.522
+castle_village_A2_1,castle_village,Sahel,639.009,117.223,comparison_other_Aserai_entity,103.231,704.468,197.426,10.184,10.306,9.576,11.595
+castle_village_A1_1,castle_village,Tubilis,251.632,263.255,comparison_other_Aserai_entity,107.928,336.717,329.562,2.769,2.222,0.459,4.471
+village_A4_1,village,Qablab,591.506,153.62,comparison_other_Aserai_entity,108.822,529.127,243.285,3.255,3.133,0.811,4.714
+castle_village_A3_1,castle_village,Ain Baliq,283.666,187.29,comparison_other_Aserai_entity,110.08,392.578,169.445,5.808,5.929,5.808,6.294
+castle_A2,castle,Sahel Castle,617.677,127.096,comparison_other_Aserai_entity,111.251,702.141,199.758,6.902,7.267,5.443,9.333
+village_A1_4,village,Hiblet,279.042,231.398,comparison_other_Aserai_entity,113.524,336.717,329.562,6.051,6.051,5.078,11.971
+village_A5_3,village,Waltas,545.949,129.287,comparison_other_Aserai_entity,113.87,525.248,240.953,3.498,3.498,2.404,3.984
+village_A5_2,village,Liwas,537.583,111.158,comparison_other_Aserai_entity,115.497,422.836,123.586,4.106,4.592,4.106,5.565
+castle_village_A2_2,castle_village,Asmait,622.677,107.025,comparison_other_Aserai_entity,121.514,704.468,197.426,5.929,6.537,5.322,8.713
+town_A5,town,Hubyar,560.451,107.058,comparison_other_Aserai_entity,138.174,525.248,240.953,5.078,6.659,4.592,10.549
+village_A5_1,village,Mahloul,590.001,117.982,comparison_other_Aserai_entity,138.667,525.248,240.953,4.227,4.349,3.984,4.616
+village_A6_4,village,Nahlan,404.877,160.318,stable_Damar_text_anchor,2.328,402.664,160.117,4.471,4.349,2.769,5.407
+village_A6_2,village,Hamoshawat,394.921,177.046,stable_Damar_text_anchor,2.454,397.233,176.44,3.863,3.802,2.525,5.565
+village_A7_4,village,Zalm,390.254,97.643,stable_Damar_text_anchor,3.103,387.147,97.936,4.957,5.322,3.996,7.741
+village_A7_3,village,Mabwaz,413.587,124.973,stable_Damar_text_anchor,4.393,416.629,122.031,6.659,5.686,3.498,6.902
+village_A6_1,village,Mijayit,410.054,178.898,stable_Damar_text_anchor,4.53,408.095,182.658,3.984,3.62,1.954,4.106
+castle_village_A4_2,castle_village,Qidnar,423.748,135.275,version_conflict_anchor_base_version_only,3.199,420.509,134.467,5.078,5.2,3.863,6.051
+village_A7_2,village,Bait Hatif,421.323,106.433,version_conflict_anchor_base_version_only,6.95,418.181,112.704,5.322,5.443,4.714,5.686
