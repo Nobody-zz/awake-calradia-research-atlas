@@ -1,6 +1,6 @@
 # I-0003｜史料—事件—命题—争议登记簿
 
-第一轮登记：H-0004及既有帕拉史研究｜基础版v1.0；追加校勘v3.14｜2026年10月24日｜保留既有编号体系；本轮新增S-0081、P-0103、D-0091。继续核验SandBox v1.4.8运行时XML与开发注释的边界：当前拉盖娅人物数据未记录父母字段，Padishah女儿及“皇帝侄女”表述只在开发注释中；项目既定身份绑定可保留，但母系涅雷采斯关系仍是最佳工作谱系而非生效XML直陈。新增帝国老兵wanderer_strings背景文本：说话者声称服役二十年，但明确表示德罗修斯伏击时自己卧病，故其战役细节是转述而非目击；其对阿雷尼科斯改革的评价须保留立场性。达鲁索斯政变与百年制度转折仍未找到独立年代链。H-0005现行稿v1.7；Q-0007 v0.5；Q-0008 v1.2；Q-0009 v0.4；Q-0010 v0.2；Q-0012现行v0.4。Q5-09仍开放，未改动已签发世界书正典。 本轮直接回读SandBox/NavalDLC聚落原文，补充S-0071、E-0028、P-0093—P-0095、D-0082—D-0083；同时核正S-0016的卡尔索斯政变与S-0008李图元老身份的时序表达，H-0003、H-0005正文与GitHub镜像相应更新。
+第一轮登记：H-0004及既有帕拉史研究｜基础版v1.0；追加校勘v3.15｜2026年10月24日｜保留既有编号体系；本轮扩充S-0081并新增P-0104。继续核验SandBox v1.4.8运行时XML与开发注释的边界：当前拉盖娅人物数据未记录父母字段，Padishah女儿及“皇帝侄女”表述只在开发注释中；项目既定身份绑定可保留，但母系涅雷采斯关系仍是最佳工作谱系而非生效XML直陈。新增帝国老兵wanderer_strings背景文本：说话者声称服役二十年，但明确表示德罗修斯伏击时自己卧病，故其战役细节是转述而非目击；其对阿雷尼科斯改革的评价须保留立场性。达鲁索斯政变与百年制度转折仍未找到独立年代链。H-0005现行稿v1.7；Q-0007 v0.5；Q-0008 v1.2；Q-0009 v0.4；Q-0010 v0.2；Q-0012现行v0.4。Q5-09仍开放，未改动已签发世界书正典。 本轮直接回读SandBox/NavalDLC聚落原文，补充S-0071、E-0028、P-0093—P-0095、D-0082—D-0083；同时核正S-0016的卡尔索斯政变与S-0008李图元老身份的时序表达，H-0003、H-0005正文与GitHub镜像相应更新。
 
 ## A. 来源声明
 
@@ -711,8 +711,10 @@ Source of truth: [Google Docs](https://docs.google.com/document/d/1v52GmJ6BmyRUw
 
 ## 潘德拉克主线采访反编译源码恢复增量登记（2026-10-24；独立战役史未签发H号）
 
-S-0081｜A2：官方游戏对白经反编译源码恢复，版本有界。BannerlordCode/bannerlord-1.4.5，README说明其代码由Steam版Bannerlord v1.4.5官方托管程序集经ILSpy 10.1.0反编译生成；非TaleWorlds官方发布的原始源码。文件 Bannerlord.Source/Modules.StoryMode/StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs，blob SHA dfe5b4ebf469860d08014ae6926a0d5ef40e9146；URL：https://github.com/BannerlordCode/bannerlord-1.4.5/blob/main/Bannerlord.Source/Modules.StoryMode/StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs。BannerInvestigationQuest.SetDialogs()以TextObject保存“调查涅雷采斯的愚行”任务开场与各领主采访英文文本。通用开场键hFYG3lXw、TKpFB4qN、0yxEvgGf；瓦兰迪亚德泰尔lord_4_1键0IeByuam、vaLehwRl、6qgXAcZB、xjk4hNXD；因加泰尔lord_4_16键zRZd90cZ、sejEf69A、Og8nep1w、WN1tHPnB；恩泰里lord_4_5键9sAGLK6R、duD8SJDb、iQeMllr8、BleybhsD。它证明官方游戏叙事中存在这些人物答话及其文本键，但不能在未取得v1.4.8.119303程序集的情况下保证各版本字词、标点和情绪标签完全一致。
+S-0081｜A2：官方游戏对白经反编译源码恢复，版本有界。BannerlordCode/bannerlord-1.4.5，README说明其代码由Steam版Bannerlord v1.4.5官方托管程序集经ILSpy 10.1.0反编译生成；非TaleWorlds官方发布的原始源码。文件 Bannerlord.Source/Modules.StoryMode/StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs，blob SHA dfe5b4ebf469860d08014ae6926a0d5ef40e9146；URL：https://github.com/BannerlordCode/bannerlord-1.4.5/blob/main/Bannerlord.Source/Modules.StoryMode/StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs。BannerInvestigationQuest.SetDialogs()以TextObject保存“调查涅雷采斯的愚行”任务开场与各领主采访英文文本。通用开场键hFYG3lXw、TKpFB4qN、0yxEvgGf；巴旦尼亚卡拉多格lord_5_1键Y6OJHdMH、bmitHhDt、XEuhxpCX、aMBoh7gL，埃尔贡lord_5_3键4Oc6MEvR、WUa1gnkS、2DZOCsy5、x3KpQouT，梅利迪尔lord_5_5键SFJFIaAD、T7ye4wUT、vjOHmHOH、kJxPtbHo；瓦兰迪亚德泰尔lord_4_1键0IeByuam、vaLehwRl、6qgXAcZB、xjk4hNXD，因加泰尔lord_4_16键zRZd90cZ、sejEf69A、Og8nep1w、WN1tHPnB，恩泰里lord_4_5键9sAGLK6R、duD8SJDb、iQeMllr8、BleybhsD。它证明官方游戏叙事中存在这些人物答话及其文本键，但不能在未取得v1.4.8.119303程序集的情况下保证各版本字词、标点和情绪标签完全一致。
 
 P-0103【A2：官方游戏对白经反编译源码恢复；C：政治军事解释】潘德拉克采访中，德泰尔把援帝誓约、男爵拒援、涅雷采斯辱骂、改与斯特吉亚结盟及战后责任争执联系起来；因加泰尔主张乘胜夺取西帝国，并将未能扩张归因于德泰尔对援帝誓约的顾虑；恩泰里称由德泰尔委任指挥弩兵，描述瓦兰迪亚骑兵冲击阿塞莱轻步兵、库赛特骑射手袭扰骑兵、弩兵一度取得局部优势、骑兵追击后遭帝国具装骑兵突破的序列，并称因加泰尔、阿尔德里克等男爵无视国王计划。这组文本支持将瓦兰迪亚的潘德拉克经验分析为王权—男爵战略分歧与骑兵／弩兵协同问题；但各人均有自我辩护立场，不能把归责当成已核实军令或中立战报。相同任务中的多名人物不属于独立外部见证。
+
+P-0104【A2：官方游戏对白经反编译源码恢复；C：王权与氏族政治解释】潘德拉克采访中，卡拉多格将埃里尔失踪后的继位与氏族要求战争联系起来，并叙述巴旦尼亚弓手从林地道路两侧伏击帝国前卫、近战兵随后冲击；埃尔贡提供相近的伏击顺序，同时保留对卡拉多格继位的疑虑；梅利迪尔称埃里尔曾与皇帝以誓约缔结休战，批评卡拉多格继位后推动战争，并指出斯特吉亚承担对帝国主力的正面战斗、瓦兰迪亚对抗帝国骑兵。此组官方对白表明巴旦尼亚战争记忆内部存在王权正当性、旧约、军事贡献与战后收益的争论；它不能单独证明旧约的法律文本、何方首先违约、伏击地点或各氏族是否统一服从卡拉多格。卡拉多格、埃尔贡、梅利迪尔是同一任务中的角色叙述，不按三名人物计算为三份独立外部证据。
 
 D-0091｜潘德拉克采访文本的版本与传抄差异：2020年玩家手录自述未能从游戏文件找到对白，且在因加泰尔开场句、阿塞莱轻步兵描述、德泰尔战后总结等处与v1.4.5反编译代码存在逐词差异。现阶段无法仅凭差异判断是抄录遗漏、编辑润色还是游戏版本变更。项目所存XML为v1.4.8.119303，未取得同版本运行时程序集；因此把反编译对白记为A2，把玩家手录保留为B级传抄材料，不以v1.4.5文本冒称v1.4.8逐字原文。该版本限制不推翻E-0029与P-0099—P-0102，只提高了战役人物话语的可复核程度。
