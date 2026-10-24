@@ -182,7 +182,7 @@ RQ-KHU-05 的推进结果：目前可比较封地与现行持有的差异，也�
 
 全模块检索的负面结果：本轮对 Native、SandBoxCore、SandBox、StoryMode、NavalDLC 五个归档 ZIP 内的 XML 及官方语言表检索。字符串 Ortongard 只出现在 SandBox／NavalDLC 的 town_K4 聚落正文、名称字段及对应语言表；没有发现生效人物传记或政治对白直接把奥通加德与后来的领地争夺相连。不过，settlements.xml 在 town_K1、town_K4 前分别保留“clan 3, Arkits”和“clan 2, Khergits”的旧标签，且与生效 owner 交叉错位；这是开发阶段配置线索，不是事件叙述。Gotug 在这些归档的 XML 和语言表中没有命中；“ten years ago”与“made a bid for their territories”只出现在 SandBox／ModuleData/spclans.xml 的旧开发注释。已上传 StoryMode.zip 仅含 module_strings.xml、story_mode_settlements.xml 及两份语言表，其中没有 Khergit、Arkit、Mesui、Solun、Gotug、Ortongard、Pendraic 或 Monchug 的正文命中。此结果只限定于现有候选归档，不能证明完整游戏资源或其他版本绝无相关对白；但它说明当前没有可用的独立官方主线文本来补上奥通加德的产权链。
 
-本轮结论仍为 C 级工作解释：库赛特更适合暂时理解为由多种地方权力、不同领地取得路径和不均衡谱系证据组成的差异化领地联盟。后续优先查找奥通加德的具名申索、转封或领主变更记录，并将主线对白作为独立证据层核查；不预占 H 编号，不修改共享 I/Q 索引。
+本轮结论仍为 C 级工作解释：库赛特更适合暂时理解为由多种地方权力、不同领地取得路径和不均衡谱系证据组成的差异化领地联盟。奥通加德保留为城市产权与文本一致性问题的未决案例，不再是近期首要任务。研究优先级转为：兀儿浑如何取得对高地位旧氏族的支配权；游牧与定居经济的矛盾如何被制度化处理；潘德拉克之后的氏族仇怨如何影响联盟。全程不预占 H 编号，不修改共享 I/Q 索引。
 
 ## 附录：原文追索与版本说明
 
