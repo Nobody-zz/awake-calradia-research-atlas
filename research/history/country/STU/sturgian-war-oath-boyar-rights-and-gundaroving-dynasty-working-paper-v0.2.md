@@ -215,6 +215,7 @@ NavalDLC／naval_dialog_strings.xml／d5lpGY8m 中一名诺德冒险者讲述自
 * CHC-STU-GEN《斯特吉亚研究线阶段性综合审查》v0.1：用于 STU-RQ01—STU-RQ10 状态及跨线交接。
 * CHC-STU-GEN／POL《斯特吉亚研究线跨线证据交接单》v0.1：用于潘德拉克龙旗时序、岁仑／Gotug 与阿契特侵夺、朗瓦德母系诺德谱系的跨线核验；不替代接收线结论。
 * 项目 `StoryMode.zip` 资料包检查（2026-10-24）：包内仅有 `module_strings.xml`、`story_mode_settlements.xml` 及英文／简中语言表；没有主线人物访谈对白或运行时程序集。此为当前归档缺口，不证明运行时从未包含相关对白。
+* 公开反编译来源：BannerlordCode／bannerlord-1.4.5，`Bannerlord.Source/Modules.StoryMode/StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs`，固定 blob `dfe5b4ebf469860d08014ae6926a0d5ef40e9146`；龙旗证词键 `Ri6NmpEE`（朗瓦德）、`sSaZVD2e`（现任奥列克）、`ZkSthA9d`（戈敦）。这是可逐句复核的 A2 级旧版反编译文本，仍未与 v1.4.8.119303 运行时程序集逐字比较；其中两段将“年长的”奥列克写成战斗后段仍在场，与有效 `heroes.xml／bsOLRZyS` 的战役阵亡记录存在直接时序冲突。
 * SandBox／ModuleData／spclans.xml：clan_sturgia_1—clan_sturgia_9，A4wIVnM4、Eu932blQ、mddbprXj、AppNvfPv、s0AVQCbJ、EnZHNc2k、xw0eTkkb、W2HkbCeX、WssI6mOE；佣兵／边地团体 bsPd5zri、0u8ipbgn。
 * NavalDLC／ModuleData／naval_dialog_strings.xml：d5lpGY8m（领主 druzhina）；Y1fwBgHt（诺德水手对潘德拉克后帝国海军欠饷的回忆）；DtEBwPpJ、p4OvT9BS（可汗与斯特吉亚在大湖交战、和解后转战帝国的回忆）。这些有效文本不包含“年长的”奥列克或龙旗争执。
 * 官方简中：SandBox／ModuleData／Languages／CNs／std_{spclans,settlements,heroes,world_lore_strings}_xml-zho-CN.xml；NavalDLC 对应 CNs 语言表。
