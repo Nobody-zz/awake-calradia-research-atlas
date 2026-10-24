@@ -70,7 +70,7 @@
 - [Q-0013｜全大陆问题导向研究执行纲领（v0.5；CHC先行与国别并行）](history/02/Q-0013-stage-review-and-research-redirection.md) · [云盘原件](https://docs.google.com/document/d/1p9844oEQ-kO7I7h5R_ymuU8SJ3I4Al-0prXki6f27mc/edit)
 ## history/03
 
-- [CHC-ASE-GEN｜阿塞莱历史史料覆盖、社会结构与重大研究问题（阶段调查 v2.2；卡拉修斯—卡拉兹、拉齐赫专题；未授H号）](history/03/CHC-ASE-GEN-aserai-historical-source-social-questions.md) · [Google Docs v2.2](https://docs.google.com/document/d/1jTuvKtdc4nPX5dnWHH1_3SylPG9pwq_BDNqoGvdlHbY/edit)
+- [CHC-ASE-GEN｜阿塞莱历史史料覆盖、社会结构与重大研究问题（阶段调查 v2.3；卡拉修斯—卡拉兹、拉齐赫专题；已拆出CHC-KAN-MAR；未授H号）](history/03/CHC-ASE-GEN-aserai-historical-source-social-questions.md) · [Google Docs v2.3](https://docs.google.com/document/d/1jTuvKtdc4nPX5dnWHH1_3SylPG9pwq_BDNqoGvdlHbY/edit)
 - [CHC-KAN-MAR｜坎族海上网络、殖民记忆与多语种沿海遗产（专题工作稿 v0.1；未授H号）](history/03/CHC-KAN-MAR-kannic-maritime-network-and-coastal-memory.md) · [Google Docs](https://docs.google.com/document/d/1Nzg0-61Uf4XDzBwf8z_uQUPVGancn6DS0gfgDUH4s5I/edit)
 - [CHC-ASE-POL｜从绿洲客户统治到苏丹联盟：阿塞莱国家形成的权力与社会基础（专题工作稿v1.7；未授H号）](history/03/CHC-ASE-POL-sultanate-formation-clan-law-and-power.md) · [Google Docs](https://docs.google.com/document/d/13FWOVG8Ax7tRfMCI0mgtKitJh648TGqh0lxcDf5a90k/edit)
 - [CHC-CAL-MIL｜潘德拉克战役主线采访：十九名受访者与证词对读索引（v0.1，A2源级恢复，待v1.4.8核校）](history/03/Pendraic-Interview-Source-Inventory-v0.1.md) · [Google Docs](https://docs.google.com/document/d/1MfRelvEPnZR08CN5ftJEcna6QYZmXeDTz_188fVKlls/edit)
