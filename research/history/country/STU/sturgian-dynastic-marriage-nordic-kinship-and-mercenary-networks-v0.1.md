@@ -123,7 +123,7 @@ NavalDLC/heroes.xml／**82aSnTOv** 记诺德维格统一战争中，贝恩兰的
 | lord_2_7、lord_2_7_1、lord_2_10 | father=lord_2_1；mother=lord_2_2 | 这三名角色的父母被 XML 明确指向朗瓦德夫妇 | 不得用字符 ID 排序推出长幼或已故婚约 |
 | 朗瓦德的诺德公主母亲 | LW92PgZz 文字说明 | 存在母系诺德公主亲族且可求援 | 无 mother=Hero.* 的匹配字段，无法证实具体姓名或所属诺德王室 |
 | lord_2_13 及其四名标示子女 | 同为 clan_sturgia_1，子女 father=lord_2_13 | 同族的另一可见父子/父女支系 | 不得凭同姓指称朗瓦德之兄弟或亲王叔侄 |
-| 年长的奥列克 dead_lord_2_1 | lord_2_3、lord_2_4、dead_lord_2_2 的 father | 现任奥列克、另一名 lord_2_4、瓦尔拉均出自这名父亲 | 不应再混淆战死的“年长的”奥列克与在世反对大公的同名奥列克 |
+| “年长的”奥列克 dead_lord_2_1 | lord_2_3、lord_2_4、dead_lord_2_2 的 father | 现任奥列克、另一名 lord_2_4、瓦尔拉均出自这名父亲 | 不应再混淆战死的“年长的”奥列克与在世反对大公的同名奥列克 |
 | 瓦尔拉 dead_lord_2_2 | father=dead_lord_2_1；alive=false | 是现任奥列克同父的妹妹或姊姊；离世时间来自叙事文本 | 结合创作对白中“西加的 younger sister”这一关系及瓦尔拉的有效人物身份，本文认定西加为瓦尔拉的姐姐；Pira＝瓦尔拉，朗瓦德处死她是本稿主导事件重建。不能把有效人物字段单独当作具体死因的直接记录 |
 | 戈敦 lord_2_5 | spouse=lord_2_6；三名共同父母字段的子女 lord_2_9、lord_2_12、lord_2_121 | 当前瓦吉罗夫家主也有自己的核实核心家庭 | 不得以蒂亚尔旧婚盟宣称戈敦直接具有某位可汗血统 |
 
@@ -133,7 +133,7 @@ NavalDLC/heroes.xml／**82aSnTOv** 记诺德维格统一战争中，贝恩兰的
 
 SandBox/heroes.xml，\`dead_lord_2_2\`，键 **QyFdfZrC** 的英语为：**“She died under mysterious circumstances the year after the battle of Pendraic.”** 逐义即**潘德拉克战役的次年**，而 SandBox 官方简中相同键写“**潘德拉克战役发生当年死于不明原因**”。这是事件相对纪年的实质冲突，不仅是文风差别。研究应遵循既定规则采用有效英文原文、保留中文异译备查。
 
-人物属性再次明确 \`dead_lord_2_2\` 的 father 是 \`dead_lord_2_1\`（年长奥列克）；现任奥列克 \`lord_2_3\` 也有同一 father。因此“年长的”奥列克潘德拉克阵亡，女儿瓦尔拉战役后一年死亡，是**两个不同事件**；有效传记用“mysterious circumstances”保留了死因空白，但官方保留的剧情对白提供了具体解释：朗瓦德安排瓦尔拉与温都勒联姻，西加在瓦尔拉协助下杀死温都勒并救出妹妹，朗瓦德随后处死瓦尔拉并将首级交给库赛特一方。本文采纳这一重建，并明示其详细经过来自未启用的官方创作对白。“年长的”奥列克本人战死之处 SandBox/heroes.xml／**bsOLRZyS** 为明确生效英语记述，但跨国潘德拉克战役整体时序仍需 CHC-CAL-MIL 核定。
+人物属性再次明确 \`dead_lord_2_2\` 的 father 是 \`dead_lord_2_1\`（“年长的”奥列克）；现任奥列克 \`lord_2_3\` 也有同一 father。因此“年长的”奥列克潘德拉克阵亡，女儿瓦尔拉战役后一年死亡，是**两个不同事件**；有效传记用“mysterious circumstances”保留了死因空白，但官方保留的剧情对白提供了具体解释：朗瓦德安排瓦尔拉与温都勒联姻，西加在瓦尔拉协助下杀死温都勒并救出妹妹，朗瓦德随后处死瓦尔拉并将首级交给库赛特一方。本文采纳这一重建，并明示其详细经过来自未启用的官方创作对白。“年长的”奥列克本人战死之处 SandBox/heroes.xml／**bsOLRZyS** 为明确生效英语记述，但跨国潘德拉克战役整体时序仍需 CHC-CAL-MIL 核定。
 
 该异文已在 CHC-STU-GEN 中校正：有效英文确定瓦尔拉死于战役次年，官方简中“当年”为误译；关于死因，本线现采用未启用对白保存的处死故事作为主导重建。与 CHC-CAL-MIL 的交叉校验应聚焦“年长的”奥列克阵亡及龙旗争执的时序，不再将瓦尔拉死因整体列为无从判断。
 
@@ -167,7 +167,7 @@ SandBox/heroes.xml，\`dead_lord_2_2\`，键 **QyFdfZrC** 的英语为：**“Sh
 - SandBox／ModuleData／settlements.xml，NavalDLC／ModuleData／settlements.xml：**Xom9DeXZ**（巴尔加德贡达尔及后裔通婚）、**T2E4xKVn**（雷维尔与巴尔加德阿基娜、后世婚约）、**F5HlQdgf**（蒂亚尔与草原交换公主）、\`castle_village_EN9_2\`（阿加尔蒙旧版通婚，新版改写）。
 - SandBox／ModuleData／spclans.xml：**A4wIVnM4**（贡达罗夫官方简中）；\`Faction.clan_sturgia_1\`；\`Faction.skolderbrotva\`／**bsPd5zri**（非诺德可入团、严格团纪、各北方贵族器重、旧配置 village_S6_3）。
 - NavalDLC／ModuleData／clans.xml：\`Faction.skolderbrotva\` 属性覆盖至 village_N3_2。
-- SandBox／ModuleData／heroes.xml：**LW92PgZz**（朗瓦德、诺德公主母亲、护盾兄弟会关系）；**bsOLRZyS、QyFdfZrC**（年长奥列克、瓦尔拉及死亡时序）；\`Hero.lord_2_1/lord_2_2/lord_2_7/lord_2_7_1/lord_2_10/lord_2_13\`，\`Hero.dead_lord_2_1/dead_lord_2_2/lord_2_3/lord_2_4\`（父母和婚配属性）。
+- SandBox／ModuleData／heroes.xml：**LW92PgZz**（朗瓦德、诺德公主母亲、护盾兄弟会关系）；**bsOLRZyS、QyFdfZrC**（“年长的”奥列克、瓦尔拉及死亡时序）；\`Hero.lord_2_1/lord_2_2/lord_2_7/lord_2_7_1/lord_2_10/lord_2_13\`，\`Hero.dead_lord_2_1/dead_lord_2_2/lord_2_3/lord_2_4\`（父母和婚配属性）。
 - SandBox／ModuleData／comment_strings.xml：**ELtT9ctL**（护盾兄弟会收报酬后履约）；**PBgLvyOa**（斯特吉亚贵族通用北方雇佣祖先叙述，不能专指贡达罗夫）。
 - SandBox／ModuleData／wanderer_strings.xml：**iAmsyL01、gnLnZuAH**（斯特吉亚战士自述加入护盾兄弟会及军纪冲突，低于档案记载的证据层次）。
 - NavalDLC／ModuleData／heroes.xml：**82aSnTOv**（阿丝葛莎、苏尼尔及与斯特吉亚边境冲突）；**wKMRsw16、OAvlqAql、Bule74H4**（沃尔比约恩、伊丽卡、哈尔达尔，仅诺德比较）。
