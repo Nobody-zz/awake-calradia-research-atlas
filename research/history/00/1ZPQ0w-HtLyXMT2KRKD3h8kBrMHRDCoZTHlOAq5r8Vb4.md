@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-版本：v3.46｜2026年10月24日
+版本：v3.47｜2026年10月24日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -189,6 +189,9 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 
 
 43. 潘德拉克主线采访十九人全量索引（2026-10-24）：反编译任务 BannerInvestigationQuest.cs 中十九名受访者、每人四段回答，共七十六段 TextObject 及其文本键已全部提取并建立逐人证词索引。新建《潘德拉克战役主线采访：十九名受访者与证词对读索引》；I-0003 v3.16 扩充 S-0081，新增跨国综合命题 P-0105 与证词冲突登记 D-0092。重点问题包括帝国前卫获知伏击与否、瓦兰迪亚援帝誓约、斯特吉亚龙旗归属、战利品争议、库吉特氏族损失、阿塞莱氏族仇怨及帝国皇位继承。十九人同属一个任务叙事，不能按角色数量当作独立外部证据；v1.4.5反编译文本仍待与项目v1.4.8.119303逐字核对。未授H号，Q5-09及已签发正典不变。链接：[十九人证词对读索引](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Interview-Source-Inventory-v0.1.md)（[Google Docs](https://docs.google.com/document/d/1MfRelvEPnZR08CN5ftJEcna6QYZmXeDTz_188fVKlls/edit)）、[潘德拉克工作稿v0.3](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Battle-Research-Working-Draft.md)（[Google Docs](https://docs.google.com/document/d/1hc4HEGsIcvZ-y3sAwSlxAg-08yFbcUk4xA0hujGnDoM/edit)）、[I-0003 v3.16](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md)。
+
+
+44. 潘德拉克两项关键矛盾升级为跨版本官方文本一致性问题（2026-10-24）：I-0003 v3.17 将“年长的”奥列克战役阵亡与折旗对白、岁仑（Solun）／Gotug名称差异，改列为 v1.4.8 有效人物档案与 v1.4.5 反编译官方对白之间的文本差异，不再仅视为玩家转录问题。前者关系到折旗叙事是否能与阵亡记录构成同一时序；后者关系到墨速宜丈夫及库吉特阵亡那颜的名称。当前不裁定为确定剧情矛盾、异名或版本修订；下一步须取得与项目 v1.4.8.119303 匹配的运行时程序集逐字核对。相关文档：I-0003 v3.17、斯特吉亚跨线交接单v0.2、库赛特土地与汗权专题v0.2。H编号不变，Q5-09仍开放。
 
 ---
 
