@@ -264,3 +264,16 @@ Google Docs：https://docs.google.com/document/d/1r5xLCwljVokxTeA5pk86bdX0jXtVzl
 
 ### CGEO-S-BIO-001 官方中文译名复核（2026-10-24）
 已依据 encyclopedia-zh-cn.md 与 Native/SandBox/NavalDLC 官方语言表校订植被论文：拉诺克·亨（非“兰诺克·亨”）、本盖兹（非“布恩卡兹”）、艾塔·德鲁因（非“艾尔塔·德鲁因”）；Irkaria/Ircara统一按官方地志写作“伊卡拉荒原”。Plain of Ichala在所查官方简体中文地志中未见稳定对应译名，论文保留“​​Ichala平原”；Ebor Peninsula在NavalDLC官方中文中存在“埃博／埃伯／伊博半岛”异译，正文保留主用“埃博半岛”并注明异文。其余本轮抽查聚落名称与SandBox/NavalDLC同键中文相符。校勘详表见 [CGEO-TOP-AUD-002](../90/EVD/CGEO-TOP-AUD-002.md)；论文已修订：[CGEO-S-BIO-001](../03/BIO/CGEO-S-BIO-001.md)。
+
+
+### 第六轮人文地理研究（2026-10-24）｜北方海产、河港与内陆粮畜
+
+独立专题初稿v0.1：《北方海产、河港与内陆粮畜的市场连接——诺德维格、贝恩兰岛与朱姆内河谷的多节点网络》。
+GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/northern-maritime-river-port-and-inland-provisioning-2026-10-24.md
+Google Docs：https://docs.google.com/document/d/1LtjH6zFrfpyu1vQkTBbcaBFiXRNcwmORrK7ixURySP8/edit
+
+核心结论：诺德长船南售海象牙、鲸油与鱼类；哈加德作为朱姆内河岸多族群汇集河谷物产、向南销售的节点；格雷蒂斯湾的季节性集市先于地方雅尔权力成长；瓦尔维克从捕鲸棚屋聚落发展为港镇；village_N3_4／fVkcvgSc的排沼、授田和城镇供麦，以及雅斯克韦格以牛力拖运橡木到海岸造船，共同支持多节点、分商品、部分政治整合的交换网络。尚无证据证明统一王室港务、固定全年航线、统一税制或全部海产均输往内陆农牧社区。
+
+当前NavalDLC官方中文名称键核定：Hvalvik＝瓦尔维克、Gretysfjord＝格雷蒂斯湾、Thronderlag＝特龙德拉格、Hargard＝哈加德。早期开发日志的人工中文异译不覆盖当前游戏名称键；village_N3_4的既有暂译不冒充已核验的独立名称键。
+
+**队列维护：** 原人文地理问题4（西部港市）、5（东北森林）、6（北方海产—河港—内陆粮畜）均已有独立初稿。下一步先刷新全大陆覆盖图谱与证据空白，再确定新的优先问题；不预先虚构问题7。
