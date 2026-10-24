@@ -445,3 +445,7 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 - **HIG-06／C-43／V-41：阿斯·卡瓦尔。** 基础版只记溪流有黏土；NavalDLC明确村民采集溪床黏土并交易给附近城镇陶工。简中同键未同步交易关系。
 
 这两例分别补上明确城市接收者与明确手工业买方两种关系。它们仍不证明货量、价格、固定路线、产权、税租、劳动合同或收益分配。正文、台账与版本审计已分别记录版本边界；后续需继续逐篇清查过度推论，而非为增加条目而增加材料。
+
+
+### 官方中文聚落名校勘（2026-10-25）
+已按官方 `encyclopedia-zh-cn.md` 的Native来源标题，将基础版53座城镇按 `town_ID` 逐项复核；13个旧标签已改正，所有同ID标题有据的城镇名已从“研究暂译／待核”改为“官方百科标题确认”。Native.zip未含原始 `std_common_strings_xml-zho-CN.xml`，故不声称已在压缩包中重提独立名称键。已修正人文地理论文中的“佛林／乌特海姆／弗林托尔格”，统一为官方简中地志正文用名“福林／乌瑟莱姆／弗林托格”；水文论文Argoron统一为“阿耳戈隆”。另明确记录NavalDLC的Kohi Ajik/Tismil名称键错配及Etirfurd→Echarfurd后中文键沿用旧值。完整记录见[CGEO-TOP-AUD-002](../90/EVD/CGEO-TOP-AUD-002.md)与[CGEO-MAP-RES-014](../90/EVD/CGEO-MAP-RES-014_settlement_chinese_name_register.md)，完整53城表见[Google Sheets](https://docs.google.com/spreadsheets/d/1AUwlHE6FxnbYaLlbUSZpXlaqOWxEeXYEkrJOFFROOIM/edit)。
