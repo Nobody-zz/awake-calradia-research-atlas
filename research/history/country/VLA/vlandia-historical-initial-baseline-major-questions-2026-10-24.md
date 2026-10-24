@@ -1,5 +1,5 @@
 # 瓦兰迪亚历史初步摸底与重大研究问题
-**CHC-VLA-GEN｜首轮国别调查稿 v0.6（原始模块源级复核）｜2026-10-24｜未分配 H 编号｜状态：文化／王国／德泰尔传记及氏族中英键源级已核，其他场景持续待核**
+**CHC-VLA-GEN｜首轮国别调查稿 v0.7（原始模块源级复核）｜2026-10-24｜未分配 H 编号｜状态：文化／王国／德泰尔传记及氏族中英键源级已核，其他场景持续待核**
 
 ## 摘要
 瓦兰迪亚政治共同体的起点不是1084年的现成王国，也不是单一民族举国迁徙。官方文化史述追忆跨海而来、操多种语言的军事雇佣者与冒险家；帝国财政官员以土地、头衔代替现金报酬，军人定居、通婚、耕作，并据有附近帝国堡垒。地方志又记录若干并不从军饷制度产生的过程：奥斯蒂港的航海者与早期瓦兰迪亚定居，罗瓦尔地区瓦兰迪亚入侵前已占人口优势的诺德移民，萨哥特一带参加瓦兰迪亚征服的马萨（Massa；官中地志 town_V1 有“马萨语／马萨人”）盟部。王国沿革则将奥斯里克夺取帝国西部海岸、帝国为求和平承认王位、国王封认部属的男爵与伯爵及其战时效忠联系在一起。由此本稿暂择“帝国—边疆互动中的自主国家形成”为首选解释：帝国提供军事收入、土地权利和可侵占的城堡，跨海移民、地方生产和军事组织则赋予新共同体独立发展的能力；帝国继承及外交危机改变其合法性处境，但不自动制造这一社会基础。各环节未获独立编年记录，不得压成单一战争年份或从1084年边界倒推早期版图。
@@ -22,7 +22,7 @@
 4. **定居、通婚、生产与军事据点取得。**文化简介直陈婚姻、耕作及帝国堡垒占取；萨哥特城志又叙述马萨（Massa）部落作为瓦兰迪亚同盟参加入侵、瓦兰迪亚人在帝国旧城废墟上重建聚落；说明发展中存在多部落联盟、武力占取和对先住社群记忆的取代，不限于和平授地。[V2][V7]
 5. **奥斯里克建国及对外承认。**2017年官方文章把他在一次未定年的“recent interregnum”中称王、夺取旧帝国西部都邑 Baravenos 和海岸地带相连；游戏王国沿革 IudGLWQZ 英文转录称他夺取西岸后获诸皇帝“as the price of peace”承认为王；同版中文汇编直接作“作为议和的代价，帝国被迫承认他为国王”。以文本当前最优解释，**实际夺地/称王先于帝国承认**；是否一次承认、由哪位皇帝、条约形式不明。对外承认不是对其既有军事征服的否认，也不是中央依旧能实际统辖新王国的证据。[V1][V3]
 6. **王权与封臣契约演变。**王国沿革把奥斯里克对追随者土地宗主权的认可、封为 barons/counts，同其战时向王旗下集结的义务相联系；又追述后来君王与贵族在中央权力扩大和地方私斗容忍之间摇摆。德泰尔传记呈现晚期国王频繁调停封臣土地纠纷、平乱与应付觊觎王位者。以上显示从领军首领到受约束国王的政治演化，但完整领地法和领主继承制度不可据此补造。[V3][V4]
-7. **潘德拉克及1084年前后的王国政治。**既有 CHC-CAL-MIL 工作稿把德泰尔与男爵对帝国援助誓约的分歧列为基于玩家转录、待 StoryMode 原文复核的政治主张；切不可把未核对白中的日期、战役细节与条约事实直接提升为A级。德泰尔调解男爵、强王期待与军事扩张诉求的冲突可作为较稳固的后期王国结构线索。[V4][V9]
+7. **潘德拉克及1084年前后的王国政治。**既有 CHC-CAL-MIL 工作稿现以 v1.4.5 反编译代码恢复的德泰尔、因加泰尔、恩泰里答话为 A2 文本；项目 v1.4.8.119303 的逐字核验仍待完成。不得把人物对白中的日期、战役细节与条约主张直接提升为 A1 级客观事实。德泰尔调解男爵、强王期待与军事扩张诉求的冲突可作为较稳固的后期王国结构线索。[V4][V9]
 
 不能推出的年代：维伦德与奥斯里克之间的代数、定居究竟始于哪位帝王、北方商业迁徙与南方授地在何年并行、Baravenos夺取的绝对年份、王位承认和封臣称号颁授的具体日期；1084年领地图和现有氏族头衔不能填补这些空白。
 
@@ -113,7 +113,7 @@
 [V6] 同模块，Ostican，https://bannerlorddb.com/encyclopedia/settlement/ostican；帝国港、北海航海人、参与帝国内战的私掠人员与早期瓦兰迪亚港区定居。
 [V7] 同模块，Sargot，https://bannerlorddb.com/encyclopedia/settlement/sargot；Massa 盟部、入侵、帝国旧城废墟及瓦兰迪亚重建。
 [V8] 同模块，Caleus https://bannerlorddb.com/encyclopedia/settlement/caleus；Remental https://bannerlorddb.com/encyclopedia/settlement/remental；Halisvust https://bannerlorddb.com/encyclopedia/settlement/halisvust；Ormanfard https://bannerlorddb.com/encyclopedia/settlement/ormanfard；皆为原文镜像，尚待本项目版本XML逐键验证。
-[V9] 项目 CHC-CAL-MIL 独立潘德拉克战役工作稿，GitHub https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Battle-Research-Working-Draft.md；Google Docs https://docs.google.com/document/d/1hc4HEGsIcvZ-y3sAwSlxAg-08yFbcUk4xA0hujGnDoM/edit；涉德泰尔证词仍以玩家转录为主，非本轮 StoryMode 有效源文。
+[V9] 项目 CHC-CAL-MIL 独立潘德拉克战役工作稿，GitHub https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Battle-Research-Working-Draft.md；Google Docs https://docs.google.com/document/d/1hc4HEGsIcvZ-y3sAwSlxAg-08yFbcUk4xA0hujGnDoM/edit；德泰尔、因加泰尔、恩泰里证词现有 A2 级反编译文本可查；它不是本项目 v1.4.8 生效 XML，版本匹配仍待核。
 [V10] 项目《全大陆史料覆盖摸底与历史问题图谱》v0.1，GitHub https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/00/continental-historical-baseline-question-atlas-2026-10-23.md；此报告支撑资料库覆盖及缺件陈述，不作为瓦兰迪亚事件的独立证人。
 [V11] I-0003 S-0020/E-0014/P-0031，与本报告相同的官方叙事传统： https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md ；不重复立编号。
 [V12] Battania 文化简介英文镜像，https://bannerlorddb.com/encyclopedia/culture/battania；关于帝国及后来的斯特吉亚、瓦兰迪亚战争叙述，属同一世界观文本系统的不同族群叙事。
@@ -172,7 +172,7 @@
 GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-royal-vassal-power-primary-source-reappraisal-2026-10-24.md
 Google Docs：https://docs.google.com/document/d/1CzUP3AsVe9zvgSkWG1HfAt-STWS83lJGXcyWUOibjB8/edit
 
-保留边界：本次 `Native.zip` **没有** `std_common_strings_xml-zho-CN.xml`，因此仍**不能从当前这些文件验证 Caleus/卡琉斯独立名称键**；现用“卡琉斯”系有中文游戏使用记录的主名，并记录待核。当前 `StoryMode.zip` 不包括潘德拉克人物访谈的完整有效原文；不能对那些玩家誊录的战前话语升级。此前 `Ingalther`—`Calatild` 继承争议在所获有效贵族 `heroes.xml` 中**没有相关 `Hero.text`**，故不升为A级。
+保留边界：本次 `Native.zip` **没有** `std_common_strings_xml-zho-CN.xml`，因此仍**不能从当前这些文件验证 Caleus/卡琉斯独立名称键**；现用“卡琉斯”系有中文游戏使用记录的主名，并记录待核。当前 StoryMode.zip 不包括潘德拉克人物访谈的专门对白 XML；公开 v1.4.5 反编译代码已恢复对应英文文本，但不能把它冒称为 v1.4.8 原始 XML，项目版本逐字核验仍待完成。此前 `Ingalther`—`Calatild` 继承争议在所获有效贵族 `heroes.xml` 中**没有相关 `Hero.text`**，故不升为A级。
 
 
 ## 同线新专题索引（2026-10-24）
@@ -180,8 +180,13 @@ Google Docs：https://docs.google.com/document/d/1CzUP3AsVe9zvgSkWG1HfAt-STWS83l
 
 
 ## 瓦兰迪亚社会史新专题索引（2026-10-24）
-新增《瓦兰迪亚乡村地权、绿林兄弟会与沙拉斯叛乱：王国政治整合的社会成本》v0.1：依据已核官方英文 XML 与同键简中，比较佃农地权、绿林兄弟会转型、杰屈朗异见、沙拉斯行会反王室围城、海运粮商营利与贵族海岸搜捕、码头帮派及流民。特别注明 DLC 只记“戴·科尔坦男爵”而不记具体姓名，不能直接认定为因加泰尔；目前 StoryMode 包也未收录潘德拉克十九人访谈。GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandian-peasant-tenure-brotherhood-charas-rebellion-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1A0DVKq8f9fULHQhtsnr9v6N3lE9dQy3L2ZMORGLcHKI/edit。不分配 H 编号，不修改中央 S/E/P/D 登记。
+新增《瓦兰迪亚乡村地权、绿林兄弟会与沙拉斯叛乱：王国政治整合的社会成本》v0.1：依据已核官方英文 XML 与同键简中，比较佃农地权、绿林兄弟会转型、杰屈朗异见、沙拉斯行会反王室围城、海运粮商营利与贵族海岸搜捕、码头帮派及流民。特别注明 DLC 只记“戴·科尔坦男爵”而不记具体姓名，不能直接认定为因加泰尔；现有 StoryMode XML 包未收录潘德拉克十九人访谈；公开 v1.4.5 反编译代码已恢复十九人答话，项目 v1.4.8 版本匹配仍待核。GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandian-peasant-tenure-brotherhood-charas-rebellion-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1A0DVKq8f9fULHQhtsnr9v6N3lE9dQy3L2ZMORGLcHKI/edit。不分配 H 编号，不修改中央 S/E/P/D 登记。
 
 
 ## 新增完成：SandBox／NavalDLC聚落地志异文审计（2026-10-24）
 原待办“逐 ID 校验 SandBox 与 NavalDLC 的聚落描述”已完成第一轮。共同的52个瓦兰迪亚聚落ID中，52/52的posX、posY不同；35条英文地志正文不同，12条换键、23条沿用旧键；18条实质性英文改写未获相应简中内容更新。此为模块文本与地图配置差异，不得当作故事世界内部的历史事件。详见《战帆》聚落地志异文审计：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-warsails-settlement-variants-localization-audit-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1x-rgVuMsHbRkDUXvs8j194srP-DKgGzcQV98MYl7-SE/edit。
+
+
+## 补记｜潘德拉克采访 A2 源级恢复（2026-10-24）
+
+公开的 Bannerlord v1.4.5 反编译文件已恢复德泰尔（lord_4_1）、因加泰尔（lord_4_16）、恩泰里（lord_4_5）的十二段采访答话。它们可用于研究援帝誓约、男爵拒援、国王对战后扩张的判断及骑兵—弩兵协同，但属于人物立场性回忆。项目所存 v1.4.8.119303 程序集尚未逐字核对；不可把 A2 恢复文本与 A1 有效 XML 混同。全体证词索引：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Interview-Source-Inventory-v0.1.md。
