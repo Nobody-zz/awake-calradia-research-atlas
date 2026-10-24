@@ -247,3 +247,16 @@ Google Docs：https://docs.google.com/document/d/1r2hWEgZp0QlYyaF2gNkHbHVnNhNEVX
 重要区分：现有Larnac的出售对象确切；Savinth养马、Vesin种橄榄只能证明沙拉斯周边生产，不能确认全城平日粮食来源；Galend英文“takes in the catch ... as well as the wool”与官中视觉叙述不一致；NavalDLC的家族故事不是独立商税档案。已向CGEO-TOP-AUD-002增补英汉语义损耗记录。分版严格区分SandBox v1.4.8聚落志和NavalDLC航海对话；新版地图与文本更动不当作世界内部的年代事实。
 
 **下一优先问题**：东北森林的生产、采集劳工与沿河市镇经济联系（原人文地理摸底问题5）；再后为北方诺德港市与内陆资源供应。
+
+
+### 第五轮人文地理研究（2026-10-24）｜东北森林资源与河湖市场网络
+
+**独立专题初稿 v0.1**：《东北森林资源的空间组织与河湖市场网络——毛皮、木材、粮食与地方聚落的历史人文地理研究》。
+GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/northeastern-forest-resource-network-lake-river-markets-2026-10-24.md
+Google Docs：https://docs.google.com/document/d/1r5xLCwljVokxTeA5pk86bdX0jXtVzlDIhIGNb09vcoM/edit
+
+核心发现：毛皮是目前唯一能够从总体文化叙述、猎场／猎人据点、西比尔的商人收购、奥莫尔与瓦尔诺瓦波尔的市场功能等多层文本形成较强证据链的资源。硬木有明确采伐地点，但个别村庄的历史买方未直接明示；《战帆》英文将乔诺巴斯的谷物生产明确连接到奥莫尔港市，官中仍沿用旧版瀑布田地描述；野蜜与沼铁仍缺少具体产地与交易方，马拉布罗特山地铁矿不得等同沼铁。2017开发日志突出河流沿岸城镇，当前游戏文化简介突出海湾与湖泊网络；两者属不同文类／版本表达，不是两份独立史证，也不能被当作世界内部的年代变化。
+
+跨线关系：本稿以空间节点、资源腹地、湖河与转运结构为主；CHC-STU-ECO《北方贸易、边疆开发与地方财政权力》负责博雅尔、赋役和政治经济解释；CGEO-S-HYD-001／CGEO-S-TRN-001负责自然水系和交通条件。不同版本的乔诺巴斯、斯科林、拉达克梅德不可拼接成一条连续产业史。
+
+**当前队列**：人文地理摸底问题4（西部港市）和问题5（东北森林）均已有独立初稿；下一优先为问题6“北方渔猎海产与内陆农牧消费是否通过稳定港市形成联系”。
