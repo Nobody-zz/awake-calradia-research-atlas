@@ -171,3 +171,18 @@ SandBox/heroes.xml／dead_lord_2_1／bsOLRZyS 直接称老奥列克（Olek the O
 3. 潘德拉克之后一年瓦尔拉死亡是目前最明确的跨事件时间锚点；瓦尔切格受雇征服、诺德海岸劫掠与大湖水战不能与潘德拉克建立直接先后关系。
 
 后续应优先维护问题状态、跨线交接与工作稿一致性。只有新证据改变年代排序、制度解释或竞争模型权重时，才新增专题；不以文档数量代替历史解释。
+
+
+## 十四、2026-10-24 跨线交接与原始资料可得性复核
+
+已建立 CHC-STU-GEN／POL《斯特吉亚研究线跨线证据交接单：潘德拉克、库赛特战后政治与诺德母系关系》v0.1。
+Google Docs: https://docs.google.com/document/d/1P3HA-0U4M4uQXmlDHIkAJlVp1yjNY5rIX655TBCbd8s/edit
+GitHub: https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/STU/sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.1.md
+
+交接范围为：CHC-CAL-MIL 核验年长的奥列克在潘德拉克战役中阵亡与龙旗折断访谈的时序张力；CHC-KHU 核验岁仑／Gotug 名称差异、阿契特侵夺的证据等级与奥通加德是否存在可证的产权转移；CHC-NOR 核查朗瓦德母亲是否能由有效人物／氏族字段定位，以及母系亲族与护盾兄弟会之间是否存在更强的直接证据。交接单不编辑接收线正文或公共 I/Q。
+
+本轮直接检查项目 `StoryMode.zip`：包内只有 `module_strings.xml`、`story_mode_settlements.xml`、英文语言表与官方简中语言表；没有年长的奥列克、朗瓦德、龙旗争执或十九位领主访谈对白，也没有匹配 v1.4.8.119303 的运行时程序集。因此，现有归档不能核验 v1.4.5 反编译访谈与当前版本是否一致。这是资料可得性缺口，不证明相关对白从未存在。Native.zip 中玩家组装 Dragon Banner 的任务通知与历史龙旗争执无关。
+
+此外，Library 中的《骑砍诺德人两代关系考究.docx》提及朗瓦德母亲为诺德公主，但相关表格引注指向 Fextralife 的 Skolderbroda 页面。该文可作为问题线索，不能替代有效 `heroes.xml／LW92PgZz`，更不能将母亲接入沃尔比约恩、哈尔达尔或其他具名王室谱系。
+
+后续应等待接收线的源级回覆；若没有新的有效文本，就将相应问题标为“已交接、待证据”，不以重复搜索或相似文化背景补齐谱系与年表。
