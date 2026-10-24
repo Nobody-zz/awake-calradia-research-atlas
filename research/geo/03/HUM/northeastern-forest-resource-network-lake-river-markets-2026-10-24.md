@@ -174,4 +174,4 @@ TaleWorlds 于2017年12月14日发布的《Sturgia》开发日志称，斯特吉
 
 ### 项目中文导出来源补充（2026-10-24）
 
-博乔瓦戈卡（village_S4_1）是本稿涉及的项目导出中文缺乏同键来源记录之一（来源审计LOC-30）：其settlements.xml英文fallback存在，但SandBox与NavalDLC英文/简中聚落语言表均缺该文本键。正文关于该村渔业的判断以原始英文fallback为依据；中文导出段落不视为已核验的官方同键译文。
+博乔瓦戈卡（village_S4_1）是本稿涉及的项目导出中文缺乏同键来源记录之一（来源审计LOC-30）：其settlements.xml英文fallback存在，但SandBox与NavalDLC英文/简中聚落语言表均缺该文本键，跨Native、SandBox、NavalDLC三个归档的全部语言表搜索也未找到。正文关于该村渔业的判断以原始英文fallback为依据；中文导出段落不视为已核验的官方同键译文，亦不据此判定其非官方。
