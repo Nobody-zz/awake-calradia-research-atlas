@@ -86,7 +86,7 @@
 
 ### 第3.2批｜迪纳尔扩张事件归属检验（第一轮完成，事件未识别）
 
-交付 CHC-NOR-GEN-dinar-nord-expansion-linkage-test-v0.2.md。补入既有关系卡05中已登记的诺德移民第一人称自述，并核对 Hargard、Faergap、Grud、Thralathorp、Ulikshorn 与 Karahalli 等地志。当前材料支持一个更完整的区域模型：诺德向东拓居、家庭为耕地迁入、地方土地安排与婚姻、移民增加引发资源冲突，以及 Dinar 所述近期扩张造成难民南迁。Grud 条目将哈加德雅尔的 thegn、河东前哨与以其名命名的村庄联系起来，但英文指代存在歧义，不能断言前哨由属员本人建立。仍没有证据将 Dinar 事件归于沃尔比约恩、哈尔达尔或任何具名王室成员；“may ... conquest”不是已发生事件的记录。当前具体事件仍登记为“具名主体与年代未识别的诺德扩张”。
+交付 CHC-NOR-GEN-dinar-nord-expansion-linkage-test-v0.2.md。补入既有关系卡05中已登记的诺德移民第一人称自述，并核对 Hargard、Faergap、Grud、Thralathorp、Ulikshorn 与 Karahalli 等地志。当前材料支持一个更完整的区域模型：诺德向东拓居、家庭为耕地迁入、地方土地安排与婚姻、移民增加引发资源冲突，以及 Dinar 所述近期扩张造成难民南迁。Grud（简中译作“格吕”）条目将其与 Hargard 的雅尔、河东前哨及以其名命名的格吕哈马（Grudhammar）村联系起来，但英文“who established an outpost”指代有歧义，不能断言前哨由属员本人建立。另，Hargard 名称键译作“哈加德”，地志正文却写“阿加尔要塞”，应登记为本地化名称不一致。仍没有证据将 Dinar 事件归于沃尔比约恩、哈尔达尔或任何具名王室成员；“may ... conquest”不是已发生事件的记录。当前具体事件仍登记为“具名主体与年代未识别的诺德扩张”。
 
 
 ### 第4批｜社会覆盖与解释反证（第一轮完成）
