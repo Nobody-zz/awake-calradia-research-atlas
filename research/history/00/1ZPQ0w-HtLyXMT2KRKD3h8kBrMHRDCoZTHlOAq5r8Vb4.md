@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-版本：v3.44｜2026年10月24日
+版本：v3.45｜2026年10月24日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -186,6 +186,9 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 
 
 42. 潘德拉克采访源级恢复扩展至巴旦尼亚线（2026-10-24）：同一公开 Bannerlord v1.4.5 反编译文件 BannerInvestigationQuest.cs 不仅保存瓦兰迪亚德泰尔、因加泰尔、恩泰里的采访，也保存巴旦尼亚卡拉多格、埃尔贡、梅利迪尔的英文字符串及本地化键。巴旦尼亚源级审计与《潘德拉克战争中的巴旦尼亚》工作论文同步更新：将“StoryMode XML未包含对白”与“官方对白不可核查”区分，后者已由A2级反编译文本部分解决；项目v1.4.8.119303逐字核验仍待完成。I-0003升至v3.15，S-0081扩展覆盖六名国别人物，新增P-0104；Q-0013同步升至v0.5，明确下一步是核验项目v1.4.8.119303与已恢复的v1.4.5对白，而不是继续把StoryMode XML缺口视为采访原文完全缺失；I-0002升至v3.44。相关文件：[巴旦尼亚采访源级审计](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/BAT/battanian-pendraic-source-audit-and-evidence-matrix-v0.1.md)、[巴旦尼亚潘德拉克工作论文](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/BAT/battanian-pendraic-war-and-kingship-mobilization-v0.1.md)。未授新H号，已签发正典不变。
+
+
+43. 潘德拉克主线采访十九人全量索引（2026-10-24）：反编译任务 BannerInvestigationQuest.cs 中十九名受访者、每人四段回答，共七十六段 TextObject 及其文本键已全部提取并建立逐人证词索引。新建《潘德拉克战役主线采访：十九名受访者与证词对读索引》；I-0003 v3.16 扩充 S-0081，新增跨国综合命题 P-0105 与证词冲突登记 D-0092。重点问题包括帝国前卫获知伏击与否、瓦兰迪亚援帝誓约、斯特吉亚龙旗归属、战利品争议、库吉特氏族损失、阿塞莱氏族仇怨及帝国皇位继承。十九人同属一个任务叙事，不能按角色数量当作独立外部证据；v1.4.5反编译文本仍待与项目v1.4.8.119303逐字核对。未授H号，Q5-09及已签发正典不变。链接：[十九人证词对读索引](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Interview-Source-Inventory-v0.1.md)、[I-0003 v3.16](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md)。
 
 ---
 
