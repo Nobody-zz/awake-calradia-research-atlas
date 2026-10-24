@@ -5,7 +5,7 @@
 - 日期：2026-10-24
 - Google Drive 原件：[自然地理研究线｜交接与第一阶段工作计划](https://docs.google.com/document/d/17YLRDnYY4o0SI0Om_oJ_MZQMTJu_Qvd3nTUOHk7tGVw/edit)
 - 当前问题矩阵：[v0.9](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit)
-- 最新空间核验：[备忘录04 v0.1｜达玛尔河文本锚点与基础版 PHYM7 图像近邻检验](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-04-damar-phym7-proximity-2026-10-25.md) · [Google Docs](https://docs.google.com/document/d/1P_Yy6wy1LgA4zOtT7-4u5PNb6qhK5hlPq0f1DvEdxsQ/edit) · [CSV](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-04-damar-phym7-proximity-2026-10-25.csv) · [脚本](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-04-damar-phym7-proximity-2026-10-25.py)；备忘录03保留为前序坐标叠加记录。
+- 最新空间核验：[备忘录05 v0.1｜达玛尔河候选路径范围排除与原始资源恢复状态](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-05-damar-path-candidate-2026-10-25.md) · [Google Docs](https://docs.google.com/document/d/1B413zXgcVLG9CBKYUkLoNkgnAc8eV_tD1F9ej7tER1I/edit) · [范围叠加图](https://drive.google.com/file/d/14YrS9350TUqDq71ZVqXhx0gSrLY3T3xI/view)；备忘录04继续保留图像级PHYM7近邻数据。
 - 原始地图资源复核：[RES-018 v1.1](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/90/EVD/CGEO-MAP-RES-018.md) · [Google Docs](https://docs.google.com/document/d/1DAC0wDXLP0tantGCQo522EUF3v1AQXS-yztADc43miU/edit) · [RES-012 派生 ZIP](https://drive.google.com/file/d/1GMG8gXe70m376txGvIcZH0lQrSz5552G/view)
 - 跨专题一致性审查：[CGEO-NAT-AUD-001 v0.1](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-cross-paper-consistency-audit-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1c9zvE0ZkzxkzSPj29s5wh8xY6RMYh998RJRI1mlyezQ/edit)
 - 首篇专题论文：[纳哈撒水文地貌分异与聚落用水适应 v0.2](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-nahasa-local-hydrology-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1CrH8FMibF0hwEEwiWebFUCKvmjSYZX8JoFEONnpmV-I/edit)
@@ -81,3 +81,12 @@
 五个稳定锚点的最近掩膜像素在图像的8邻域连通分析中属于同一连通分量；这只是已渲染图像的拓扑，不证明天然水文连通，也不确认该河段的唯一Path ID。Abba、Bir Seif、Asmait、Bunqaz与Wadar等局地供水地点通常距同一掩膜更远，支持将河流—洪泛地与坡面径流—旱谷—井泉作为不同的地表设置分别核验，但不能推断地下含水层是否连通。
 
 结果已归档为 [备忘录04](natural-geography-spatial-audit-04-damar-phym7-proximity-2026-10-25.md)、[57个实体的CSV](natural-geography-spatial-audit-04-damar-phym7-proximity-2026-10-25.csv) 与 [复算脚本](natural-geography-spatial-audit-04-damar-phym7-proximity-2026-10-25.py)，并同步至 Google Docs。当前证据状态提升为“官方文本 A + 渲染图派生近邻观察”，不升级为原始河道几何的直接测绘。下一步仍应恢复原始 PHYM／scene Paths，识别达玛尔河具体几何；同时继续保持基础版与《战帆》的坐标和异文分离。
+
+
+## 2026-10-25 第九轮：达玛尔河候选路径范围排除
+
+本轮对已归档河流叠加图和备忘录04数据做了独立复算，确认五个稳定达玛尔河锚点到PHYM7渲染掩膜的距离与CSV逐点一致。进一步对比CGEO-MAP-RES-005中十条显式 river_* 路径的总包围盒：Y范围为255.84—535.89；五个锚点的最高Y只有178.898，二者相隔76.942场景单位。由此可排除这十条 river_* 路径直接对应达玛尔河锚点走廊的解释。
+
+RES-001此前记录原版scene.xscene共有20条路径，其中15条为河流样式、5条为海域／湖泊边界样式；已绘制的十条 river_* 路径不覆盖达玛尔河锚点区，因此下一步应检查未绘制的其他河流样式路径。当前没有原版scene.xscene和terrain.bin原始字节可供重解码；本轮已检查当前挂载目录、项目文件搜索、Drive原始资料文件夹和可访问Library，未找到可直接物化的原件。此前的文件大小与SHA-256仍是前序实读记录，不冒称本轮重新校验。见[备忘录05](natural-geography-spatial-audit-05-damar-path-candidate-2026-10-25.md)。
+
+下一步最小输入为原版scene.xscene（19,877,756字节，前序SHA-256 919796b65e497260a8eebab5442ac79af6992957de9e8a17fbb2aaf6fd1b5019）与terrain.bin（27,646,798字节，前序SHA-256 3b583d9ff5504a6c871caa466a14654593bee42c27df3e3316eda6cb4d85ab49）。恢复后先校验指纹，再逐条解析20条路径与原始PHYM7；不按路径名预先排除候选，也不把tigris／volga等内部ID按名称联想等同于达玛尔河。
