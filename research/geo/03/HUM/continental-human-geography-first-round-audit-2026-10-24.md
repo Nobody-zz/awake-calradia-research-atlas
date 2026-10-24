@@ -261,3 +261,14 @@ Google Docs：https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrta
 - 第二步：把每条证据登记为“资源存在／本地生产／明确销售／明确供给／强制或保护／产权与收益”之一；允许一条史料只支持其中一个层级。
 - 第三步：逐项登记反证与缺口，例如同ID的NavalDLC改写、官方简中未同步、买方缺失、时间词含混、同一条目被多个网页重复转录。
 - 第四步：只有在两种以上地域存在可比且经原始英文核实的证据时，才形成土地占有—劳动组织—收益分配的综合解释。否则保留为研究矩阵，不强行写成统一大陆制度。
+
+
+### 8.8 跨区域土地—劳动—资源控制—收益分配矩阵（2026-10-24）
+
+已建立可编辑工作簿：[Google Sheets证据矩阵](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit)；GitHub方法与摘要：[cross-regional-land-labour-resource-benefit-matrix]( https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/cross-regional-land-labour-resource-benefit-matrix-2026-10-24.md )。
+
+工作簿当前含32条核心证据行、7地域横向比较、12项复核任务及字段说明。抽样覆盖纳哈撒、东部草原、帝国北方、西部港市、东北森林、诺德海岸—朱姆内河、乌卡利翁高地/巴旦尼亚林谷。证据行按模块/版本、原始文件/字符串键、实体ID、英文原文摘录、官方简中对照、证据类型、行动者/劳动、商品/接收方、时间层、直接支持、未知项与复核状态登记。此为核心案例抽样，不是问题1—7所有论文断言的穷尽式逐句审计。
+
+本轮对SandBox v1.4.8、SandBoxCore v1.4.8、NavalDLC v1.2.8归档中的关键英文字符串进行原文读取，并与项目百科导出及归档官方简中表对读。确认三个高优先译义风险：Stathymos的“wash fertile soil down”不能译义为人工灌溉；Orthra的“steppe stock”指育种牲畜/马种而非“牧草”；Galend的“takes in the catch ... as well as the wool”明确表示城市接收渔获和羊毛。另确认Chornobas的NavalDLC英文文本新增向奥莫尔港市供粮，但项目简中导出仍保留基础版描述。以上问题已登记为复核任务，不修改原始官方文件。
+
+本矩阵的当前比较结论仍是：土地改造、授地、强制定居、地方保护与市场供给可以作为跨区域问题比较，但现有证据不足以把它们归并为统一的全大陆封建制、税制或劳役制度。下一步优先处理译义冲突、中文同键来源缺失、版本差异和每篇论文的强断言—证据ID绑定；产权、税租、劳动合同与收益分配仍列为核心证据缺口。
