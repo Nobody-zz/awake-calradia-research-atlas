@@ -125,7 +125,7 @@
 
 ## 六、下一次研究动作已确定
 
-已完成工作包A的19城第一轮原文与官中名称核对，并对47个关联村庄作首轮阅读。详细札记见[七城研究](imperial-cities-regional-economy-seven-cities-v0.1.md)和[其余十二城分析](imperial-cities-regional-economy-remaining-twelve-v0.1.md)。下一步不再继续扩写城市列表，而是逐条分析51座城堡的英文地志，并把47个村庄按经济／社会／宗教／行政／边疆主题归并；随后再抽查现属其他文化但保留帝国历史的聚落。全程区分SandBox v1.4.8与NavalDLC v1.2.8文本，不把版本异文拼接成历史变化，也不按1084年三方内战阵营断开更早历史。
+已完成工作包A的19城第一轮原文与官中名称核对，并对47条village_村庄描述作首轮阅读。详细札记见[七城研究](imperial-cities-regional-economy-seven-cities-v0.1.md)和[其余十二城分析](imperial-cities-regional-economy-remaining-twelve-v0.1.md)。下一步逐条分析50条castle_village_城堡附属村庄描述，并把47条village_村庄按经济／社会／宗教／行政／边疆主题归并；retirement_retreat只作非历史性地点说明。随后抽查现属其他文化但保留帝国历史的聚落。全程区分SandBox v1.4.8与NavalDLC v1.2.8文本，不把版本异文拼接成历史变化，也不按1084年三方内战阵营断开更早历史。
 
 **第一批要争取回答的一个实质问题**：**在元老院和皇帝的官方制度之外，各地城市依托哪些不同的生产、交换与地方治理关系，持续成为帝国统治的社会基础？** 这不是预设所有城市必须服务同一个中央财政，也不预设地方经济发达必然导致割据。
 
