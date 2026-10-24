@@ -106,7 +106,7 @@
 
 ### 6.7 已完成：城镇控制权更替、经济腹地与财政连续性
 
-新增 CHC-STU-ECO《城镇控制权更替、经济腹地与财政连续性：斯特吉亚七城镇及其周边聚落的比较研究》v0.1（Google Docs: https://docs.google.com/document/d/1RDRi8qFsOP4wrpzpjORN-UnIbEFWMfKC59BdRaqL1O4/edit；GitHub: research/history/country/STU/sturgian-settlement-control-fiscal-continuity-v0.1.md）。
+新增 CHC-STU-ECO《城镇控制权更替、经济腹地与财政连续性：斯特吉亚七城镇、八城堡与腹地村庄的比较研究》v0.1（Google Docs: https://docs.google.com/document/d/1RDRi8qFsOP4wrpzpjORN-UnIbEFWMfKC59BdRaqL1O4/edit；GitHub: research/history/country/STU/sturgian-settlement-control-fiscal-continuity-v0.1.md）。
 
 本轮直接对照 SandBox 与 NavalDLC 的有效英文聚落地志、当前所有者字段和官方简中地志，并核验两份原始压缩包的 SHA-256。论文覆盖瓦尔切格、巴尔加德、奥莫尔、瓦尔诺瓦波尔、蒂亚尔、西比尔、雷维尔七城镇，以及乔尔诺巴斯、斯科林、萨夫纳、马拉布罗特、科沃尔、拉达克梅德、科尔夏斯、卡格雷夫等腹地村庄。
 
