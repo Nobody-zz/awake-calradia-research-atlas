@@ -52,3 +52,16 @@ Google Docs 原件：[自然地理研究问题图谱与证据矩阵](https://doc
 - [CGEO-S-BIO-001 植被与自然景观 v0.1](https://docs.google.com/document/d/1MzHUgiMoIIn35bwU4S5aWlM-OHIEn4r53v7LBD-mGzw/edit)
 - [官方地理证据登记表](https://docs.google.com/document/d/1UmtjdtlvO6mcFPYcQicHuprkZDxmWv0aMbUxk-TlfeM/edit)
 - [CGEO-MAP-AUD-001 地图图像实见记录](https://docs.google.com/document/d/1tsQ0Mz_nHNZYI0wAyazB3RFfW3Kg06nPYKD2bXc7jy0/edit)
+
+
+## 六、2026-10-24第一轮官方原档同键复核结果
+
+第一轮实际读取SandBox.zip与NavalDLC.zip内的官方聚落英文和简体中文语言表；两份ZIP的SHA-256与官方原始资料归档清单一致。两版各有274条英文与274条简中字符串，共有238个英文字符串ID；238条英文文本全部不同，而同ID的238条简中文本全部相同。此结果说明两版中文地志未同步反映英文改写，不代表238处自然地理事实均发生变化。
+
+对22个水文／地貌相关共同ID进行定向复核，22个ID的英文文本均不同，简中文本均未变化。完整逐项结果见[自然地理源级复核备忘录01](https://docs.google.com/document/d/1dlRqWn1R8VzeddpHjIaHdeBz-wk-fuTQLTRxSwg8dNI/edit)及[GitHub Markdown](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-source-audit-01-nahasa-and-northern-waters-2026-10-24.md)。
+
+**NAT-02 纳哈撒：**目前最稳定的达玛尔河局部锚点是扎勒姆（`village_A7_4`，河流进入杰尔贾赖峭壁的通道）、纳赫兰（`village_A6_4`，年际洪泛与淤泥）及米贾伊特（`village_A6_1`，河口与淤泥沉积）。吉德纳尔（`castle_village_A4_2`）与拜特·哈提夫（`village_A7_2`）在SandBox英文中被写作达玛尔河洪泛平原，在NavalDLC英文中则改为峭壁内侧岩丘／旱谷和罕见强降雨供水，故须标为版本冲突锚点。阿卜巴、阿斯麦特、本盖兹分别支持地下蓄水、暴雨拦蓄与旱谷井水等局地机制；不能推断它们与达玛尔河属于同一含水层。
+
+**NAT-03／NAT-04 北方河湖：**SandBox多条地志把“伊勒坦运输线”描述为冰川湖群以及拉科尼斯湖—塔奈西斯湖间的拖船线路；NavalDLC在厄毗诺萨、庞斯、阿洛夫、乌里克斯卡拉、沙佩什特等同键条目中改写为河流分支、桥梁／渡越点、拉科尼斯湖东岸河口或塔奈西斯湖湾等不同关系。帕亚木新版明确称Davana与Karakaz汇合后流向海洋；玻瑞阿戈拉新版称Caracasos河口进入拉科尼斯湖。此文本组合不足以独自证明全大陆完整水系拓扑，也不能把两版模型合并成同一时期自然水网。
+
+**证据等级与限制：**以上属于A类官方文本的版本分层读取；本轮未重新解析地形栅格、河道几何或原始Navmesh，因此尚无新增B类空间测绘结论。旧版简中只用于记录旧版本地化，不用于覆盖新版英文。地图复核仍需可恢复的原始空间资源及版本明确的几何数据。
