@@ -82,4 +82,3 @@ GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calrad
 - **阿耳戈隆 Argoron**：实体ID `town_EN4`，引用文本键 `LqPJY4s9`。两版内嵌英文fallback文本均将城市置于涅维斯河与拉科尼斯湖交汇处；该键未进入两版聚落语言表。基础版百科中的中文名称和描述为“阿耳戈隆”。
 - **诺耳塔尼萨 Nortanisa**：实体ID `castle_village_EN2_2`，但引用的文本键是 `Settlements.Settlement.text.village_EN4_3`，该键确实存在于两版聚落语言表。SandBox描述其位于拉科尼斯湖南岸；NavalDLC改为西岸，并加入附近Caracasos河口渔场。对应简中同键仍保留旧版南岸叙述。
 以上补记确认了原始定义文本的来源层级，但不把英文fallback当作独立简中同键翻译，也不把跨版本文本一致直接解释为地图位置一致。聚落坐标和地图范围随版本变化；本轮没有重新解析河道几何或高程栅格。
-。
