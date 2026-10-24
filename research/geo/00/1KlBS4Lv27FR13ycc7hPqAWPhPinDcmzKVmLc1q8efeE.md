@@ -338,7 +338,7 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 工作流标签：CGEO-NAT-LINE（内部工作流标签，不是正式论文编号）。
 
 - [自然地理研究问题图谱与证据矩阵（启动版v0.2，已补首轮原档复核）](natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1IzIEm-CgErZ_REROhHnuXstqvK2vKjPoSXoeyanNFUg/edit)
-- [自然地理源级复核备忘录01｜纳哈撒局地水文与北方河湖地志的版本分离（v0.1）](natural-geography-source-audit-01-nahasa-and-northern-waters-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1dlRqWn1R8VzeddpHjIaHdeBz-wk-fuTQLTRxSwg8dNI/edit)
+- [自然地理源级复核备忘录01｜纳哈撒局地水文与北方河湖地志的版本分离（v0.2）](natural-geography-source-audit-01-nahasa-and-northern-waters-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1dlRqWn1R8VzeddpHjIaHdeBz-wk-fuTQLTRxSwg8dNI/edit)
 
 首轮原档结果：SandBox与NavalDLC聚落地志各有274条英文／简中字符串，共有238个ID；238条英文描述全部变化，简中同键文本全部不变。针对22个水文／地貌共同ID的定向复核也呈现相同模式。该结果只证明版本文本存在系统性分歧，不证明所有自然地理事实发生变化。
 
