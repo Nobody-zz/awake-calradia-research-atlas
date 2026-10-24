@@ -101,7 +101,7 @@ GitHub: research/history/country/STU/sturgia-cross-line-evidence-handoff-pendrai
 
 本次实际对读了潘德拉克战役工作稿 v0.2 与库赛特制度史工作稿 v0.1。已将龙旗争执的版本／时序核验、岁仑／Gotug 名称差异与阿契特侵夺证据分级、朗瓦德母系诺德谱系的有效文本核查，分别交由 CHC-CAL-MIL、CHC-KHU、CHC-NOR。交接单仅列源级任务，不修改接收线正文或公共 I/Q；若没有新的有效文本，现有证据缺口继续保留。
 
-随后直接检查了项目 `StoryMode.zip`：包内只有 `module_strings.xml`、`story_mode_settlements.xml` 及英文／简中语言表，没有“年长的”奥列克、朗瓦德、龙旗争执或十九位领主访谈对白，也包内不含任何运行时程序集，因而无法与 v1.4.8.119303 程序集逐字比对。故当前归档不足以核验 v1.4.5 反编译访谈的版本一致性；这只是资料缺口，不证明运行时从未包含对白。当前有效 NavalDLC／`naval_dialog_strings.xml` 的 `Y1fwBgHt` 记水手对潘德拉克后帝国海军欠饷的回忆，`DtEBwPpJ` 与 `p4OvT9BS` 记可汗与斯特吉亚大湖交战、和解后转战帝国的相对顺序；这些文本不涉及龙旗争执。Library《骑砍诺德人两代关系考究.docx》虽提及朗瓦德母亲为诺德公主，但其相关表格引注指向 Fextralife 二手页面，不能替代有效 `heroes.xml／LW92PgZz`，更不能完成具名王室谱系定位。
+随后直接检查了项目 `StoryMode.zip`：包内只有 `module_strings.xml`、`story_mode_settlements.xml` 及英文／简中语言表，没有访谈答话 XML，也没有匹配 v1.4.8.119303 的运行时程序集。**但访谈文本本身并非无法核查：** 本轮直接读取了公开 v1.4.5 反编译源码 `BannerInvestigationQuest.cs`（blob `dfe5b4ebf469860d08014ae6926a0d5ef40e9146`）。朗瓦德 `Ri6NmpEE` 把夺旗归于自己；现任奥列克 `sSaZVD2e` 把夺旗及折旗归于父亲“年长的”奥列克；戈敦 `ZkSthA9d` 也把故事归于“年长的”奥列克，但以传闻引入。真正未解决的是 v1.4.5 与 v1.4.8.119303 的逐字版本核对，以及有效 `heroes.xml／bsOLRZyS` 所记“年长的”奥列克战役阵亡，与两段折旗对白中战后仍在场之间的直接时序冲突。此为来源间冲突，不证明相关对白从未存在。当前有效 NavalDLC／`naval_dialog_strings.xml` 的 `Y1fwBgHt` 记水手对潘德拉克后帝国海军欠饷的回忆，`DtEBwPpJ` 与 `p4OvT9BS` 记可汗与斯特吉亚大湖交战、和解后转战帝国的相对顺序；这些文本不涉及龙旗争执。Library《骑砍诺德人两代关系考究.docx》虽提及朗瓦德母亲为诺德公主，但其相关表格引注指向 Fextralife 二手页面，不能替代有效 `heroes.xml／LW92PgZz`，更不能完成具名王室谱系定位。
 
 ## 七附、人物称谓一致性复核（2026-10-24）
 
