@@ -79,3 +79,10 @@ A4｜Modules/SandBox/ModuleData/spkingdoms.xml：Xtyb9Dyr（Southern Empire）�
 A5｜Modules/SandBox/ModuleData/Languages/CNs/std_heroes_xml-zho-CN.xml及std_world_lore_strings_xml-zho-CN.xml：上述有效文本键的官方简体中文对应译文，不作为独立史料。
 
 本稿未分配H-0006、不修改I-0004分类树、不关闭Q5-09，也不改变已签发世界书正典。
+
+
+## 九、城镇与家族简介全量审计新增的比较线索（2026-10-24）
+
+帝国城镇简介全量审计重新核对了泽翁尼卡地志（SandBox/ModuleData/settlements.xml，town_EW2，key kghCLS9q）。该条称泽翁娜是少数曾统治帝国的女性之一，但特意限定她是皇子的摄政者，而非正式女皇。它与本稿已讨论的拉盖娅／伊拉继承主张形成一个值得比较、但尚不能直接等同的线索：帝国叙述区分了女性实际行使统治权、摄政身份与正式皇位称号。下一轮应回读该英文原文及官方简中，检验这一区分能否帮助解释拉盖娅的政治定位；不得仅凭一条地志推导完整的女性继承法或帝国宪制规则。
+
+该线索作为Q-0010的比较补证接口记录，不改变本稿关于彭同、拉盖娅与伊拉亲缘关系的证据等级，也不关闭现有未决问题。
