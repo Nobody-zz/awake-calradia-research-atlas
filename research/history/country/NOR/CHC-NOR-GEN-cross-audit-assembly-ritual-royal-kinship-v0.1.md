@@ -68,6 +68,10 @@ settlements.xml 中键 Lg5rbZse 的有效正文为：
 
 但两条传记没有说伊丽卡主持了沃尔比约恩的墓葬，也没有说她的秘密仪式使他复活；没有证据证明两者属于同一套宗教实践。不得将相邻叙事拼接成一个完整教义。
 
+### 2.4 全模块词项覆盖复核
+
+对当前五个已归档官方模块的有效正文 XML 进行 shrine、sacred、sacrifice、sorcery、ritual、goddess、god(s)、priest、holy、altar、oracle、ancestor、equinox、worship、temple、blessing、divine 等词项扫描后，NavalDLC 中与诺德直接相关的命中仍集中于上述人物传记、王国沿革、特龙德拉格集会和四处聚落地志；没有新增的诺德专属 priest/priestess、中央祭司、统一祭典或国家教义文本。其他命中主要属于帕莱克古民、巴旦尼亚、库赛特、帝国或通用海盗对话，不能移植为诺德证据。该扫描只界定当前归档文本的覆盖范围，不能证明虚构世界中绝不存在未被文本记载的制度。
+
 ## 三、阿丝葛莎、苏尼尔与哈尔达尔：传记和结构化数据的张力
 
 ### 3.1 传记与简中译文
