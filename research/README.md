@@ -1,4 +1,4 @@
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。国别并行试行启动包v0.1已准备（2026-10-24）：三条独立对话分别以CHC-EMP-GEN、CHC-VLA-GEN、CHC-STU-GEN开展首轮国别摸底；当前对话保留中央协调，公共I/Q索引由协调线统一维护，三个国别线分别拥有建议的独立研究文件区。启动包附三段可直接发给各自新对话的交接提示；这些新对话尚须用户自行创建和启动，并不自动后台研究。新立的国别及跨国研究在摸底、阶段稿、待审阶段统一按I-0004 v2.2 CHC分类＋题名＋文档链接归档；同一类别可收多篇，CHC不是独立文档号。国别研究允许分对话独立积累但共享I-0003事实／争议档案；H编号仅为满足内部完整论文标准后的成果序号，现有H-0001—H-0005保留，未预分配H-0006。当前工作方向不再按手头已完成的论文递推：以全大陆各历史共同体的形成、演变、互动与1084年前后多元格局为总问题，从研究对象、时期、领域和证据来源四方面先建立总体摸底，再用跨区域比较和明确反例决定正式论文的先后顺序。最新已核验的工作基底为《全大陆史料覆盖摸底与历史问题图谱》v0.1（非H/I/Q编号），包含67份清单对54份实得XML的覆盖差异、六大主要文化与九项王国历史概述的初步比较、原版493/有叙事327与DLC540/有叙事365聚落、271处英文异文的字面统计、55项历史研究问题及帝国中心／自主国家形成／边疆互动三个竞争解释。后续先核对国家之间的财富、军役、土地、贸易、婚姻、宗教与迁徙关系，标出相对年代与史料语气；不能因新的有趣事件立即开一篇论文，也不把分类法误作研究纲领。Q-0013 v0.4已据此替换旧P0潘德拉克单篇优先安排，I-0002 v3.42登记摸底里程碑。此前潘德拉克独立战役工作稿v0.1、H-0001—H-0005原有成果和I-0003 v3.13史料登记均保留，未经新证据不升格主线转录为A类、亦不强行解决StoryMode缺口。项目已上传 SandBoxCore.zip、SandBox.zip、NavalDLC.zip、Native.zip、StoryMode.zip；本轮已直接检索相关XML，但仅为定向核查，不能宣称67份XML全部逐行语义核销。StoryMode.zip 未提供完整的潘德拉克十九位领主采访原始对白，相关战役细节仍保留玩家转录等级。英文原始版本、官方简中及开发博客保持史料层次区别，地图版本差异不等于历史地形变化；Q5-09仍开放，H-0006未分配，已签发正典不变。当前登记日期：2026-10-24。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。国别并行试行启动包v0.1已准备（2026-10-24）：三条独立对话分别以CHC-EMP-GEN、CHC-VLA-GEN、CHC-STU-GEN开展首轮国别摸底；当前对话保留中央协调，公共I/Q索引由协调线统一维护，三个国别线分别拥有建议的独立研究文件区。启动包附三段可直接发给各自新对话的交接提示；这些新对话尚须用户自行创建和启动，并不自动后台研究。新立的国别及跨国研究在摸底、阶段稿、待审阶段统一按I-0004 v2.2 CHC分类＋题名＋文档链接归档；同一类别可收多篇，CHC不是独立文档号。国别研究允许分对话独立积累但共享I-0003事实／争议档案；H编号仅为满足内部完整论文标准后的成果序号，现有H-0001—H-0005保留，未预分配H-0006。当前工作方向不再按手头已完成的论文递推：以全大陆各历史共同体的形成、演变、互动与1084年前后多元格局为总问题，从研究对象、时期、领域和证据来源四方面先建立总体摸底，再用跨区域比较和明确反例决定正式论文的先后顺序。最新已核验的工作基底为《全大陆史料覆盖摸底与历史问题图谱》v0.1（非H/I/Q编号），包含67份清单对54份实得XML的覆盖差异、六大主要文化与九项王国历史概述的初步比较、原版493/有叙事327与DLC540/有叙事365聚落、271处英文异文的字面统计、55项历史研究问题及帝国中心／自主国家形成／边疆互动三个竞争解释。后续先核对国家之间的财富、军役、土地、贸易、婚姻、宗教与迁徙关系，标出相对年代与史料语气；不能因新的有趣事件立即开一篇论文，也不把分类法误作研究纲领。Q-0013 v0.4继续执行全大陆问题导向研究，I-0002现更新至v3.43、I-0003现更新至v3.14。潘德拉克独立战役工作稿更新为v0.2：公开的Bannerlord v1.4.5反编译C#代码已恢复主线采访英文字符串，相关文本可列A2（官方游戏对白经反编译源码恢复）；但它不是TaleWorlds官方发布的原始源码，且尚未与项目所存v1.4.8.119303程序集逐字比对。StoryMode.zip的有限XML确实未提供完整采访对白，但这不再等于“无可核查原文”。2020、2026玩家转录继续作为B级传抄材料，用于对读和发现逐词差异，不与其所抄的官方对白计作独立互证。英文原始版本、官方简中及开发博客保持史料层次区别，地图版本差异不等于历史地形变化；Q5-09仍开放，H-0006未分配，已签发正典不变。当前登记日期：2026-10-24。
 
 ## geo/00
 
@@ -43,8 +43,8 @@
 - [国别并行研究启动包 v0.1｜帝国、瓦兰迪亚、斯特吉亚三条可直接启动的对话说明](history/00/country-parallel-launch-kit.md) · [Google Docs启动包](https://docs.google.com/document/d/1avh-1AYKbDLkIucFSymJXPYwAt4NDqmnlYuVoIjf2c0/edit)
 - [CHC-CAL-SRC｜全大陆史料覆盖摸底与历史问题图谱（工作调查v0.1；55个历史问题，未授H）](history/00/continental-historical-baseline-question-atlas-2026-10-23.md) · [Google Docs原件](https://docs.google.com/document/d/1ezcXq-rZCPNRNjvhP1VuoLqhCoZHxyJgxzEtyCMCsrM/edit)
 - [I-0001｜研究总纲、史学方法与交叉校验规范（v1.4）](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
-- [I-0002｜论文目录与研究进度总索引（v3.42）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
-- [I-0003｜史料—事件—命题—争议总登记簿（v3.13）](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
+- [I-0002｜论文目录与研究进度总索引（v3.43）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
+- [I-0003｜史料—事件—命题—争议总登记簿（v3.14）](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
 - [I-0004｜卡拉迪亚历史研究学术分类法（CHC v2.2；未授H研究先行归类）](history/00/I-0004-academic-classification.md) · [云盘原件](https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit)
 ## history/01
 
@@ -82,6 +82,13 @@
 - [CHC-BAT-GEN｜巴旦尼亚疆域收缩、边地社会与王权战争化（v0.1，未授H号）](history/country/BAT/battanian-frontier-contraction-and-political-integration-v0.1.md) · [Google Docs](https://docs.google.com/document/d/1ljsE1qNlwn_06QGAtVjGh0on-xOumuXJW20XPpQNbpM/edit)
 - [CHC-BAT-GEN｜潘德拉克战争中的巴旦尼亚：战场贡献、盟军分工与至高王权的动员边界（v0.1，未授H号）](history/country/BAT/battanian-pendraic-war-and-kingship-mobilization-v0.1.md) · [Google Docs](https://docs.google.com/document/d/1MRDSiB-ua1kN3QF988JxrsP8M10wxKe-EF9AJjhcG-Q/edit)
 - [CHC-BAT-GEN｜潘德拉克战争原始资源审计与证据矩阵（v0.1，未授H号）](history/country/BAT/battanian-pendraic-source-audit-and-evidence-matrix-v0.1.md) · [Google Docs](https://docs.google.com/document/d/10QphOpdszJF2AdbauG234WTmlz6lq8PxXJTL39cubb8/edit)
+
+## history/country/VLA
+
+- [CHC-VLA-GEN｜德泰尔召集封臣与瓦兰迪亚—帝国战争：潘德拉克联系的证据审计（v0.2，未授H号）](history/country/VLA/vlandia-derthert-muster-empire-war-pendraic-source-audit-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/18pUZzpSy8i0KhgsImobfZV5FsXjX4OXSn6eu6vlcnoc/edit)
+- [CHC-VLA-GEN｜瓦兰迪亚相对年代链与人物关系网：从海外雇佣者到德泰尔王权](history/country/VLA/vlandia-relative-chronology-and-person-network-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1VTsU7AwZKcusLlaw-bTITz_LBzlN0VqXrVGqRwEFNuE/edit)
+- [CHC-VLA-GEN｜瓦兰迪亚王权、封臣与王朝争端研究](history/country/VLA/vlandian-monarchy-vassals-dynastic-disputes-2026-10-24.md)
+- [CHC-VLA-GEN｜瓦兰迪亚乡村地权、绿林兄弟会与沙拉斯叛乱：王国政治整合的社会成本](history/country/VLA/vlandian-peasant-tenure-brotherhood-charas-rebellion-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1A0DVKq8f9fULHQhtsnr9v6N3lE9dQy3L2ZMORGLcHKI/edit)
 
 ## history/90
 
