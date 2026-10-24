@@ -155,3 +155,12 @@ Google Docs：https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrta
 本专题补入高地村庄的明确供给关系：格伦利斯里格（Glenlithrig，village_B2_2）向邓格拉尼斯和卡·班塞斯供应木材；杜恩（Durn，village_B5_1）将河岸泥土沿曲折道路运往彭·坎诺克；盖恩塞斯（Gainseth，village_B5_2）向彭·坎诺克陶工出售泥土；安杜恩（Andurn，village_B4_2）出售林木给城镇；托·莱阿德（Tor Leiad，village_B3_3）记载长期照料林木以供采伐出售。毛皮捕猎与护林/边防劳动也有地点级记载，但买方和制度细节并不完整。
 
 该专题将城市形成研究中的“生产者—货物—买方—时层”指标推进到巴旦尼亚林谷，不把堡村Claig Ban与城镇Car Banseth混为一地，也不把原始资源存在等同于已证贸易。英文检索镜像仅作同一官方文本的检索入口，不是独立史源；完整原始ZIP逐键复核和NavalDLC同ID比较仍待完成。
+
+
+## 第八轮｜跨区域土地—劳动—资源控制—收益分配证据矩阵（2026-10-24）
+
+已建立[跨区域证据矩阵工作簿](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit)与[GitHub方法摘要]( https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/cross-regional-land-labour-resource-benefit-matrix-2026-10-24.md )。工作簿包含32条核心证据行、7地域比较、12项复核任务。
+
+此矩阵将“资源存在、本地生产、明确销售/供给、强制/授地/保护、产权/收益”分层登记，避免把资源、邻近、当前聚落绑定或水路连通当作历史交易。已确认三项高优先译义风险：Stathymos的wash fertile soil down不能证明人工灌溉；Orthra的steppe stock应指育种牲畜/马种而非牧草；Galend的takes in the catch... and wool是城市接收渔获与羊毛。Chornobas的NavalDLC英文另明确写出向奥莫尔港市供粮，但项目简中导出仍显示基础版文本，须分版引用。
+
+当前只支持比较各地政治介入土地、劳动组织与明确供给链的问题类型，不能推出全大陆统一封建制、税制或劳役制度。下一阶段优先完成英汉冲突同步、中文键来源追查、版本差异登记，并将问题1—7每条强断言绑定到证据ID。
