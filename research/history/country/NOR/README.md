@@ -7,7 +7,7 @@
 1. **CHC-NOR-GEN｜《诺德社会与国家形成史：史料覆盖、历史问题与初步解释》**，综合摸底 v0.1，2026-10-24。对应 [GitHub 正文](CHC-NOR-GEN-source-coverage-state-formation-v0.1.md) 与 [Google Docs 原件](https://docs.google.com/document/d/1Ni7Y8WyJpLqXnYlokKB_9wfTtcJY7R7CCAok0-_WS1M/edit)。
 2. **CHC-NOR-POL｜《从旧氏族集会到新王权：雅尔、土地与地方自治的制度转换》**，制度史专题工作稿 v0.2，2026-10-24。对应 [GitHub 正文](CHC-NOR-POL-assemblies-jarls-land-v0.2.md) 与 [Google Docs 原件](https://docs.google.com/document/d/1CdgP0mKyXpnz41yOHVpbLnku3Wrtjkd_YJ09ouMsCBo/edit)。
 
-3. **CHC-NOR-POL｜《从旧氏族集会到新王权：雅尔、土地与地方自治的制度转换》v0.3**，征役、私人船队、跨国工资、捕鲸分获与 Thing 执行的第三轮增补（现行专题工作版，2026-10-24）。[GitHub 正文](CHC-NOR-POL-assemblies-jarls-land-v0.3.md) · [Google Docs 原件](https://docs.google.com/document/d/1OY6WZRieodfNtMwDK-4syLP9MM6ydVjmFdwfDT56YJo/edit)。v0.2 是保留的上一阶段版本，非本专题最新结论。
+3. **CHC-NOR-POL｜《从旧氏族集会到新王权：雅尔、土地与地方自治的制度转换》v0.4**，第四轮政治机制审查（现行专题工作版，2026-10-24）。[GitHub 正文](CHC-NOR-POL-assemblies-jarls-land-v0.4.md) · [Google Docs 原件](https://docs.google.com/document/d/1yrSQTQi60B9iEvgjN4m7-vUyqm7OgH4yKO4QxZwMoJY/edit)。新增审查“通过把臣属注意力转向征服来加强脆弱纽带”是官方提出的可能策略，但未记载统一后的具体征服行动；v0.3 保留为上一阶段版本，v0.2 亦继续保留。
 
 4. **CHC-NOR-ECO｜《诺德维格的海洋财富、俘虏交易与早期王权财政：商品流通如何转化为统治权？》**，经济史独立专题工作稿 v0.1（2026-10-24）。[GitHub 正文](CHC-NOR-ECO-maritime-wealth-captives-fiscal-power-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/18jQ4C0kdk9whAHdt3ujOVzkzlplG46dU6PuiGMiGhoA/edit)。与 POL v0.3 交叉，但不把私人财富、市场交易、奴隶/俘虏与统一王国税收混算。
 
@@ -27,7 +27,7 @@
 
 ## 阶段性校勘及前后版本的阅读顺序
 
-请先看 v0.1 的整体史料范围与历史问题，然后用 v0.3 的更具体核验修订前稿相关结论：
+请先看 v0.1 的整体史料范围与历史问题，再以 v0.4 作为当前政治制度工作版；v0.3 保留为第三轮证据增补的历史版本：
 
 - 特龙德拉格：地志 Lg5rbZse 称象征中心，而米德斯卡格地志 rKW7FqWa **明确称其为 capital**；不能再简单说文献完全不支持首府称谓，但其行政机关与王室实际常住地未获证明。
 - 旧集会与王廷近臣：Lg5rbZse 英文 select group of his jarls 不能按官方简中“获选的雅尔们”理解为雅尔经选举产生。
@@ -98,6 +98,15 @@ SOC v0.1 将亲族与继承、旧氏族集会、村庄派出的 fyrdman、劳动
 - Bule74H4 的英文 rings 被官方简中泛化为“赏赐”，但英文句法是反事实，不能据此认定哈尔达尔实际按制度向战士发戒指。
 - Xom9DeXZ 的贡达尔公平分配武器盔甲是斯特吉亚起源传说，能比较分配正义的合法性叙事，不能移植为诺德分赃法。
 - 当前最强解释是多中心海洋经济之上的选择性财富动员与土地再分配；王室俘虏出售收入、固定战利品份额、赎金抽成及奴隶市场产权仍未证。
+
+## 第十二轮政治—征服整合审查
+
+- m6ZgnpN9 在说明王国纽带脆弱后，提出可以通过把 vassals 的注意力转向 conquest 来加强这些纽带。原文 may 表达可能性，不是已经发生的战役记载。
+- wKMRsw16 记沃尔比约恩通过帝国服役所得财富、武力与收买将雅尔领变为王国；Bule74H4 则记哈尔达尔的雅尔仍责怪其父、怀念不必向任何人负责的旧日。这两条材料分别说明建国时的强制整合与建国后的合法性问题。
+- 82aSnTOv 记贝恩兰人在统一战争中战败后以婚姻接入王室，阿丝葛莎后来获确认为雅尔，但其亲族仍不满许尔夫统治。婚盟与职位确认有整合效果的可能，却没有消除地方不满的直接证据。
+- Lg5rbZse 的旧氏族集会曾选择夏季劫掠目标、选出战争领袖；现行国王主要咨询少数雅尔。它显示政治决策圈层变化，不足以证明王室垄断战争发动权。
+- 格雷蒂斯湾 nxmX99pO 的地方雅尔从季节性海商市场发展而来，danasORQ 与流浪者叙事又显示贸易、私人劫掠和跨国雇佣并存；不能把这些私人或地方行动自动归入王室政策。
+- 当前最佳解释仍是复合王国：财富、武力、收买、婚盟与雅尔资格确认共同构成已记载的整合方式；对外征服作为缓解内部张力的策略被官方提出，但尚未由统一后的具体战役或军役条文证实。不得把“可能策略”改写成已发生的国家政策。
 
 ## 下一研究检验
 
