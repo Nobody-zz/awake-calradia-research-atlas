@@ -1,20 +1,37 @@
 # 自然地理源级复核备忘录 01｜纳哈撒局地水文与北方河湖地志的版本分离
-日期：2026-10-24  
+
+日期：2026-10-24
+
 Google Docs 原件：[自然地理源级复核备忘录01](https://docs.google.com/document/d/1dlRqWn1R8VzeddpHjIaHdeBz-wk-fuTQLTRxSwg8dNI/edit)
-GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-source-audit-01-nahasa-and-northern-waters-2026-10-24.md)  
-版本：v0.2  
+
+GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-source-audit-01-nahasa-and-northern-waters-2026-10-24.md)
+
+版本：v0.2
+
 性质：源级校勘与问题矩阵补充，不是正式论文，不分配CGEO永久论文编号。
+
 ## 一、核验范围与方法
+
 本轮实际读取项目持久资料库中的官方模块文本包，并以各版本的英文和简体中文语言表进行字符串ID同键核对。底本为：
+
 - `SandBox.zip`，SHA-256：`54c358e5b318ffeda8a69ce41a7e665f3b9bef06a6e49b142a972c80ea9c1d55`
+
   - `Modules/SandBox/ModuleData/Languages/std_settlements_xml.xml`
+
   - `Modules/SandBox/ModuleData/Languages/CNs/std_settlements_xml-zho-CN.xml`
+
 - `NavalDLC.zip`，SHA-256：`e41ad1c75665e736cad7d02319193a2cc6e0ed68e8bf2e44e1f151b62020b468`
+
   - `Modules/NavalDLC/ModuleData/Languages/std_settlements_xml.xml`
+
   - `Modules/NavalDLC/ModuleData/Languages/CNs/std_settlements_xml-zho-CN.xml`
+
 上述SHA-256与研究仓库 `research/source-archives/README.md` 所登记的指纹一致。本轮对相关语言表进行逐键提取和对照，而非依赖第三方百科或网页转录。
+
 两版聚落地志各有274条英文和274条简体中文字符串；共同字符串ID为238个。复核结果为：**238个共同ID的英文描述全部不同，而238个对应的简体中文描述全部相同。** 这说明中文版没有同步反映这些英文地志改写；它不意味着238处自然地理对象都发生了变化。为启动自然地理空间核验，本轮抽取22个涉及河流、湖泊、湿地、山地与局地水源的共同ID；22个ID的英文文本均不同，中文文本均相同。
+
 ## 二、纳哈撒：洪泛平原与旱谷集水必须分开
+
 | 稳定字符串ID／聚落 | SandBox英文地志 | NavalDLC英文地志 | 源级结论与证据边界 |
 | --- | --- | --- | --- |
 | `castle_village_A4_2` 吉德纳尔 Qidnar | 位于达玛尔河洪泛平原；河流穿过杰尔贾赖峭壁，年际洪泛带来肥沃淤泥并支持椰枣园。 | 改为杰尔贾赖峭壁朝内陆沙漠的一侧；罕见但猛烈的降雨落在多裂隙岩丘，可经沟渠引入椰枣园。 | **重大版本改写。** NavalDLC文本不再把该聚落定位于达玛尔河洪泛平原。对应中文仍是旧版洪泛平原叙述，不能作为新版英文的旁证。 |
@@ -25,12 +42,18 @@ GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calrad
 | `village_A3_1` 阿卜巴 Abba | 位于峭壁向陆一侧山脚；山地径流在地下蓄积并形成维持绿洲的泉水。 | 位于峭壁内一处宽旱谷，接近每隔数年发生的强降雨急流向海倾泻的出口；径流仍在地下蓄积并维持绿洲。 | 新版补充了旱谷和间歇性急流的空间背景。文本没有证明阿卜巴与达玛尔河洪泛区共享同一含水层。 |
 | `castle_village_A2_2` 阿斯麦特 Asmait | 阿沙卜山脉中的凹地，居民在罕见暴雨时拦蓄下山洪流灌溉作物。 | 基本关系不变，新增阿沙卜山脉为红色砂岩山地的描述。 | 红色砂岩是新版地志的直接文字记载，但不是独立地质测绘结果。 |
 | `castle_village_A7_2` 本盖兹 Bunqaz | 位于杰尔贾赖峭壁与塔玛尔山之间的大旱谷入口；打井获取旱谷地下水，灌溉橄榄林。 | 旱谷与地下水机制不变；塔玛尔山由一般山地改写为花岗岩露头。 | 支持另一处旱谷—井水—橄榄林的地点级组合；没有证据证明本盖兹、阿卜巴和达玛尔河之间存在地下水力连通。 |
+
 ### 当前可成立的纳哈撒水文模型
+
 可以暂时把现有地点证据分成两组，而不是强行拼成一个连续灌溉系统：
+
 1. **达玛尔河洪泛—淤泥组：**扎勒姆（河流进入峭壁的入口）、纳赫兰（年际洪泛平原）、米贾伊特（河口及淤泥沉积）。这三个锚点在两版英文中保持基本一致。
 2. **山地径流—旱谷—地下水组：**阿卜巴、阿斯麦特、本盖兹，以及新版中的吉德纳尔、拜特·哈提夫。其水源包括罕见强降雨、坡面径流、旱谷集水、地下水和井水；新版不再支持将吉德纳尔与拜特·哈提夫直接当作达玛尔河洪泛平原聚落。
+
 两组可能在区域尺度上相邻，但目前没有证据证明它们属于同一地下含水层、同一灌溉系统或一条完整连续的水文地貌带。
+
 ## 三、北方湖区：伊勒坦运输线的两套地理叙述不能拼接
+
 | 稳定字符串ID／聚落 | SandBox英文地志 | NavalDLC英文地志 | 源级结论与证据边界 |
 | --- | --- | --- | --- |
 | `castle_village_EN5_1` 阿特里翁 Atrion | 位于涅维斯河谷；寒冷缓流汇入拉科尼斯湖，适宜种桑养蚕。 | 位于涅维斯河三角洲；该地原为沼泽，后由帝国贵族出资修建堤坝排水垦殖，如今种桑。 | 新版直接记载湿地改造过程。它支持“河口三角洲—沼泽—堤坝排水—桑树种植”的文本模型，但不能替代地图对三角洲形态与位置的独立核验。 |
@@ -49,36 +72,50 @@ GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calrad
 | `castle_village_EN9_1` 墨卡罗维亚 Mecalovea | 伽尔喀斯急流和瀑布构成弥戎河汇入拉科尼斯湖的通道。 | 位于德律亚山脉岩质台地，三面被弥戎河及支流环绕；急流切割岩石并暴露铁矿。 | 新版仍支持弥戎河与支流的快速水流及侵蚀性切割，但没有沿用旧版关于伽尔喀斯瀑布及河流入湖的完整描述。简中仍是旧版。 |
 | `village_K1_1` 乌赛克 Usek | 位于塔奈西斯湖东岸、阿克坎丘陵山脚。 | 仍位于湖东岸，但改为阿克坎丘陵的陡坎之上。 | 湖岸定位相对稳定，地貌位置由山脚改为陡坎之上。 |
 | `village_EN3_1`／`castle_village_EN5_1` 涅维斯河 | 基础版分别将厄诺伊萨置于涅维斯河流向拉科尼斯湖的河岸，并称阿特里翁位于该河谷、河水汇入湖中。 | 新版分别把厄诺伊萨放在河岸、把阿特里翁置于河口三角洲，并增加湿地排水叙述。 | “涅维斯流向拉科尼斯湖”在两版多个地点文本中有支持；河口具体形态和湿地改造须以新版逐条记载，不能把所有旧版定位视为同步有效。 |
+
 ## 四、跨案例结论：能成立与不能成立的水系命题
+
 ### 目前可保留的地点级命题
+
 1. **达玛尔河局部序列：**扎勒姆位于达玛尔河进入杰尔贾赖峭壁的通道；纳赫兰位于年际洪泛平原；米贾伊特位于河口及淤泥沉积地域。这三个地点在两版英文地志中保持基本一致。
 2. **涅维斯—拉科尼斯关系：**阿特里翁与厄诺伊萨的两版地志都保留涅维斯河流向或汇入拉科尼斯湖的关系；新版另把阿特里翁定位为河口三角洲，并明确记载堤坝排水垦殖。
 3. **新版北方河道关系：**厄毗诺萨、庞斯、阿洛夫、帕亚木、玻瑞阿戈拉等地志新增或重写了Caracasos、Jumne、Davana、Karakaz的支流、渡越、河口与汇流叙述。其中，帕亚木条目明确称Davana与Karakaz汇合后继续流向海洋；玻瑞阿戈拉条目明确称Caracasos河口进入拉科尼斯湖。
 4. **局地水源类型：**阿卜巴、阿斯麦特、本盖兹等地点分别记载地下蓄水／泉水、罕见暴雨拦蓄、旱谷井水；这些是不同地点级供水方式，不能合并成一套已经测绘的灌溉系统。
+
 ### 目前不能成立的命题
+
 - 不能把基础版的伊勒坦冰川湖群拖运线与《战帆》的Caracasos—Jumne—Davana河流渡越网络拼接成同一套完整的自然水系。
 - 不能依据旧版中文译文，继续把新版的吉德纳尔、拜特·哈提夫、沙佩什特、阿特费尼亚或厄诺伊萨定位到已被新版英文改写掉的旧地貌关系中。
 - 不能因河流可用于浮运木材、村庄有船只或桥梁渡越，就推定全河段自然可航。
 - 不能仅凭聚落志推算河流流量、洪水频率、地下水位、含水层范围、湖泊间天然连通或实际分水岭。
 - 不能把阿特费尼亚关于古海湾抬升的民间传说升级为已证实的地质事件；它是“官方文本记载了当地传说”的证据，而非地质史实本身。
+
 ## 五、对自然地理研究矩阵的修订建议
+
 - 将纳哈撒洪泛区锚点定为扎勒姆、纳赫兰、米贾伊特；吉德纳尔与拜特·哈提夫标记为“基础版洪泛平原／《战帆》旱谷集水”的版本冲突案例。
 - 将北方水系标为两个分别记录的工作模型：基础版“伊勒坦冰川湖群—湖间船只拖运”；《战帆》“多河道—河口—渡越点—河岸沼泽”。在地图几何验证前，两者不作同一时期的统一拓扑。
 - 对全部共用ID同时保存英文原文与中文同键文本；若简中与新版英文的地理语义不一致，简中只作为本地化旧文记录，不作为新版自然地理命题的证据。
 - 下一轮优先检查：①河流几何是否支持《战帆》新增的Caracasos河口、Davana—Karakaz汇合及Epinosa河道分支；②基础版湖间拖运线与《战帆》河道描述在地图层面的空间对应程度；③原版和《战帆》的水域边界、高程及河流资源是否能独立复核这些叙述。
 - 地图档案CGEO-MAP-RES-018明确说明当前保留的港口网络数据是派生文件，不含完整原始Navmesh顶点、面或原始二进制；本轮未重新解析地形或Navmesh。以上空间关系仍属于文本证据与待检验假说，不能宣称已完成地图验证。
+
 ## 六、资料链接
+
 - [自然地理研究问题图谱与证据矩阵](https://docs.google.com/document/d/1IzIEm-CgErZ_REROhHnuXstqvK2vKjPoSXoeyanNFUg/edit)
 - [自然地理研究线交接与第一阶段工作计划](https://docs.google.com/document/d/17YLRDnYY4o0SI0Om_oJ_MZQMTJu_Qvd3nTUOHk7tGVw/edit)
 - [官方原始资料归档与SHA-256清单](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/source-archives/README.md)
 - [CGEO-S-HYD-001《卡拉迪亚大陆河流水系与湖泊研究》v0.3](https://docs.google.com/document/d/1qoWxPgRqqHxPSjv9NqeVfy2oj3fkqlEq_xF5CxPrpTc/edit)
 - [CGEO-TOP-AUD-002《大陆地理专名扩展校勘与分版地志异文审查》](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/90/EVD/CGEO-TOP-AUD-002.md)
+
 本备忘录只报告对官方聚落地志语言表的版本核对结果，不替代空间测绘；下一步须将地点级文本关系与版本明确的地图几何逐项配准
+
 ## 七、补记：官方settlements.xml内嵌英文与语言表不是同一层（2026-10-24）
+
 为核对先前仍被标为待证的地点，继续读取SandBox与NavalDLC的原始 `ModuleData/settlements.xml`。该文件中每个聚落的实体ID、`text`属性引用的本地化字符串键、以及键后附带的英文fallback文本，是三个不同层次；不能仅凭聚落实体ID假定同名的 `std_settlements_xml` 字符串一定存在。
+
 - **马卜瓦兹 Mabwaz**：实体ID `village_A7_3`，两版 `settlements.xml` 的内嵌英文fallback文本相同，记载其俯瞰达玛尔河穿过杰尔贾赖峭壁台地的河段，并在洪泛平原淤泥上种植小麦等作物。其文本键 `Settlements.Settlement.text.village_A7_3` 未进入两版 `std_settlements_xml` 英文／简中语言表；基础版简中名称和描述可由用户提供的 `encyclopedia-zh-cn.md` 核对为“马卜瓦兹”。因此它是稳定的**文本锚点**，不是已完成空间配准的锚点。
 - **Masangara**：实体ID `castle_village_EN5_2`，引用文本键 `Settlements.Settlement.text.village_EN2_3`。两版内嵌英文fallback文本均称其位于涅维斯河岸，河水流入拉科尼斯湖，原沼泽林地已排水为草甸；该文本键未进入两版聚落语言表。因其为城堡附属村庄，上传的基础版百科不覆盖该聚落；当前归档资料也未提供独立中文名称键，故中文音译只能标为研究暂译。
 - **阿拉堤斯 Alatys**：实体ID `village_EN4_2`，引用文本键 `Settlements.Settlement.text.village_EN4_2`。两版内嵌英文fallback文本均将其置于拉科尼斯湖南端、涅维斯河形成的三角洲低地；文本键未进入两版聚落语言表。基础版百科中的中文名称和描述为“阿拉堤斯”。
 - **阿耳戈隆 Argoron**：实体ID `town_EN4`，引用文本键 `LqPJY4s9`。两版内嵌英文fallback文本均将城市置于涅维斯河与拉科尼斯湖交汇处；该键未进入两版聚落语言表。基础版百科中的中文名称和描述为“阿耳戈隆”。
 - **诺耳塔尼萨 Nortanisa**：实体ID `castle_village_EN2_2`，但引用的文本键是 `Settlements.Settlement.text.village_EN4_3`，该键确实存在于两版聚落语言表。SandBox描述其位于拉科尼斯湖南岸；NavalDLC改为西岸，并加入附近Caracasos河口渔场。对应简中同键仍保留旧版南岸叙述。
+
 以上补记确认了原始定义文本的来源层级，但不把英文fallback当作独立简中同键翻译，也不把跨版本文本一致直接解释为地图位置一致。聚落坐标和地图范围随版本变化；本轮没有重新解析河道几何或高程栅格。
