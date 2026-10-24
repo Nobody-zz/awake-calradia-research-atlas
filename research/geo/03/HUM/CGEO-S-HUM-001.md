@@ -133,3 +133,14 @@ GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/re
 Google Docs：https://docs.google.com/document/d/1r5xLCwljVokxTeA5pk86bdX0jXtVzlDIhIGNb09vcoM/edit
 
 该专题不改写城市形成总论的既有论点，而是进一步将“生产者—货物—买方—时层”作为城市腹地分析的操作化指标。毛皮拥有宏观文案、猎人据点、商人收购与市镇功能的多层证据；木材和谷物分别有明确采伐与DLC版供粮记录，但交易链不完整；野蜜与沼铁尚无具体地点级生产证据。湖泊／河流的水文连通、运输连通与商品贸易连通须分别论证。跨版本的乔诺巴斯、斯科林、拉达克梅德不构成连续历史序列。
+
+
+## 第六轮补正｜北方港市与内陆供给的多节点关系（2026-10-24）
+
+新增独立专题：《北方海产、河港与内陆粮畜的市场连接——诺德维格、贝恩兰岛与朱姆内河谷的多节点网络》v0.1。
+GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/northern-maritime-river-port-and-inland-provisioning-2026-10-24.md
+Google Docs：https://docs.google.com/document/d/1LtjH6zFrfpyu1vQkTBbcaBFiXRNcwmORrK7ixURySP8/edit
+
+本轮将城市形成论的“生产者—货物—买方—时层”指标扩展到北方海洋经济。当前直接文本链包括：诺德长船向南销售海象牙、鲸油和鱼类；哈加德（Hargard，town_N4／zh2tG1MX）作为朱姆内河岸多族群汇集河谷物产并向南出售的节点；格雷蒂斯湾（Gretysfjord，town_N2／nxmX99pO）的季节集市先于地方雅尔权力成长；瓦尔维克（Hvalvik，town_N1／Zn9NwSTf）从捕鲸棚屋聚落发展为港镇；village_N3_4／fVkcvgSc的排沼授田与城镇小麦供给；雅斯克韦格（Jalskveg，village_N3_1／JJ0fLBlD）以牛力拖运橡木至海岸造船。
+
+此证据支持北方海岸—河港—内陆生产地之间存在多节点、分商品的交换网络，但不支持统一王室港务、固定全年航线、统一关税或全部海产输往内陆农牧社区。四座新增诺德城镇当前NavalDLC官方简体中文名称键为瓦尔维克、格雷蒂斯湾、特龙德拉格、哈加德；开发日志的旧中文译稿异译不覆盖当前名称键。village_N3_4的“瓦格纳菲特”为既有研究稿暂用名，未将其冒充为本轮直接核定的独立中文名称键。
