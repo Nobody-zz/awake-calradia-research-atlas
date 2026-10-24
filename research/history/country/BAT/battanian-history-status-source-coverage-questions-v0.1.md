@@ -145,3 +145,11 @@ StoryMode v1.4.8：本轮已取得其模块ZIP并定向检查，主线19人完�
 
 专题原件：https://docs.google.com/document/d/1MRDSiB-ua1kN3QF988JxrsP8M10wxKe-EF9AJjhcG-Q/edit
 GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/BAT/battanian-pendraic-war-and-kingship-mobilization-v0.1.md
+
+附录｜第七轮：潘德拉克原始资源审计（2026-10-24）
+
+新专题《潘德拉克战争原始资源审计与证据矩阵》完成了项目现有 SandBoxCore、SandBox、Native、StoryMode、NavalDLC 压缩包的文件覆盖检查。当前 StoryMode.zip 只有四个文件，未含玩家手录十九位领主采访的专门对白资源；故战前休战誓约、卡拉多格是否首先违约、斯特吉亚与瓦兰迪亚具体战术分工、战后战利品争议，仍不能标为已与官方主线原始对白逐句核实。
+
+当前官方英文资源直接支持：德罗修斯·涅雷采斯率帝国军团进入巴旦尼亚森林伏击（SandBox/wanderer_strings.xml〔DzyAgYIX〕、companion_strings.xml〔mk0l1BfB〕）；“最后军团”派系将阿雷尼科斯在潘德拉克之后废除剩余常备军、改依赖总督私人扈从与成本和领土控制相联系（SandBox/spclans.xml〔bhxVA9w7〕）；人物志将卡拉多格的继位疑云、小氏族支持与埃尔贡要求亲族忠于新王并列（heroes.xml〔8SiW73EF、HjGYftkH〕）。角色背景不是独立的中立战报，不能由这些材料补出兵力、伤亡和完整战术顺序。
+
+原始资源审计全文：research/history/country/BAT/battanian-pendraic-source-audit-and-evidence-matrix-v0.1.md；Google Docs：https://docs.google.com/document/d/10QphOpdszJF2AdbauG234WTmlz6lq8PxXJTL39cubb8/edit 。
