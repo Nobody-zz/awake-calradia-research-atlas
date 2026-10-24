@@ -468,7 +468,7 @@ SandBox/ModuleData/comment_strings.xml／str_comment_noble_introduces_self_and_c
 
 本轮仍归CHC-ASE内部研究，不修改公共I/Q索引，不分配H编号。
 
-## 二十三、跨模块法律词项检索：阿塞莱司法案例的覆盖边界（v1.6）
+## 二十三、跨模块法律词项检索：阿塞莱司法案例的覆盖边界（v1.8）
 
 ### 二十三之一、检索范围与结果
 本轮检索范围仅为五个归档模块包中收录的23个英文原始XML（Native 3个、SandBoxCore 1个、SandBox 10个、StoryMode 2个、NavalDLC 7个），并非五个模块的完整资源。关键词涵盖judge、judgment、legal ruling、precedent、court、arbitration、justice、elder、tribunal、verdict、sentence、punishment、trial、adjudicate、lawyer与jurisdiction。未把同一原文的官方语言表重复计算为独立证据，也未把spclans.xml注释中的旧版设计草案当作有效游戏叙事。
