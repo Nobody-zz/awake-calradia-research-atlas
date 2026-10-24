@@ -705,7 +705,9 @@ TaleWorlds 2018 年官方 Aserai 开发日志也把帝国在纳哈撒的影响�
 
 项目提供的 encyclopedia-zh-cn.md 将拉齐赫标为 town_A4，条目说明：在帝国来到卡拉迪亚之前的数个世纪，拉齐赫据说曾是坎族探险家向珀拉斯海沿岸展开殖民活动的出发基地；其船首装饰与一位兼司财富、葡萄酒、爱情和战争的坎族女神有关。后来坎族语言被纳哈撒方言取代，原有宗教几近被遗忘，但相关符号继续留存。
 
-本轮英文转录通过 BannerlordDB 的拉齐赫条目复核（[拉齐赫英文条目](https://bannerlorddb.com/encyclopedia/settlement/razih)）。该站说明其数据来自游戏文件，并标示适配 Bannerlord v1.4.8；但它同时明确声明自己是非官方粉丝工具。因此，这里把它视为与游戏版本相符的外部英文转录，而不是 TaleWorlds 官方出版物，也不以此替代本地 SandBox/ModuleData/settlements.xml 的原始节点。项目所附中文资料标明版本为 v1.4.8.119303；先前的简中语言表审计检出 town_A4 描述键。本轮仍需在原始英文 XML 与同键简中条目之间完成最终逐键复核。
+本轮已直接读取项目附件 `aserai-source-audit/SandBox.zip` 中的原始 `Modules/SandBox/ModuleData/settlements.xml`：town_A4 的文本 ID 为 `jXBnf2hQ`。SandBox 英文原始 XML、英文语言表 `Languages/std_settlements_xml.xml` 与官方简中表 `Languages/CNs/std_settlements_xml-zho-CN.xml` 均可按同一 ID 定位，确认简中确为同键官方译文。清单记录的 SandBox 原始 XML 版本为 v1.4.8，大小 702,255 bytes，SHA-256 为 `E92BB2079526DCC4A125B6A7AE21B76240E5176D143ACA98D083BE9CE8C32524`；英文语言表 84,269 bytes，SHA-256 为 `C3C852527616255B3CD4C10F82A79A7DB231D57D32015615DB8A250D9927CCE4`；简中语言表 74,952 bytes，SHA-256 为 `46DF7C77C4FA184D1C67C3DC5881F1098C3B6842AE051A188DEBD41AF9D95AEB`。
+
+同一 ID 也被 NavalDLC 的 settlements.xml、英文表与简中表复用。该模块版本为 v1.2.8，原始 XML 789,997 bytes，SHA-256 为 `4F2924A0B236062D1720E0AD48131D23FA4863E5C0AA7FE475F36B0056B9E436`；英文表 106,418 bytes，SHA-256 为 `4F6414EE9C319FFB21E65AABED6DEEB9A21BF8421F10EE167F74755AA54192AD`；简中表 89,694 bytes，SHA-256 为 `9FFBB92133CF79F8EB13849D27C5A4CFDF24D4F1B958C09519011D07137249BF`。两份英文原文仅有一处大小写差异：SandBox 写 “empire”，NavalDLC 写 “Empire”。这属于同一字符串 ID 在两个模块中的复用，不是独立互证。外部 [BannerlordDB 拉齐赫条目](https://bannerlorddb.com/encyclopedia/settlement/razih) 仅作公开转录的辅助核对。项目所附 encyclopedia-zh-cn.md 标示游戏版本 v1.4.8.119303，而清单记录的模块版本为 v1.4.8；两种版本字段分别保留，不混写。
 
 英文描述的关键不只是“the symbol lives on”，而是后面说它 “said to protect those who risk all for the sake of gain or glory”。这将符号的延续解释为一种仍在流传的护佑信念，而不仅是后人看见古物后讲述过去。开头的传闻式措辞则限定了证据强度：文本呈现的是当地起源传说或传统说法，并非一份可以直接核实的殖民史档案。
 
@@ -731,7 +733,7 @@ TaleWorlds 2018 年官方 Aserai 开发日志也把帝国在纳哈撒的影响�
 
 ### 二十八之四、与其他城镇历史的比较：不同的文化与政治连续性
 
-古亚兹（town_A1；英文条目：[古亚兹英文条目](https://bannerlorddb.com/encyclopedia/settlement/quyaz)）同样保留坎族历史，但其叙事重心不同：它曾是主导西部海洋与珀拉斯海贸易的商业共和国，坎族语与纳哈撒语相近；帝国霸权逐步压缩其贸易，来自纳哈撒的雇佣兵接替当地统治者，城市还曾间歇性臣服帝国。古亚兹呈现的是商业政体、统治精英与贸易秩序的转变；拉齐赫更突出海上殖民起源传说与符号的延续。二者不能合并成单一的“坎族文化消失”模式。
+古亚兹（town_A1；英文条目：[古亚兹英文条目](https://bannerlorddb.com/encyclopedia/settlement/quyaz)）同样保留坎族历史，但其叙事重心不同：它曾是主导西部海洋与珀拉斯海贸易的商业共和国，坎族语与纳哈撒语相近；帝国霸权逐步压缩其贸易，来自纳哈撒的雇佣兵接替当地统治者，城市还曾间歇性臣服帝国。古亚兹呈现的是商业政体、统治精英与贸易秩序的转变；拉齐赫更突出海上殖民起源传说与符号的延续。二者不能合并成单一的“坎族文化消失”模式。对项目提供的 encyclopedia-zh-cn.md 全文做字面检索，明确提及坎族身份的城镇描述只见于古亚兹、拉齐赫和俄耳堤西亚三处；这是该文件范围内的检索结果，不能替代对全部英文 XML 的全库检索。
 
 俄耳堤西亚（town_EW4；英文条目：[俄耳堤西亚英文条目](https://bannerlorddb.com/encyclopedia/settlement/ortysia)）补出更广的沿海关系：该城被描述为卡拉迪人在珀拉斯海岸的早期殖民地之一，早期一度处于坎族城邦古亚兹的权威之下，后来又随帝国扩张并入帝国的政治体系。与拉齐赫的出海殖民传统并读，至少可以提出一个待检验的区域模型：帝国扩张之前，珀拉斯海岸已经存在坎族海上活动、殖民据点和城邦影响力；帝国随后将其中部分节点纳入自身秩序。现有材料尚不足以重建完整航线或确定这些据点之间的正式隶属关系。
 
@@ -749,7 +751,7 @@ TaleWorlds 2018 年官方 Aserai 开发日志也把帝国在纳哈撒的影响�
 
 ### 二十八之六、下一轮查证任务
 
-1. 回到本地 SandBox/ModuleData/settlements.xml，核对 town_A4 英文原始节点、其字符串 ID 和完整标点；再与官方简中语言表同键比对，确认上述翻译差异不是外部转录或版本差异造成的。
+1. 已完成本地逐键核验：SandBox 的 town_A4／jXBnf2hQ 与英文表、官方简中表一致；NavalDLC 复用同一 ID，英文只把 empire 首字母改为大写。下一步检索其余模块是否还有该 ID 的复用，并把模块重复视为文本复用而非独立互证。
 2. 在全部可用英文字符串中检索 Kannic、Perassic Sea、女神的四项职能、船首纹饰和保护信仰，确认是否有女神专名、其他祭祀记录或相同符号的第二次出现。
 3. 将拉齐赫、古亚兹、俄耳堤西亚放在同一张前帝国—帝国扩张的沿海关系表中，只记录原文明确支持的基地、殖民地、城邦权威和帝国整合，不推定未记载的年代或条约。
 4. 若其他文本没有新增证据，保留“坎族海上殖民传统与符号残存”为拉齐赫个案，不将其扩写为整个阿塞莱社会普遍经历的文化同化规律。
