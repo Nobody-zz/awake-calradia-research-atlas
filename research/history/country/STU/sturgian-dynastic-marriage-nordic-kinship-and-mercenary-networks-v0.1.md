@@ -168,3 +168,12 @@ SandBox/heroes.xml，\`dead_lord_2_2\`，键 **QyFdfZrC** 的英语为：**“Sh
 - NavalDLC／ModuleData／heroes.xml：**82aSnTOv**（阿丝葛莎、苏尼尔及与斯特吉亚边境冲突）；**wKMRsw16、OAvlqAql、Bule74H4**（沃尔比约恩、伊丽卡、哈尔达尔，仅诺德比较）。
 - NavalDLC／ModuleData／naval_dialog_strings.xml：**PG95aHx1、gGLcvhD9、DN6XgaS3**（诺德—瓦尼婚盟第一人称叙述；不得将所谓“斯特吉亚旧女王下毒”并入阿基娜火刑）。
 - 官方简中来源：\`SandBox/ModuleData/Languages/CNs/std_{settlements,spclans,heroes,comment_strings,wanderer_strings}_xml-zho-CN.xml\`；\`NavalDLC/ModuleData/Languages/CNs/std_{heroes,naval_dialog_strings}_xml-zho-CN.xml\`。同键对勘重点 **QyFdfZrC**：“the year after”≠中文“发生当年”。
+
+
+### 追加校勘（2026-10-24）：西加、瓦尔拉与被注释的库洛夫—阿契特婚盟故事
+
+依用户提供的西加（Siga）线索，核对 SandBox/ModuleData/world_lore_strings.xml，发现未启用的四段 LRS 对话草稿：U7xbAEpr（现任奥列克指控朗瓦德为结盟将妹妹 Pira 嫁给库赛特人、西加营救并焚堡、朗瓦德斩首妹妹送首级）、7CPvlhjw（阿契特家族继承人称西加杀其叔父，嫁来的妹妹相助，随后收到该女子首级）、Nqjv6fwc（西加对朗瓦德积怨）、RkS0cwHl（西加对蒙楚格的复仇誓言）。**这四项全处于 XML 注释内，既无活动节点，也无对应生效简中词条；不可当作正式游戏对白或已确定发生的世界内事件。**它们能够有力证明官方开发文本曾构想“婚盟—突袭—处死—氏族复仇”剧情，但不具有现行史实直证效力。
+
+有效 SandBox/heroes.xml 的 father 字段证实瓦尔拉 dead_lord_2_2、西加 lord_2_4、现任奥列克 lord_2_3 同为年长奥列克之子女；温都勒 dead_lord_6_4 与蒙楚格 lord_6_5 同为库由格 dead_lord_6_3 子女，故温都勒是蒙楚格之子 lord_6_9 的叔父，吻合 7CPvlhjw 的亲属称谓。但草稿称 Pira（而非有效记录中的瓦尔拉），且有 NAME 未填占位符；二者同一属于高吻合但未被直接核实的文本演变假说。**有效的 QyFdfZrC 仍仅确定瓦尔拉在潘德拉克战役次年死于不明原因**，官方简中“战役发生当年”为译文错误。奥列克反对大公财政扩权有独立生效原文，不能改写为“已证完全因为朗瓦德处死其妹”。
+
+完整证据登记：CHC-STU-SRC《西加、瓦尔拉与朗瓦德：婚盟破裂和死亡叙事的原文校勘》v0.1，research/history/country/STU/siga-varra-raganvad-arkit-marriage-death-source-audit-v0.1.md。
