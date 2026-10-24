@@ -150,3 +150,11 @@ SandBox／ModuleData／spkingdoms.xml 的北帝国条目（Kingdom.empire／aEfs
 〔14〕Argoron／town_EN4，〔15〕Myzea／town_EN5，〔16〕Saneopa／town_EN3。基础版英汉对应见〔2〕；Myzea：https://bannerlorddb.com/encyclopedia/settlement/myzea ；Saneopa：https://bannerlorddb.com/encyclopedia/settlement/saneopa
 
 **论文等级与待修订声明：**本文是论证完整的v0.1研究稿，不是获得源级全量审校的最终版；本轮已经发现并审定两处基础版官方简中句义问题，应作为校勘事项记录，而非在原文档内无痕改写翻译。
+
+## 第二轮原始ZIP版本校勘补充（2026-10-24）
+
+本节优先限定本文中所有未明确标注版本的聚落地志判断。逐键对照SandBox v1.4.8与NavalDLC v1.2.8后，本文的斯塔堤摩斯肥土—麦作结论仅适用于SandBox基础版；NavalDLC同ID描述已改为Miron河支流、含硫温泉与屠龙传说，不再提肥土或麦作，简中却仍保留基础版农业文本。故不能把该农业地貌作为DLC当前地志的事实。
+
+威亚罗斯（village_EN5_1）基础版记山毛榉/橡树林坡地与传统帝国骑兵育马场；DLC改写为东部Myzead密林谷地，并明确由退役帝国军官创办育马场。俄耳特拉（village_EN5_2）在DLC中仅改为向南眺望Myzead，steppe stock育种和向帝国骑兵供马仍保留，但简中仍误译为“牧草”。阿瓦辛顿（village_EN6_1）仍记清灌丛、桑树与养蚕，DLC只重写其在Myzead的区位描述，简中未同步。
+
+因此本文的“边疆土地改造与军马供应”模型仍可作为基础版文本的解释；涉及DLC现行地志时，必须分别登记版本，不将Stathymos的基础版粮食叙述或Vealos的“传统马场”说法无条件移植到DLC层。完整键级对照见[聚落文本版本与官方简中同步审计](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/settlement-text-version-and-localization-audit-2026-10-24.md)。
