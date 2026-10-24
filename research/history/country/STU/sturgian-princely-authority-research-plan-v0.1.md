@@ -45,7 +45,7 @@
 
 **第三阶段｜CHC-STU-POL／REL：贡达罗夫的谱系、婚姻及军事结盟。** 重点研究贡达尔祖源传说、巴尔加德—雷维尔氏族竞争、朗瓦德母系诺德联络、Skolderbroda 雇佣关系与蒂亚尔草原婚盟。**核心辨识问题：** 何处有具体通婚后果，何处只是后世王朝合法化叙述？跨海诺德王国内政仍留给独立 CHC-NOR；不能将诺德维格统一追溯为斯特吉亚建国。
 
-**第四阶段｜CHC-STU-MIL／与 CHC-CAL-MIL 的接口：潘德拉克之后的军功与王权。** 老奥列克有效人物传记说其战死于潘德拉克；玩家对白转录的战后折旗时序与之冲突。专注于斯特吉亚战功、王公合法性与氏族关系，战斗经过由跨国战役史独立稿负责。先核销有效英语对白再断言折旗细节，战争胜利不自动等于王权扩张。
+**第四阶段｜CHC-STU-MIL／与 CHC-CAL-MIL 的接口：潘德拉克之后的军功与王权。** “年长的”奥列克有效人物传记说其战死于潘德拉克；玩家对白转录的战后折旗时序与之冲突。专注于斯特吉亚战功、王公合法性与氏族关系，战斗经过由跨国战役史独立稿负责。先核销有效英语对白再断言折旗细节，战争胜利不自动等于王权扩张。
 
 **停止条件**：若新源只重复旧的官方史观链、没有改变权利解释、年代顺序或模型权重，停止加码考据，写出可受审查的阶段性结论。新正式论文待独立审核通过后才领取 H 编号。
 
@@ -53,7 +53,7 @@
 
 1. 贡达尔至朗瓦德之间的可定位代际和首任联盟大公与其家族关系；名字和祖先叙事已足够明确，但不证明每代顺序。
 2. 部族领袖选举大公的具体资格、誓约内容，封臣赋役何时转入世袭王公的强制权力；不虚构成文盟约。
-3. 潘德拉克龙旗事件的有效英文对话及老奥列克死亡时序，不能引用未校验玩家转录作官方直陈。
+3. 潘德拉克龙旗事件的有效英文对话及“年长的”奥列克死亡时序，不能引用未校验玩家转录作官方直陈。
 
 **写入范围：** 本线专属 `research/history/country/STU/`，不修改公共 I-0001— I-0004、Q-0013、CHC-NOR 或既有 H 论文。原始字词对照依据 SandBox/ModuleData/{settlements,spclans,spkingdoms,heroes,world_lore_strings}.xml 与同模块官方 CNs 英中本地化表；英文原文为解释底本，官方简中作名称核定。
 
@@ -171,7 +171,7 @@ GitHub: research/history/country/STU/sturgia-cross-line-evidence-handoff-pendrai
 
 ### 6.16 已完成：现有 StoryMode 资料包检查与访谈文本缺口登记
 
-已直接检查本项目当前 `/mnt/data/StoryMode.zip`。压缩包只有四个 XML：`ModuleData/module_strings.xml`、`story_mode_settlements.xml`、英文 `Languages/std_module_strings_xml.xml` 和官方简中 `Languages/CNs/std_module_strings_xml-zho-CN.xml`。其中通用任务文本提及 “Neretzes' Folly”，但没有老奥列克、朗瓦德、龙旗争执或十九位领主访谈的对白，也没有与 v1.4.8.119303 匹配的运行时程序集。Native.zip 中玩家组装 Dragon Banner 的任务通知属于另一套游戏任务字符串，不能当作历史龙旗争执的证据。
+已直接检查本项目当前 `/mnt/data/StoryMode.zip`。压缩包只有四个 XML：`ModuleData/module_strings.xml`、`story_mode_settlements.xml`、英文 `Languages/std_module_strings_xml.xml` 和官方简中 `Languages/CNs/std_module_strings_xml-zho-CN.xml`。其中通用任务文本提及 “Neretzes' Folly”，但没有“年长的”奥列克、朗瓦德、龙旗争执或十九位领主访谈的对白，也没有与 v1.4.8.119303 匹配的运行时程序集。Native.zip 中玩家组装 Dragon Banner 的任务通知属于另一套游戏任务字符串，不能当作历史龙旗争执的证据。
 
 **证据裁决：** 当前项目资料包不足以核验从 v1.4.5 反编译恢复的访谈转录是否与 v1.4.8.119303 一致。这是资料可得性缺口，不是“游戏运行时从未有过相关对白”的证明。CHC-CAL-MIL 的龙旗时序争议继续保留。
 
@@ -182,7 +182,7 @@ GitHub: research/history/country/STU/sturgia-cross-line-evidence-handoff-pendrai
 ### 6.17 下一阶段：接收跨线源级回覆并关闭可关闭的问题
 
 当前已完成交接单与资料包审计，下一步以接收线反馈为主：
-1. **CHC-CAL-MIL：** 如其可取得匹配版本的 StoryMode／运行时程序集，核对老奥列克折旗对白；如不可取得，正式记录该源级缺口，并保持“有效传记与访谈转录的时序张力未解决”。
+1. **CHC-CAL-MIL：** 如其可取得匹配版本的 StoryMode／运行时程序集，核对“年长的”奥列克折旗对白；如不可取得，正式记录该源级缺口，并保持“有效传记与访谈转录的时序张力未解决”。
 2. **CHC-KHU：** 核对岁仑／Gotug 名称差异与阿契特侵夺材料；若只有现有开发注释和玩家转录，保留来源分层，不关闭为确定事件。
 3. **CHC-NOR：** 以有效人物／氏族字段检查朗瓦德母亲身份；二手诺德研究稿仅作问题线索，不作为谱系证明。
 4. 把接收结果回填 STU-RQ06、STU-RQ09 及相应工作稿；若没有新证据，只更新状态为“已交接、待证据”，不重复搜索或追加同义专题。
