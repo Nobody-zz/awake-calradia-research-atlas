@@ -92,6 +92,8 @@
 - [CHC-EMP-GEN｜帝国权威的地方接口：论文候选稿 v0.3](history/country/EMP/imperial-local-order-paper-candidate-v0.3.md)
 - [CHC-EMP-GEN｜帝国权威的地方接口：论文候选稿 v0.4](history/country/EMP/imperial-local-order-paper-candidate-v0.4.md)
 - [CHC-EMP-GEN｜帝国权威的地方接口：论文候选稿 v0.5](history/country/EMP/imperial-local-order-paper-candidate-v0.5.md)
+- [CHC-EMP-GEN｜帝国权威的地方接口：论文候选稿 v0.6](history/country/EMP/imperial-local-order-paper-candidate-v0.6.md)
+- [CHC-EMP-GEN｜帝国权威的地方接口：结构与证据一致性复审 v0.1](history/country/EMP/imperial-local-order-paper-review-v0.1.md)
 - [CHC-EMP-GEN｜帝国城镇与家族简介全量覆盖审计 v0.1](history/country/EMP/imperial-town-and-clan-description-coverage-audit-v0.1.md)
 - [CHC-EMP-GEN｜论文候选稿 v0.4 逐节论证审查](history/country/EMP/imperial-local-order-paper-candidate-argument-review-v0.1.md)
 - [CHC-EMP-GEN｜论文候选稿 v0.4 语言与证据一致性校对](history/country/EMP/imperial-local-order-paper-candidate-consistency-audit-v0.1.md)
