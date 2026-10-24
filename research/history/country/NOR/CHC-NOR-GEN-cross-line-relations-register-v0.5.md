@@ -112,7 +112,7 @@ STU、BAT、VLA 多条工作稿已分别注意到上述事件，但多线重复�
 - **流浪者第一人称自述（NavalDLC naval_dialog_strings.xml）**：`PG95aHx1`、`gGLcvhD9`、`DN6XgaS3` 是同一位诺德出身治疗者的连续背景段落，叙述家庭为耕地迁入朱姆内、与瓦尼人通过土地安排和婚姻交换协调、更多诺德人跟进后发生围猎资源冲突、谈判失败与杀戮。它是不同体裁的官方叙述，但不是外部独立档案，也不能按三个字符串算作三份证词。
 - **Hargard（NOR town_N4／zh2tG1MX）**：地志称诺德部落数代以前向东推进并建堡，当前朱姆内河成为诺德东部领地的运输动脉和多族群交换区。
 - **Faergap（NOR village_N4_3／PKlv8jCB）**：地志把山口路线与诺德移民进入朱姆内河谷的旅程及如尼铭文联系起来。
-- **Grud（NOR village_N4_1／dwkbyCqk）**：地志称哈加尔雅尔的 thegn 曾在朱姆内河东岸建立前哨，是地方属员参与拓居的直接个案。
+- **Grud（NOR village_N4_1／dwkbyCqk）**：地志称格鲁德是哈加尔雅尔的 thegn，并将他、河东前哨与以其名命名的村庄联系起来；但英文“who established an outpost”的指代有歧义，不能据此断言前哨一定由格鲁德本人或雅尔建立。
 - **Thralathorp（NOR castle_village_N9_2／DJCei132）**：记载朱姆内河谷不同领地的逃亡者和逃跑者在东部草原定居；文本没有说他们因诺德扩张而逃离。
 - **Ulikshorn（NOR castle_village_N9_1／0kDUOy2G）**：记载边境山区部族被向南驱赶并纳入库赛特联盟，但没有把他们等同于迪纳尔难民。
 - **Karahalli（KHU castle_village_K6_2／VbQhrOU9）**：当前 NavalDLC 英文把诺德人与斯特吉亚并列为争夺该边疆的势力；这是区域竞争背景，不是迪纳尔事件的战报。
