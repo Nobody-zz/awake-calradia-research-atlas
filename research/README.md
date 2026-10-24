@@ -92,6 +92,13 @@
 - [CHC-VLA-GEN｜瓦兰迪亚王权、封臣与王朝争端研究](history/country/VLA/vlandian-monarchy-vassals-dynastic-disputes-2026-10-24.md)
 - [CHC-VLA-GEN｜瓦兰迪亚乡村地权、绿林兄弟会与沙拉斯叛乱：王国政治整合的社会成本](history/country/VLA/vlandian-peasant-tenure-brotherhood-charas-rebellion-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1A0DVKq8f9fULHQhtsnr9v6N3lE9dQy3L2ZMORGLcHKI/edit)
 
+## history/country/NOR
+
+- [诺德史独立研究线总目录](history/country/NOR/README.md) · 研究稿、版本顺序与当前方向。
+- [CHC-NOR-GEN｜诺德史研究矩阵与下一阶段路线图（v0.1）](history/country/NOR/CHC-NOR-GEN-research-matrix-and-route-v0.1.md) · 先建立时空—关系图谱，再选择论文问题。
+- [CHC-NOR-GEN｜诺德史历史关系卡：区域、迁徙、权力与跨境网络（第一批 v0.1）](history/country/NOR/CHC-NOR-GEN-historical-relations-cards-v0.1.md) · 首批21张关系卡，涵盖北方区域差异、国家形成、普通社会及跨国网络。
+- [CHC-NOR-POL｜从旧氏族集会到新王权：雅尔、土地与地方自治的制度转换（v0.4）](history/country/NOR/CHC-NOR-POL-assemblies-jarls-land-v0.4.md) · 政治制度专题，征服整合仅为其中一项待证假说。
+
 ## history/90
 
 - [《卡拉迪亚之王》时间线二创文本梳理（公开仓库平行核对稿）](history/90/1TfweX-znEVL4mzd_Ct0l5fSj-0dQgIJ9kqBn7RUMXAs.md) · [云盘原件](https://docs.google.com/document/d/1TfweX-znEVL4mzd_Ct0l5fSj-0dQgIJ9kqBn7RUMXAs/edit)
