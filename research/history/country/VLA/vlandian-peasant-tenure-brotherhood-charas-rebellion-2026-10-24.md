@@ -174,3 +174,6 @@ N1/IWzzeHb6 的沙拉斯渔民泛化自述谈到海湾岛礁、鲭鱼、金枪�
 所有原始英文及官方简中语句均从本项目 Library 对应 ZIP 读取、逐键匹配；该整理仅摘录来源键及史学论证，不复制整套受版权保护的游戏资料包。结论保持工作稿状态，待更多独立事件链、故事启用范围和人物名字资料核实。
 
 **阶段结论：**绿林兄弟会、沙拉斯行会起义和遭海上惩罚的渔民不是可有可无的游戏小故事，而是构成瓦兰迪亚国家社会史的实质材料。它们使“王权—男爵”之外的土地占有、农村法律主张、城市劳动组织和叛乱成本成为有证据的问题；但证词不等于法院判决，故事相似不等于同一事件，不能将缺失的年份或姓名偷偷补上。
+
+## 跨模块聚落地志提醒（2026-10-24）
+本稿的沙拉斯围城与航海流浪者故事来自 NavalDLC 有效对白；周边聚落的经济、地理叙述则可能来自 SandBox 或 NavalDLC 的不同文本层。两者不能仅因地点相同便拼成一条绝对年代链。聚落ID与英文地志的跨模块差异及简中滞后见：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/VLA/vlandia-warsails-settlement-variants-localization-audit-2026-10-24.md；Google Docs：https://docs.google.com/document/d/1x-rgVuMsHbRkDUXvs8j194srP-DKgGzcQV98MYl7-SE/edit。
