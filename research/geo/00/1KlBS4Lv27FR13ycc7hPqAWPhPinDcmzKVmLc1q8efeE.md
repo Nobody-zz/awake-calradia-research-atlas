@@ -2,7 +2,7 @@
 
 ## 卡拉迪亚大陆地理研究 · 管理文档 · 2026-10-24修订
 
-> 现行状态提示（2026-10-24）：本索引采用“首部目录＋后续成果登记”的累计结构；后文最新成果登记优先于早期目录行。CGEO-S-GEO-001、CGEO-S-CLM-001、CGEO-S-HYD-001 v0.2、CGEO-S-BIO-001、CGEO-S-TRN-001、CGEO-S-HUM-001均已有研究初稿或修订稿。自然地理研究线已建立交接文件，不分配新正式论文编号。
+> 现行状态提示（2026-10-24）：本索引采用“首部目录＋后续成果登记”的累计结构；后文最新成果登记优先于早期目录行。CGEO-S-GEO-001、CGEO-S-CLM-001、CGEO-S-HYD-001 v0.3、CGEO-S-BIO-001、CGEO-S-TRN-001、CGEO-S-HUM-001均已有研究初稿或修订稿。自然地理研究线已建立交接文件，不分配新正式论文编号。
 
 # 一、研究定位
 
@@ -317,11 +317,11 @@ GitHub Markdown：[自然地理研究线交接文件](natural-geography-research
 首轮启动矩阵（Google Docs）：https://docs.google.com/document/d/1IzIEm-CgErZ_REROhHnuXstqvK2vKjPoSXoeyanNFUg/edit  
 GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geography-question-map-evidence-matrix-2026-10-24.md)
 
-第一阶段目标：审计地理总论v0.3、区域划分v0.1、地形地貌v0.1、气候与自然环境v0.1、水文v0.2、植被与自然景观v0.1及CGEO-MAP技术档案；建立自然地理研究问题图谱和稳定实体ID证据矩阵；先核验纳哈撒山地—旱谷—绿洲与达玛尔河、北方Nordvyg／Beinland—朱姆内河—海岸河谷、拉科尼斯湖—塔奈西斯湖及相关河流、中部草原边缘与西部滨海—丘陵过渡区四组试点。
+第一阶段目标：审计地理总论v0.3、区域划分v0.1、地形地貌v0.1、气候与自然环境v0.1、水文v0.3、植被与自然景观v0.1及CGEO-MAP技术档案；建立自然地理研究问题图谱和稳定实体ID证据矩阵；先核验纳哈撒山地—旱谷—绿洲与达玛尔河、北方Nordvyg／Beinland—朱姆内河—海岸河谷、拉科尼斯湖—塔奈西斯湖及相关河流、中部草原边缘与西部滨海—丘陵过渡区四组试点。
 
 证据纪律：区分A官方文字、B版本地图直接呈现、C研究推断、D非官方材料与M游戏机制；分开记录原版和《战帆》；不把Navmesh当自然水系，不把版本差异当世界内部变迁，不从单一村志推断完整自然区域。
 
-当前同步状态：Drive中CGEO-S-HYD-001正文为v0.2，GitHub既有快照仍为v0.1；CGEO-S-CLM-001 v0.1目前链接在Draft PR #1。第一阶段应先审计版本和双端镜像，再根据证据缺口决定论文修订顺序。
+当前同步状态：CGEO-S-HYD-001已修订为v0.3，Drive与GitHub现已同步；CGEO-S-CLM-001 v0.1仍链接在Draft PR #1。下一阶段先审计其余专题版本状态与双端镜像，再根据证据缺口决定论文修订顺序。
 
 
 ### 第二阶段工具｜跨区域土地—劳动—资源控制—收益分配矩阵（2026-10-24）
@@ -337,11 +337,11 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 
 工作流标签：CGEO-NAT-LINE（内部工作流标签，不是正式论文编号）。
 
-- [自然地理研究问题图谱与证据矩阵（启动版v0.1，已补首轮原档复核）](natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1IzIEm-CgErZ_REROhHnuXstqvK2vKjPoSXoeyanNFUg/edit)
+- [自然地理研究问题图谱与证据矩阵（启动版v0.2，已补首轮原档复核）](natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1IzIEm-CgErZ_REROhHnuXstqvK2vKjPoSXoeyanNFUg/edit)
 - [自然地理源级复核备忘录01｜纳哈撒局地水文与北方河湖地志的版本分离（v0.1）](natural-geography-source-audit-01-nahasa-and-northern-waters-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1dlRqWn1R8VzeddpHjIaHdeBz-wk-fuTQLTRxSwg8dNI/edit)
 
 首轮原档结果：SandBox与NavalDLC聚落地志各有274条英文／简中字符串，共有238个ID；238条英文描述全部变化，简中同键文本全部不变。针对22个水文／地貌共同ID的定向复核也呈现相同模式。该结果只证明版本文本存在系统性分歧，不证明所有自然地理事实发生变化。
 
-目前可由两版英文共同支持的纳哈撒局部水文锚点为扎勒姆、纳赫兰、米贾伊特；吉德纳尔与拜特·哈提夫必须按版本分开。北方地区的“伊勒坦冰川湖群—两湖间拖船”与新版“多河道—河口—渡越点”是不同文本模型，不可直接拼接。
+目前可由两版英文共同支持的纳哈撒文本锚点为扎勒姆、纳赫兰、马卜瓦兹、米贾伊特；其中马卜瓦兹来自两版settlements.xml内嵌英文fallback文本，而非std_settlements_xml语言表。吉德纳尔与拜特·哈提夫必须按版本分开。北方地区的“伊勒坦冰川湖群—两湖间拖船”与新版“多河道—河口—渡越点”是不同文本模型，不可直接拼接。
 
 下一步：完成CGEO-S-HYD-001与地貌／气候／植被专题的同键一致性审查；地图空间复核须等待可恢复、版本明确的原始几何资源。本轮未重新解析高程栅格、河道几何或原始Navmesh，不能将文字核对表述为地图测绘。
