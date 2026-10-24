@@ -19,7 +19,7 @@
 - Modules/NavalDLC/ModuleData/Languages/std_NavalDLC_SandBoxCore_SPCultures_xslt.xml：bLTkig9T（**新增文化概述存于 DLC 英语语言表，非 naval_cultures.xml，也非 SandBoxCore/spcultures.xml 的 nord 节点**）；
 - Modules/SandBoxCore/ModuleData/spcultures.xml：斯特吉亚文化 Ud1AMybr、与 DLC 的 nord 文化定义对照；
 - Modules/SandBox/ModuleData/spkingdoms.xml：斯特吉亚国家沿革 bVihnRUu；
-- Modules/SandBox/ModuleData/settlements.xml：瓦尔切格 i2VkRLBg、巴尔加德 Xom9DeXZ、瓦尔诺瓦波尔 aTMypBiY、锡比尔 PPadNxa6、罗瓦尔特 1SnAH5K8、卡尔班塞特 QD3oaaNK 等；
+- Modules/SandBox/ModuleData/settlements.xml：瓦尔切格 i2VkRLBg、巴尔加德 Xom9DeXZ、瓦尔诺瓦波尔 aTMypBiY、锡比尔 PPadNxa6、罗瓦尔 1SnAH5K8、卡尔班塞特 QD3oaaNK 等；
 - NavalDLC 相应英文、官方简体中文语言表；同时对 Native 和 StoryMode 的非语言表 XML 作诺德关键词筛查，未发现足以取代以上主轴的独立有效诺德国家形成叙事。原始材料中诸如格式化界面称谓、多人地图名称不作为历史证词。
 
 **证据分层**：A=“官方文本如此陈述”可直接核对，不等于每句传说的历史真实性；B=由文本严格推出的局部关系；C=经过反例检验的最优历史解释；D=待证。地方地志、王国沿革、王室人物传记、流浪者自述共享同一官方叙事工程，互相呼应时不可当成彼此独立的编年史档案。开发表述只能作低于生效正文的背景。相关官方开发博客包括《Introducing the Nords》（2025-08-20，https://www.taleworlds.com/en/News/580）及《Setting Sail》（https://www.taleworlds.com/en/News/578），均有发行前细节可变警告。
@@ -118,7 +118,7 @@ NavalDLC/naval_dialog_strings.xml 的 spc_wanderer_nord_0n—7n 是官方**人�
 
 **与 CHC-STU-GEN**：SandBox/settlements.xml 中巴尔加德 town_S2/Xom9DeXZ 提供贡达尔经调解分配战利品而取得地方承认的传奇，后裔与斯特吉亚人通婚，成为大公统治者；其“传说”地位不可消除。瓦尔诺瓦波尔 town_S4/aTMypBiY 曾为诺德控制斯特吉亚皮毛贸易的据点；锡比尔 town_S6/PPadNxa6 由诺德商人开办以收购森林皮毛；斯特吉亚王国史 bVihnRUu 另记地方婚盟、外来佣兵及大公世袭化。比起简单“同族”，更适合比较**诺德雅尔重新臣属化**与**斯特吉亚部落/波耶大公制**的不同制度路径。王朝贡达尔（Gundar）与诺德国创立者沃尔比约恩不是同一人物，更不能直接混写谱系。
 
-**与 CHC-VLA-GEN、CHC-BAT-GEN**：瓦尔切格 town_S1/i2VkRLBg 诺德创立者独立向巴旦尼亚高王戴恩玛查称臣，后为斯特吉亚军队所败，不能作为诺德国中央征服行动的证据。罗瓦尔特 town_V9/1SnAH5K8 的诺德矿业与毛皮移民早于瓦兰迪亚侵入，是诺德政治范围以外的居民社会案例。卡尔班塞特 town_B3/QD3oaaNK 的诺德雇佣兵及海上冒险者又是一种跨境参与方式。
+**与 CHC-VLA-GEN、CHC-BAT-GEN**：瓦尔切格 town_S1/i2VkRLBg 诺德创立者独立向巴旦尼亚高王戴恩玛查称臣，后为斯特吉亚军队所败，不能作为诺德国中央征服行动的证据。罗瓦尔 town_V9/1SnAH5K8 的诺德矿业与毛皮移民早于瓦兰迪亚侵入，是诺德政治范围以外的居民社会案例。卡尔班塞特 town_B3/QD3oaaNK 的诺德雇佣兵及海上冒险者又是一种跨境参与方式。
 
 **与 CHC-EMP-GEN、CHC-KHU-GEN 及潘德拉克课题**：帝国 Vaegar Guard 的受雇军旅财富参与诺德本国王权形成，但不能直接变成帝国统一政策证据。个人海军见闻 iyfKyaRB—Y1fwBgHt 将涅雷采斯战役、帝国海军欠饷、军舰衰退串在一起，只能作为明确具有叙述者视角的记忆材料。库赛特可汗利用诺德航海技术以及朱姆内河谷移民推挤向南的证据，均应交对应研究线交叉验证，不由 NOR 代写其国家史。
 
