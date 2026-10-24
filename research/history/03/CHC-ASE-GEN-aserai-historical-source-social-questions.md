@@ -600,4 +600,18 @@ backstory_b.spc_wanderer_aserai_2（H8wpFACA）把战利品与诗人赞誉连在
 
 当前资料并未说明牧场冲突是否会进入苏丹仲裁、血仇是否有常规调停或赔偿方式、商人是否拥有正式申诉渠道，也没有证明苏丹垄断了地方强制或全部军役。后续应优先补齐未进入当前67份XML资料包的任务／对话资源和同版本运行时文本，尤其核验潘德拉克采访在 v1.4.8.119303 中的有效措辞；并继续比较英文原文与官方简中在宗教性休战、血仇、商业性别规范等关键词上的差异。
 
+### 附表A、当前归档的原始XML清单与缺项边界
+
+当前归档中23份英文原始XML的逐文件清单如下。file_manifest.csv 与五个 ZIP 解包后的路径逐一比对，67/67 条记录全部匹配；文件大小与 SHA-256 均无差异，五个 ZIP 的 SHA-256 也与归档 README 相符。这证明当前选定资料包内部完整、未见校验差异，不证明它覆盖了完整游戏模块。
+
+- Native v1.4.8（3份）：global_strings.xml、module_strings.xml、native_strings.xml。阿塞莱相关材料主要在 module_strings.xml 的文化描述和称谓中；这不是专门的阿塞莱历史叙事集。
+- SandBox v1.4.8（10份）：comment_strings.xml、companion_strings.xml、concept_strings.xml、heroes.xml、module_strings.xml、settlements.xml、spclans.xml、spkingdoms.xml、wanderer_strings.xml、world_lore_strings.xml。当前归档最丰富的阿塞莱社会叙事来源，包括氏族、人物、聚落、政治哲学和流浪者背景。
+- SandBoxCore v1.4.8（1份）：spcultures.xml。仅有文化总述，不能替代其他模块中的历史与政治叙事。
+- StoryMode v1.4.8（2份）：module_strings.xml、story_mode_settlements.xml。当前包中没有 BannerInvestigationQuest.cs，也没有与 v1.4.8.119303 对应的已核验运行时程序集；潘德拉克采访目前仍依赖公开 v1.4.5 反编译文本。
+- NavalDLC v1.2.8（7份）：clans.xml、heroes.xml、kingdoms.xml、module_strings.xml、naval_cultures.xml、naval_dialog_strings.xml、settlements.xml。可用于海岸聚落、海上人物背景和贸易外交研究，但不能代表完整 War Sails 资源覆盖。
+
+当前资料包明确未包含：五个模块的完整目录清单及未选入的其他原始XML；其他语言表（归档说明列出的 CNt、BR、DE、FR、IT、JP、KO、PL、RU、SP、TR 等未复制）；C# 任务／对白源文件与同版本编译程序集；语音资产索引及大量非叙事界面XML。这里的“未包含”只指本次研究资料包，不等于这些资源不存在于游戏安装目录。file_manifest.csv 只登记了选定的67条记录，不能单独反推出所有未收录文件的完整文件名；要生成精确的逐文件缺项表，仍需将当前安装目录五个模块的完整文件清单与本表做差集比较。
+
+后续最值得优先补齐的阿塞莱相关资源类别是：SandBox 的完整人物／任务对白与任务脚本、StoryMode 的潘德拉克调查任务源文本及同版本程序集、以及其他未选入的聚落／氏族／人物原始XML。当前可见的优先文件仍是 SandBox/ModuleData/wanderer_strings.xml、heroes.xml、settlements.xml、spclans.xml、spkingdoms.xml、world_lore_strings.xml，SandBoxCore/ModuleData/spcultures.xml，以及 NavalDLC/ModuleData/naval_dialog_strings.xml 和 settlements.xml。
+
 本轮仍归 CHC-ASE-GEN，不修改公共 I/Q 索引，不分配 H 编号。
