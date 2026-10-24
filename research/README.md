@@ -378,4 +378,4 @@ v1.9 使用完整高程图绘图区和中性相对高程色带，不执行海陆
 - [CGEO｜官方地理证据登记表](geo/90/EVD/1UmtjdtlvO6mcFPYcQicHuprkZDxmWv0aMbUxk-TlfeM.md) · [云盘原件](https://docs.google.com/document/d/1UmtjdtlvO6mcFPYcQicHuprkZDxmWv0aMbUxk-TlfeM/edit)
 - [CGEO-MAP-AUD-001｜原版与《战帆》地图图像实见记录](geo/90/EVD/1tsQ0Mz_nHNZYI0wAyazB3RFfW3Kg06nPYKD2bXc7jy0.md) · [云盘原件](https://docs.google.com/document/d/1tsQ0Mz_nHNZYI0wAyazB3RFfW3Kg06nPYKD2bXc7jy0/edit)
 
-**同步提醒：** Google Drive 与 GitHub 不会自动同步；CGEO-S-HYD-001 已于2026-10-24修订至v0.3并完成双端同步。CGEO-S-CLM-001 v0.1仍链接在Draft PR #1。自然地理研究线继续先做版本和源级证据审计，再决定下一轮空间核验。
+**同步提醒：** Google Drive 与 GitHub 不会自动同步；CGEO-S-HYD-001 已于2026-10-24修订至v0.3并完成双端同步。CGEO-S-CLM-001 v0.1仍链接在Draft PR #1。自然地理研究线已完成首篇纳哈撒局地水文地理专题论文初稿v0.1，并将问题矩阵更新至v0.7；后续转入论文内部审阅、证据逐项复核及可证伪的原始河道几何恢复，不再停留于无差别摸底。
