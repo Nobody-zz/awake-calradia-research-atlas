@@ -14,6 +14,8 @@
 
 ## 二、源文件路径与语言表规则
 
+表内省略公共路径前缀；例如 NavalDLC/kingdoms.xml 对应 ZIP 内 Modules/NavalDLC/ModuleData/kingdoms.xml，语言表路径同理。
+
 | 来源类型 | 英文原始文件 | 官方英文语言表 | 官方简中语言表 |
 | --- | --- | --- | --- |
 | 王国沿革 | NavalDLC/kingdoms.xml | NavalDLC/Languages/std_kingdoms_xml.xml | NavalDLC/Languages/CNs/std_kingdoms_xml-zho-CN.xml |
