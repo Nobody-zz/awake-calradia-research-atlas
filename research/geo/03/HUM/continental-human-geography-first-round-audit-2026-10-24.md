@@ -267,7 +267,7 @@ Google Docs：https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrta
 
 已建立可编辑工作簿：[Google Sheets证据矩阵](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit)；GitHub方法与摘要：[cross-regional-land-labour-resource-benefit-matrix]( https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/cross-regional-land-labour-resource-benefit-matrix-2026-10-24.md )。
 
-工作簿当前含34条核心证据行、7地域横向比较、12项复核任务及字段说明。抽样覆盖纳哈撒、东部草原、帝国北方、西部港市、东北森林、诺德海岸—朱姆内河、乌卡利翁高地/巴旦尼亚林谷。证据行按模块/版本、原始文件/字符串键、实体ID、英文原文摘录、官方简中对照、证据类型、行动者/劳动、商品/接收方、时间层、直接支持、未知项与复核状态登记。此为核心案例抽样，不是问题1—7所有论文断言的穷尽式逐句审计。
+工作簿当前含38条核心证据行、7地域横向比较、12项复核任务及字段说明。抽样覆盖纳哈撒、东部草原、帝国北方、西部港市、东北森林、诺德海岸—朱姆内河、乌卡利翁高地/巴旦尼亚林谷。证据行按模块/版本、原始文件/字符串键、实体ID、英文原文摘录、官方简中对照、证据类型、行动者/劳动、商品/接收方、时间层、直接支持、未知项与复核状态登记。此为核心案例抽样，不是问题1—7所有论文断言的穷尽式逐句审计。
 
 本轮对SandBox v1.4.8、SandBoxCore v1.4.8、NavalDLC v1.2.8归档中的关键英文字符串进行原文读取，并与项目百科导出及归档官方简中表对读。确认三个高优先译义风险：Stathymos的“wash fertile soil down”不能译义为人工灌溉；Orthra的“steppe stock”指育种牲畜/马种而非“牧草”；Galend的“takes in the catch ... as well as the wool”明确表示城市接收渔获和羊毛。另确认Chornobas的NavalDLC英文文本新增向奥莫尔港市供粮，但项目简中导出仍保留基础版描述。以上问题已登记为复核任务，不修改原始官方文件。
 
