@@ -137,18 +137,19 @@
 - [诺德史独立研究线总目录](history/country/NOR/README.md) · 研究稿、版本顺序与当前方向。
 - [CHC-NOR-GEN｜诺德史研究矩阵与下一阶段路线图（v0.1）](history/country/NOR/CHC-NOR-GEN-research-matrix-and-route-v0.1.md) · 先建立时空—关系图谱，再选择论文问题。
 - [CHC-NOR-GEN｜诺德史历史关系卡：区域、迁徙、权力与跨境网络（第一批 v0.1）](history/country/NOR/CHC-NOR-GEN-historical-relations-cards-v0.1.md) · 首批21张关系卡，涵盖北方区域差异、国家形成、普通社会及跨国网络。
-- [CHC-NOR-GEN｜第一批关系卡：源键审计与语义修订（v0.3）](history/country/NOR/CHC-NOR-GEN-historical-relations-cards-v0.3.md) · [Google Docs 原件](https://docs.google.com/document/d/1nZXDxj_4KweqULAJo69ogwDdx9tAu0eh3NPM972pEtw/edit)
+- [CHC-NOR-SET｜朱姆内河谷边疆社会的形成：土地使用、族称、迁徙与强制性人口变化（v0.1）](history/country/NOR/CHC-NOR-SET-jumne-frontier-migration-land-identity-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1BvzDTn6rOtyHUyRznek-waAV8GzXx_PxaJtH39-z3jY/edit)
+- [CHC-NOR-GEN｜历史关系卡：源键审计与语义修订（v0.4，24张）](history/country/NOR/CHC-NOR-GEN-historical-relations-cards-v0.4.md) · [Google Docs 原件](https://docs.google.com/document/d/1NH0m55Cqmla6HpP8jG9BTiHzpwXk9oinw9uJc0brNyg/edit)
 - [CHC-NOR-GEN｜第一批关系卡与时空骨架源键审计（v0.1）](history/country/NOR/CHC-NOR-GEN-source-key-audit-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1Nl2xt4Fp39uK_sY7nNn721rYoUYdzQw1SbF0aUN0BXQ/edit)
 - [CHC-NOR-GEN｜时间—空间骨架源级校订版（v0.2）](history/country/NOR/CHC-NOR-GEN-time-space-skeleton-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/10cGlZJOE4VwFGjAQpBy5mgg2ksYpSOVyWaLX222wb9U/edit)
 - [CHC-NOR-GEN｜跨国史料核验第一批（v0.1）](history/country/NOR/CHC-NOR-GEN-cross-line-verification-batch-01-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1QrgaFH7ZpsmSjJp7dcwmCdInHpiGGmvFH8PQH3ux9Cc/edit)
 - [CHC-NOR-GEN｜迪纳尔“近期诺德扩张”来源归属检验（v0.2）](history/country/NOR/CHC-NOR-GEN-dinar-nord-expansion-linkage-test-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/1sa8yM89qhRQinoZ7naMc6ed_-lx36PenShM3rMLLxfk/edit)
-- [CHC-NOR-GEN｜诺德史跨国关系首轮对照登记册（v0.5）](history/country/NOR/CHC-NOR-GEN-cross-line-relations-register-v0.5.md) · [Google Docs 原件](https://docs.google.com/document/d/1SibPPjKx2J3KbbdVEwrYW1d7flPz7_GvBF34vWJfyCA/edit)
+- [CHC-NOR-GEN｜诺德史跨国关系首轮对照登记册（v0.6）](history/country/NOR/CHC-NOR-GEN-cross-line-relations-register-v0.6.md) · [Google Docs 原件](https://docs.google.com/document/d/1pALRgAmxY7krPfp7Eb5EE6NPf4VrzVvUvRLqgRNXWYc/edit)
 - [CHC-NOR-GEN｜社会群体覆盖与证据单位审计（v0.1）](history/country/NOR/CHC-NOR-GEN-social-coverage-audit-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1H7hibK338Ibk8WPLu2fJc6Wp2nmIkIFQyOvx0fyYERA/edit)
 - [CHC-NOR-GEN｜诺德国家形成的相对年代与因果机制检验（v0.1）](history/country/NOR/CHC-NOR-GEN-relative-chronology-causal-test-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1Wfep743y5aYvUgHbN9xVAwU3WRd5HhHDToN3-NKOj6Q/edit)
 - [CHC-NOR-GEN｜哈尔达尔时期王权的持续性与实际控制范围（v0.1）](history/country/NOR/CHC-NOR-GEN-halthdar-kingship-continuity-control-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1T8qFxZZu621hxrndEmIIimrqR0k5EGnJALqzP6zNOgM/edit)
 - [CHC-NOR-GEN｜八条遗漏定居点地志补充分析（v0.1）](history/country/NOR/CHC-NOR-GEN-uncovered-settlement-gazetteer-analysis-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1zjOF_xww0rjzef0dUct3vRaeFtyuuqvQabL0O7Ukx08/edit)
 - [CHC-NOR-GEN｜氏族与诺德定居点地志覆盖审计（v0.2）](history/country/NOR/CHC-NOR-GEN-clan-settlement-description-coverage-audit-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/1UkObYQgbsj479hfg-jfMXEfg_eUf3DfNrPQ7ii7S95k/edit)
-- [CHC-NOR-GEN｜下一阶段执行计划与验收门槛（v1.2）](history/country/NOR/CHC-NOR-GEN-execution-plan-v1.2.md) · [Google Docs 原件](https://docs.google.com/document/d/1XxEXoudSeUOjCZEB2pmjXU0YLOrbptS04wvfDjJmiFk/edit)
+- [CHC-NOR-GEN｜下一阶段执行计划与验收门槛（v1.3）](history/country/NOR/CHC-NOR-GEN-execution-plan-v1.3.md) · [Google Docs 原件](https://docs.google.com/document/d/1NydJTAqawJgaOtoa6xvmIc3dpTlgKXn6xmA113p25ZY/edit)
 - [CHC-NOR-POL｜从旧氏族集会到新王权：雅尔、土地与地方自治的制度转换（v0.4）](history/country/NOR/CHC-NOR-POL-assemblies-jarls-land-v0.4.md) · 政治制度专题，征服整合仅为其中一项待证假说。
 
 ## history/90
