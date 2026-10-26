@@ -120,6 +120,7 @@
 
 ## 五、来源定位
 
+- Google Docs 同步稿：<https://docs.google.com/document/d/1MfRelvEPnZR08CN5ftJEcna6QYZmXeDTz_188fVKlls/edit>
 - v1.4.8.119303 BuildInfo：<https://github.com/Sartiye/Bannerlord-Taleworlds-Assembly-Decompiled-Archive/blob/3b60fca5c4980a1c4e71957ffad2af05f6739d0d/TaleWorlds.Library/BuildInfo.cs>
 - v1.4.8.119303 主线任务反编译文件：<https://github.com/Sartiye/Bannerlord-Taleworlds-Assembly-Decompiled-Archive/blob/3b60fca5c4980a1c4e71957ffad2af05f6739d0d/StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs>
 - v1.4.5 比较文件：<https://github.com/BannerlordCode/bannerlord-1.4.5/blob/ccbc3d40f88905765a1484492d41b7000e7249fa/Bannerlord.Source/Modules.StoryMode/StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs>
