@@ -127,7 +127,7 @@ summary_rows = [
     {
         "group": "Damar_anchor", "n": len(anchor_ground),
         "min_ground_z": f"{min(anchor_ground):.3f}",
-        "median_ground_z": f"{anchor_ground_median:.3f}",
+        "median_ground_z": f"{anchor_ground_median:.4f}",
         "mean_ground_z": f"{anchor_ground_mean:.3f}",
         "max_ground_z": f"{anchor_ground_max:.3f}",
         "sites_above_damar_anchor_max": "n/a",
@@ -138,7 +138,7 @@ summary_rows = [
     {
         "group": "comparison_control", "n": len(control_ground),
         "min_ground_z": f"{min(control_ground):.3f}",
-        "median_ground_z": f"{statistics.median(control_ground):.3f}",
+        "median_ground_z": f"{statistics.median(control_ground):.4f}",
         "mean_ground_z": f"{statistics.mean(control_ground):.3f}",
         "max_ground_z": f"{max(control_ground):.3f}",
         "sites_above_damar_anchor_max": sum(z > anchor_ground_max for z in control_ground),
