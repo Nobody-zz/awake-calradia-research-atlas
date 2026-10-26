@@ -144,6 +144,7 @@
 - [CHC-VLA-GEN｜瓦兰迪亚王权、封臣与王朝争端研究](history/country/VLA/vlandian-monarchy-vassals-dynastic-disputes-2026-10-24.md)
 - [CHC-VLA-GEN｜瓦兰迪亚乡村地权、绿林兄弟会与沙拉斯叛乱：王国政治整合的社会成本](history/country/VLA/vlandian-peasant-tenure-brotherhood-charas-rebellion-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1A0DVKq8f9fULHQhtsnr9v6N3lE9dQy3L2ZMORGLcHKI/edit)
 - [CHC-VLA-GEN｜瓦兰迪亚王室谱系与政治地理：奥斯里克、加伦与帕拉汶德三组记忆的证据审计（v0.1，未授H号）](history/country/VLA/vlandia-royal-lineage-and-political-geography-audit-2026-10-26.md)
+- [CHC-VLA-SRC｜瓦兰迪亚有效人物—氏族关系字段审计：显式亲属链、孤立节点与开发注释边界（v0.1，未授H号）](history/country/VLA/vlandia-effective-hero-clan-relationship-field-audit-2026-10-26.md)
 
 ## history/country/STU
 
