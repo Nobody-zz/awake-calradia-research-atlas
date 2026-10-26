@@ -281,7 +281,7 @@ CHC-CAL-MIL《潘德拉克战役主线采访：十九名受访者与证词对读
 ### 当前活跃版本指针
 
 - 国别基线：`sturgia-initial-historical-survey-and-major-questions-v0.11.md`
-- 核心制度稿：`sturgian-war-oath-boyar-rights-and-gundaroving-dynasty-working-paper-v1.0.md`
+- 核心制度稿：`sturgian-war-oath-boyar-rights-and-gundaroving-dynasty-working-paper-v1.1.md`
 - 综合论证提纲：`sturgian-state-formation-integrated-argument-outline-v0.2.md`
 - 权力—资源—动员矩阵：`sturgian-power-resource-mobilization-evidence-matrix-v0.1.md`
 - 婚盟与战后政治整合提纲：`sturgian-dynastic-marriage-and-post-pendraic-politics-integrated-outline-v0.2.md`
