@@ -1,0 +1,5 @@
+segment_order,from_anchor,to_anchor,native_distance_scene_units,warsails_distance_scene_units,warsails_native_distance_ratio,nominal_map_extent_ratio_1040_848,ratio_after_nominal_extent_normalization,interpretation_note
+1,Zalm,Mabwaz,35.935,44.272,1.232,1.226,1.005,版本内描述性比较；非地理位移量
+2,Mabwaz,Nahlan,36.402,90.074,2.474,1.226,2.018,该段在《战帆》中显著拉长；不解释为世界内迁移
+3,Nahlan,Hamoshawat,19.467,15.502,0.796,1.226,0.649,版本内描述性比较；非地理位移量
+4,Hamoshawat,Mijayit,15.246,26.942,1.767,1.226,1.441,版本内描述性比较；非地理位移量
