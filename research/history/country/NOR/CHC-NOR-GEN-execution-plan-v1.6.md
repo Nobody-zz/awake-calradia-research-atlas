@@ -143,6 +143,8 @@
 
 ### 第5.1批｜哈尔达尔时期可重复王权能力检验（第一轮完成，空白保留）
 
+交付物：[哈尔达尔时期王权的持续性与实际控制范围 v0.3](CHC-NOR-GEN-halthdar-kingship-continuity-control-v0.3.md) · [Google Docs 原件](https://docs.google.com/document/d/1T8qFxZZu621hxrndEmIIimrqR0k5EGnJALqzP6zNOgM/edit)。
+
 已直接读取 Native、SandBox、SandBoxCore、StoryMode 与 NavalDLC 五个官方模块 ZIP。五个压缩包的 SHA-256 均与 research/source-archives/README.md 登记值一致。审计范围为归档的 67 个候选 XML，不宣称覆盖整个游戏资源目录。
 
 本轮直接结果：
@@ -155,6 +157,8 @@
 7. 王国概述的 “his sons rule” 与结构化王国字段只有一个 owner 之间存在差异；本轮外部开发日志另用单数 “his son rules” 并具名哈尔达尔，增强了单一具名国王的解释，但仍不能把现行 XML 复数断言为已证实的排版错误。王国概述提出 vassals may be directed toward conquest，是可能策略，不是已发生战役。
 
 ### 第5.2批｜官方非 XML 开发材料检索（第一轮完成，Dinar 事件仍未识别）
+
+交付物：[迪纳尔“近期诺德扩张”来源归属检验 v0.3](CHC-NOR-GEN-dinar-nord-expansion-linkage-test-v0.3.md) · [Google Docs 原件](https://docs.google.com/document/d/1sa8yM89qhRQinoZ7naMc6ed_-lx36PenShM3rMLLxfk/edit)；[哈尔达尔王权研究 v0.3](CHC-NOR-GEN-halthdar-kingship-continuity-control-v0.3.md)。
 
 本轮核对了三类可检索的 TaleWorlds 官方公开材料：
 1. 《Dev Blog & Trailer: Introducing the Nords》（2025-08-20，https://www.taleworlds.com/en/News/580）明确写 “Today, his son rules”，并称 Halthdar the Golden of clan Throsniring rules from Thronderlag。该文也提醒发行前细节可能改变，因此作为官方创作叙述的外部校核，而不是替代现行游戏 XML 的正文。
