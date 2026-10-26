@@ -76,9 +76,9 @@
 
 项目百科 encyclopedia-zh-cn.md 将基础版聚落中文名称的来源记为 Native 简中 std_common_strings_xml。但这份原始名称表**不在当前 67 文件 manifest，也不在本轮可用的 Native.zip、SandBox.zip、SandBoxCore.zip 或 NavalDLC.zip 中**。现有归档无法直接按原始名称 key 重新核验 53 座基础版城镇的中文主名。
 
-因此：
+因此（用于复核缺口追踪的 manifest 文件 SHA-256：3d3097b755aef682302e0d717ac74d3ba739e48a1dac486794de1af47f8da40b）：
 
-- 53 座基础版城镇的中文名保留为“项目百科当前名称参考”，不在本轮擅自更改，也不把它们误标为已从原始名称表逐键复核。
+- 53 座基础版城镇的中文名保留为“项目百科当前名称参考”，不在本轮擅自更改，也不把它们误标为已从原始名称表逐键复核。基础版 53 条城镇描述中有 27 条能在当前简中描述表中按 text key 直接匹配；DLC 对应的 53 条中有 25 条直接匹配。
 - NavalDLC 简中表对 town_N1—town_N4 的名称键有直接匹配：Hvalvik＝瓦尔维克、Gretysfjord＝格雷蒂斯湾、Thronderlag＝特龙德拉格、Hargard＝哈加德。
 - SandBox 的 std_settlements_xml 简中表有 3 个聚落名称键，但没有 53 座基础版城镇的名称键；DLC 简中表包含更多新增聚落名称键。
 - 53 座基础版城镇中，27 个描述 text key 可在当前 SandBox 英文和简中描述表中直接匹配，另外 26 个没有在所提供语言表中找到对应 key。项目百科中仍存在这些条目的中文描述，但其官方本地化来源需要补齐原始表后才能确认。
