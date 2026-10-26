@@ -1,4 +1,4 @@
-研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。国别并行试行启动包v0.1已准备（2026-10-24）：三条独立对话分别以CHC-EMP-GEN、CHC-VLA-GEN、CHC-STU-GEN开展首轮国别摸底；当前对话保留中央协调，公共I/Q索引由协调线统一维护，三个国别线分别拥有建议的独立研究文件区。启动包附三段可直接发给各自新对话的交接提示；这些新对话尚须用户自行创建和启动，并不自动后台研究。新立的国别及跨国研究在摸底、阶段稿、待审阶段统一按I-0004 v2.2 CHC分类＋题名＋文档链接归档；同一类别可收多篇，CHC不是独立文档号。国别研究允许分对话独立积累但共享I-0003事实／争议档案；H编号仅为满足内部完整论文标准后的成果序号，现有H-0001—H-0005保留，未预分配H-0006。当前工作方向不再按手头已完成的论文递推：以全大陆各历史共同体的形成、演变、互动与1084年前后多元格局为总问题，从研究对象、时期、领域和证据来源四方面先建立总体摸底，再用跨区域比较和明确反例决定正式论文的先后顺序。最新已核验的工作基底为《全大陆史料覆盖摸底与历史问题图谱》v0.1（非H/I/Q编号），包含67份清单对54份实得XML的覆盖差异、六大主要文化与九项王国历史概述的初步比较、原版493/有叙事327与DLC540/有叙事365聚落、271处英文异文的字面统计、55项历史研究问题及帝国中心／自主国家形成／边疆互动三个竞争解释。后续先核对国家之间的财富、军役、土地、贸易、婚姻、宗教与迁徙关系，标出相对年代与史料语气；不能因新的有趣事件立即开一篇论文，也不把分类法误作研究纲领。Q-0013现更新至v0.5，继续执行全大陆问题导向研究；I-0002现更新至v3.47、I-0003现更新至v3.17。潘德拉克独立战役工作稿更新为v0.3；采访源级索引更新为v0.2：v1.4.8.119303的第三方反编译档案已与v1.4.5逐项比较，92个带键TextObject的键集合与英文文本92/92一致。该A2文本并非TaleWorlds官方发布的源码，玩家转录仍属B级传抄材料，不与所抄官方对白计作独立互证。版本差分现已完成；未决问题是“年长的”奥列克在有效人物档案中战役阵亡，却在两段采访答话中被写成战斗后段仍在场并折旗的叙事时序冲突，以及玩家转录与对白上下文的逐字校勘。I-0003 v3.17既有条目仍作为历史登记，不在本次修改公共I/Q。英文原始版本、官方简中及开发博客保持史料层次区别，地图版本差异不等于历史地形变化；Q5-09仍开放，H-0006未分配，已签发正典不变。当前登记日期：2026-10-24。
+研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。国别并行试行启动包v0.1已准备（2026-10-24）：三条独立对话分别以CHC-EMP-GEN、CHC-VLA-GEN、CHC-STU-GEN开展首轮国别摸底；当前对话保留中央协调，公共I/Q索引由协调线统一维护，三个国别线分别拥有建议的独立研究文件区。启动包附三段可直接发给各自新对话的交接提示；这些新对话尚须用户自行创建和启动，并不自动后台研究。新立的国别及跨国研究在摸底、阶段稿、待审阶段统一按I-0004 v2.2 CHC分类＋题名＋文档链接归档；同一类别可收多篇，CHC不是独立文档号。国别研究允许分对话独立积累但共享I-0003事实／争议档案；H编号仅为满足内部完整论文标准后的成果序号，现有H-0001—H-0005保留，未预分配H-0006。当前工作方向不再按手头已完成的论文递推：以全大陆各历史共同体的形成、演变、互动与1084年前后多元格局为总问题，从研究对象、时期、领域和证据来源四方面先建立总体摸底，再用跨区域比较和明确反例决定正式论文的先后顺序。最新已核验的工作基底为《全大陆史料覆盖摸底与历史问题图谱》v0.1（非H/I/Q编号），包含67份清单对54份实得XML的覆盖差异、六大主要文化与九项王国历史概述的初步比较、原版493/有叙事327与DLC540/有叙事365聚落、271处英文异文的字面统计、55项历史研究问题及帝国中心／自主国家形成／边疆互动三个竞争解释。后续先核对国家之间的财富、军役、土地、贸易、婚姻、宗教与迁徙关系，标出相对年代与史料语气；不能因新的有趣事件立即开一篇论文，也不把分类法误作研究纲领。Q-0013现更新至v0.5，继续执行全大陆问题导向研究；I-0002现更新至v3.48、I-0003现更新至v3.18。潘德拉克独立战役工作稿更新为v0.3；采访源级索引更新为v0.2：v1.4.8.119303的第三方反编译档案已与v1.4.5逐项比较，92个带键TextObject的键集合与英文文本92/92一致。该A2文本并非TaleWorlds官方发布的源码，玩家转录仍属B级传抄材料，不与所抄官方对白计作独立互证。版本差分现已完成；未决问题是“年长的”奥列克在有效人物档案中战役阵亡，却在两段采访答话中被写成战斗后段仍在场并折旗的叙事时序冲突，以及玩家转录与对白上下文的逐字校勘。I-0003 v3.18已新增S-0082并修正D-0087、D-0091、D-0092与P-0106；v1.4.8.119303与v1.4.5采访文本92/92一致，Gotug仅为玩家转录异文，“年长的”奥列克时序张力仍开放。英文原始版本、官方简中及开发博客保持史料层次区别，地图版本差异不等于历史地形变化；Q5-09仍开放，H-0006未分配，已签发正典不变。当前登记日期：2026-10-26。
 
 ## source-archives
 
@@ -51,8 +51,8 @@
 - [国别并行研究启动包 v0.1｜帝国、瓦兰迪亚、斯特吉亚三条可直接启动的对话说明](history/00/country-parallel-launch-kit.md) · [Google Docs启动包](https://docs.google.com/document/d/1avh-1AYKbDLkIucFSymJXPYwAt4NDqmnlYuVoIjf2c0/edit)
 - [CHC-CAL-SRC｜全大陆史料覆盖摸底与历史问题图谱（工作调查v0.1；55个历史问题，未授H）](history/00/continental-historical-baseline-question-atlas-2026-10-23.md) · [Google Docs原件](https://docs.google.com/document/d/1ezcXq-rZCPNRNjvhP1VuoLqhCoZHxyJgxzEtyCMCsrM/edit)
 - [I-0001｜研究总纲、史学方法与交叉校验规范（v1.4）](history/00/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk.md) · [云盘原件](https://docs.google.com/document/d/1yM0n79OTxSmsORdGAgDw2QfHPgHLa03DqrmtUwfQLwk/edit)
-- [I-0002｜论文目录与研究进度总索引（v3.47）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
-- [I-0003｜史料—事件—命题—争议总登记簿（v3.17）](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
+- [I-0002｜论文目录与研究进度总索引（v3.48）](history/00/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4.md) · [云盘原件](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT2KRKD3h8kBrMHRDCoZTHlOAq5r8Vb4/edit)
+- [I-0003｜史料—事件—命题—争议总登记簿（v3.18）](history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md) · [云盘原件](https://docs.google.com/document/d/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI/edit)
 - [I-0004｜卡拉迪亚历史研究学术分类法（CHC v2.2；未授H研究先行归类）](history/00/I-0004-academic-classification.md) · [云盘原件](https://docs.google.com/document/d/1YMBmGNOfjOfWMiK3lWXJhMa_RWUP3W9_AODTaUOSiN0/edit)
 ## history/01
 
@@ -180,6 +180,18 @@
 - [CHC-STU-GEN／POL｜跨线证据交接单（v0.5）](history/country/STU/sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.5.md) · 潘德拉克、库赛特与诺德研究线的源级交接。
 - [CHC-STU-XLINE｜帝国地方权威论文跨国反例审查（v0.1）](history/country/STU/imperial-local-order-paper-cross-country-counterexample-review-v0.1.md) · 用于概念边界压力测试，不作为独立史料互证。
 - [CHC-STU-SRC｜斯特吉亚官方简中地名校核表（v0.1）](history/country/STU/sturgia-official-zh-cn-settlement-name-crosswalk-v0.1.md) · 保留已核定地名及待核项目。
+
+## history/country/KHU
+
+- [CHC-KHU-GEN｜库赛特历史第一轮问题摸底与优先选题图谱 v0.1](history/country/KHU/khuzait-first-round-question-atlas-v0.1.md) · 首轮问题图谱、证据状态、国别史与人文地理边界、潘德拉克／斯特吉亚源级交接及三个候选专题；优先研究税役、保护与马匹交换，不分配 H 编号。
+  - [Google Docs 原件](https://docs.google.com/document/d/1LCXZVOVSnYomKlEkUn0iEG4VVq3PT6xAEq2-JRcy8m0/edit)
+- [CHC-KHU-GEN｜库赛特历史研究摸底、国家形成问题与史料缺口 v0.6](history/country/KHU/khuzait-historical-baseline-state-formation-source-gaps-v0.1.md) · 追加记录同版本采访核验及首轮研究分流。
+  - [Google Docs 原件](https://docs.google.com/document/d/155Ffz3tilVMsnw0-R9jgrYkO2G1Tanhwzc_3TWznpOI/edit)
+- [CHC-KHU-POL｜领地、誓约与汗权 v0.7](history/country/KHU/khuzait-khanate-land-oath-and-clan-power-working-v0.1.md) · 既有专题工作稿，聚焦兀儿浑征服、授地、可汗命令和条件效忠。
+  - [Google Docs 原件](https://docs.google.com/document/d/1DrcLFhH65KeOF8oL-Q59ChN25dR1WV91-dl4vMz_l5M/edit)
+- [CHC-KHU-POL｜兀儿浑如何取得对旧强宗的支配权 v0.1](history/country/KHU/khuzait-urkhun-authority-older-clans-p1-v0.1.md) · 旧强宗、母狼起源与汗室合法性竞争的专题札记。
+  - [Google Docs 原件](https://docs.google.com/document/d/1YXnG_ly3ylCb-rmOxDjybkPqXsuIx9MJc4SId3sFdAI/edit)
+- [CHC-STU-GEN／POL｜跨线证据交接单 v0.5](history/country/STU/sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.5.md) · 已同步库赛特 Gotug／Solun 转录状态与采访版本核验结果。
 
 ## history/country/NOR
 
