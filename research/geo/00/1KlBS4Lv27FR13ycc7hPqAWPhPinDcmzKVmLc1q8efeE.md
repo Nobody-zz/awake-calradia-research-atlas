@@ -458,8 +458,13 @@ CGEO-S-HUM-001已修订为v0.2。正文按历史问题与社会空间机制重�
 
 ### 2026-10-26｜覆盖图谱刷新与下一阶段优先级
 
-城市体系总论CGEO-S-HUM-001已修订为v0.2；七篇区域专题中，问题3（帝国北方）、问题4（西部港市）、问题5（东北森林）和问题6（北方海产—河港—内陆粮畜）已修订为v0.2。问题1（纳哈撒）、问题2（东部草原）与问题7（乌卡利翁高地/巴旦尼亚林谷）仍为v0.1初稿。
+城市体系总论CGEO-S-HUM-001及区域问题3—7已修订为v0.2。问题1（纳哈撒）与问题2（东部草原）仍为v0.1初稿。
 
-覆盖图谱已更新：[全大陆覆盖摸底与优先问题图谱](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/continental-human-geography-first-round-audit-2026-10-24.md)。问题7并非缺少论文：已有初稿，且有多条明确的村庄—堡镇、泥土—陶工和林木—城镇联系；其主要短板是原始英文/简中同键及NavalDLC差异尚未完成全量逐键复核。故下一步应先完成问题7源级审计并改写为v0.2。帝国中东部/东南生产区目前只有分散个案，先做生产地—商品—接收方摸底，不预先授予正式问题8编号。
+覆盖图谱已更新：[全大陆覆盖摸底与优先问题图谱](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/continental-human-geography-first-round-audit-2026-10-24.md)。问题7现已完成原始ZIP核心条目的逐键审计并修订为v0.2；主要未决问题转为毛皮买方、护林/防御劳动的制度关系、土地权利与收益分配缺乏直接证据。帝国中东部/东南生产区目前只有分散个案，先做生产地—商品—接收方摸底，不预先授予正式问题8编号。
 
-当前工作簿状态为46条核心证据、44条唯一断言（C-01—C-44）和41条版本差异审计（V-01—V-41）；v0.2论证重写未新增证据ID。
+当前工作簿状态为46条核心证据、44条唯一断言（C-01—C-44）和55条版本差异审计（V-01—V-55）；问题7本轮新增版本差异记录V-42—V-55，未新增核心证据ID。
+
+
+### 2026-10-26｜乌卡利翁高地专题源级审计与v0.2
+
+《乌卡利翁高地的林谷村庄、资源劳动与城镇—堡镇供给网络》已修订为v0.2。核心村庄原始英文fallback、SandBox/NavalDLC英文与简中同键已逐项核对；版本差异与中文导出来源迁至[独立研究日志](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/uchalion-highland-villages-resource-labour-and-town-supply-research-log-2026-10-26.md)。本轮新增版本差异审计V-42—V-55，核心证据与唯一断言编号未变。下一步修订问题1（纳哈撒）与问题2（东部草原）；帝国中东部/东南生产区继续摸底，不预先设立问题8。
