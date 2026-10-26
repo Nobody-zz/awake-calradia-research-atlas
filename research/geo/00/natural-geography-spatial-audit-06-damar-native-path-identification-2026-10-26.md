@@ -52,10 +52,30 @@
 
 ### 尚待完成
 
-- 本轮尚未重新解码 `terrain.bin` 的原始 PHYM index 7，因此未声称已完成路径与 PHYM7 原始栅格的逐像素／逐格配准。
+- 本轮已从原版 `terrain.bin` 直接解码 PHYM 夏季记录，并按原始图块索引与 X-major 样本布局重建 4097×4097 栅格；Native `scene.xscene` 的 `terrain/layers/layer` 中第 7 号索引标签为 `river`。
 - 近邻关系可支持将 `nile` 识别为达玛尔河的场景路径实现，但不能单独确定流向、流量、季节性洪泛范围或地下水连通性。
-- 下一步从 Native `terrain.bin` 提取 PHYM 四季记录中的 index 7，与 `nile` 折线及五个锚点进行原始栅格配准；随后在 War Sails 版本独立重复相同流程，不假设路径名称、坐标或拓扑保持不变。
+- 下一步在 War Sails 版本独立解码 PHYM 夏季 `river` 层，并检查其 `scene.xscene` 路径容器为空、河流表示是否转由 `river_triangles.bin` 等资源承担；不假设路径名称、坐标或拓扑保持不变。
 
-## 六、复算
+## 六、原始 PHYM `river` 层的直接配准
 
-本仓库附有 [点—线距离复算脚本](natural-geography-spatial-audit-06-damar-native-path-identification-2026-10-26.py)。脚本读取 Native `scene.xscene` 与官方锚点坐标，逐条解析全部 20 条路径，输出每个锚点的最近路径、距离与线段序号。它不读取 `terrain.bin`，因此不替代下一阶段的 PHYM 栅格核验。
+Native `terrain.bin` 的 PHYM section 已按 `ZGR6RTRN` 目录、1024 字节图块偏移表、40 字节 Blob 头及 LZ4 raw block 直接解码。原始文件 SHA-256 为 `3b583d9ff5504a6c871caa466a14654593bee42c27df3e3316eda6cb4d85ab49`；解压数据为 67,642,368 字节，包含 256 个 264,228 字节图块。夏季记录的每个图块均为 season=0、count=66,049。
+
+重建栅格时使用 16×16 的 Y-major 图块目录，每个图块内部的 257×257 样本按 X-major 存储并转置为行对应 +Y、列对应 +X；拼接时保留共享边缘样本，得到 4097×4097 栅格。该布局与原始 `nile` 路径及五个聚落锚点的空间关系相符。
+
+Native `scene.xscene` 的 terrain layer 顺序中，索引 7 的名称为 `river`。PHYM 夏季该值共有 305,535 个栅格样本，占全栅格约 1.8202%。五个锚点到原始 PHYM `river` 层最近栅格的距离为：
+
+| 锚点 | 到 PHYM `river` 层的距离（场景单位） |
+|---|---:|
+| Zalm | 3.312 |
+| Mabwaz | 3.538 |
+| Nahlan | 2.230 |
+| Hamoshawat | 1.964 |
+| Mijayit | 3.998 |
+
+沿 `nile` 折线每 0.1 场景单位采样，共 3,688 个样本。91.19% 的样本落在 PHYM `river` 栅格本身；98.54% 距该栅格不超过 1 个场景单位；99.97% 不超过 2 个场景单位；全部样本均在 5 个场景单位以内，最大距离 2.070。这里的零距离指路径采样点映射到的最近栅格单元本身就是 `river` 值，不代表连续几何的无限精度重合。
+
+PHYM 配准说明 `nile` 路径与原始地形层中的 `river` 类别相符；但 `river` 层也覆盖其他河流路径，不能单独识别具体河流。具体识别仍由 `nile` 与达玛尔河五个官方聚落锚点的近邻、顺序及相对其他路径的距离差共同支持。
+
+## 七、复算
+
+本仓库附有 [路径与原始 PHYM `river` 层复算脚本](natural-geography-spatial-audit-06-damar-native-path-identification-2026-10-26.py)。脚本读取 Native `scene.xscene` 与官方锚点坐标，逐条解析全部 20 条路径，输出每个锚点的最近路径、距离与线段序号。它不读取 `terrain.bin`，因此不替代下一阶段的 PHYM 栅格核验。
