@@ -1,0 +1,6 @@
+anchor,settlement_id,x_scene,y_scene,nile_distance_scene_units,nile_nearest_segment_index,phym_summer_river_distance_scene_units,nearest_other_river_path,nearest_other_river_distance_scene_units
+Zalm,village_A7_4,390.254,97.643,6.993953,12,3.312,river_emp_south,205.861805
+Mabwaz,village_A7_3,413.587,124.973,5.555542,7,3.538,river_emp_south,169.929613
+Nahlan,village_A6_4,404.877,160.318,3.077529,5,2.230,river_emp_south,151.125617
+Hamoshawat,village_A6_2,394.921,177.046,3.878839,3,1.964,river_emp_south,149.513334
+Mijayit,village_A6_1,410.054,178.898,5.702955,1,3.998,river_emp_south,135.826986
