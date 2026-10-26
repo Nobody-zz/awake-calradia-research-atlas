@@ -5,7 +5,7 @@
 - 日期：2026-10-24
 - Google Drive 原件：[自然地理研究线｜交接与第一阶段工作计划](https://docs.google.com/document/d/17YLRDnYY4o0SI0Om_oJ_MZQMTJu_Qvd3nTUOHk7tGVw/edit)
 - 当前问题矩阵：[v0.9](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-question-map-evidence-matrix-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit)
-- 最新空间核验：[备忘录05 v0.1｜达玛尔河候选路径范围排除与原始资源恢复状态](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-05-damar-path-candidate-2026-10-25.md) · [Google Docs](https://docs.google.com/document/d/1B413zXgcVLG9CBKYUkLoNkgnAc8eV_tD1F9ej7tER1I/edit) · [范围叠加图](https://drive.google.com/file/d/14YrS9350TUqDq71ZVqXhx0gSrLY3T3xI/view)；备忘录04继续保留图像级PHYM7近邻数据。
+- 最新空间核验：[备忘录06 v0.1｜Native原始场景路径识别：`nile` 与达玛尔河五个稳定锚点高度吻合](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-06-damar-native-path-identification-2026-10-26.md) · [Google Docs](https://docs.google.com/document/d/1GpMJkQxRe9tnEJWvFLkREYSU4Zs5ij-on-7gEguz3L4/edit)；备忘录05保留为前序范围排除记录，备忘录04保留图像级PHYM7近邻结果。
 - 原始地图资源复核：[RES-018 v1.1](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/90/EVD/CGEO-MAP-RES-018.md) · [Google Docs](https://docs.google.com/document/d/1DAC0wDXLP0tantGCQo522EUF3v1AQXS-yztADc43miU/edit) · [RES-012 派生 ZIP](https://drive.google.com/file/d/1GMG8gXe70m376txGvIcZH0lQrSz5552G/view)
 - 跨专题一致性审查：[CGEO-NAT-AUD-001 v0.1](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-cross-paper-consistency-audit-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1c9zvE0ZkzxkzSPj29s5wh8xY6RMYh998RJRI1mlyezQ/edit)
 - 首篇专题论文：[纳哈撒水文地貌分异与聚落用水适应 v0.2](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-nahasa-local-hydrology-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1CrH8FMibF0hwEEwiWebFUCKvmjSYZX8JoFEONnpmV-I/edit)
@@ -90,3 +90,10 @@
 RES-001此前记录原版scene.xscene共有20条路径，其中15条为河流样式、5条为海域／湖泊边界样式；已绘制的十条 river_* 路径不覆盖达玛尔河锚点区，因此下一步应检查未绘制的其他河流样式路径。当前没有原版scene.xscene和terrain.bin原始字节可供重解码；本轮已检查当前挂载目录、项目文件搜索、Drive原始资料文件夹和可访问Library，未找到可直接物化的原件。此前的文件大小与SHA-256仍是前序实读记录，不冒称本轮重新校验。见[备忘录05](natural-geography-spatial-audit-05-damar-path-candidate-2026-10-25.md)。
 
 下一步最小输入为原版scene.xscene（19,877,756字节，前序SHA-256 919796b65e497260a8eebab5442ac79af6992957de9e8a17fbb2aaf6fd1b5019）与terrain.bin（27,646,798字节，前序SHA-256 3b583d9ff5504a6c871caa466a14654593bee42c27df3e3316eda6cb4d85ab49）。恢复后先校验指纹，再逐条解析20条路径与原始PHYM7；不按路径名预先排除候选，也不把tigris／volga等内部ID按名称联想等同于达玛尔河。
+
+
+## 2026-10-26 第十轮：原版 Main_map 路径直接识别
+
+重新取回并校验 Native 原版 scene.xscene（19,877,756 bytes；SHA-256 919796b65e497260a8eebab5442ac79af6992957de9e8a17fbb2aaf6fd1b5019），直接解析20条路径、686个控制点。路径名为nile的31控制点线性路径，与五个稳定达玛尔河锚点的最短距离分别为：Zalm 6.994、Mabwaz 5.556、Nahlan 3.078、Hamoshawat 3.879、Mijayit 5.703场景单位。最近线段序号随地点空间序列连续排列；对每个锚点，次近河流路径均为river_emp_south，距离135.827—205.862，远大于nile。
+
+据此，Native版本中nile是达玛尔河走廊的强识别对象。判断依据是原始路径几何、锚点坐标、路径序列与其他路径的距离差，而不是内部名称的字面含义。当前尚未重新解码terrain.bin的PHYM index 7；下一步将原始路径与PHYM栅格直接配准，再对War Sails资源独立复核。
