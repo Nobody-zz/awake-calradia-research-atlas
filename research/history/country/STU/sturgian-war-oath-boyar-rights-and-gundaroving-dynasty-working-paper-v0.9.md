@@ -510,7 +510,7 @@ NavalDLC／ModuleData／settlements.xml 的同一键 Xom9DeXZ 将巴尔加德的
 
 本轮已将本稿的主张与两份综合工具对接：
 
-- `sturgian-state-formation-integrated-argument-outline-v0.1.md`：整合地方社会、区域资源、战争联盟、职位世袭化和地方权力边界的主论证；其中相对年代是分析顺序，不是已闭合年表。
+- `sturgian-state-formation-integrated-argument-outline-v0.2.md`：整合地方社会、区域资源、战争联盟、职位世袭化和地方权力边界的主论证；其中相对年代是分析顺序，不是已闭合年表。
 - `sturgian-power-resource-mobilization-evidence-matrix-v0.1.md`：按主体、资源、义务、实际服从与证据缺口核对各专题结论；特别保留地方税役向大公财政传递的证据缺环。
 - `sturgian-dynastic-marriage-and-post-pendraic-politics-integrated-outline-v0.1.md`：区分王朝祖源、地方外交婚盟、母系亲族、职业武力与瓦尔拉事件的不同证据机制。
 
