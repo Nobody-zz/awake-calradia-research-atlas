@@ -139,13 +139,13 @@
 
 ## history/country/VLA
 
-- [CHC-VLA-GEN｜德泰尔召集封臣与瓦兰迪亚—帝国战争：潘德拉克联系的证据审计（v0.2，未授H号）](history/country/VLA/vlandia-derthert-muster-empire-war-pendraic-source-audit-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/18pUZzpSy8i0KhgsImobfZV5FsXjX4OXSn6eu6vlcnoc/edit)
+- [CHC-VLA-GEN｜德泰尔召集封臣与瓦兰迪亚—帝国战争：潘德拉克联系的证据审计（v0.3，未授H号；2020／2026转录差异已与v1.4.8.119303反编译文本对照）](history/country/VLA/vlandia-derthert-muster-empire-war-pendraic-source-audit-2026-10-24.md) · [Google Docs v0.3](https://docs.google.com/document/d/18pUZzpSy8i0KhgsImobfZV5FsXjX4OXSn6eu6vlcnoc/edit)
 - [CHC-VLA-GEN｜瓦兰迪亚相对年代链与人物关系网：从海外雇佣者到德泰尔王权](history/country/VLA/vlandia-relative-chronology-and-person-network-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1VTsU7AwZKcusLlaw-bTITz_LBzlN0VqXrVGqRwEFNuE/edit)
 - [CHC-VLA-GEN｜瓦兰迪亚王权、封臣与王朝争端研究](history/country/VLA/vlandian-monarchy-vassals-dynastic-disputes-2026-10-24.md)
 - [CHC-VLA-GEN｜瓦兰迪亚乡村地权、绿林兄弟会与沙拉斯叛乱：王国政治整合的社会成本](history/country/VLA/vlandian-peasant-tenure-brotherhood-charas-rebellion-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1A0DVKq8f9fULHQhtsnr9v6N3lE9dQy3L2ZMORGLcHKI/edit)
-- [CHC-VLA-GEN｜瓦兰迪亚王室谱系与政治地理：奥斯里克、加伦与帕拉汶德三组记忆的证据审计（v0.1，未授H号）](history/country/VLA/vlandia-royal-lineage-and-political-geography-audit-2026-10-26.md)
-- [CHC-VLA-SRC｜瓦兰迪亚有效人物—氏族关系字段审计：显式亲属链、孤立节点与开发注释边界（v0.1，未授H号）](history/country/VLA/vlandia-effective-hero-clan-relationship-field-audit-2026-10-26.md)
-- [CHC-VLA-SRC｜瓦兰迪亚起源叙事的生效文本与旧稿分层：奥斯里克、乌索尔与“海上公爵”（v0.1，未授H号）](history/country/VLA/vlandia-active-and-commented-founding-narratives-audit-2026-10-26.md)
+- [CHC-VLA-GEN｜瓦兰迪亚王室谱系与政治地理：奥斯里克、加伦与帕拉汶德三组记忆的证据审计（v0.2，未授H号）](history/country/VLA/vlandia-royal-lineage-and-political-geography-audit-2026-10-26.md)
+- [CHC-VLA-SRC｜瓦兰迪亚有效人物—氏族关系字段审计：显式亲属链、孤立节点与开发注释边界（v0.2，未授H号）](history/country/VLA/vlandia-effective-hero-clan-relationship-field-audit-2026-10-26.md)
+- [CHC-VLA-SRC｜瓦兰迪亚起源叙事的生效文本与旧稿分层：奥斯里克、乌索尔与“海上公爵”（v0.2，未授H号）](history/country/VLA/vlandia-active-and-commented-founding-narratives-audit-2026-10-26.md)
 
 ## history/country/STU
 
