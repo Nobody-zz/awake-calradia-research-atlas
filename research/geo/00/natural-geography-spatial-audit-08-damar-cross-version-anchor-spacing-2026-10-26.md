@@ -6,7 +6,7 @@
 - Google Docs 原件：[打开](https://docs.google.com/document/d/1YWjvam_muUlfAM8J_K3zgqoAnHKu-2MJ_cgfH3n3TmU/edit)
 - GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-08-damar-cross-version-anchor-spacing-2026-10-26.md)
 - 复算脚本：[Python](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-08-damar-cross-version-check-2026-10-26.py)
-- 派生表：[锚点间距](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-08-damar-cross-version-segment-results-2026-10-26.csv) · [高程可识别性](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-08-damar-elevation-results-2026-10-26.csv)
+- 派生表：[锚点间距](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-08-damar-cross-version-segment-results-2026-10-26.csv) · [全地点高程表](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-08-damar-elevation-results-2026-10-26.csv) · [分组描述统计](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-08-damar-settlement-elevation-group-summary-2026-10-26.csv)
 
 ## 一、研究问题
 
@@ -55,6 +55,17 @@
 两组 Z 值都不构成按上述锚点顺序单调下降的序列：聚落 Z 在 Mabwaz 与 Hamoshawat 处回升；最近导航面 Z 也在 Mabwaz 与 Hamoshawat 处回升。导航面 Z 与其最近点 HGHT Z 的差为 0.144—0.520 个场景单位，但这只说明该类导航面在这些采样位置相对于地形栅格的高度关系，不能把它解释为真实水深、自由水面高度或河床坡度。
 
 因此，当前高程资料不能确认河流的连续纵坡、局部流向、全年常流性或河床剖面。该结果不是对达玛尔河主干模型的反证；它界定的是现有采样方式无法回答的问题。
+
+### 4.1 聚落点位高程的描述性对照
+
+在同一 War Sails HGHT 采样中，五个达玛尔河锚点的聚落 Z 值为 4.280—5.821，均值 5.270、中位数 5.491；四个对照地点 Qidnar、Bait Hatif、Abba、Asmait 的聚落 Z 值为 4.734—8.548，均值 6.949、中位数 7.256。四个对照点中有三个高于五个达玛尔河锚点的最高值 5.821；Abba 的 Z 值为 4.734，低于锚点组均值。
+
+| 点位组 | n | 最低 Z | 中位数 | 均值 | 最高 Z | 高于达玛尔锚点组最高值的点数 |
+|---|---:|---:|---:|---:|---:|---:|
+| 达玛尔河锚点 | 5 | 4.280 | 5.491 | 5.270 | 5.821 | — |
+| 局地机制对照点 | 4 | 4.734 | 7.256 | 6.949 | 8.548 | 3/4 |
+
+这一描述性差异与 Qidnar（陆侧岩丘）、Bait Hatif（旱谷与高地春草）及 Asmait（山地凹处）的英文地志定位相容；Abba 是重要例外，说明局地地下蓄水绿洲不能简单归为高海拔点位。样本是按研究问题选择的非随机地点，且 Z 是聚落点位而非邻域坡度、河床或洪泛地平均高程，因此不能据此划定河漫滩、分水岭或汇水边界。四个对照点到最近 River(11) 面的距离为 26.315—90.119 场景单位，该“最近面”不应视为它们的局地水源。
 
 ## 五、River(11) 两个组件：走廊邻近成立，拓扑连续性未证
 
