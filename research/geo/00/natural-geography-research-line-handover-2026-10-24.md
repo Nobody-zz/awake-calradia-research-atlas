@@ -96,4 +96,20 @@ RES-001此前记录原版scene.xscene共有20条路径，其中15条为河流样
 
 重新取回并校验 Native 原版 scene.xscene（19,877,756 bytes；SHA-256 919796b65e497260a8eebab5442ac79af6992957de9e8a17fbb2aaf6fd1b5019），直接解析20条路径、686个控制点。路径名为nile的31控制点线性路径，与五个稳定达玛尔河锚点的最短距离分别为：Zalm 6.994、Mabwaz 5.556、Nahlan 3.078、Hamoshawat 3.879、Mijayit 5.703场景单位。最近线段序号随地点空间序列连续排列；对每个锚点，次近河流路径均为river_emp_south，距离135.827—205.862，远大于nile。
 
-据此，Native版本中nile是达玛尔河走廊的强识别对象。判断依据是原始路径几何、锚点坐标、路径序列与其他路径的距离差，而不是内部名称的字面含义。当前尚未重新解码terrain.bin的PHYM index 7；下一步将原始路径与PHYM栅格直接配准，再对War Sails资源独立复核。
+据此，Native版本中nile是达玛尔河走廊的强识别对象。判断依据是原始路径几何、锚点坐标、路径序列与其他路径的距离差，而不是内部名称的字面含义。Native原始terrain.bin的PHYM夏季index 7已直接解码并与nile路径配准；War Sails版本无river标签层，但保留river_generator与独立水域资源。下一步已转为用War Sails同版聚落坐标和River(11)导航面检验达玛尔河走廊，并定位river_triangles的源网格。
+
+## 2026-10-26 第十一轮：《战帆》版达玛尔河走廊的导航面近邻核验
+
+本轮直接读取并校验 NavalDLC.zip、War Sails scene.xscene、terrain.bin、navmesh.bin、river_triangles.bin 与 flowmap.dds。官方英文 settlements.xml 仍明确记载达玛尔河：扎勒姆位于河流进入杰尔贾赖峭壁的入口，马卜瓦兹俯瞰河流穿行台地，纳赫兰位于洪泛平原，哈莫沙瓦特位于下游，米贾伊特位于河口附近。
+
+War Sails 的 Paths 容器为空，PHYM 夏季值仅有 1、2、3、5、6，没有 river 标签值；但 scene.xscene 仍有 river_generator，引用 worldmap_river_mask、worldmap_river_normal、world_map_heightmap 与 naval_worldmap_river 材质。故不能把“没有显式 Paths”误写成“没有河流”。
+
+同版 Navmesh 直接解析出 River(11) 898 面。五个达玛尔河锚点到最近 River(11) 面的距离分别为：Zalm 2.646、Mabwaz 3.214、Nahlan 2.858、Hamoshawat 4.044、Mijayit 3.496 场景单位。Zalm、Nahlan、Hamoshawat、Mijayit最近的是同一42面组件；Mabwaz最近的是另一32面组件。对照地点Qidnar、Bait Hatif、Abba、Asmait的距离为26.315—90.119。沿官方地志顺序连接五个锚点的直线采样中，78.33%距River(11)面不超过5单位，92.22%不超过10单位。
+
+这支持“War Sails 的游戏导航水域表示大体沿达玛尔河地点链分布”，但River(11)是游戏导航类别，直线锚点链不是实际河道。river_triangles.bin仍有2,210组、49,758条映射记录，但源三角网格／顶点表未定位；flowmap.dds的世界坐标UV变换与物理意义也未校准。当前不绘制正式河岸线，不推断流向、洪泛边界或世界内部自然改道。
+
+备忘录07（Google Docs）：https://docs.google.com/document/d/1tz8Yx-LAb5VgmRS8udpxztet8u0vorIzEYQVgZrhvmA/edit
+GitHub Markdown：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-07-damar-warsails-navmesh-anchor-registration-2026-10-26.md
+锚点结果 CSV：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-07-damar-warsails-anchor-results-2026-10-26.csv
+
+下一步：优先定位river_triangles.bin引用的源三角网格与顶点表；若无法恢复，则追踪worldmap_river_mask的资源来源和shader UV变换。只有获得同版直接水面几何后，才进一步检验达玛尔河走廊的空间连续性。
