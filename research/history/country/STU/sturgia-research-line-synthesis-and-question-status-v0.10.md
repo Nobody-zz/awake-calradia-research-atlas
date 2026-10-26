@@ -254,7 +254,7 @@ ECO 继续负责地区资源、贸易与经济关系；SET 负责聚落控制、
 
 ### 一、已完成的综合成果
 
-1. **国家形成论证提纲：** `sturgian-state-formation-integrated-argument-outline-v0.1.md` 将现有结论组织为“多中心地方社会与资源—地方婚盟／雇佣武力—帝国压力下的战争联盟—大公职位世袭化—平时权力与地方自主持续冲突”的可检验模型。该顺序是分析结构，不代表所有环节均已绝对定年。
+1. **国家形成论证提纲：** `sturgian-state-formation-integrated-argument-outline-v0.2.md` 将现有结论组织为“多中心地方社会与资源—地方婚盟／雇佣武力—帝国压力下的战争联盟—大公职位世袭化—平时权力与地方自主持续冲突”的可检验模型。该顺序是分析结构，不代表所有环节均已绝对定年。
 2. **权力—资源—动员矩阵：** `sturgian-power-resource-mobilization-evidence-matrix-v0.1.md` 把各氏族、居民、职业武力和地方裁断放入同一证据框架；明确区分地方税役与大公财政、当前配置与历史产权、履约与政治信任。
 3. **婚盟与战后政治提纲：** `sturgian-dynastic-marriage-and-post-pendraic-politics-integrated-outline-v0.1.md` 将贡达尔祖源、蒂亚尔地方婚盟、朗瓦德母系亲族和瓦尔拉事件视为不同机制，避免把婚姻一概解释为中央王朝政策。
 
