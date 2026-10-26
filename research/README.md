@@ -107,6 +107,7 @@
 - [CHC-EMP-GEN｜帝国官方叙事中的地方权威关系：源级与本地化审计 v0.3](history/country/EMP/imperial-local-order-source-and-localization-audit-v0.3.md)
 - [CHC-EMP-GEN｜帝国官方叙事中的地方权威关系：论证—原文对应审计 v0.1](history/country/EMP/imperial-local-order-paper-claim-evidence-audit-v0.1.md)
 - [CHC-EMP-GEN｜跨线方法审查 v0.4：完成内部原文与一致性复核](history/country/EMP/imperial-local-order-paper-cross-line-method-review-v0.4.md)
+- [CHC-EMP-GEN｜帝国地方权威论文与既有 H/Q 研究范围去重审查 v0.1](history/country/EMP/imperial-local-order-paper-scope-overlap-review-v0.1.md)
 - [CHC-EMP-GEN｜跨线方法审查 v0.3：整合瓦兰迪亚与斯特吉亚反例](history/country/EMP/imperial-local-order-paper-cross-line-method-review-v0.3.md)
 - [CHC-STU-XLINE｜帝国地方权威论文跨国反例审查 v0.1](history/country/STU/imperial-local-order-paper-cross-country-counterexample-review-v0.1.md)
 - [CHC-EMP-GEN｜跨线方法审查 v0.2：吸收瓦兰迪亚反例审查](history/country/EMP/imperial-local-order-paper-cross-line-method-review-v0.2.md)
