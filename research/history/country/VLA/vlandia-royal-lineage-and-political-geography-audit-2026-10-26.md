@@ -30,6 +30,18 @@
 
 有效氏族名称键 `qFntgcGy` 将 `dey Tihr` 译作“戴·提哈”，而帕拉汶德地志 `town_V3/Nx0qK2g6` 使用“戴·提尔”。两处都指向 `dey Tihr`，不应把它们拆成两个家族。涉及氏族实体时优先用“戴·提哈（dey Tihr）”；引用地志原句时保留“戴·提尔”。
 
+### 2.3 英文原文中的限定词
+
+对本问题而言，英文不是中文结论的装饰性旁证，而是确定各段文本到底主张什么的首要依据：
+
+- 王国沿革的关键短语为 `recognized ... as king ... as the price of peace`。在“夺取帝国西海岸”的叙述之后，`recognized` 表示帝国承认一个已经取得权力的王者；`as the price of peace` 则把承认放在议和代价的框架中。它不等于帝国从一开始就任命奥斯里克治理西部，也不提供条约条文或具体日期。
+- 同一段的 `recognized his lieutenants ... granting them suzerainty over their lands` 与上句不是同一项承认。前者涉及国王和军事副官之间的地权／统治关系；后者涉及帝国与新王之间的外交承认。两处都使用承认语义，正说明不能把所有权力都简化为国王单方面“赐地”。
+- 帕拉汶德地志称奥斯里克认为该城是 `a seat of power rather than a source of plunder`，并记载他与当地元老协商投降。这个对照将城市视为政治中心，而不仅是掠夺收益；但 `seat of power` 不足以证明它曾是后来瓦兰迪亚王室唯一或长期的法定首都。地志随后称城市归 `a cadet branch of Osric's family, the dey Tihr`，只能确认文本所述的旁支领有，不能确定旁支的精确亲等。
+- 加伦地志的关键英文句为：`The current line of Vlandian kings comes from the clans who settled in this region during Osric's invasion.` `the clans` 是复数集体表达，没有点名一个唯一王室氏族；`during Osric's invasion` 给出定居与入侵的相对时间关系，却没有具体年份、氏族名称或该氏族与德泰尔直系祖先的逐代对应。
+- 德泰尔的 `my great-grandfather` 是王族人物的第一人称亲属主张。它比泛称“王位源自奥斯里克”更具体，但仍属于德泰尔自己的政治话语；没有第二份独立谱系，不能进一步补出三代中间人的姓名、婚姻和在位年份。
+
+这些措辞共同支持一个有限结论：文本分别陈述了外交承认、封臣地权承认、城市的政治价值、旁支领有和王族的地区起源；它们并未给出一条将这些关系全部连通的家谱或领地登记。
+
 ## 三、四个命题必须分开
 
 ### 命题 A：王位的祖先是奥斯里克
