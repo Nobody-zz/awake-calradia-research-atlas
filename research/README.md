@@ -176,7 +176,7 @@
 - [CHC-NOR-POL｜从地方集会到王室统辖：土地、裁判、迁徙与北方国家形成的比较研究（v0.1）](history/country/NOR/CHC-NOR-POL-land-dispute-migration-and-state-formation-comparative-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1cB42HagmJd1-A83lqdjbAUU1D9mHuJwBSveZWbYUoiE/edit)
 - [CHC-NOR-GEN｜历史关系卡：源键审计与语义修订（v0.5，25张）](history/country/NOR/CHC-NOR-GEN-historical-relations-cards-v0.5.md) · [Google Docs 原件](https://docs.google.com/document/d/1STSZgxZWGs6eNmYQ5gN-5l5YImtorIWK31vk4bG3tjM/edit)
 - [CHC-NOR-GEN｜第一批关系卡与时空骨架源键审计（v0.1）](history/country/NOR/CHC-NOR-GEN-source-key-audit-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1Nl2xt4Fp39uK_sY7nNn721rYoUYdzQw1SbF0aUN0BXQ/edit)
-- [CHC-NOR-GEN｜时间—空间骨架源级校订与跨区域因果台账（v0.3）](history/country/NOR/CHC-NOR-GEN-time-space-skeleton-v0.3.md) · [Google Docs 原件](https://docs.google.com/document/d/10cGlZJOE4VwFGjAQpBy5mgg2ksYpSOVyWaLX222wb9U/edit)
+- [CHC-NOR-GEN｜时间—空间骨架：跨区域年代、因果与资源动员比较（v0.4）](history/country/NOR/CHC-NOR-GEN-time-space-skeleton-v0.4.md) · [Google Docs 原件](https://docs.google.com/document/d/10cGlZJOE4VwFGjAQpBy5mgg2ksYpSOVyWaLX222wb9U/edit)
 - [CHC-NOR-GEN｜跨国史料核验第一批（v0.1）](history/country/NOR/CHC-NOR-GEN-cross-line-verification-batch-01-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1QrgaFH7ZpsmSjJp7dcwmCdInHpiGGmvFH8PQH3ux9Cc/edit)
 - [CHC-NOR-GEN｜迪纳尔“近期诺德扩张”来源归属检验（v0.3）](history/country/NOR/CHC-NOR-GEN-dinar-nord-expansion-linkage-test-v0.3.md) · [Google Docs 原件](https://docs.google.com/document/d/1sa8yM89qhRQinoZ7naMc6ed_-lx36PenShM3rMLLxfk/edit)
 - [CHC-NOR-GEN｜诺德史跨国关系首轮对照登记册（v0.8）](history/country/NOR/CHC-NOR-GEN-cross-line-relations-register-v0.8.md) · 已与 STU 对齐贡达罗夫母系谱系及编辑注释的证据边界。
