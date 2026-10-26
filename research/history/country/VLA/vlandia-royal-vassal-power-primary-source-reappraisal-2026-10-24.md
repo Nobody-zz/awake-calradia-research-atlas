@@ -16,7 +16,7 @@
 ### 2.1 源级核定的文化起源
 `SandBoxCore/spcultures.xml` 的 `Culture.id=vlandia`：英文史述有效键 `1Ww5lg6I`；同键官方简中写“无畏的”维伦德与卡拉德语“瓦兰狄翁”，并记帝国雇用各地多语佣兵、财政官员以土地补贴和头衔代替银币、瓦兰迪亚人定居、通婚、耕作并“将附近的帝国要塞据为己有”。英文对要塞的表述是 `seized nearby imperial fortresses as their own`，这是**占取**而非无条件的合法赐予；该句与 `land grants and titles` 分属两个不同的政治行为。2017年官方开发日志与此文本有共同叙事渊源；不能用它们的重复描述人为增加证据数量。此处的“瓦兰迪亚人”是回顾性集体名称，不意味着登陆前有单一完整王国。【A级源文；B/C形成机制】
 
-### 2.2 外部承认与内部领主权利是不同交易
+### 2.2 外部承认与内部贵族身份／土地宗主权安排是不同交易
 `SandBox/spkingdoms.xml` 王国 `vlandia` 的有效键 `IudGLWQZ`：奥斯里克夺取帝国西海岸，诸皇帝以和平为代价承认他为王；他承认副官为男爵和伯爵，并授予他们对其土地的宗主权，要求他们战争时向其集结。英文 `recognized ... as king ... as the price of peace` 与 `recognized his lieutenants as barons and counts, granting them suzerainty over their lands` 必须按句法分读：前者是帝国对既成新王的外交承认；后者先承认副官的贵族身份，再由 `granting` 明确授予土地宗主权。原文没有说明副官此前已经拥有同等宗主权，也未交代土地的取得方式。官方简中 `“铁臂”奥斯里克` 与城市地志中 `“铁壁”奥斯里克` 为同版文本异译，按上下文注明，不创造两位开国君主。【A级源文；C为模型】
 
 ### 2.3 王权不是中央集权已完成的证明
