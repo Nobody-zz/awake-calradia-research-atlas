@@ -7,13 +7,16 @@ This script does not parse raw map binaries and does not reconstruct a river cen
 from pathlib import Path
 import csv
 import math
+import statistics
 
 BASE = Path(__file__).resolve().parent
 NATIVE_CSV = BASE / "natural-geography-spatial-audit-06-damar-native-anchor-results-2026-10-26.csv"
 WARSAILS_CSV = BASE / "natural-geography-spatial-audit-07-damar-warsails-anchor-results-2026-10-26.csv"
 SEGMENT_OUT = BASE / "natural-geography-spatial-audit-08-damar-cross-version-segment-results-2026-10-26.csv"
 ELEVATION_OUT = BASE / "natural-geography-spatial-audit-08-damar-elevation-results-2026-10-26.csv"
+SUMMARY_OUT = BASE / "natural-geography-spatial-audit-08-damar-settlement-elevation-group-summary-2026-10-26.csv"
 ORDER = ["Zalm", "Mabwaz", "Nahlan", "Hamoshawat", "Mijayit"]
+CONTROLS = ["Qidnar", "Bait Hatif", "Abba", "Asmait"]
 NOMINAL_MAP_EXTENT_RATIO = 1040.0 / 848.0
 
 def read_csv(path):
@@ -26,9 +29,10 @@ def xy_distance(a, b):
 
 native_rows = {r["anchor"]: r for r in read_csv(NATIVE_CSV)}
 ws_rows = {r["name"]: r for r in read_csv(WARSAILS_CSV)}
-missing = [n for n in ORDER if n not in native_rows or n not in ws_rows]
+missing = [n for n in ORDER + CONTROLS if n not in ws_rows]
+missing += [n for n in ORDER if n not in native_rows]
 if missing:
-    raise ValueError(f"Missing required anchor(s): {missing}")
+    raise ValueError(f"Missing required site(s): {missing}")
 
 segment_fields = [
     "segment_order", "from_anchor", "to_anchor",
@@ -58,11 +62,17 @@ with SEGMENT_OUT.open("w", encoding="utf-8", newline="") as f:
     writer.writeheader()
     writer.writerows(segment_rows)
 
+anchor_rows = [ws_rows[name] for name in ORDER]
+anchor_ground = [float(r["ground_z_at_settlement"]) for r in anchor_rows]
+anchor_nav = [float(r["River11_navmesh_z"]) for r in anchor_rows]
+anchor_ground_mean = statistics.mean(anchor_ground)
+anchor_ground_median = statistics.median(anchor_ground)
+anchor_ground_max = max(anchor_ground)
 elevation_fields = [
-    "sequence_order", "anchor", "settlement_ground_z", "nearest_River11_face_id",
+    "sequence_order", "site", "group", "settlement_ground_z", "nearest_River11_face_id",
     "distance_to_River11_scene_units", "nearest_River11_navmesh_z",
     "terrain_z_at_nearest_River11", "navmesh_minus_terrain_z", "component_faces",
-    "settlement_z_descends_from_previous", "navmesh_z_descends_from_previous",
+    "settlement_z_descends_from_previous_anchor", "navmesh_z_descends_from_previous_anchor",
     "interpretation_note"
 ]
 elevation_rows = []
@@ -72,8 +82,7 @@ for i, name in enumerate(ORDER):
     ground_z = float(r["ground_z_at_settlement"])
     nav_z = float(r["River11_navmesh_z"])
     elevation_rows.append({
-        "sequence_order": i + 1,
-        "anchor": name,
+        "sequence_order": i + 1, "site": name, "group": r["group"],
         "settlement_ground_z": f"{ground_z:.3f}",
         "nearest_River11_face_id": r["nearest_River11_face_id"],
         "distance_to_River11_scene_units": f'{float(r["distance_to_River11"]):.3f}',
@@ -81,16 +90,68 @@ for i, name in enumerate(ORDER):
         "terrain_z_at_nearest_River11": f'{float(r["terrain_z_at_nearest_River11"]):.3f}',
         "navmesh_minus_terrain_z": f'{float(r["River11_minus_terrain_z"]):.3f}',
         "component_faces": r["River11_component_faces"],
-        "settlement_z_descends_from_previous": ("n/a" if prev is None else
+        "settlement_z_descends_from_previous_anchor": ("n/a" if prev is None else
             str(ground_z <= float(prev["ground_z_at_settlement"])).lower()),
-        "navmesh_z_descends_from_previous": ("n/a" if prev is None else
+        "navmesh_z_descends_from_previous_anchor": ("n/a" if prev is None else
             str(nav_z <= float(prev["River11_navmesh_z"])).lower()),
-        "interpretation_note": "局部采样值；不代表连续河床纵剖面或天然水面高程"
+        "interpretation_note": "河流锚点的局部采样；不代表连续河床纵剖面"
+    })
+for name in CONTROLS:
+    r = ws_rows[name]
+    elevation_rows.append({
+        "sequence_order": "", "site": name, "group": r["group"],
+        "settlement_ground_z": f'{float(r["ground_z_at_settlement"]):.3f}',
+        "nearest_River11_face_id": r["nearest_River11_face_id"],
+        "distance_to_River11_scene_units": f'{float(r["distance_to_River11"]):.3f}',
+        "nearest_River11_navmesh_z": f'{float(r["River11_navmesh_z"]):.3f}',
+        "terrain_z_at_nearest_River11": f'{float(r["terrain_z_at_nearest_River11"]):.3f}',
+        "navmesh_minus_terrain_z": f'{float(r["River11_minus_terrain_z"]):.3f}',
+        "component_faces": r["River11_component_faces"],
+        "settlement_z_descends_from_previous_anchor": "n/a",
+        "navmesh_z_descends_from_previous_anchor": "n/a",
+        "interpretation_note": "非随机对照点；到River(11)的最近距离不表示其局地水源"
     })
 with ELEVATION_OUT.open("w", encoding="utf-8", newline="") as f:
     writer = csv.DictWriter(f, fieldnames=elevation_fields)
     writer.writeheader()
     writer.writerows(elevation_rows)
 
+control_rows = [ws_rows[name] for name in CONTROLS]
+control_ground = [float(r["ground_z_at_settlement"]) for r in control_rows]
+summary_fields = [
+    "group", "n", "min_ground_z", "median_ground_z", "mean_ground_z", "max_ground_z",
+    "sites_above_damar_anchor_max", "mean_difference_vs_damar_anchor_mean",
+    "median_difference_vs_damar_anchor_median", "interpretation"
+]
+summary_rows = [
+    {
+        "group": "Damar_anchor", "n": len(anchor_ground),
+        "min_ground_z": f"{min(anchor_ground):.3f}",
+        "median_ground_z": f"{anchor_ground_median:.3f}",
+        "mean_ground_z": f"{anchor_ground_mean:.3f}",
+        "max_ground_z": f"{anchor_ground_max:.3f}",
+        "sites_above_damar_anchor_max": "n/a",
+        "mean_difference_vs_damar_anchor_mean": "0.000",
+        "median_difference_vs_damar_anchor_median": "0.000",
+        "interpretation": "五个稳定达玛尔河锚点；仅作点位描述统计"
+    },
+    {
+        "group": "comparison_control", "n": len(control_ground),
+        "min_ground_z": f"{min(control_ground):.3f}",
+        "median_ground_z": f"{statistics.median(control_ground):.3f}",
+        "mean_ground_z": f"{statistics.mean(control_ground):.3f}",
+        "max_ground_z": f"{max(control_ground):.3f}",
+        "sites_above_damar_anchor_max": sum(z > anchor_ground_max for z in control_ground),
+        "mean_difference_vs_damar_anchor_mean": f"{statistics.mean(control_ground) - anchor_ground_mean:.3f}",
+        "median_difference_vs_damar_anchor_median": f"{statistics.median(control_ground) - anchor_ground_median:.3f}",
+        "interpretation": "四个非随机局地水源／地貌对照点；不作统计显著性推断"
+    }
+]
+with SUMMARY_OUT.open("w", encoding="utf-8", newline="") as f:
+    writer = csv.DictWriter(f, fieldnames=summary_fields)
+    writer.writeheader()
+    writer.writerows(summary_rows)
+
 print(f"Wrote {SEGMENT_OUT.name} ({len(segment_rows)} rows)")
 print(f"Wrote {ELEVATION_OUT.name} ({len(elevation_rows)} rows)")
+print(f"Wrote {SUMMARY_OUT.name} ({len(summary_rows)} rows)")
