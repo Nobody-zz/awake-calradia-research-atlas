@@ -138,6 +138,7 @@
 - [CHC-BAT-GEN｜从资源到军令：巴旦尼亚王权的动员链条与证据边界（v0.1，未授H号）](history/country/BAT/battanian-resource-to-command-mobilization-chain-v0.1.md) · [Google Docs](https://docs.google.com/document/d/1k6lqN2NZ4XgJb8Veut0z88qHSyzcwphrLn78MOkQW-E/edit)
 
 ## history/country/VLA
+- [CHC-VLA-GEN｜从军事征服到贵族王权：瓦兰迪亚国家形成的综合解释（v0.1）](history/country/VLA/vlandia-military-conquest-nobility-state-integration-synthesis-2026-10-26.md) — 综合国家形成、区域征服、潘德拉克、王权仲裁与社会冲突，比较三种竞争模型。
 
 - [CHC-VLA-GEN｜德泰尔召集封臣与瓦兰迪亚—帝国战争：潘德拉克联系的证据审计（v0.3，未授H号；2020／2026转录差异已与v1.4.8.119303反编译文本对照）](history/country/VLA/vlandia-derthert-muster-empire-war-pendraic-source-audit-2026-10-24.md) · [Google Docs v0.3](https://docs.google.com/document/d/18pUZzpSy8i0KhgsImobfZV5FsXjX4OXSn6eu6vlcnoc/edit)
 - [CHC-VLA-GEN｜瓦兰迪亚相对年代链与人物关系网：从海外雇佣者到德泰尔王权（v0.2）](history/country/VLA/vlandia-relative-chronology-and-person-network-2026-10-24.md) · [Google Docs v0.2](https://docs.google.com/document/d/1VTsU7AwZKcusLlaw-bTITz_LBzlN0VqXrVGqRwEFNuE/edit)
