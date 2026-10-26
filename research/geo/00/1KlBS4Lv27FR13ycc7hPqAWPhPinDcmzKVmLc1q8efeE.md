@@ -240,7 +240,7 @@ CGEO-S-BIO-001《卡拉迪亚大陆植被与自然景观研究——森林类型
 
 ### 历史人文地理线第四轮（2026-10-24）｜西部港市与乡村腹地
 
-**完整研究初稿 v0.1**：《西部港市与乡村腹地的历史组织——沙拉斯、巴拉维诺斯、加伦及俄耳堤西亚的粮食、物产与权力》。
+**专题修订稿 v0.2（2026-10-26）**：《西部港市与乡村腹地的历史组织——沙拉斯、帕拉汶德（古称巴拉维诺斯）、加伦及俄耳堤西亚的粮食、物产与权力》。正文现围绕城市如何通过不同商品关系、城市消费、驻军需求与战时海上供给形成差异化腹地展开；版本校勘与中文来源审计已迁至[独立研究日志](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/western-port-cities-rural-hinterlands-research-log-2026-10-26.md)。
 GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/western-port-cities-rural-hinterlands-and-seaborne-provisioning-2026-10-24.md
 Google Docs：https://docs.google.com/document/d/1r2hWEgZp0QlYyaF2gNkHbHVnNhNEVXyiBx4rYQ_MO1M/edit
 
