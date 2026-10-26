@@ -1,6 +1,10 @@
-sequence_order,anchor,settlement_ground_z,nearest_River11_face_id,distance_to_River11_scene_units,nearest_River11_navmesh_z,terrain_z_at_nearest_River11,navmesh_minus_terrain_z,component_faces,settlement_z_descends_from_previous,navmesh_z_descends_from_previous,interpretation_note
-1,Zalm,5.491,8185,2.646,5.07,4.927,0.144,42,n/a,n/a,局部采样值；不代表连续河床纵剖面或天然水面高程
-2,Mabwaz,5.74,8201,3.214,5.738,5.217,0.52,32,false,false,局部采样值；不代表连续河床纵剖面或天然水面高程
-3,Nahlan,4.28,510,2.858,4.028,3.711,0.317,42,true,true,局部采样值；不代表连续河床纵剖面或天然水面高程
-4,Hamoshawat,5.821,518,4.044,4.737,4.292,0.445,42,false,false,局部采样值；不代表连续河床纵剖面或天然水面高程
-5,Mijayit,5.018,392,3.496,3.999,3.552,0.447,42,true,true,局部采样值；不代表连续河床纵剖面或天然水面高程
+sequence_order,site,group,settlement_ground_z,nearest_River11_face_id,distance_to_River11_scene_units,nearest_River11_navmesh_z,terrain_z_at_nearest_River11,navmesh_minus_terrain_z,component_faces,settlement_z_descends_from_previous_anchor,navmesh_z_descends_from_previous_anchor,interpretation_note
+1,Zalm,Damar_anchor,5.491,8185,2.646,5.070,4.927,0.144,42,n/a,n/a,河流锚点的局部采样；不代表连续河床纵剖面
+2,Mabwaz,Damar_anchor,5.740,8201,3.214,5.738,5.217,0.520,32,false,false,河流锚点的局部采样；不代表连续河床纵剖面
+3,Nahlan,Damar_anchor,4.280,510,2.858,4.028,3.711,0.317,42,true,true,河流锚点的局部采样；不代表连续河床纵剖面
+4,Hamoshawat,Damar_anchor,5.821,518,4.044,4.737,4.292,0.445,42,false,false,河流锚点的局部采样；不代表连续河床纵剖面
+5,Mijayit,Damar_anchor,5.018,392,3.496,3.999,3.552,0.447,42,true,true,河流锚点的局部采样；不代表连续河床纵剖面
+,Qidnar,comparison_control,6.724,8180,36.808,5.980,5.893,0.087,42,n/a,n/a,非随机对照点；到River(11)的最近距离不表示其局地水源
+,Bait Hatif,comparison_control,7.789,17604,26.315,5.555,5.340,0.215,32,n/a,n/a,非随机对照点；到River(11)的最近距离不表示其局地水源
+,Abba,comparison_control,4.734,8179,47.628,6.370,5.715,0.655,42,n/a,n/a,非随机对照点；到River(11)的最近距离不表示其局地水源
+,Asmait,comparison_control,8.548,56,90.119,5.317,4.979,0.339,230,n/a,n/a,非随机对照点；到River(11)的最近距离不表示其局地水源
