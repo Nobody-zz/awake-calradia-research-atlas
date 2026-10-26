@@ -19,7 +19,7 @@ GitHub Markdown：[研究仓库版本](https://github.com/Nobody-zz/awake-calrad
 | ID | 试点／问题 | 当前材料能支持什么 | 证据状态 | 不能据此声称什么 | 下一步核验 |
 | --- | --- | --- | --- | --- | --- |
 | NAT-01 | 大陆自然区与过渡带 | CGEO-O-REG-001提出“区域核心—待定边缘—跨区联系”及七个工作性单元；西部滨海—耕作区、南方海域与丘陵等仍是待考单元。 | C：分区模型；其局地基础来自A类地志。 | 七个单元已是客观、排他的自然区；任何一处都必须唯一归区。 | 逐项回到GEO／CLM／HYD／BIO原文和地图，列出区域核心、边缘、过渡带的独立证据。 |
-| NAT-02 | 纳哈撒：山地、旱谷、绿洲与达玛尔河 | 地志记载洪泛农业、峭壁通道、地下水／井、罕见暴雨径流和局地春草；Native原始scene.xscene已直接识别`nile`：31控制点线性路径距五个稳定锚点3.078—6.994场景单位，沿Mijayit—Hamoshawat—Nahlan—Mabwaz—Zalm顺序排列。原始terrain.bin已直接解码PHYM夏季index 7（Native terrain layer标签为river）；五锚点距river层1.964—3.998场景单位，nile路径3,688个样本中99.97%距river层≤2场景单位。 | A：地点级官方文本与同版坐标；B：原始scene.xscene路径几何及terrain.bin PHYM解码；C：河流—洪泛走廊解释。 | PHYM river层不独自识别具体河流，也不直接证明流向、洪泛边界、流量或地下水连通性；不按内部路径名的字面含义命名自然河流。 | 对War Sails版本独立解码PHYM与检查scene.xscene路径容器；核对river_triangles.bin及flowmap.dds与DLC河流表示的关系。Qidnar、Bait Hatif按版本分别核验。 |
+| NAT-02 | 纳哈撒：山地、旱谷、绿洲与达玛尔河 | 地志记载洪泛农业、峭壁通道、地下水／井、罕见暴雨径流和局地春草；Native原始scene.xscene已直接识别`nile`：31控制点线性路径距五个稳定锚点3.078—6.994场景单位，沿Mijayit—Hamoshawat—Nahlan—Mabwaz—Zalm顺序排列。原始terrain.bin已直接解码PHYM夏季index 7（Native terrain layer标签为river）；五锚点距river层1.964—3.998场景单位，nile路径3,688个样本中99.97%距river层≤2场景单位。 | A：地点级官方文本与同版坐标；B：原始scene.xscene路径几何及terrain.bin PHYM解码；C：河流—洪泛走廊解释。 | PHYM river层不独自识别具体河流，也不直接证明流向、洪泛边界、流量或地下水连通性；不按内部路径名的字面含义命名自然河流。 | War Sails版本PHYM已独立解码且无river标签值；scene.xscene的Paths容器为空，但river_generator仍存在。五个达玛尔河锚点距同版River(11)导航面2.646—4.044场景单位；四点邻近同一42面组件，Mabwaz邻近另一32面组件。该结果是直接游戏几何与M类导航证据，不是天然河道线。下一步定位river_triangles.bin源网格／顶点表，或校准worldmap_river_mask的世界坐标映射。 |
 | NAT-03 | 拉科尼斯湖与涅维斯河 | 水文v0.3记载基础版与《战帆》对Atrion位置和Nevys—湖泊关系的文字描述存在差异。 | A：各自版本的地志；C：对其水文意义的解释。 | 两版文本可以拼成同一时期的连续河口史；导航面可证明天然河流入湖。 | 按模块和版本分开建立实体记录；检查河道几何、高程与湖缘，记录每项证据的空间精度。 |
 | NAT-04 | 塔奈西斯湖、朱姆内河与跨语言河名 | 现有官方地志支持Jumne与Karakaz等名称在特定河段存在跨语言对应；水文论文仍把两湖间联系视作需独立检验的自然拓扑问题。 | A：河名对应的地点级文本；C：流域关系假说；M：部分航行网格信息。 | 朱姆内河、两湖和所有支流构成一条无障碍的天然通航水系。 | 将河名实体、支流／分汊、湖盆、山口及转运地点分层；只在地图地形和河道几何吻合时更新自然连通结论。 |
 | NAT-05 | 北方海陆交错地域 | 官方开发文本及地方地志提供Nordvyg、Beinland、Jumne、海岸、岛屿、森林、寒冷与海产资源等线索；现有研究指出海岸—河谷—内陆的关系值得比较。 | A：官方文字；C：地域结构综合。 | 诺德维格等政治文化称谓等于自然区边界；单一树种或海产描述代表整个北方。 | 先画出地名和地物关系清单，再用版本明确的地图核对岛屿、海湾、河口和河谷连续性。 |
@@ -158,3 +158,16 @@ RES-018旧版Markdown副本含未替换的模板变量，已标记为旧版并�
 Native原版scene.xscene（SHA-256 919796b65e497260a8eebab5442ac79af6992957de9e8a17fbb2aaf6fd1b5019）直接解析出20条路径、686个控制点。`nile`路径31个控制点，五个稳定达玛尔河锚点到该路径最短距离为3.078—6.994场景单位，且最近线段序号沿Mijayit、Hamoshawat、Nahlan、Mabwaz、Zalm连续排列。其他河流路径中，每个锚点的次近对象均为`river_emp_south`，距离135.827—205.862。
 
 因此，Native版本的`nile`可作为达玛尔河走廊的强识别路径；这是几何匹配结论，不是依据内部名称推定。原始PHYM夏季index 7已直接解码并与nile路径配准；这确认路径与river地形层相符，但不能据此扩张为完整水文测绘。
+
+## 2026-10-26 NAT-02 《战帆》版 River(11) 导航面近邻核验
+
+War Sails 同版官方英文地志继续明确记载达玛尔河的入口、峭壁河段、洪泛平原、下游与河口。NavalDLC settlements.xml 五个稳定锚点到最近 River(11) Navmesh 面的二维距离为：Zalm 2.646、Mabwaz 3.214、Nahlan 2.858、Hamoshawat 4.044、Mijayit 3.496 场景单位。四点邻近同一42面 River 组件，Mabwaz邻近另一32面组件。按官方地志顺序连接锚点的360个直线采样点中，78.33%距River(11)面≤5单位，92.22%≤10单位。
+
+对照地点Qidnar、Bait Hatif、Abba、Asmait距最近River(11)面的距离为26.315—90.119；这些不是随机对照，只作描述性比较。War Sails scene.xscene的Paths容器为空，PHYM夏季值为1、2、3、5、6且无river层标签，但river_generator仍引用worldmap_river_mask、worldmap_river_normal、world_map_heightmap及naval_worldmap_river。river_triangles.bin源网格／顶点表未定位，flowmap.dds的UV变换未校准。
+
+证据状态：A＝同版官方英文地志与坐标；B＝同版Navmesh与HGHT直接几何；M＝River(11)为游戏导航类别；C＝其与五个锚点的邻近关系支持“游戏地图河流走廊与官方地点链相符”的综合解释。该结果不等于天然河道中心线或水文连通证据。
+
+备忘录07（Google Docs）：https://docs.google.com/document/d/1tz8Yx-LAb5VgmRS8udpxztet8u0vorIzEYQVgZrhvmA/edit
+GitHub Markdown：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-07-damar-warsails-navmesh-anchor-registration-2026-10-26.md
+锚点结果 CSV：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-07-damar-warsails-anchor-results-2026-10-26.csv
+下一项可证伪检验是定位river_triangles.bin的源三角网格／顶点表，或校准worldmap_river_mask到场景XY的UV映射。
