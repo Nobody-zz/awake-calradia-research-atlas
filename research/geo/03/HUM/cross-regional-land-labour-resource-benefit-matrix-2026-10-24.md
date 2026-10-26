@@ -128,7 +128,7 @@ Google Sheets当前值已实读核对：证据登记46条，断言绑定44条（
 
 ## 2026-10-26｜论文修订状态与覆盖图谱同步
 
-当前状态以[全大陆覆盖审查刷新记录](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/continental-human-geography-first-round-audit-2026-10-24.md)为准：城市体系总论为v0.2；区域问题3—6为v0.2，问题7为v0.3；问题1、2仍为v0.1。问题7的核心条目原文与版本校勘已完成，当前正文已将内部编号和校勘术语移至独立日志。跨区域比较应先以经过源级核验的证据为基础，不把不同地区的“授地”“出售”“保护”或“长期照料林木”视为同一种制度。
+当前状态以[全大陆覆盖审查刷新记录](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/continental-human-geography-first-round-audit-2026-10-24.md)为准：城市体系总论为v0.2；区域问题3—6为v0.2，问题7为v0.3；问题1、2均已修订为v0.2。纳哈撒稿仍属CGEO-S-ECO候选并交叉服务问题1，东部草原稿不占正式编号。跨区域比较应先以经过源级核验的证据为基础，不把不同地区的“授地”“出售”“保护”或“长期照料林木”视为同一种制度。
 
 工作簿当前计数为46条核心证据、44条唯一断言（C-01—C-44）、55条版本差异审计（V-01—V-55）。问题7本轮新增V-42—V-55，未新增核心证据ID。问题1、2修订未新增核心证据、断言或版本审计编号。
 
