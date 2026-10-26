@@ -142,8 +142,9 @@ def decode_phym_summer(path):
     values, counts = np.unique(grid, return_counts=True)
     return {
         "section_version": section_version,
-        "compressed_offset": offset,
-        "compressed_size_bytes": compressed_size,
+        "section_offset_table_offset": offset,
+        "compressed_payload_offset": blob_offset + 40,
+        "compressed_payload_size_bytes": compressed_size,
         "uncompressed_size_bytes": uncompressed_size,
         "raw_sha256": hashlib.sha256(raw).hexdigest(),
         "tile_count": 256,
