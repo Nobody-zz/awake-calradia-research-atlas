@@ -162,7 +162,7 @@ SandBox/heroes.xml／dead_lord_2_1／bsOLRZyS 直接称“年长的”奥列克�
 
 ## 十三、2026-10-24 阶段性综合审查与问题状态同步
 
-本工作稿原列十项问题，现统一按 **STU-RQ01—STU-RQ10** 管理。阶段性状态、跨稿一致性和跨线交接详见 CHC-STU-GEN《斯特吉亚研究线阶段性综合审查：STU-RQ01—STU-RQ10 状态表、跨稿一致性与跨线交接》v0.3（GitHub 最新版：research/history/country/STU/sturgia-research-line-synthesis-and-question-status-v0.4.md；Google Docs 旧稿：https://docs.google.com/document/d/1JuKT1NN_rD4vtESDK3my54c5ZWyR0zkQamLHaHE_E2I/edit，未宣称与 GitHub v0.3 同步）。
+本工作稿原列十项问题，现统一按 **STU-RQ01—STU-RQ10** 管理。阶段性状态、跨稿一致性和跨线交接详见 CHC-STU-GEN《斯特吉亚研究线阶段性综合审查：STU-RQ01—STU-RQ10 状态表、跨稿一致性与跨线交接》v0.4（GitHub 最新版：research/history/country/STU/sturgia-research-line-synthesis-and-question-status-v0.4.md；Google Docs 仍是旧稿，未宣称与 GitHub v0.4 同步）。
 
 截至本次审查，十项问题均已有局部结论，但没有一项完全解决。当前可采用的总体模型是：斯特吉亚由多个地方权力中心及贸易节点构成，在帝国压力下形成以战争为核心的联盟和大公职位，随后经历世袭化与常态权力扩张；地方氏族仍保有领地与自主主张，地方征取又受到居民迁徙和拒绝赋役的限制。该模型不等于完整年表或统一财政制度的复原。
 
