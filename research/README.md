@@ -160,7 +160,7 @@
 
 - [CHC-STU-GEN｜斯特吉亚历史初步摸底与重大研究问题（v0.11，未授H号）](history/country/STU/sturgia-initial-historical-survey-and-major-questions-v0.11.md) · 当前国别基线与 RQ01—RQ10 问题图谱。
 - [CHC-STU-GEN｜斯特吉亚研究线阶段性综合审查（v0.13）](history/country/STU/sturgia-research-line-synthesis-and-question-status-v0.13.md) · 当前状态表、跨稿一致性、停止条件与论文候选边界。
-- [CHC-STU-GEN｜斯特吉亚研究线跨稿一致性审查（v0.3）](history/country/STU/sturgia-cross-draft-consistency-audit-v0.3.md) · 以当前版本复核任务状态、跨线新证据与核心 POL 整合。
+- [CHC-STU-GEN｜斯特吉亚研究线跨稿一致性审查（v0.4）](history/country/STU/sturgia-cross-draft-consistency-audit-v0.4.md) · 核对制度桥梁分层、当前工作稿指针与跨线边界。
 - [CHC-STU-POL｜战时盟约、地方领主权与贡达罗夫王朝（v1.2，未授H号）](history/country/STU/sturgian-war-oath-boyar-rights-and-gundaroving-dynasty-working-paper-v1.2.md) · 核心政治制度工作稿。
 - [CHC-STU-POL｜斯特吉亚国家形成：大公权力形成的制度桥梁检验（v0.1，未授H号）](history/country/STU/sturgia-state-formation-institutional-bridge-test-v0.1.md) · 逐项区分职位世袭化、王朝接入与平时管辖权执行，含证据等级、反例和下一轮三项任务。
 - [CHC-STU-POL｜三种时间尺度与大公权力形成（v0.2）](history/country/STU/sturgian-state-formation-three-clocks-relative-chronology-v0.2.md) · 联盟、祖父誓约、两代人记忆与贡达尔地方祖源的相对年代边界。
