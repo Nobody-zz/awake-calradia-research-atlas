@@ -1,0 +1,3 @@
+group,n,min_ground_z,median_ground_z,mean_ground_z,max_ground_z,sites_above_damar_anchor_max,mean_difference_vs_damar_anchor_mean,median_difference_vs_damar_anchor_median,interpretation
+Damar_anchor,5,4.280,5.491,5.270,5.821,n/a,0.000,0.000,五个稳定达玛尔河锚点；仅作点位描述统计
+comparison_control,4,4.734,7.256,6.949,8.548,3,1.679,1.766,四个非随机局地水源／地貌对照点；不作统计显著性推断
