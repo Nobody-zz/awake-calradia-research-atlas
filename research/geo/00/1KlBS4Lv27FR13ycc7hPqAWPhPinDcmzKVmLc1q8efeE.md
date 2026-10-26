@@ -270,13 +270,13 @@ Google Docs：https://docs.google.com/document/d/1r5xLCwljVokxTeA5pk86bdX0jXtVzl
 
 ### 第六轮人文地理研究（2026-10-24）｜北方海产、河港与内陆粮畜
 
-独立专题初稿v0.1：《北方海产、河港与内陆粮畜的市场连接——诺德维格、贝恩兰岛与朱姆内河谷的多节点网络》。
+独立专题修订稿v0.2（2026-10-26）：《北方海产、河港与内陆粮畜的市场连接——诺德维格、贝恩兰岛与朱姆内河谷的多节点网络》。正文现以“哪些商品联系已被直接记载、哪些节点之间尚未被证据连通”为主问题，区分海上出口、沿海市场、河谷物产南售、城镇供粮与造船木材运输。版本、名称键和中文来源校勘已迁至[独立研究日志](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/northern-maritime-river-port-and-inland-provisioning-research-log-2026-10-26.md)。
 GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/northern-maritime-river-port-and-inland-provisioning-2026-10-24.md
 Google Docs：https://docs.google.com/document/d/1LtjH6zFrfpyu1vQkTBbcaBFiXRNcwmORrK7ixURySP8/edit
 
-核心结论：诺德长船南售海象牙、鲸油与鱼类；哈加德作为朱姆内河岸多族群汇集河谷物产、向南销售的节点；格雷蒂斯湾的季节性集市先于地方雅尔权力成长；瓦尔维克从捕鲸棚屋聚落发展为港镇；village_N3_4／fVkcvgSc的排沼、授田和城镇供麦，以及雅斯克韦格以牛力拖运橡木到海岸造船，共同支持多节点、分商品、部分政治整合的交换网络。尚无证据证明统一王室港务、固定全年航线、统一税制或全部海产均输往内陆农牧社区。
+核心结论：北方海产出口、河谷资源南售、城镇粮食供给、造船木材运输与季节性跨区域劳动各有直接史料依据，但现有材料尚未将它们连成连续的全程供应链。首选解释为多节点、分商品、局部稳定且受到不同程度政治介入的交换格局；尚无证据证明统一王室港务、固定全年航线、统一税制或全部海产均输往内陆农牧社区。
 
-当前NavalDLC官方中文名称键核定：Hvalvik＝瓦尔维克、Gretysfjord＝格雷蒂斯湾、Thronderlag＝特龙德拉格、Hargard＝哈加德。早期开发日志的人工中文异译不覆盖当前游戏名称键；village_N3_4的既有暂译不冒充已核验的独立名称键。
+名称键与版本差异的详细核对已迁入独立研究日志；正文以当前核验名称为准，不将SandBox与NavalDLC之间的文本改写解释为世界内部的年代变化。
 
 **队列维护：** 原人文地理问题4（西部港市）、5（东北森林）、6（北方海产—河港—内陆粮畜）均已有独立初稿。下一步先刷新全大陆覆盖图谱与证据空白，再确定新的优先问题；不预先虚构问题7。
 
