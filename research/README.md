@@ -152,7 +152,7 @@
 - [CHC-STU-GEN｜斯特吉亚历史初步摸底与重大研究问题（v0.11，未授H号）](history/country/STU/sturgia-initial-historical-survey-and-major-questions-v0.11.md) · 当前国别基线与 RQ01—RQ10 问题图谱。
 - [CHC-STU-GEN｜斯特吉亚研究线阶段性综合审查（v0.12）](history/country/STU/sturgia-research-line-synthesis-and-question-status-v0.12.md) · 当前状态表、跨稿一致性、停止条件与论文候选边界。
 - [CHC-STU-GEN｜斯特吉亚研究线跨稿一致性审查（v0.3）](history/country/STU/sturgia-cross-draft-consistency-audit-v0.3.md) · 以当前版本复核任务状态、跨线新证据与核心 POL 整合。
-- [CHC-STU-POL｜战时盟约、地方领主权与贡达罗夫王朝（v1.0，未授H号）](history/country/STU/sturgian-war-oath-boyar-rights-and-gundaroving-dynasty-working-paper-v1.0.md) · 核心政治制度工作稿。
+- [CHC-STU-POL｜战时盟约、地方领主权与贡达罗夫王朝（v1.1，未授H号）](history/country/STU/sturgian-war-oath-boyar-rights-and-gundaroving-dynasty-working-paper-v1.1.md) · 核心政治制度工作稿。
 - [CHC-STU-POL｜三种时间尺度与大公权力形成（v0.2）](history/country/STU/sturgian-state-formation-three-clocks-relative-chronology-v0.2.md) · 联盟、祖父誓约、两代人记忆与贡达尔地方祖源的相对年代边界。
 - [CHC-STU-POL｜斯特吉亚国家形成综合论证提纲（v0.2）](history/country/STU/sturgian-state-formation-integrated-argument-outline-v0.2.md) · 主导模型、竞争解释、证据缺口与反证条件。
 - [CHC-STU-POL／ECO／SOC｜权力—资源—动员证据矩阵（v0.1）](history/country/STU/sturgian-power-resource-mobilization-evidence-matrix-v0.1.md) · 对照地方资源、赋役、动员、实际服从与未知环节。
