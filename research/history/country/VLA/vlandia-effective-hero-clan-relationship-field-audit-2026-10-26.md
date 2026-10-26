@@ -73,7 +73,9 @@
 
 这些字符串均位于 XML 注释中，不是生效 `Faction` 或 `Hero` 的姓名字段。但有一项重要的开发注释映射必须保留：`world_lore_strings.xml` 中有注释 `lord 4_6, calatild`。这说明开发注释明确把 `lord_4_6` 与卡拉蒂尔德联系起来；而有效 `heroes.xml` 显示 `lord_4_6` 属于 `clan_vlandia_3`、是该氏族的 `owner`，与 `lord_4_5` 互为配偶，并作为 `mother` 出现在四名同氏族人物的亲子字段中。两类证据相互吻合，足以记录为“开发意图中的卡拉蒂尔德角色映射，与有效家族结构相容”；但注释不是运行时姓名字段，不能把它写成生效 XML 直接显示姓名的证据。
 
-另一个需要区分的层次是：`SandBoxCore/ModuleData/spcultures.xml` 中的 `Calatild`、`Ingalther` 和 `Alary` 只是可供角色生成使用的名字池条目；名字存在于池中并不代表已分配给某个特定 `Hero.id`。本 ZIP 没有提供用于独立解析全部角色显示名称的 `spnpccharacters.xml`。因此，不能按 ID 顺序猜测哪个孩子是 Alary、Elyce、Thomund、Hecard 或注释中的占位角色 XXX；也不能把“第四氏族”注释紧邻 `clan_vlandia_4` 的位置，当作 Ingalther 与 `lord_4_16` 之间已经明确写出的 ID 映射。
+另一个需要区分的层次是：`SandBoxCore/ModuleData/spcultures.xml` 中的 `Calatild`（名字键 `KsBoNHW5`）、`Ingalther`（`iaUQ9lt9`）和 `Alary`（`bHTdXTwC`）只是可供角色生成使用的名字池条目；名字存在于池中并不代表已分配给某个特定 `Hero.id`。这三个键在本次 SandBoxCore ZIP 所含英文与官方简中 `std_spcultures_xml` 语言表中都没有独立条目，英文显示名来自 `spcultures.xml` 的内嵌回退文本，不能声称已在同键简中表核定其官方译名。本 ZIP 没有提供用于独立解析全部角色显示名称的 `spnpccharacters.xml`。
+
+对本次 SandBox 选取包的 `heroes.xml`、`world_lore_strings.xml`、`spclans.xml` 与 `settlements.xml` 做了区分 XML 注释与生效节点的定向检索后，结果是：`Calatild` 和 `Ingalther` 在这些文件中的关键出现均来自开发注释；有效 `spclans.xml` 中能确认的是 `clan_vlandia_3` 与 `clan_vlandia_4` 的氏族定义，而非人物姓名。唯一直接的注释 ID 关联是 `world_lore_strings.xml` 的 `lord 4_6, calatild`。因此，不能按 ID 顺序猜测哪个孩子是 Alary、Elyce、Thomund、Hecard 或注释中的占位角色 XXX；也不能把“第四氏族”注释紧邻 `clan_vlandia_4` 的位置，当作 Ingalther 与 `lord_4_16` 之间已经明确写出的 ID 映射。
 
 先前研究已经正确地将因加泰尔—卡拉蒂尔德继承争议标为开发史构思。本轮复核进一步确认：有效字段支持戴·阿罗曼克氏族的现行 owner、配偶与四名子女关系；但继承争议的诉请、裁决理由和实际后果仍只见于开发注释，不能据此转换成已发生事件。除非在有效任务对白、人物传记或其他官方叙事资源中找到直接对应，否则继续保持 CMT/设计构思状态，不进入已证历史事件。
 
