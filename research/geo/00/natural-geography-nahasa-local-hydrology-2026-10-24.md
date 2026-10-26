@@ -162,6 +162,23 @@
 
 **可推翻或修正该模型的条件。** 若未来同版水面几何显示River(11)与河流生成资源均远离稳定锚点序列，或高程与地形障碍使所拟主干无法合理穿越，或官方英文地点关系被更直接的同版资料推翻，则应修改路线或分段模型。若仅发现River(11)组件不连通、flowmap无法直接换算，或river_triangles引用尚未解码，这些技术空缺本身不足以推翻河流—洪泛走廊的最佳拟合解释；它们主要限制河道形态的精细程度。
 
+### 6.2 跨版本锚点间距与高程证据的可识别性（2026-10-26）
+
+备忘录08对已归档的 Native 与 War Sails 锚点 CSV 进行派生复核，进一步限定跨版本河道重建的证据强度。按扎勒姆—马卜瓦兹—纳赫兰—哈莫沙瓦特—米贾伊特的工作顺序，相邻聚落的平面距离如下：
+
+| 相邻锚点 | Native 距离 | War Sails 距离 | WS/Native 比值 | 除以名义范围比值 1.226 后 |
+|---|---:|---:|---:|---:|
+| 扎勒姆—马卜瓦兹 | 35.935 | 44.272 | 1.232 | 1.005 |
+| 马卜瓦兹—纳赫兰 | 36.402 | 90.074 | 2.474 | 2.018 |
+| 纳赫兰—哈莫沙瓦特 | 19.467 | 15.502 | 0.796 | 0.649 |
+| 哈莫沙瓦特—米贾伊特 | 15.246 | 26.942 | 1.767 | 1.441 |
+
+场景范围名义比值为 1040/848 ≈ 1.226，但这不是已校准的坐标变换。四段距离的比例明显不一致，尤其马卜瓦兹—纳赫兰段在 War Sails 中显著拉长。因此，两版地图的局部坐标布局并非简单统一比例缩放；这一结果不代表游戏世界内部发生了聚落迁移或河道改道，也不允许把 Native 的路径形状直接按比例投射到 War Sails。
+
+War Sails 的聚落 Z 值与最近 River(11) 导航面 Z 值都不构成沿上述顺序单调下降的纵剖面。导航面 Z 比其最近点处的 HGHT 地形 Z 高约 0.144—0.520 场景单位，但这只是局部导航面与地形栅格的相对关系，不是水面高度或水深。故现有数值不能确定连续河床坡度、流向或常流性。
+
+River(11) 的 42 面与 32 面组件包围盒 X 间隔约 2.801 单位、Y 范围重叠约 8.339 单位；包围盒接近不等于多边形连通。结合备忘录07的锚点近邻与直线采样结果，War Sails 支持的是**走廊级空间对应（中等置信度）**，而非已经恢复的连续天然河道。详见[空间核验备忘录08](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-08-damar-cross-version-anchor-spacing-2026-10-26.md)。
+
 ## 七、可检验的地理假说与后续空间工作
 
 后续工作应从抽象的“补齐地图”转向能够被证实或否定的具体地理问题。
@@ -173,6 +190,8 @@
 5. **版本定位冲突。** 吉德纳尔与拜特·哈提夫的两套地貌描述能否在各自版本的地图中分别得到支持？在此之前，不将它们作为同一河谷的稳定定位点，也不将版本差异解释为世界内部的环境变化。
 
 原始河道、水面与地形资源仍值得继续核验，但它们不是自然地理解释的前置门槛。现有官方英文地志、Native的nile路径几何、War Sails同版锚点与River(11)导航面关系，已经足以建立上述最佳拟合模型。下一阶段应先检查模型能否同时解释地点序列、峭壁与台地地形、洪泛农业、下游位置和河口沉积，并据此修订自然地理叙述；river_triangles.bin与worldmap_river_mask只作为进一步约束河道弯曲、宽度和局部通道间隙的次级证据。
+
+6. **跨版本锚点与高程可识别性。** 备忘录08显示两版相邻锚点距离并非统一比例缩放，且 War Sails 的聚落 Z／最近 River(11) 面 Z 不能构成连续河床纵剖面。后续不得以聚落高程推断河流坡降或流向；若要回答这些问题，须先取得沿实际水面／河床几何的连续采样。
 
 ## 八、结论
 
@@ -190,7 +209,9 @@
 4. CGEO-S-HYD-001《卡拉迪亚大陆河流水系与湖泊研究》v0.3：[Google Docs](https://docs.google.com/document/d/1qoWxPgRqqHxPSjv9NqeVfy2oj3fkqlEq_xF5CxPrpTc/edit)。
 5. CGEO-S-GEO-001《卡拉迪亚大陆地形与地貌研究》v0.1：[Google Docs](https://docs.google.com/document/d/1pDODiOQ2PR0zz9q2Ximt4MBJwnl_EmZOXvwFdnXsTL0/edit)。
 6. CGEO-NAT-AUD-001《自然地理专题同键一致性审查》v0.1：[Google Docs](https://docs.google.com/document/d/1c9zvE0ZkzxkzSPj29s5wh8xY6RMYh998RJRI1mlyezQ/edit)。
-7. 《自然地理研究问题图谱与证据矩阵》v0.7：[Google Docs](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit)。
+7. 《自然地理研究问题图谱与证据矩阵》v0.9：[Google Docs](https://docs.google.com/document/d/1SDfMvGblT0b35yQ_RG17MNDbcRpihrluVBFKW4vyzKg/edit)。
+
+8. 《自然地理空间核验备忘录08｜达玛尔河跨版本锚点间距与高程证据的可识别性审查》v0.1：[Google Docs](https://docs.google.com/document/d/1YWjvam_muUlfAM8J_K3zgqoAnHKu-2MJ_cgfH3n3TmU/edit)；[GitHub Markdown](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-08-damar-cross-version-anchor-spacing-2026-10-26.md)。
 
 ## 核验声明
 
