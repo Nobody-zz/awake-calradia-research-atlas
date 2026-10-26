@@ -144,6 +144,28 @@
 - [CHC-VLA-GEN｜瓦兰迪亚王权、封臣与王朝争端研究](history/country/VLA/vlandian-monarchy-vassals-dynastic-disputes-2026-10-24.md)
 - [CHC-VLA-GEN｜瓦兰迪亚乡村地权、绿林兄弟会与沙拉斯叛乱：王国政治整合的社会成本](history/country/VLA/vlandian-peasant-tenure-brotherhood-charas-rebellion-2026-10-24.md) · [Google Docs](https://docs.google.com/document/d/1A0DVKq8f9fULHQhtsnr9v6N3lE9dQy3L2ZMORGLcHKI/edit)
 
+## history/country/STU
+
+- [CHC-STU-GEN｜斯特吉亚历史初步摸底与重大研究问题（v0.10，未授H号）](history/country/STU/sturgia-initial-historical-survey-and-major-questions-v0.10.md) · 当前国别基线与 RQ01—RQ10 问题图谱。
+- [CHC-STU-GEN｜斯特吉亚研究线阶段性综合审查（v0.10）](history/country/STU/sturgia-research-line-synthesis-and-question-status-v0.10.md) · 当前状态表、跨稿一致性、停止条件与论文候选边界。
+- [CHC-STU-POL｜战时盟约、地方领主权与贡达罗夫王朝（v0.9，未授H号）](history/country/STU/sturgian-war-oath-boyar-rights-and-gundaroving-dynasty-working-paper-v0.9.md) · 核心政治制度工作稿。
+- [CHC-STU-POL｜三种时间尺度与大公权力形成（v0.2）](history/country/STU/sturgian-state-formation-three-clocks-relative-chronology-v0.2.md) · 联盟、祖父誓约、两代人记忆与贡达尔地方祖源的相对年代边界。
+- [CHC-STU-POL｜斯特吉亚国家形成综合论证提纲（v0.1）](history/country/STU/sturgian-state-formation-integrated-argument-outline-v0.1.md) · 主导模型、竞争解释、证据缺口与反证条件。
+- [CHC-STU-POL／ECO／SOC｜权力—资源—动员证据矩阵（v0.1）](history/country/STU/sturgian-power-resource-mobilization-evidence-matrix-v0.1.md) · 对照地方资源、赋役、动员、实际服从与未知环节。
+- [CHC-STU-ECO｜北方贸易、边疆开发与地方财政权力（v0.2）](history/country/STU/sturgian-economic-geography-trade-frontier-and-fiscal-power-v0.2.md) · 地区资源与经济基础，撤销已完成的四氏族重复比较任务。
+- [CHC-STU-ECO｜城镇控制权更替、经济腹地与财政连续性（v0.1）](history/country/STU/sturgian-settlement-control-fiscal-continuity-v0.1.md) · 聚落控制、腹地绑定与财政连续性缺口。
+- [CHC-STU-SOC｜税役、非王公武力与地方司法（v0.2）](history/country/STU/sturgian-tax-obligations-nonstate-groups-and-local-justice-v0.2.md) · 居民征取、避役、职业武力与地方裁断证据。
+- [CHC-STU-REL｜贡达罗夫王朝的婚姻、诺德亲族与雇佣武力（v0.2）](history/country/STU/sturgian-dynastic-marriage-nordic-kinship-and-mercenary-networks-v0.2.md) · 王朝祖源、母系外援、婚盟与雇佣武力。
+- [CHC-STU-REL／MIL｜婚盟、强制外交与潘德拉克之后的斯特吉亚政治（v0.1）](history/country/STU/sturgian-dynastic-marriage-and-post-pendraic-politics-integrated-outline-v0.1.md) · 战后政治整合提纲与候选论文边界。
+- [CHC-STU-MIL｜斯特吉亚的世仇（v0.2）](history/country/STU/sturgian-post-pendraic-military-honor-princely-authority-and-kuloving-blood-feud-v0.2.md) · 军功、王权、瓦尔拉事件与库洛夫血仇。
+- [CHC-STU-SRC｜西加、瓦尔拉与朗瓦德：婚盟、处死与库洛夫血仇（v0.1）](history/country/STU/siga-varra-raganvad-arkit-marriage-death-source-audit-v0.1.md) · 有效传记与注释创作对白的源级区分。
+- [CHC-STU-POL／SOC｜九氏族持地与动员证据审计（v0.1）](history/country/STU/sturgian-clan-landholding-and-mobilization-evidence-audit-v0.1.md) · 当前配置不等于实际权力、收入或忠诚。
+- [CHC-STU-POL／SOC｜战争义务行为证据审计（v0.1）](history/country/STU/sturgian-war-obligation-behavioral-evidence-audit-v0.1.md) · 区分行动、传记概括、政治主张与通用模板。
+- [CHC-STU-POL｜地方承认、王朝合法性与雷维尔反记忆（v0.1）](history/country/STU/sturgian-dynastic-legitimacy-local-lordship-and-revyl-countermemory-v0.1.md) · 贡达尔祖源与区域职位制度的区别。
+- [CHC-STU-GEN／POL｜跨线证据交接单（v0.3）](history/country/STU/sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.3.md) · 潘德拉克、库赛特与诺德研究线的源级交接。
+- [CHC-STU-XLINE｜帝国地方权威论文跨国反例审查（v0.1）](history/country/STU/imperial-local-order-paper-cross-country-counterexample-review-v0.1.md) · 用于概念边界压力测试，不作为独立史料互证。
+- [CHC-STU-SRC｜斯特吉亚官方简中地名校核表（v0.1）](history/country/STU/sturgia-official-zh-cn-settlement-name-crosswalk-v0.1.md) · 保留已核定地名及待核项目。
+
 ## history/country/NOR
 
 - [诺德史独立研究线总目录](history/country/NOR/README.md) · 研究稿、版本顺序与当前方向。
@@ -156,7 +178,7 @@
 - [CHC-NOR-GEN｜时间—空间骨架源级校订版（v0.2）](history/country/NOR/CHC-NOR-GEN-time-space-skeleton-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/10cGlZJOE4VwFGjAQpBy5mgg2ksYpSOVyWaLX222wb9U/edit)
 - [CHC-NOR-GEN｜跨国史料核验第一批（v0.1）](history/country/NOR/CHC-NOR-GEN-cross-line-verification-batch-01-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1QrgaFH7ZpsmSjJp7dcwmCdInHpiGGmvFH8PQH3ux9Cc/edit)
 - [CHC-NOR-GEN｜迪纳尔“近期诺德扩张”来源归属检验（v0.3）](history/country/NOR/CHC-NOR-GEN-dinar-nord-expansion-linkage-test-v0.3.md) · [Google Docs 原件](https://docs.google.com/document/d/1sa8yM89qhRQinoZ7naMc6ed_-lx36PenShM3rMLLxfk/edit)
-- [CHC-NOR-GEN｜诺德史跨国关系首轮对照登记册（v0.7）](history/country/NOR/CHC-NOR-GEN-cross-line-relations-register-v0.7.md) · [Google Docs 原件](https://docs.google.com/document/d/1ijeX1lpQB2Fo1QKFj39yDsSkQhw3x1QoI3Iv0Kja2qs/edit)
+- [CHC-NOR-GEN｜诺德史跨国关系首轮对照登记册（v0.8）](history/country/NOR/CHC-NOR-GEN-cross-line-relations-register-v0.8.md) · 已与 STU 对齐贡达罗夫母系谱系及编辑注释的证据边界。
 - [CHC-NOR-GEN｜社会群体覆盖与证据单位审计（v0.1）](history/country/NOR/CHC-NOR-GEN-social-coverage-audit-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1H7hibK338Ibk8WPLu2fJc6Wp2nmIkIFQyOvx0fyYERA/edit)
 - [CHC-NOR-GEN｜诺德国家形成的相对年代与因果机制检验（v0.1）](history/country/NOR/CHC-NOR-GEN-relative-chronology-causal-test-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1Wfep743y5aYvUgHbN9xVAwU3WRd5HhHDToN3-NKOj6Q/edit)
 - [CHC-NOR-GEN｜哈尔达尔时期王权的持续性与实际控制范围（v0.3）](history/country/NOR/CHC-NOR-GEN-halthdar-kingship-continuity-control-v0.3.md) · [Google Docs 原件](https://docs.google.com/document/d/1T8qFxZZu621hxrndEmIIimrqR0k5EGnJALqzP6zNOgM/edit)
