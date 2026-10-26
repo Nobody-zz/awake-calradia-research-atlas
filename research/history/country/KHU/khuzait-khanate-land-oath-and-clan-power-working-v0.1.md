@@ -1,6 +1,6 @@
-# CHC-KHU-POL｜领地、誓约与汗权：兀儿浑征服之后库赛特政治秩序的形成与裂痕（专题工作稿 v0.6）
+# CHC-KHU-POL｜领地、誓约与汗权：兀儿浑征服之后库赛特政治秩序的形成与裂痕（专题工作稿 v0.7）
 
-状态：专题研究工作稿，不是定稿；不申请 H-000x 编号。版本 v0.6｜2026-10-26。
+状态：专题研究工作稿，不是定稿；不申请 H-000x 编号。版本 v0.7｜2026-10-26。
 归属：CHC-KHU-POL；上位调查：CHC-KHU-GEN。
 资料范围：项目归档的 SandBoxCore、SandBox v1.4.8 与 NavalDLC v1.2.8 生效英文 XML 及对应官方简体中文。依 I-0001、I-0004 v2.2、I-0003、I-0002、Q-0013 v0.5 处理证据等级，不另造 S/E/P/D 编号。流浪者逸闻及孤见部族名称不进入本稿的核心证明链。
 
@@ -857,7 +857,7 @@ A10 以上相应官方简中存于各模块 Languages/CNs/std_*_xml-zho-CN.xml�
 
 ## 补记｜A2采访恢复与奥通加德产权链仍分离（2026-10-24）
 
-蒙楚格（lord_6_1）、墨速宜（lord_6_4）、呼鲁那格（lord_6_16）的主线采访英文已从 Bannerlord v1.4.5 反编译代码恢复。墨速宜的具名指控提升了“库赛特氏族在潘德拉克损失后遭受畜群袭掠、且汗权保护不足”这一问题的文本可复核程度；但她没有提到奥通加德。故“战后袭掠”与“具体城市产权转移”仍是两个不同命题，前者有 A2 人物陈述，后者仍缺有效事件链。Gotug／Solun 名称差异保留为版本与转录校勘项，不能用它推翻有效人物档案中岁仑为墨速宜丈夫的记载。全体十九名受访者的文本键与证词摘要见：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Interview-Source-Inventory-v0.1.md。项目 v1.4.8.119303 的同版本逐字核验仍待完成。
+蒙楚格（lord_6_1）、墨速宜（lord_6_4）、呼鲁那格（lord_6_16）的主线采访英文已从 Bannerlord v1.4.5 反编译代码恢复。墨速宜的具名指控提升了“库赛特氏族在潘德拉克损失后遭受畜群袭掠、且汗权保护不足”这一问题的文本可复核程度；但她没有提到奥通加德。故“战后袭掠”与“具体城市产权转移”仍是两个不同命题，前者有 A2 人物陈述，后者仍缺有效事件链。Gotug／Solun 名称差异保留为版本与转录校勘项，不能用它推翻有效人物档案中岁仑为墨速宜丈夫的记载。全体十九名受访者的文本键与证词摘要见：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Interview-Source-Inventory-v0.2.md。项目 v1.4.8.119303 的同版本逐字核验仍待完成。
 
 
 
@@ -1131,15 +1131,47 @@ Tismil（village_K2_2）仍直接陈述，当地牧羊人因可汗阻止游牧�
 
 ### 六、停止条件与下一项检验
 
-现有材料已经足以提出受约束的因果模型，但不足以写成完整的战后事件史。下一项最有判别力的检验不是继续扩充聚落保护案例，也不是再次整理全部氏族，而是取得与项目版本匹配的 StoryMode 主线运行时文本，或找到独立的具名、定时战后袭掠／调停／产权变化记录。
+同版本采访文本核验已完成，但不足以写成完整的战后事件史。下一项最有判别力的检验是寻找独立、具名、定时的战后袭掠／调停／处罚／产权变化记录；现有 XML 归档已完成相关关键词排查，不重复搜索同一批文件。若没有新事件材料，则转向比较氏族继承与领地承接机制。
 
 在这两类证据出现前，暂停追查“阿契特究竟夺走了哪块地”这一支线，不将猜测写成事实。后续国家形成研究则可暂时把本案用作一个机制案例：当征服联盟依靠不同氏族承担军事成本，却缺少可证的统一保护和补偿规则时，战损可能把旧有的声望与资源竞争转化为对汗权的正当性争议。
 
 ### 七、来源定位与版本边界
 
 - **A1 生效文本：** SandBox／ModuleData／heroes.xml／dead_lord_6_2（dfmSNTZk）、lord_6_4（ALtZaRzc）、lord_6_1（CzM6y3MT）；world_lore_strings.xml／dpYb59BB、RyrdJI5j、l4quU1x3、yqn4Wtwr；spkingdoms.xml／fGNdo1BK。
-- **A2 反编译对白：** BannerlordCode／bannerlord-1.4.5，BannerInvestigationQuest.cs，蒙楚格四段位于第 532–535 行，墨速宜四段位于第 539–542 行，赫鲁纳格四段位于第 546–549 行。固定提交：ccbc3d40f88905765a1484492d41b7000e7249fa。链接：https://github.com/BannerlordCode/bannerlord-1.4.5/blob/ccbc3d40f88905765a1484492d41b7000e7249fa/Bannerlord.Source/Modules.StoryMode/StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs#L532-L549
+- **A2 同版本反编译对白：** Sartiye 反编译归档提交 `3b60fca5c4980a1c4e71957ffad2af05f6739d0d` 的 BuildInfo.cs 明确记录 v1.4.8.119303，BannerInvestigationQuest.cs 含采访文本；92 个带键 TextObject 与 v1.4.5 文件逐项一致。库赛特三人键分别为蒙楚格 L1V8L2N1/A9fChKmz/tBGtavMG/UVuwofhS、墨速宜 OKgsM4nr/KYW1UiKm/kYtRsxSL/i5OOargr、呼鲁那格 NGbgfPoP/kw9sltab/Lep5YKdt/4Baa38ra。链接：https://github.com/Sartiye/Bannerlord-Taleworlds-Assembly-Decompiled-Archive/blob/3b60fca5c4980a1c4e71957ffad2af05f6739d0d/StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs#L346-L363。该载体仍是第三方反编译成果，不是 TaleWorlds 官方发布的原始源码.
 - **B 级玩家转录：** 只用于比对、发现遗漏和定位证词；同一整理者的不同版本不作为独立互证。
 - **开发注释：** spclans.xml 中的 “ten years ago” 及旧亲属说法不进入生效事件链；其参照年代与设计状态仍未确定。
 
-版本说明：正文更新为 v0.6；本轮只更新既有 CHC-KHU-POL 工作稿及其 GitHub 对应文件，不申请 H 编号，不修改公共 I/Q 索引。
+版本说明：正文更新为 v0.7；本轮更新既有 CHC-KHU-POL 工作稿及采访索引，不申请 H 编号，不修改公共 I/Q 索引。
+
+
+## 二十九、P3-6｜同版本采访文本核验：版本缺口关闭，事件互证缺口仍在（2026-10-26）
+
+### 一、版本锁定与逐键结果
+
+公开反编译归档提交 `3b60fca5c4980a1c4e71957ffad2af05f6739d0d` 的 `TaleWorlds.Library/BuildInfo.cs` 明确记录 `GameVersion = "v1.4.8.119303"`、`BuildTarget = "Public"`。同一提交中的 `StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs` 保存主线采访。该文件是第三方反编译成果，不是 TaleWorlds 官方发布的源码；但版本标识与项目所存 XML 资源完全对应。
+
+逐项比较 v1.4.8.119303 与 v1.4.5 的 `BannerInvestigationQuest.cs` 后，92 个带键 `TextObject` 的键集合和英文文本全部一致（92/92，无缺失键、无文本差异）。92 项包含 76 段人物回答以及任务标题、开场、日志等其他文本。先前“等待同版本采访文本”的来源缺口已经关闭；这项结论只涉及该任务文件，不等于已核验整个游戏的所有程序集或本地化资源。
+
+### 二、Solun／Gotug 名称校勘
+
+v1.4.8.119303 的蒙楚格回答键 `tBGtavMG` 明确写作 `their noyan, Solun, was slain`，与生效 `heroes.xml／dead_lord_6_2`（`dfmSNTZk`）一致；v1.4.5 对应文本也写 Solun。Gotug 不在这份官方采访文件中，而是玩家转录中出现的异文，故应按 B 级传抄差异处理，不再登记为已证实的官方版本冲突。I-0002、I-0003 中与此相反的旧记录需由总控线复核；本轮不直接修改公共索引。
+
+### 三、对战后袭掠因果链的影响
+
+墨速宜键 `i5OOargr` 现可作为与项目版本对应的 A2 级英文文本引用。她确实把战后其他氏族（`the Arkits in particular`）发现库吉特虚弱、畜群遭袭、抗议者被杀以及蒙楚格未有效制止，放在同一段叙事中。但 `Our herds were raided` 与 `Anyone who protested was killed` 均为被动结构，没有在各句中明确写出实施者。不能把这一段改写成已独立证实“阿契特实施了全部袭掠与杀人”；更准确的结论是，墨速宜把阿契特的机会主义、畜群损失与汗权保护失灵连成一项政治指控。
+
+蒙楚格键 `UVuwofhS` 没有承认授权袭掠；呼鲁那格键 `4Baa38ra` 支持库吉特战后变弱，却没有独立确认阿契特袭掠或抗议者被杀。因此，版本缺口已关闭，事件互证缺口仍在。文本足以证明官方叙事中存在保护责任争议，不足以重建具体袭掠事件、证明某块土地已经转移，或证明汗国存在正式战损补偿契约。
+
+### 四、下一步与停止条件
+
+不再把“取得同版本采访文本”或“Gotug／Solun 官方版本差异”列为待办。只有出现具名、定时的独立袭掠、调停、处罚或产权变动文本，才恢复具体战后事件史；现有 XML 归档已完成相关关键词排查，不重复搜索同一批文件。若没有新证据，下一项转向比较氏族继承与领地承接机制，检验墨速宜继任家主是否可被解释为普遍制度，还是个别政治安排。
+
+### 来源
+
+- BuildInfo：<https://github.com/Sartiye/Bannerlord-Taleworlds-Assembly-Decompiled-Archive/blob/3b60fca5c4980a1c4e71957ffad2af05f6739d0d/TaleWorlds.Library/BuildInfo.cs>
+- v1.4.8.119303 主线任务文本：<https://github.com/Sartiye/Bannerlord-Taleworlds-Assembly-Decompiled-Archive/blob/3b60fca5c4980a1c4e71957ffad2af05f6739d0d/StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs#L346-L363>
+- v1.4.5 比较文本：<https://github.com/BannerlordCode/bannerlord-1.4.5/blob/ccbc3d40f88905765a1484492d41b7000e7249fa/Bannerlord.Source/Modules.StoryMode/StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs#L532-L549>
+- 全体受访者键值与证词索引：<https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Interview-Source-Inventory-v0.2.md>
+
+版本说明：正文更新为 v0.7；不申请 H 编号，不修改公共 I/Q 索引。
