@@ -122,7 +122,8 @@
 - [CHC-EMP-GEN｜论文候选稿 v0.3 结构复审记录](history/country/EMP/imperial-local-order-paper-candidate-structural-review-v0.1.md)
 - [CHC-EMP-GEN｜反叛组织的资源、赞助与强制：第二篇候选专题卡 v0.1](history/country/EMP/imperial-rebel-organizations-resources-patronage-coercion-research-card-v0.1.md)
 
-- [CHC-EMP-ECO｜卡拉德帝国的区域经济网络：生产、交换与国家需求之间的证据边界（v0.2，未授H号）](history/country/EMP/imperial-regional-economic-network-evidence-v0.2.md) · 整合中东部/东南七项源级案例及C-52—C-54；多区域网络为可反驳工作模型。
+- [CHC-EMP-ECO｜卡拉德帝国的区域经济网络：生产、交换与国家需求之间的证据边界（v0.3，未授H号）](history/country/EMP/imperial-regional-economic-network-evidence-v0.3.md) · 已整合四城节点—接收端矩阵；多区域网络仍为可反驳工作模型。
+- [CHC-EMP-ECO｜卡拉德帝国的区域经济网络（v0.2历史快照）](history/country/EMP/imperial-regional-economic-network-evidence-v0.2.md) · 中东部/东南七项源级案例与C-52—C-54的首轮综合。
 - [CHC-EMP-GEN｜帝国聚落史料统一源级主题表 v0.1](history/country/EMP/imperial-settlement-source-ledger-v0.1.md) · 116条聚落历史叙述的统一源级主题表。
 - [帝国中东部与东南生产地—商品—接收方摸底 v0.2](geo/03/HUM/imperial-central-southeast-production-chain-survey-2026-10-26.md) · 源级复核备忘，不是正式问题8。
 
