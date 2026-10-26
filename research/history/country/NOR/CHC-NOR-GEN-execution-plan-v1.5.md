@@ -143,6 +143,8 @@
 
 ### 第5.1批｜哈尔达尔时期可重复王权能力检验（第一轮完成，空白保留）
 
+交付物：research/history/country/NOR/CHC-NOR-GEN-halthdar-kingship-continuity-control-v0.2.md；Google Docs 原件：https://docs.google.com/document/d/1T8qFxZZu621hxrndEmIIimrqR0k5EGnJALqzP6zNOgM/edit。
+
 已直接读取 Native、SandBox、SandBoxCore、StoryMode 与 NavalDLC 五个官方模块 ZIP。五个 ZIP 的 SHA-256 均与 research/source-archives/README.md 登记值一致。审计范围为归档的 67 个候选 XML，不宣称覆盖整个游戏资源目录。
 
 本轮直接结果：
