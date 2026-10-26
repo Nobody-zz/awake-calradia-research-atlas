@@ -359,7 +359,7 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 
 - [聚落文本版本与官方简中同步审计](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/settlement-text-version-and-localization-audit-2026-10-24.md)：SandBox v1.4.8与NavalDLC v1.2.8的聚落ID、英文实体名、文本键、英文/简中语言表差异及核心案例。
 - [全大陆人文地理核心断言—证据绑定表](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/claim-evidence-crosswalk-2026-10-24.md)：问题1—7、城市体系总论和跨区域比较的28条首轮断言绑定。
-- [跨区域土地—劳动—资源控制—收益分配证据矩阵](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/cross-regional-land-labour-resource-benefit-matrix-2026-10-24.md)：统一的比较边界、证据等级和后续任务。
+- [跨区域土地—劳动—资源控制—收益分配证据矩阵 v0.2](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/cross-regional-land-labour-resource-benefit-matrix-2026-10-24.md)：统一的比较边界、证据等级和后续任务。
 - [全大陆覆盖审查与优先问题图谱](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/continental-human-geography-first-round-audit-2026-10-24.md)：包含原始ZIP全量键集合比较与中文导出来源边界。
 - [工作簿｜版本差异审计](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1907932238)、[断言—证据绑定](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1515316224)、[导出文本来源审计](https://docs.google.com/spreadsheets/d/1AhHFqkthvBHdyGecS32XUiTU0s3CPSMMarOexMQvy-Q/edit#gid=1616318933)。
 
@@ -586,4 +586,4 @@ CGEO-S-HUM-001已修订为v0.2。正文按历史问题与社会空间机制重�
 
 ## 2026-10-26｜人文地理研究资产结构审查
 
-已形成[《历史人文地理研究资产与证据结构审查》](../03/HUM/human-geography-research-asset-architecture-review-2026-10-26.md)。本轮以现有资产为基础，不新增正式问题8；工作簿当前为53条核心证据、54条唯一断言和61条版本差异审计。下一阶段优先建立跨区域“生产者—产出—接收方/用途—政治关系—空间锚点—文本版本”比较矩阵，修订HUM-001 v0.5，并先处理GitHub/Google Docs版本同步，不再扩充地域清单。
+已形成[《历史人文地理研究资产与证据结构审查 v0.2》](../03/HUM/human-geography-research-asset-architecture-review-2026-10-26.md)，并将跨区域证据矩阵升级为v0.2。工作簿实读为53条核心证据、54条唯一断言和61条版本差异审计；GitHub中的当前计数冲突与复核队列状态已校正。本轮不新增正式问题8。下一阶段优先建立跨区域“生产者—产出—接收方/用途—政治关系—空间锚点—文本版本”比较矩阵，修订HUM-001 v0.5，并处理GitHub/Google Docs版本同步，不再扩充地域清单。
