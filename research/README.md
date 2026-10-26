@@ -2,8 +2,10 @@
 
 ## source-archives
 
-- [Native Main_map 原始资源与校验清单](source-archives/native-main-map/README.md) · [CSV](source-archives/native-main-map/manifest.csv) · [Google Drive原始资料库](https://drive.google.com/drive/folders/17y4EwetqNlFBW1Zf_d_CP4yrdyjmr8Rm)
-- [War Sails Main_map 原始资源与校验清单](source-archives/war-sails-dlc/README.md) · [CSV](source-archives/war-sails-dlc/manifest.csv) · [Google Drive独立文件夹](https://drive.google.com/drive/folders/1NONLB02YC62RM5D_-JUcFV0QbnkgeIIW)
+- [双版本 Main_map 统一清单](source-archives/main-map-manifest.csv)
+- [Native Main_map 原始资源与校验清单](source-archives/native-main-map/README.md) · [CSV](source-archives/native-main-map/manifest.csv) · [GitHub 已提交二进制](source-archives/native-main-map/files/) · [Google Drive 原始资料库](https://drive.google.com/drive/folders/17y4EwetqNlFBW1Zf_d_CP4yrdyjmr8Rm)（Drive 5/5 已校验；GitHub 二进制 2/5）
+- [War Sails Main_map 原始资源与校验清单](source-archives/war-sails-dlc/README.md) · [CSV](source-archives/war-sails-dlc/manifest.csv) · [GitHub 已提交二进制](source-archives/war-sails-dlc/files/) · [Google Drive 独立文件夹](https://drive.google.com/drive/folders/1NONLB02YC62RM5D_-JUcFV0QbnkgeIIW)（Drive 7/7 已校验；GitHub 二进制 4/7）
+- [CGEO-MAP-RES-019｜双版本原始资源校验与河流表示结构对照](geo/90/EVD/CGEO-MAP-RES-019.md) · [复算脚本](geo/90/EVD/CGEO-MAP-RES-019_verify_source_archives.py)
 
 ## geo/00
 
