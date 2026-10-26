@@ -222,7 +222,7 @@ CGEO-S-BIO-001《卡拉迪亚大陆植被与自然景观研究——森林类型
 
 ### 历史人文地理线第三轮（2026-10-24）｜卡拉德北方边疆的土地改造与农业地域
 
-论文研究初稿v0.1：《卡拉德北方边疆的土地改造与农业地域——从元老院授地、河谷耕作到林地牧场的历史地理分析》。[GitHub正文](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/imperial-northern-frontier-landscape-and-estates-2026-10-24.md)；[Google Docs正文](https://docs.google.com/document/d/1yH8EtspASm4a9LYwph4AwUIZki7x_212KZALNC4FIK4/edit)。作为CGEO-S-HUM方向的**独立工作论文**，仍不占正式新CGEO编号，不修改CGEO-S-HUM-001的既定内容。
+论文修订稿v0.2：《卡拉德北方边疆的土地改造与农业地域——从元老院授地、河谷耕作到林地牧场的历史地理分析》。[GitHub正文](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/imperial-northern-frontier-landscape-and-estates-2026-10-24.md)；[Google Docs正文](https://docs.google.com/document/d/1yH8EtspASm4a9LYwph4AwUIZki7x_212KZALNC4FIK4/edit)。2026-10-26修订了摘要与研究问题，突出“统一农业化”与“选择性土地改造、既有生计并存”之间的竞争解释，并将版本与中文来源校勘移至[独立研究日志](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/imperial-northern-frontier-landscape-and-estates-research-log-2026-10-26.md)。作为CGEO-S-HUM方向的**独立工作论文**，仍不占正式新CGEO编号。
 
 依据SandBox北帝国aEfsyVH4的原始英语“marcher lords”“pacified”“They drained marshes ...”等，以及聚落village_EN1_2、EN3_1、EN4_2、EN5_1、EN5_2、EN5_4、EN6_1、EN4_4。主结论：王国史述直接将授地、防边、排沼垦谷、伐林改牧相联，但微观村志无法逐村定位排沼工程；北方雨养麦地、肥土冲积谷地、尚存森林的牧马坡地、军用育马场、桑树梯田、灌丛清理、湖岸渔业与帕拉语林农共同构成多样农业地域。西部涅俄科律斯的地主近期清林建马场只能作外部比较，不能伪作北方工程证据。与CHC-EMP-GEN土地—军役研究交叉，却不重复元老院产权政治史。
 
