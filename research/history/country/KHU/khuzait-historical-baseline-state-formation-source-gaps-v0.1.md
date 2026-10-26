@@ -262,7 +262,7 @@ Bannerlord v1.4.5 反编译代码已恢复蒙楚格（lord_6_1）、墨速宜（
 
 ### 跨文档校勘候选：Solun／Gotug
 
-直接复核 BannerlordCode/bannerlord-1.4.5 的固定文件 BannerInvestigationQuest.cs（blob SHA dfe5b4ebf469860d08014ae6926a0d5ef40e9146）及文本键 tBGtavMG，蒙楚格对白写的是 Solun，而不是 Gotug；项目 v1.4.8.119303 的有效 heroes.xml／dfmSNTZk 同样记载 Solun。当前有效 heroes.xml 另有独立人物 Kuyug（CCfjl9eU），其所属为阿契特；他不是岁仑，现有文本也没有把他明确连到潘德拉克战死事件。
+直接复核 BannerlordCode/bannerlord-1.4.5 的固定文件 BannerInvestigationQuest.cs（blob SHA dfe5b4ebf469860d08014ae6926a0d5ef40e9146；来源链接：https://github.com/BannerlordCode/bannerlord-1.4.5/blob/main/Bannerlord.Source/Modules.StoryMode/StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs）及文本键 tBGtavMG，蒙楚格对白写的是 Solun，而不是 Gotug；项目 v1.4.8.119303 的有效 heroes.xml／dfmSNTZk 同样记载 Solun。当前有效 heroes.xml 另有独立人物 Kuyug（CCfjl9eU），其所属为阿契特；他不是岁仑，现有文本也没有把他明确连到潘德拉克战死事件。
 
 因此，I-0003 v3.17 的 D-0087、P-0106 与 I-0002 第44项中“v1.4.5 反编译对白使用 Gotug”的表述，与所引固定源文件不一致，应在协调复核时重新校勘。本轮依工作边界不修改 I-0002、I-0003 或任何公共索引。当前可确认的是：所引 A2 源文件和 v1.4.8 有效人物档案均写 Solun；Gotug 的来源及其与其他名字的关系仍须追查。
 
