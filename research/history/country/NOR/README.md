@@ -16,7 +16,7 @@
 - [CHC-NOR-GEN｜社会群体覆盖与证据单位审计（v0.1）](CHC-NOR-GEN-social-coverage-audit-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1H7hibK338Ibk8WPLu2fJc6Wp2nmIkIFQyOvx0fyYERA/edit)。综合现有 SOC/ECO/REL 工作稿，区分已覆盖的社会群体、单一个案、制度未证命题和资料缺席领域。
 - [CHC-NOR-GEN｜跨国史料核验第一批（v0.1）](CHC-NOR-GEN-cross-line-verification-batch-01-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1QrgaFH7ZpsmSjJp7dcwmCdInHpiGGmvFH8PQH3ux9Cc/edit)。逐条核验安普雷拉、厄毗诺萨、拉达克梅德与迪纳尔，识别版本差异、直接事实与不能推出的结论。
 - [CHC-NOR-GEN｜迪纳尔“近期诺德扩张”来源归属检验（v0.2）](CHC-NOR-GEN-dinar-nord-expansion-linkage-test-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/1sa8yM89qhRQinoZ7naMc6ed_-lx36PenShM3rMLLxfk/edit)。新增朱姆内移民第一人称自述、东向聚落及雅尔属员前哨材料；具体事件仍未具名。
-- [CHC-NOR-GEN｜诺德史跨国关系首轮对照登记册（v0.7）](CHC-NOR-GEN-cross-line-relations-register-v0.7.md) · [Google Docs 原件](https://docs.google.com/document/d/1ijeX1lpQB2Fo1QKFj39yDsSkQhw3x1QoI3Iv0Kja2qs/edit)。新增 STU 王公世袭、西比尔税役、巴尔加德传说等北方制度史比较接口。
+- [CHC-NOR-GEN｜诺德史跨国关系首轮对照登记册（v0.8）](CHC-NOR-GEN-cross-line-relations-register-v0.8.md)。新增“Nord - Gundaroving”编辑注释的版本归属审计，确认旧版原件不可得并限定后续差分条件；保留 STU 王公世袭、西比尔税役、巴尔加德传说等既有接口。
 - [CHC-NOR-GEN｜诺德史时间—空间骨架：第一轮可核验重建（v0.1）](CHC-NOR-GEN-time-space-skeleton-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1FV6mNMfw9pcJrlB9ak3uxnG6h5-zEqhEP-rXMwB_MsA/edit)。以相对年代与区域为单位，整理北方沿海、贝恩兰、朱姆内河谷、接触地带和海外网络，标注原文键、未决关系和跨线接口。
 - [CHC-NOR-GEN｜诺德史历史关系卡：区域、迁徙、权力与跨境网络（第一批 v0.1）](CHC-NOR-GEN-historical-relations-cards-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1Ohnbucw3BMQfGnx__fDpM-F0ppOECKdMoi6RpeXAYVg/edit)。首批21张关系卡将现有材料跨越区域、时间、社会群体和国家边界重新排列；它们是起始样本，不是完整覆盖，也不代表各条关系已完成他国线独立互证。
 
