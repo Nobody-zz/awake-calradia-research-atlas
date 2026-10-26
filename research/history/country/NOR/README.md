@@ -12,7 +12,7 @@
 - [CHC-NOR-GEN｜哈尔达尔时期王权的持续性与实际控制范围（v0.3）](CHC-NOR-GEN-halthdar-kingship-continuity-control-v0.3.md) · [Google Docs 原件](https://docs.google.com/document/d/1T8qFxZZu621hxrndEmIIimrqR0k5EGnJALqzP6zNOgM/edit)。纳入官方预发布开发日志对“son/sons”差异的校核；哈尔达尔可重复统治能力仍未证实。
 - [CHC-NOR-GEN｜八条遗漏定居点地志补充分析（v0.1）](CHC-NOR-GEN-uncovered-settlement-gazetteer-analysis-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1zjOF_xww0rjzef0dUct3vRaeFtyuuqvQabL0O7Ukx08/edit)。逐条分析 Lagshofn、Vorfjall、Dagby、Nifdal、Aalgrun、Dorstrand、Ostrif、Holarsver，并记录英文—简中校勘与可支持命题。
 - [CHC-NOR-GEN｜氏族与诺德定居点地志覆盖审计（v0.2）](CHC-NOR-GEN-clan-settlement-description-coverage-audit-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/1UkObYQgbsj479hfg-jfMXEfg_eUf3DfNrPQ7ii7S95k/edit)。核对9个氏族节点、5条人物传记、47个诺德文化聚落节点；八条遗漏地志已完成首轮分析，跨线核验待办。
-- [CHC-NOR-GEN｜下一阶段执行计划与验收门槛（v1.6）](CHC-NOR-GEN-execution-plan-v1.6.md) · [Google Docs 原件](https://docs.google.com/document/d/1seXHrxOiWcTj1x1lXnGsGO46LJ4JefliaobuXi7NtTU/edit)。已完成王权行动矩阵与官方非 XML 材料检索；下一步须取得候选集外的完整模块叙事资源。
+- [CHC-NOR-GEN｜下一阶段执行计划与验收门槛（v1.7）](CHC-NOR-GEN-execution-plan-v1.7.md) · [Google Docs 原件](https://docs.google.com/document/d/1seXHrxOiWcTj1x1lXnGsGO46LJ4JefliaobuXi7NtTU/edit)。执行重心改为跨区域相对年代、因果关系与国家形成机制比较；候选集外资源只在具体解释需要时定向核查。
 - [CHC-NOR-GEN｜社会群体覆盖与证据单位审计（v0.1）](CHC-NOR-GEN-social-coverage-audit-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1H7hibK338Ibk8WPLu2fJc6Wp2nmIkIFQyOvx0fyYERA/edit)。综合现有 SOC/ECO/REL 工作稿，区分已覆盖的社会群体、单一个案、制度未证命题和资料缺席领域。
 - [CHC-NOR-GEN｜跨国史料核验第一批（v0.1）](CHC-NOR-GEN-cross-line-verification-batch-01-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1QrgaFH7ZpsmSjJp7dcwmCdInHpiGGmvFH8PQH3ux9Cc/edit)。逐条核验安普雷拉、厄毗诺萨、拉达克梅德与迪纳尔，识别版本差异、直接事实与不能推出的结论。
 - [CHC-NOR-GEN｜迪纳尔“近期诺德扩张”来源归属检验（v0.3）](CHC-NOR-GEN-dinar-nord-expansion-linkage-test-v0.3.md) · [Google Docs 原件](https://docs.google.com/document/d/1sa8yM89qhRQinoZ7naMc6ed_-lx36PenShM3rMLLxfk/edit)。补入官方预发布开发日志与地图博客的外部校核；具体扩张事件仍未具名。
@@ -20,7 +20,7 @@
 - [CHC-NOR-GEN｜诺德史时间—空间骨架：第一轮可核验重建（v0.1）](CHC-NOR-GEN-time-space-skeleton-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1FV6mNMfw9pcJrlB9ak3uxnG6h5-zEqhEP-rXMwB_MsA/edit)。以相对年代与区域为单位，整理北方沿海、贝恩兰、朱姆内河谷、接触地带和海外网络，标注原文键、未决关系和跨线接口。
 - [CHC-NOR-GEN｜诺德史历史关系卡：区域、迁徙、权力与跨境网络（第一批 v0.1）](CHC-NOR-GEN-historical-relations-cards-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1Ohnbucw3BMQfGnx__fDpM-F0ppOECKdMoi6RpeXAYVg/edit)。首批21张关系卡将现有材料跨越区域、时间、社会群体和国家边界重新排列；它们是起始样本，不是完整覆盖，也不代表各条关系已完成他国线独立互证。
 
-- [CHC-NOR-GEN｜诺德史研究矩阵与下一阶段路线图（v0.1）](CHC-NOR-GEN-research-matrix-and-route-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1nBFx7NXTQaS_sYw58LdmMw_NkrSp9Q_ng3eC6sqRPA8/edit)。这是当前诺德线的总工作路线，不是历史事实论文。它将现有政治、经济、社会、亲属、宗教和海上劳动稿件重新连接到时间—空间骨架、跨区域关系与全大陆宏观模型。POL v0.4 的“征服加强臣属关系”只是一个子问题，不代表诺德史总方向。
+- [CHC-NOR-GEN｜诺德史研究矩阵与下一阶段路线图（v0.2）](CHC-NOR-GEN-research-matrix-and-route-v0.2.md) · [Google Docs 原件](https://docs.google.com/document/d/1nBFx7NXTQaS_sYw58LdmMw_NkrSp9Q_ng3eC6sqRPA8/edit)。新增已有资产—全大陆问题—竞争模型映射、五项高影响缺口和首轮因果边审计；不新增论文、不扩大无目标源级检索。
 
 ## 已形成的研究稿
 
