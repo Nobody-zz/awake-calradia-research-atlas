@@ -737,7 +737,6 @@ S-0081补充：公开的 BannerlordCode/bannerlord-1.4.5 反编译文件 BannerI
 - 斯特吉亚：Raganvad lord_2_1（lIArdHty、RtryETdA、flGyoqa6、Ri6NmpEE）；Olek lord_2_3（X3pDRmjK、scjogyUD、sJoO1JzN、sSaZVD2e）；Godun lord_2_5（jGhWOnjx、ZkSthA9d、3BjIb3CG、ez4rbGmx）。
 - 帝国：Lucon lord_1_1（yRAl8YRL、bdbZLJf3、CRmUZvaW、wajioDaK）；Penton lord_1_5（HL9lzfjY、iQrwsvb1、aYozMy3Z、cYibaPhn）；Garios lord_1_7（kJwV17Jx、Os79KwFa、AGIPUYvy、4IS4Lou7）；Rhagaea lord_1_14（sn3Eabme、AhWyBEhd、kdR3CeL8、9aYCfBVz）。
 
-P-0105【A2：官方游戏对白经反编译源码恢复；C：跨国记忆与战争后果解释】十九名潘德拉克采访对象的官方英文回答现已从 v1.4.5 反编译任务代码中定位，覆盖六种文化／政治势力。其共同叙事不是一份统一战报，而是围绕不同损失与政治利益形成的互相冲突记忆：帝国人物争论涅雷采斯是否轻率、瓦兰迪亚是否背誓及阿雷尼科斯如何救出残军；斯特吉亚人物争论战场功劳、王权继承与帝国龙旗归属；巴旦尼亚人物争论埃里尔的休战誓约、卡拉多格的战争动员与盟军功劳；库赛特人物记述雇佣军银钱、克吉特氏族损失与战后被袭；阿塞莱人物把战争招募同尼姆尔的声望、巴努·基尔德与巴尼·萨兰的血仇联系起来。此共同框架可以支撑“潘德拉克既是军事失败，也是跨区域社会关系的重组节点”的解释，但各人的说法并非独立外部互证，且不同人物对同一战场的时间顺序、责任和胜利归属互有矛盾。v1.4.8.119303版本逐字核验仍待完成。
 
 
 ## 潘德拉克同版本采访文本核验增量登记（2026-10-26）
