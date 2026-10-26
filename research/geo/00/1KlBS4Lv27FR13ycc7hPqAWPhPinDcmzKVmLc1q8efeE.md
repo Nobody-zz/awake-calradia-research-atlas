@@ -449,3 +449,8 @@ GitHub Markdown：[自然地理研究问题图谱与证据矩阵](natural-geogra
 
 ### 官方中文聚落名校勘（2026-10-25）
 已按官方 `encyclopedia-zh-cn.md` 的Native来源标题，将基础版53座城镇按 `town_ID` 逐项复核；13个旧标签已改正，所有同ID标题有据的城镇名已从“研究暂译／待核”改为“官方百科标题确认”。Native.zip未含原始 `std_common_strings_xml-zho-CN.xml`，故不声称已在压缩包中重提独立名称键。已修正人文地理论文中的“佛林／乌特海姆／弗林托尔格”，统一为官方简中地志正文用名“福林／乌瑟莱姆／弗林托格”；水文论文Argoron统一为“阿耳戈隆”。另明确记录NavalDLC的Kohi Ajik/Tismil名称键错配及Etirfurd→Echarfurd后中文键沿用旧值。完整记录见[CGEO-TOP-AUD-002](../90/EVD/CGEO-TOP-AUD-002.md)与[CGEO-MAP-RES-014](../90/EVD/CGEO-MAP-RES-014_settlement_chinese_name_register.md)，完整53城表见[Google Sheets](https://docs.google.com/spreadsheets/d/1AUwlHE6FxnbYaLlbUSZpXlaqOWxEeXYEkrJOFFROOIM/edit)。
+
+
+### 2026-10-26｜城市体系总论转向历史地理论证
+
+CGEO-S-HUM-001已修订为v0.2。正文按历史问题与社会空间机制重新组织，主论证聚焦政治中心转移、殖民文化与主权错位、资源生产与市场集散、草原边缘军事需求，以及城市腹地的不同关系类型；不再将版本校勘和项目文本来源记录混排在正文。原有阶段性补正、版本审计与本地化来源核验已迁至[《城市形成与聚落体系研究：研究过程与史料校勘日志》](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/CGEO-S-HUM-001-research-log-and-source-audit-2026-10-26.md)。此次修订不新增证据ID，也不把直接地志记载扩展为未证实的统一市场或制度。
