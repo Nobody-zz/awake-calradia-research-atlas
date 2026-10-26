@@ -7,7 +7,7 @@
 现有材料支持一个受限的工作模型：军事征服提高了可汗组织出征的能力；授地、筑堡资金及对地方生产者的控制，为贵族提供持续资源；但这些资源也让氏族保有自己的利益基础，并继续争论谁有资格授地、谁应服从、谁有义务提供兵员，以及可汗是否履行保护责任。这不是“中央集权必然增强”的单线过程，也尚不足以证明汗国已有统一税籍、固定兵额、成文封地法或完整官僚机构。
 本轮不把既有《领地、誓约与汗权》重新抄写一遍。它已经处理了兀儿浑的征服权威、授地叙述与条件效忠；新摸底要把未解决的问题分开，尤其检验不同生产者所承担的义务、城市的不同政治路径，以及“历史授地”与“当前配置所有权”不能直接互换的证据问题。
 ## 二、资料基础与证据纪律
-本轮核对了库赛特历史摸底 v0.5、领地誓约与汗权 v0.7、兀儿浑与旧强宗专题 v0.1、I-0003 v3.18、I-0002 v3.48、潘德拉克采访索引 v0.2，以及斯特吉亚跨线证据交接单 v0.5。I-0003 已新增 S-0082 并修正 D-0087、D-0091、D-0092 与 P-0106；I-0002 已登记本图谱与版本差分结论。Gotug 仅见于玩家转录，两个已核 A2 版本均写 Solun；奥列克时序张力仍开放。
+本轮核对了库赛特历史摸底 v0.6、领地誓约与汗权 v0.7、兀儿浑与旧强宗专题 v0.1、I-0003 v3.18、I-0002 v3.48、潘德拉克采访索引 v0.2，以及斯特吉亚跨线证据交接单 v0.5。I-0003 已新增 S-0082 并修正 D-0087、D-0091、D-0092 与 P-0106；I-0002 已登记本图谱与版本差分结论。Gotug 仅见于玩家转录，两个已核 A2 版本均写 Solun；奥列克时序张力仍开放。
 证据层级：A 为有效游戏 XML 与对应官方语言表；A2 为第三方反编译恢复的官方对白；B 为玩家转录；C 为有材料基础、仍须反证的解释；D 为尚无实质支持的猜想。英文原文优先，官方简中用于核名和校勘，不作为第二份独立史料。
 Sartiye 归档 BuildInfo 明确标记 v1.4.8.119303；其 BannerInvestigationQuest.cs 中 92 个带键 TextObject 与 v1.4.5 反编译文件逐项一致（92/92）。该文件是第三方反编译成果，不是 TaleWorlds 官方发布的原始源码。Gotug 仅见玩家转录；两个已核 A2 版本均写 Solun。
 ## 三、历史问题图谱
@@ -48,7 +48,7 @@ Sartiye 归档 BuildInfo 明确标记 v1.4.8.119303；其 BannerInvestigationQue
 第四步只做有限跨线比较：人文地理线提供生产方式与空间关系；潘德拉克线提供战役损失与 A2 证词；斯特吉亚线提供婚盟／复仇材料的版本与来源等级。若没有新的独立事件记录，停止追查无法定位的袭掠年份，回到税役、保护和交换的制度问题。
 停止条件：六组案例都能说明文本直接写了什么、行动者是谁、义务是什么、反例在哪里、还缺什么证据时，第一阶段结束。没有税簿、人口数据和连续地产记录，就不量化税率、征兵率、产出或财富份额。
 ## 九、资料入口
-库赛特研究摸底 v0.5：https://docs.google.com/document/d/155Ffz3tilVMsnw0-R9jgrYkO2G1Tanhwzc_3TWznpOI/edit
+库赛特研究摸底 v0.6：https://docs.google.com/document/d/155Ffz3tilVMsnw0-R9jgrYkO2G1Tanhwzc_3TWznpOI/edit
 库赛特领地、誓约与汗权 v0.7：https://docs.google.com/document/d/1DrcLFhH65KeOF8oL-Q59ChN25dR1WV91-dl4vMz_l5M/edit
 兀儿浑与旧强宗专题 v0.1：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/KHU/khuzait-urkhun-authority-older-clans-p1-v0.1.md
 I-0003：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md
