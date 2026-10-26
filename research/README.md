@@ -1,5 +1,10 @@
 研究 Markdown 快照以 GitHub 为版本管理与交付主仓库，Google Docs 保留原件；两者不会自动同步，重要修订后须逐段对照。国别并行试行启动包v0.1已准备（2026-10-24）：三条独立对话分别以CHC-EMP-GEN、CHC-VLA-GEN、CHC-STU-GEN开展首轮国别摸底；当前对话保留中央协调，公共I/Q索引由协调线统一维护，三个国别线分别拥有建议的独立研究文件区。启动包附三段可直接发给各自新对话的交接提示；这些新对话尚须用户自行创建和启动，并不自动后台研究。新立的国别及跨国研究在摸底、阶段稿、待审阶段统一按I-0004 v2.2 CHC分类＋题名＋文档链接归档；同一类别可收多篇，CHC不是独立文档号。国别研究允许分对话独立积累但共享I-0003事实／争议档案；H编号仅为满足内部完整论文标准后的成果序号，现有H-0001—H-0005保留，未预分配H-0006。当前工作方向不再按手头已完成的论文递推：以全大陆各历史共同体的形成、演变、互动与1084年前后多元格局为总问题，从研究对象、时期、领域和证据来源四方面先建立总体摸底，再用跨区域比较和明确反例决定正式论文的先后顺序。最新已核验的工作基底为《全大陆史料覆盖摸底与历史问题图谱》v0.1（非H/I/Q编号），包含67份清单对54份实得XML的覆盖差异、六大主要文化与九项王国历史概述的初步比较、原版493/有叙事327与DLC540/有叙事365聚落、271处英文异文的字面统计、55项历史研究问题及帝国中心／自主国家形成／边疆互动三个竞争解释。后续先核对国家之间的财富、军役、土地、贸易、婚姻、宗教与迁徙关系，标出相对年代与史料语气；不能因新的有趣事件立即开一篇论文，也不把分类法误作研究纲领。Q-0013现更新至v0.5，继续执行全大陆问题导向研究；I-0002现更新至v3.47、I-0003现更新至v3.17。潘德拉克独立战役工作稿更新为v0.3：公开的Bannerlord v1.4.5反编译C#代码已恢复主线采访英文字符串，相关文本可列A2（官方游戏对白经反编译源码恢复）；但它不是TaleWorlds官方发布的原始源码，且尚未与项目所存v1.4.8.119303程序集逐字比对。StoryMode.zip的有限XML确实未提供完整采访对白，但这不再等于“无可核查原文”。2020、2026玩家转录继续作为B级传抄材料，用于对读和发现逐词差异，不与其所抄的官方对白计作独立互证。I-0003 v3.17另将“年长的”奥列克折旗时序及岁仑／Gotug名称差异升级为跨版本官方文本一致性问题：v1.4.8有效人物档案与v1.4.5反编译对白存在差异，须待同版本运行时核验。英文原始版本、官方简中及开发博客保持史料层次区别，地图版本差异不等于历史地形变化；Q5-09仍开放，H-0006未分配，已签发正典不变。当前登记日期：2026-10-24。
 
+## source-archives
+
+- [Native Main_map 原始资源与校验清单](source-archives/native-main-map/README.md) · [CSV](source-archives/native-main-map/manifest.csv) · [Google Drive原始资料库](https://drive.google.com/drive/folders/17y4EwetqNlFBW1Zf_d_CP4yrdyjmr8Rm)
+- [War Sails Main_map 原始资源与校验清单](source-archives/war-sails-dlc/README.md) · [CSV](source-archives/war-sails-dlc/manifest.csv) · [Google Drive独立文件夹](https://drive.google.com/drive/folders/1NONLB02YC62RM5D_-JUcFV0QbnkgeIIW)
+
 ## geo/00
 
 - [CGEO｜论文总索引与研究规范（v1.1）](geo/00/1KlBS4Lv27FR13ycc7hPqAWPhPinDcmzKVmLc1q8efeE.md) · [云盘原件](https://docs.google.com/document/d/1KlBS4Lv27FR13ycc7hPqAWPhPinDcmzKVmLc1q8efeE/edit)
