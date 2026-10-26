@@ -21,6 +21,13 @@
 | `scene.xscene` | 21,127,988 | `1fb8bb08210a377fb727dc9e69454f0368254f28f317cb81c5db2569e3862ebc` | [打开](https://drive.google.com/file/d/1iM3fBTTuoS9l0xj_-k3jqtrPmB_me1oR/view) |
 | `terrain.bin` | 28,336,976 | `56c3a0663fb2bf8404210772e187dcd707eb64d8b7e9b5496dfb509bdc3ea9fd` | [打开](https://drive.google.com/file/d/1JVKDyLKOfWuphEdy4gdchScbFdu4ftPw/view) |
 
+## 归档状态（2026-10-26复核）
+
+- Google Drive 文件夹已列出全部 7 个预期文件，文件名与大小均可见；原始文件夹链接可访问。
+- GitHub 已保存本目录的 README 与 manifest.csv，并由 `research/README.md` 索引。
+- **GitHub 当前不包含七个二进制／原始文件的完整 Git blobs。** 由于连接器对大体积二进制的提交不稳定，本次没有将“已保存到 Drive”误报为“已提交到 GitHub”。研究时以 Drive 原件为数据源，GitHub 负责版本化清单、校验值和来源记录。
+- 当前对话中部分原始上传附件已过期或不再挂载；这不影响已核验的 Drive 文件副本。若要在当前运行环境重新逐字节解码、重新计算全部 SHA-256 或做文件级分析，需要重新上传相应原始文件，或从 Drive 重新取回其原始字节。
+
 ## 归档规则
 
 1. 文件名前缀和文件夹均明确标识 `WarSails`，与 Native 原版隔离。
