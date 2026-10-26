@@ -16,7 +16,7 @@
 
 需要修正或降级的旧条目：
 
-1. **Charas — Charasea 不得再作为同一地点的异名候选。** Pravend 的描述说 Paravenos 取代 Charasea 成为首都；Charas 则有独立的城镇 ID。现有原文没有把 Charasea 等同于 Charas。两者名称相近不构成同地证据。
+1. **Charas — Charasea 不得列为已确认异名，但应保留为高优先级候选。** town_V7 的英文描述先介绍“如今称为 Charas”的城市，随后在同一段叙述中以 Charasea 继续讲述其帝国时期港口史；town_V3 又称 Paravenos 取代 Charasea 成为首都。这种叙事连续性使两者可能是同一地点的历史形式，但原文没有明确写出“formerly known as”，而项目中文描述又省略了 Charasea。暂列“可能同一地点、关系未明”，不自动合并，也不直接判为异地。
 2. **Rovalt — Rovalatys 是未解决的文本字段冲突，不是已证实的异名。** 两个版本的聚落主名字段都写 Rovalt，但描述正文开头写 Rovalatys；简中条目名与描述正文也存在相应差异。暂不改动正典中文名。
 3. **Sargot 的“设防营地”是词义／地名类型解释，不是另一正式城名。** 原文没有给出该城此前使用的帝国专名。
 4. **Akkalat 的 “the White Fortress” 是名称释义，不应另建成一个已证实的平行专名。** 原文把 Akkalat 说成库赛特人使用的称名，但没有给出一个可确认的达西旧名。
@@ -94,7 +94,7 @@
 | village_V1_2 | 英文回退名从 Etirfurd 变为 Echarfurd；描述被重写；中英文名键仍保留旧简中“埃蒂尔菲德”及旧描述 | 版本级名称／文本重写冲突。保留正典译名，暂不解释为世界内部更名 |
 | village_K2_2 与 castle_village_K7_2 | 两条记录的英文名称和描述在两个版本之间互换；中文名称键仍分别保留“帖斯密勒”和“柯希·阿吉克” | 成对审计。先核对 ID 与聚落类型映射，不从坐标差异推断迁移 |
 | town_V9 | 主名 Rovalt，描述正文开头 Rovalatys；两个版本均如此 | 未解决的字段拼写冲突，不认定为异名 |
-| town_V7 / town_V3 | Charas 与 Charasea 曾被旧清单列为候选关系，但原文只明确说 Paravenos 取代 Charasea 成为首都 | 撤销同地候选关系；保持实体分离 |
+| town_V7 / town_V3 | 同一英文段落先介绍现名 Charas，随后使用 Charasea 叙述帝国时期港口史；另一城镇条目说明 Charasea 曾是首都 | 保留为高优先级候选，不列为已确认异名；项目中文描述省略 Charasea，需继续核验 |
 | castle_village_ES4_2 | DLC 英文描述已换成另一段内容，简中表仍保留基础版的 Nahr al-Kals／Calsa 河流记述 | 这些异名只可作为基础版来源证据，不能不加版本说明地引用为当前 DLC 英文叙述 |
 
 ### P1：名称和本地化差异
@@ -166,7 +166,7 @@
 - calradia-settlement-name-relations-v0.1.csv：聚落异名、文化称名、词义释义、人物别名排除项及未解决的同地关系候选。
 - regional-name-relations-v0.1.csv：跨文化区域称名、版本措辞变体、词义释义及中文名称碰撞。
 - settlement-version-conflicts-v0.1.csv：高影响聚落名称／描述键冲突、版本文本差异及处理边界。
-- calradia-settlement-cultural-names-inventory-v0.1.md：原始首轮清单，保留作历史记录；其中 Charas—Charasea 候选关系应以本审查的“不合并”结论为准。
+- calradia-settlement-cultural-names-inventory-v0.1.md：原始首轮清单，保留作历史记录；其中 Charas—Charasea 应以本审查的“高优先级候选、未确认异名”状态为准。
 
 ## 七、下一步最小闭环
 
