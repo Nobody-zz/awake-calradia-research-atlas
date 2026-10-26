@@ -78,10 +78,11 @@
 - [Q-0013｜全大陆问题导向研究执行纲领（v0.5；CHC先行与国别并行）](history/02/Q-0013-stage-review-and-research-redirection.md) · [云盘原件](https://docs.google.com/document/d/1p9844oEQ-kO7I7h5R_ymuU8SJ3I4Al-0prXki6f27mc/edit)
 ## history/03
 
-- [CHC-ASE-GEN｜阿塞莱历史史料覆盖、社会结构与重大研究问题（阶段调查 v2.6；共同体身份、多路径整合、乡村生产与非贵族社会；已拆出CHC-KAN-MAR；未授H号）](history/03/CHC-ASE-GEN-aserai-historical-source-social-questions.md) · [Google Docs v2.6](https://docs.google.com/document/d/1jTuvKtdc4nPX5dnWHH1_3SylPG9pwq_BDNqoGvdlHbY/edit)
+- [CHC-ASE-PLAN｜阿塞莱政治史与社会经济史的分工、证据缺口及论文优先级（v0.1；非H编号）](history/03/CHC-ASE-PLAN-political-and-socioeconomic-boundaries.md) · [Google Docs v0.1](https://docs.google.com/document/d/1gLn-LeWte1zFFGFtH7J8zfAvoKaCXQu0-XifXq7tHyY/edit)
+- [CHC-ASE-GEN｜阿塞莱历史史料覆盖、社会结构与重大研究问题（阶段调查 v2.7；共同体身份、多路径整合、两线分工；未授H号）](history/03/CHC-ASE-GEN-aserai-historical-source-social-questions.md) · [Google Docs v2.7](https://docs.google.com/document/d/1jTuvKtdc4nPX5dnWHH1_3SylPG9pwq_BDNqoGvdlHbY/edit)
 - [CHC-KAN-MAR｜坎族海上网络、殖民记忆与多语种沿海遗产（专题工作稿 v0.2；未授H号）](history/03/CHC-KAN-MAR-kannic-maritime-network-and-coastal-memory.md) · [Google Docs v0.2](https://docs.google.com/document/d/1Nzg0-61Uf4XDzBwf8z_uQUPVGancn6DS0gfgDUH4s5I/edit)
-- [CHC-ASE-POL｜从绿洲客户统治到苏丹联盟：阿塞莱国家形成的权力与社会基础（专题工作稿 v1.9；非贵族动员、荣誉分配与合法性争议；未授H号）](history/03/CHC-ASE-POL-sultanate-formation-clan-law-and-power.md) · [Google Docs v1.9](https://docs.google.com/document/d/13FWOVG8Ax7tRfMCI0mgtKitJh648TGqh0lxcDf5a90k/edit)
-- [CHC-ASE-ECO｜阿塞莱乡村生产、城市腹地与非贵族社会（专题工作稿 v0.1；22村庄、供给链、非贵族背景与英汉语义审计；未授H号）](history/03/CHC-ASE-ECO-aserai-rural-production-and-nonelite-society.md) · [Google Docs v0.1](https://docs.google.com/document/d/1yUqLSm6-JX-wSn5NYcC0Coks1y8exEOmfKGh5fI3HPI/edit)
+- [CHC-ASE-POL｜从绿洲客户统治到苏丹联盟：阿塞莱国家形成的权力与社会基础（专题工作稿 v2.0；仲裁/战时领导与两线边界；未授H号）](history/03/CHC-ASE-POL-sultanate-formation-clan-law-and-power.md) · [Google Docs v2.0](https://docs.google.com/document/d/13FWOVG8Ax7tRfMCI0mgtKitJh648TGqh0lxcDf5a90k/edit)
+- [CHC-ASE-ECO｜阿塞莱乡村生产、城市腹地与非贵族社会（专题工作稿 v0.2；优先论文：村庄生产与城市腹地；未授H号）](history/03/CHC-ASE-ECO-aserai-rural-production-and-nonelite-society.md) · [Google Docs v0.2](https://docs.google.com/document/d/1yUqLSm6-JX-wSn5NYcC0Coks1y8exEOmfKGh5fI3HPI/edit)
 - [CHC-CAL-MIL｜潘德拉克战役主线采访：十九名受访者与证词对读索引（v0.2，A2文本92/92跨版本一致）](history/03/Pendraic-Interview-Source-Inventory-v0.2.md) · [Google Docs](https://docs.google.com/document/d/1MfRelvEPnZR08CN5ftJEcna6QYZmXeDTz_188fVKlls/edit)
 - [CHC-CAL-MIL｜潘德拉克战役专题：多国联盟、战场失利与胜利后的政治分裂（独立论文工作稿v0.3，未授H号）](history/03/Pendraic-Battle-Research-Working-Draft.md) · [Google Docs原件](https://docs.google.com/document/d/1hc4HEGsIcvZ-y3sAwSlxAg-08yFbcUk4xA0hujGnDoM/edit)
 - [H-0005｜从共和统帅到帝国皇权：卡拉德军事指挥权的长期化（研究稿v1.7；CHC-EMP-POL）](history/03/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg.md) · [云盘原件](https://docs.google.com/document/d/1pOx7p3fVi7oSRNXDSsRyc924HzSGPW5-Vq5fBmb40bg/edit)
