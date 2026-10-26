@@ -37,9 +37,8 @@
 | Mabwaz—Nahlan | 36.402 | 90.074 | 2.474 | 2.018 |
 | Nahlan—Hamoshawat | 19.467 | 15.502 | 0.796 | 0.649 |
 | Hamoshawat—Mijayit | 15.246 | 26.942 | 1.767 | 1.441 |
-| 名义场景范围 | 848 | 1040 | — | 1.226 |
 
-结果显示，Zalm—Mabwaz 的间距比值约 1.232，接近名义范围比值；但 Mabwaz—Nahlan 的间距从 Native 的约 36.402 扩大到 War Sails 的约 90.074，约为 2.474 倍。Nahlan—Hamoshawat 的比值仅约 0.796，Hamoshawat—Mijayit 则约 1.767。统一缩放不能同时解释这些变化。
+全图场景范围名义比值 1040/848 ≈ 1.226，仅作为描述性参照，并非已校准的坐标变换。结果显示，Zalm—Mabwaz 的间距比值约 1.232，接近名义范围比值；但 Mabwaz—Nahlan 的间距从 Native 的约 36.402 扩大到 War Sails 的约 90.074，约为 2.474 倍。Nahlan—Hamoshawat 的比值仅约 0.796，Hamoshawat—Mijayit 则约 1.767。统一缩放不能同时解释这些变化。
 
 **解释边界：** 这说明两个版本的地图坐标布局／局部空间配置并非简单的全图等比例变换，尤其 Mabwaz 与 Nahlan 的相对间距在 War Sails 中显著增大。它不证明卡拉迪亚世界内部发生了聚落迁移、河道改道或地貌演变；两个版本的场景坐标必须各自在版本内解释。它也意味着，不能把 Native 的精确路径形状直接按比例投射到 War Sails。
 
