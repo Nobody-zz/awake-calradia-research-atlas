@@ -2,6 +2,7 @@
 
 审计日期：2026-10-26  
 关联正文：《乌卡利翁高地的林谷村庄、生产活动与城镇供给关系》v0.3  
+Google Docs正文：https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrtapYGwKH8saSLcI/edit  
 性质：研究过程日志，不是独立历史论文；不新增核心证据ID。版本差异审计由V-41推进至V-55。
 
 ## 一、审计范围与方法
