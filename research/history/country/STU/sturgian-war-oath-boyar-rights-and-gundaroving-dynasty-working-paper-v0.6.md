@@ -420,6 +420,8 @@ NavalDLC `Modules/NavalDLC/ModuleData/heroes.xml` 中，沃尔比约恩（`dead_
 | 定向 GitHub 源码搜索 | 搜索 `Gundaroving`、`Xom9DeXZ` 与相关文本，未检出可校验的官方旧版 `heroes.xml` 或 `settlements.xml` 原件；检出的研究稿与非官方项目不能替代官方底本。 | 没有可用于精确逐行差分的独立旧版来源。 |
 | SteamDB 公开资料 | 可见 War Sails depot 的部分历史 manifest 与文件清单，但公开页面要求登录才能查看更早历史／文件哈希；目前可见的是清单元数据，不是目标 XML 的原始字节。 | 可证明存在历史 depot 记录，不能证明某条注释在旧版中的具体文本状态。 |
 
+可复核的公开 depot 元数据页面：SteamDB [War Sails depot history](https://steamdb.info/depot/2927200/history/) 与 [manifests](https://steamdb.info/depot/2927200/manifests/)。它们只用于说明可见历史清单及其访问限制，不作为旧版 XML 内容的替代证据。
+
 ### 二、差分结论：尚不能判定注释何时出现
 
 本轮没有取得可校验的旧版官方 `heroes.xml` 或 `settlements.xml`，因此**未能完成跨版本内容差分**。当前能确定的仍只有：
