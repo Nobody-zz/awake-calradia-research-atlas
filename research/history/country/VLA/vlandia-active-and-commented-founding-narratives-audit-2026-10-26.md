@@ -37,7 +37,7 @@
 
 ### 2.2 旧背景文本：乌索尔与882年
 
-`world_lore_strings.xml` 第123行附近有注释标识 `intra-vlandian, someone who squired with furthard`，随后开始一个以 `<!--string id="rake_lore"` 开启、到第183行 `/-->` 才关闭的旧字符串块。该块中的瓦兰迪亚条目包括：
+`world_lore_strings.xml` 第123行有一条独立闭合的注释 `intra-vlandian, someone who squired with furthard`；紧接着第124行以 `<!--string id="faction_bg1_aserai"` 开始一个长注释块，到第183行的 `/-->` 才结束。乌索尔旧稿四段位于这个长注释块内部。第174行出现的 `<!--string id="rake_lore"` 是注释内部的嵌套样式文本，并非一个能独立开启的 XML 注释；XML 注释不能嵌套。该块中的瓦兰迪亚条目包括：
 
 - `faction_bg1_vlandia`：`Founded in 882 when the Empire granted Uthor, a warlord of the Waland seafarers`
 - `faction_bg2_vlandia`：`who had long ravaged the western coasts, the title 'Dux of the Sea.'`
