@@ -127,7 +127,7 @@ summary_rows = [
     {
         "group": "Damar_anchor", "n": len(anchor_ground),
         "min_ground_z": f"{min(anchor_ground):.3f}",
-        "median_ground_z": f"{anchor_ground_median:.4f}",
+        "median_ground_z": f"{anchor_ground_median:.3f}",
         "mean_ground_z": f"{anchor_ground_mean:.3f}",
         "max_ground_z": f"{anchor_ground_max:.3f}",
         "sites_above_damar_anchor_max": "n/a",
