@@ -35,7 +35,7 @@
 
 [专题正文](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/uchalion-highland-villages-resource-labour-and-town-supply-2026-10-24.md)
 
-- 问题7正文已由v0.1修订为v0.2；逐键审计直接核对SandBox与NavalDLC原始settlements.xml及其英文/简中聚落语言表。格伦利斯里格的供木英文fallback两版相同，但描述键在两版语言表均缺失，项目导出中文来源仍未复现（LOC-41）；该关系以原始英文fallback为直接依据。
+- 问题7正文先由v0.1修订为v0.2，随后于2026-10-26作面向读者的文风与结构清理，现为v0.3；逐键审计直接核对SandBox与NavalDLC原始settlements.xml及其英文/简中聚落语言表。格伦利斯里格的供木英文fallback两版相同，但描述键在两版语言表均缺失，项目导出中文来源仍未复现（LOC-41）；该关系以原始英文fallback为直接依据。
 - 安杜恩、托·莱阿德、博格·贝斯、格纳特·纳尔、杜恩、盖恩塞斯的直接生产/供给/防御关系在DLC英文中保留，但多个地貌描述被改写，官方简中同键仍保留基础版地貌。杜恩的英文用词为mud，不自动等同特定陶土矿层；托·莱阿德的长期林木照料不能升级为现代可持续林业、统一轮伐或中央林地管理。
 - 阿斯·卡瓦尔的溪床黏土交易只由DLC英文支持（V-41）；克莱格·班向巴旦尼亚城镇陶工售黏土只适用于基础版，DLC不再记载交易（V-37）。葡萄酒“受外地贵族欢迎”与马匹“受到商人/袭掠者看重”均是声誉或需求描述，不等于实际销售合同。格纳特·纳尔村民协助守卫北方通道，不证明正式军籍、固定军饷或统一兵役制度。
 
@@ -126,7 +126,7 @@ CGEO-S-HUM-001已由初稿v0.1修订为v0.2，主文从以专题/文本信息为
 
 ## 2026-10-26｜问题7原始ZIP逐键复核与v0.2改写
 
-《乌卡利翁高地的林谷村庄、资源劳动与城镇—堡镇供给网络》已完成源级复核并修订为v0.2。独立日志：[乌卡利翁高地专题研究日志](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/uchalion-highland-villages-resource-labour-and-town-supply-research-log-2026-10-26.md)。本轮直接核对项目保存的SandBox、NavalDLC原始ZIP，而非仅依据第三方转录；未新增核心证据ID。
+《乌卡利翁高地的林谷村庄、生产活动与城镇供给关系》已完成核心条目的原文与版本校勘，并于2026-10-26进一步修订为v0.3。正文已把聚落内部编号、文件字段与逐条校勘术语移至独立日志。独立日志：[乌卡利翁高地专题研究日志](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/uchalion-highland-villages-resource-labour-and-town-supply-research-log-2026-10-26.md)。本轮直接核对项目保存的SandBox、NavalDLC原始ZIP，而非仅依据第三方转录；未新增核心证据ID。
 
 **核心结论与版本限制：**
 
@@ -138,3 +138,8 @@ CGEO-S-HUM-001已由初稿v0.1修订为v0.2，主文从以专题/文本信息为
 - 谷物生产、葡萄酒声誉和马匹受到外来群体看重，均不等于直接销售。城堡附属村庄不在项目百科导出覆盖范围内；相关中文称谓仅作检索辅助，不作为已核验的独立名称键。
 
 新增版本差异记录V-42—V-55，分别覆盖Andurn、Tor Leiad、Bog Beth、Geunat Nal、Durn、Gainseth、Etirfurd/Echarfurd、Ebereth、Morihig、Bryn Glas、Flintolg、Glintor、Uthelaim与Ab Comer。版本差异审计由V-41推进至V-55；核心证据仍为46条，唯一断言仍为C-01—C-44。版本变化只表示游戏文本/模块版本不同，不被解释为卡拉迪亚内部年代变化。
+
+
+## 2026-10-26｜问题7正文可读性修订
+
+在完成核心条目的原文与版本校勘后，正文进一步修订为v0.3。此前稿件把大量内部聚落编号、文件字段、英文校勘术语和版本审计过程直接写入正文，违背项目规范中“以地理实体及其空间关系为中心、将文件格式与校勘过程移入技术档案”的要求。此次改写将正文改为自然的中文历史地理论述，仅在交易关系会随版本变化时点明基础版或《战帆》版本；逐条文本差异和名称来源问题继续留在独立日志。此次为行文与结构修订，不新增核心证据ID，也不扩大已核验范围。
