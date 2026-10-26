@@ -288,12 +288,55 @@ Lg5rbZse 对旧氏族集会与现行王廷咨询的对比，是现有材料中�
 - 行为与年代：这是文化与经济概述，不是国王的行动记录；“直到最近”没有绝对年代。
 - 能证明／不能证明：可作为海上贸易、劫掠与受雇作战是诺德社会多种谋生方式的背景；不能把所有海上船只、雇佣收入或战利品归为王室资产。
 
-#### E13｜两组地方叙述的证据单位与限制
+#### E13｜村庄派出的 fyrdman：地方雅尔是明确的服役接收者
 
-NavalDLC/naval_dialog_strings.xml 中 bYjzSZeE、vPNcuore、hs9ntbwB 是同一位流浪者的连续背景：他称自己由村庄派往圭卡雅尔处服役，因懂金属加工而被用作铁匠，后来因长期欠薪离开并带走刀和马。三个字符串只算一个第一人称证据单位；它支持地方人力派遣与雅尔家内劳动之间的联系，不证明国王下令或存在全国统一征兵。官方简中把 fyrdman 译作“民兵”、把 sent to our jarl 处理为“投靠”，更容易让人误读为自愿投靠；原文先说“由村庄派出”。
+- 原始文件：Modules/NavalDLC/ModuleData/naval_dialog_strings.xml；同一人物背景的连续源键 bYjzSZeE、vPNcuore、hs9ntbwB。对应语言表为 Languages/std_naval_dialog_strings_xml.xml 与 Languages/CNs/std_naval_dialog_strings_xml-zho-CN.xml。
+- 英文原文（按同一人物背景顺序）：
 
-同文件中的 FVwyrKBh、ijmUcJWt、KfUc1Hhl、97mvKD9y 是另一位流浪者在贝恩兰的连续 Thinglaw 故事：听审需要酋长支持，Thing 判其胜诉并宣布对手为 outlaw，但执行判决、夺取财产需要个人筹资或付费雇佣武装。四个字符串只算一个证据单位；故事不能定年到诺德统一前后，且地点是贝恩兰，不能作为哈尔达尔时期诺德维格核心区司法自治的确证。
+> I was sent by my village as a fyrdman to our jarl, Grykka Half-an-Ear. I was eager to fight and win wealth and glory, but I knew a bit about metalwork and he needed a smith, so instead of joining his warriors they put me in a sooty alcove at the base of the wall and told to pump the bellows and hammer nails and horseshoes.
+>
+> But a smith's life has its advantages. The ladies of the castle, you see, sometimes needed their jewelry repaired. I was down there hammering away in the sweat and the smoke, and I suppose I was one of the few interesting things to see in that freezing fortress if you're a jarl's daughter with a great deal of time on her hands.
+>
+> But you know what complications can come of love. The daughter was late in her time, and soon people would be asking questions. I helped myself to a blade and a horse in place of my long-unpaid wages and rode away as fast as I could. Maybe I'll go back 20 years from now and greet the new jarl with a cheerful, 'Hello, son!'
 
+- 官方简中：
+
+> 我被村里派去，作为一名民兵，投靠我们的雅尔“半耳”圭卡。我渴望战斗并赢得财富与荣耀，但我略懂金属加工，他需要一名铁匠，所以他们没有把我编入他的战士行列，而是把我安置在城墙根部一个熏黑的壁龛里，让我抽风箱、锤钉子和打马掌。
+>
+> 不过铁匠的生活也有它的好处。你看，城堡里的贵妇们有时需要修理首饰。我就在下面在汗水和烟雾中不停地挥锤敲打，我猜对于一个有很多闲暇时间的雅尔之女来说，在那座冰冷的堡垒里，我算是为数不多有趣的事物之一。
+>
+> 但你也知道爱情会带来什么样的麻烦。那位千金的月事迟了，很快人们就会开始打听。我顺手拿了把刀和一匹马，作为对我长期未付工资的补偿，然后尽可能快地骑走。也许二十年后我会回去，愉快地对新任的雅尔打招呼说：“你好，儿子！”
+
+- 行为与年代：叙述者称自己由村庄派往圭卡雅尔处服役，但因会金属加工而被用作铁匠；随后因长期欠薪离开，并带走刀和马。时间只由人物生活叙事间接表达，不能定到哈尔达尔的某个统治年份。
+- 证据性质与计数：这是同一位流浪者的连续人物背景，三个字符串只算一个第一人称证据单位，不是三份独立行政记录。
+- 能证明／不能证明：显示村庄与地方雅尔之间可能存在人力派遣，且地方领主的军事随从与家内劳动之间存在转换；不能证明该服役由国王下令、属于全国统一征兵，也不能证明所有劳动者都适用同样义务。中文“民兵／投靠”比英文 fyrdman ... to our jarl 更容易让人误读为自愿投靠；原文首先写的是“由村庄派出”。
+
+#### E14｜贝恩兰 Thinglaw：判决与执行分离，但不能定年为哈尔达尔时代
+
+- 原始文件：Modules/NavalDLC/ModuleData/naval_dialog_strings.xml；同一流浪者背景的连续源键 FVwyrKBh、ijmUcJWt、KfUc1Hhl、97mvKD9y。对应语言表为 Languages/std_naval_dialog_strings_xml.xml 与 Languages/CNs/std_naval_dialog_strings_xml-zho-CN.xml。
+- 英文原文（按同一人物背景顺序）：
+
+> See, I came to Beinland some years ago, like many from the Nordvyg. Land for the taking, they said, and all men stand equal before the law. I found one unsettled valley with a stream and lush grass, and built my home there. I should have asked why no one done so before.
+>
+> Turns out my neighbor, Odig, was a difficult one. People say he had troll-blood. One day he shows up with his retainers and tells me my sheep had broken into his fields, when they hadn't, and demanded compensation. I told him to go away. Then I started to find my sheep dead in their pastures, and then one of my herdsman. I decided to take my case before the Thing.
+>
+> The Thinglaw, though... To gain a hearing I needed a chieftain to back my case. I found one, but he brought a great retinue along with him, which I had to feast. The Thing ruled in my favor and outlawed Odig - everyone hated him - but to enforce the judgment, to take his head and his property, well, I was on my own there. My chief offered to provide armed men, but not for free.
+>
+> By then I had quite a few debts. Well, I sold my herd and my farmhouse to pay my creditors, and here I am, looking for a new source of income. I'll miss Beinland though. Herding in the lonely moors, hunting in the quiet woods. I like to roam the land, and if you're looking for a man to scout ahead, well, I may be him.
+
+- 官方简中：
+
+> 你看，我几年前来到贝恩兰，就像许多来自诺德维格的人一样。有人说这里有土地可取，而且人人在法律面前平等。我发现了一个无人定居的山谷，那里有一条溪流和丰茂的草地，于是就在那儿建了家。我本该问问为什么以前没人这么做过。
+>
+> 原来我的邻居，奥迪格，是个难缠的人。人们说他有半巨人的血统。一天，他带着随从出现，说我的羊群闯入了他的田地，尽管事实并非如此，还要求赔偿。我告诉他滚开。后来，我开始发现羊群在牧场上死去，接着，一个牧人也死了。我决定将此事呈给部落议会来裁决。
+>
+> 然而，关于议会法……要想获得听证，我需要一位酋长来支持我的案件。我找到了一个酋长，但他带来了一个庞大的随从队伍，而我必须为他们设宴款待。议会最终判定我胜诉，并宣布奥迪格为亡命之徒——大家都讨厌他——但是，执行判决、夺取他的头颅和财产，嗯，我只能独自面对这一切。我的酋长提出愿意提供武装人手，但不是免费的。
+>
+> 到那时我已经欠了不少债。唉，我把我的牲畜和农舍都卖了来偿还债主，现在我在这里，寻找新的收入来源。不过我会想念贝恩兰的。在孤寂的荒原放牧，在寂静的树林里打猎。我喜欢漫游这片土地，如果你正需要一个人去侦查前方，嗯，或许我就是那个人。
+
+- 行为与年代：流浪者在贝恩兰的邻里土地争端中寻求 Thing 听审，需要酋长担保；Thing 判其胜诉并宣布对手为 outlaw，但实际夺取财产、执行判决需要个人筹资或付费雇佣武装。人物称自己“几年前”来到贝恩兰，无法定位于统一战争前后。
+- 证据性质与计数：同一人物的连续第一人称背景，四个字符串只算一个证据单位。地点是贝恩兰，不能直接等同于诺德维格核心区。
+- 能证明／不能证明：支持地方司法裁决与强制执行可能分离；不能证明这是哈尔达尔时期的司法，也不能证明它代表全诺德制度，更不能据此推断王廷完全没有司法权。
 ### 6.3 沃尔比约恩与哈尔达尔的行动对照矩阵
 
 | 研究维度 | 沃尔比约恩：可直接支持的行为 | 哈尔达尔：可直接支持的行为 | 重复性与边界 |
