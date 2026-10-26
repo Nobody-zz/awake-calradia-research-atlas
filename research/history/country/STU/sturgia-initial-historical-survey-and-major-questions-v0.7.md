@@ -264,7 +264,7 @@ NavalDLC `Modules/NavalDLC/ModuleData/heroes.xml` 在哈尔达尔（`lord_7_1`�
 
 ## 二十、2026-10-26 补记｜旧版官方 XML 差分检索的结果与停止条件
 
-本轮依次检查了 ChatGPT Library 的官方资料目录、Google Drive 原始资料库及当前 ZIP 修订历史、GitHub `research/source-archives/` 的目录与提交记录、定向 GitHub 源码搜索，以及公开 SteamDB depot 历史页。结果未发现可校验的旧版官方 `NavalDLC.zip`／`SandBox.zip` 或独立的旧版 `heroes.xml`／`settlements.xml`。Drive 当前两个核心 ZIP 各只有一个修订，均无 previousRevisionId；GitHub 存放的是当前 ZIP 的校验记录与 Drive 链接，不托管目标模块 XML。SteamDB 的公开历史记录只提供部分 manifest／文件清单元数据，不能替代旧版 XML 字节。
+本轮依次检查了 ChatGPT Library 的官方资料目录、Google Drive 原始资料库及当前 ZIP 修订历史、GitHub `research/source-archives/` 的目录与提交记录、定向 GitHub 源码搜索，以及公开 SteamDB depot 历史页。结果未发现可校验的旧版官方 `NavalDLC.zip`／`SandBox.zip` 或独立的旧版 `heroes.xml`／`settlements.xml`。Drive 当前两个核心 ZIP 各只有一个修订，均无 previousRevisionId；GitHub 存放的是当前 ZIP 的校验记录与 Drive 链接，不托管目标模块 XML。SteamDB 的公开历史记录只提供部分 manifest／文件清单元数据，不能替代旧版 XML 字节。可复核页面：[War Sails depot history](https://steamdb.info/depot/2927200/history/)、[manifests](https://steamdb.info/depot/2927200/manifests/)。
 
 **本轮不把“没找到旧版”写成“旧版没有注释”。** 目前不能确定 `<!-- Nord - Gundaroving -->` 首次出现的版本、是否跨版本持续存在、是否与哈尔达尔活动人物字段同时变化。当前 SandBox／NavalDLC `Xom9DeXZ` 的 `Nordlands`／`Nordvyg` 与 `Mazopor bay`／`Byalic Sea` 差异，只能确认为两个现行归档模块之间的异文，不能据此建立补丁时间序列。
 
