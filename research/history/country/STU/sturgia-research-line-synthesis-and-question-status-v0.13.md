@@ -344,6 +344,7 @@ CHC-CAL-MIL《潘德拉克战役主线采访：十九名受访者与证词对读
 - 核心制度稿：`sturgian-war-oath-boyar-rights-and-gundaroving-dynasty-working-paper-v1.2.md`
 - 国家形成综合论证提纲：`sturgian-state-formation-integrated-argument-outline-v0.3.md`
 - 制度桥梁审查：`sturgia-state-formation-institutional-bridge-test-v0.1.md`
+- 跨稿一致性审查：`sturgia-cross-draft-consistency-audit-v0.4.md`
 - 权力—资源—动员矩阵：`sturgian-power-resource-mobilization-evidence-matrix-v0.1.md`
 - 国别基线：`sturgia-initial-historical-survey-and-major-questions-v0.11.md`
 - 跨线交接单：`sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.4.md`
