@@ -177,7 +177,7 @@
 
 War Sails 的聚落 Z 值与最近 River(11) 导航面 Z 值都不构成沿上述顺序单调下降的纵剖面。导航面 Z 比其最近点处的 HGHT 地形 Z 高约 0.144—0.520 场景单位，但这只是局部导航面与地形栅格的相对关系，不是水面高度或水深。故现有数值不能确定连续河床坡度、流向或常流性。
 
-River(11) 的 42 面与 32 面组件包围盒 X 间隔约 2.801 单位、Y 范围重叠约 8.339 单位；包围盒接近不等于多边形连通。结合备忘录07的锚点近邻与直线采样结果，War Sails 支持的是**走廊级空间对应（中等置信度）**，而非已经恢复的连续天然河道。详见[空间核验备忘录08](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-08-damar-cross-version-anchor-spacing-2026-10-26.md)。
+River(11) 的 42 面与 32 面组件包围盒 X 间隔约 2.801 单位、Y 范围重叠约 8.339 单位；包围盒接近不等于多边形连通。结合备忘录07的锚点近邻与直线采样结果，War Sails 支持的是**走廊级空间对应（中等置信度）**，而非已经恢复的连续天然河道。详见[空间核验备忘录08](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-08-damar-cross-version-anchor-spacing-2026-10-26.md)。 此外，War Sails 五个达玛尔河锚点的聚落 Z 值均值为 5.270（范围 4.280—5.821）；四个非随机对照地点的均值为 6.949（范围 4.734—8.548），其中三处高于锚点组最高值，Abba 则为 4.734。该差异与部分对照点的陆侧岩丘、旱谷高地或山地定位相容，但它只是聚落点位高程的描述性对照，不证明洪泛地边界、坡向或汇水分水岭。对照点距 River(11) 面 26.315—90.119 单位，最近导航面不是其局地水源。
 
 ## 七、可检验的地理假说与后续空间工作
 
