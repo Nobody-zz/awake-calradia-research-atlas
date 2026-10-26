@@ -255,7 +255,7 @@ ECO 继续负责地区资源、贸易与经济关系；SET 负责聚落控制、
 ### 一、已完成的综合成果
 
 1. **国家形成论证提纲：** `sturgian-state-formation-integrated-argument-outline-v0.2.md` 将现有结论组织为“多中心地方社会与资源—地方婚盟／雇佣武力—帝国压力下的战争联盟—大公职位世袭化—平时权力与地方自主持续冲突”的可检验模型。该顺序是分析结构，不代表所有环节均已绝对定年。
-2. **权力—资源—动员矩阵：** `sturgian-power-resource-mobilization-evidence-matrix-v0.1.md` 把各氏族、居民、职业武力和地方裁断放入同一证据框架；明确区分地方税役与大公财政、当前配置与历史产权、履约与政治信任。
+2. **权力—资源—动员矩阵：** `sturgian-power-resource-mobilization-evidence-matrix-v0.2.md` 把各氏族、居民、职业武力和地方裁断放入同一证据框架；明确区分地方税役与大公财政、当前配置与历史产权、履约与政治信任。
 3. **婚盟与战后政治提纲：** `sturgian-dynastic-marriage-and-post-pendraic-politics-integrated-outline-v0.1.md` 将贡达尔祖源、蒂亚尔地方婚盟、朗瓦德母系亲族和瓦尔拉事件视为不同机制，避免把婚姻一概解释为中央王朝政策。
 
 ### 二、正式论文候选的当前裁决
@@ -285,7 +285,7 @@ CHC-CAL-MIL《潘德拉克战役主线采访：十九名受访者与证词对读
 - 综合论证提纲：`sturgian-state-formation-integrated-argument-outline-v0.2.md`
 - 权力—资源—动员矩阵：`sturgian-power-resource-mobilization-evidence-matrix-v0.1.md`
 - 婚盟与战后政治整合提纲：`sturgian-dynastic-marriage-and-post-pendraic-politics-integrated-outline-v0.2.md`
-- 跨线交接单：`sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.4.md`
+- 跨线交接单：`sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.5.md`
 - 潘德拉克采访索引：`research/history/03/Pendraic-Interview-Source-Inventory-v0.2.md`
 
 本次更新不分配 H 编号，不修改公共 I/Q。
@@ -342,7 +342,7 @@ CHC-CAL-MIL《潘德拉克战役主线采访：十九名受访者与证词对读
 ### 二、当前活跃版本指针
 
 - 核心制度稿：`sturgian-war-oath-boyar-rights-and-gundaroving-dynasty-working-paper-v1.2.md`
-- 国家形成综合论证提纲：`sturgian-state-formation-integrated-argument-outline-v0.3.md`
+- 国家形成综合论证提纲：`sturgian-state-formation-integrated-argument-outline-v0.4.md`
 - 制度桥梁审查：`sturgia-state-formation-institutional-bridge-test-v0.1.md`
 - 跨稿一致性审查：`sturgia-cross-draft-consistency-audit-v0.4.md`
 - 权力—资源—动员矩阵：`sturgian-power-resource-mobilization-evidence-matrix-v0.1.md`
