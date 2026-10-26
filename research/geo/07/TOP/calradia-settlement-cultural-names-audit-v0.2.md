@@ -79,6 +79,8 @@
 因此（用于复核缺口追踪的 manifest 文件 SHA-256：3d3097b755aef682302e0d717ac74d3ba739e48a1dac486794de1af47f8da40b）：
 
 - 53 座基础版城镇的中文名保留为“项目百科当前名称参考”，不在本轮擅自更改，也不把它们误标为已从原始名称表逐键复核。基础版 53 条城镇描述中有 27 条能在当前简中描述表中按 text key 直接匹配；DLC 对应的 53 条中有 25 条直接匹配。
+- 其中 25 个港口城镇的中文参考名还在既有 CGEO-MAP-RES-010 中与旧版 Bannerlord 1.3.15 名称索引对照过；RES-010 明确将它们标为旧版参考，而不是当前 NavalDLC 官方中文名称键。该报告直接确认了新增 Nord 四城的当前 DLC 名称键。原件：[CGEO-MAP-RES-010](https://docs.google.com/document/d/1JmXqLuMxxWbxvd7HMZ49RExaLj9ff5Mf74MLWulFAm8/edit)。
+- 来源代码：ENC_REF_RAW_NAME_TABLE_MISSING＝项目百科名称参考、原始名称表缺失；ENC_PLUS_RES010_OLD_INDEX_RAW_NAME_TABLE_MISSING＝另有 RES-010 的旧版名称索引参考，但不是当前 DLC 直接本地化证据；DLC_DIRECT_NAME_KEY＝当前 NavalDLC 简中名称键直接匹配。
 - NavalDLC 简中表对 town_N1—town_N4 的名称键有直接匹配：Hvalvik＝瓦尔维克、Gretysfjord＝格雷蒂斯湾、Thronderlag＝特龙德拉格、Hargard＝哈加德。
 - SandBox 的 std_settlements_xml 简中表有 3 个聚落名称键，但没有 53 座基础版城镇的名称键；DLC 简中表包含更多新增聚落名称键。
 - 53 座基础版城镇中，27 个描述 text key 可在当前 SandBox 英文和简中描述表中直接匹配，另外 26 个没有在所提供语言表中找到对应 key。项目百科中仍存在这些条目的中文描述，但其官方本地化来源需要补齐原始表后才能确认。
