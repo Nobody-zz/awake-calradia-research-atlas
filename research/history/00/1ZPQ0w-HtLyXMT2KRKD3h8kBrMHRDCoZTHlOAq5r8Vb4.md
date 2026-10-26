@@ -1,6 +1,6 @@
 # I-0002｜历史研究论文目录、版本与研究进度
 
-版本：v3.47｜2026年10月24日
+版本：v3.48｜2026年10月26日
 
 档案编号规则：H系列只在完整论文稿实际完成后按完成先后分配，分配后固定；H号不表示历史年代、分类位置或质量排名。CHC分类号依I-0004固定层级分类树确定，与H编号互不关联。未完成选题不预占H号。
 
@@ -188,10 +188,10 @@ Q-0004：https://docs.google.com/document/d/1F9GAfHFSSNEjUwv5Yozu3Dik46DR9DzjOiJ
 42. 潘德拉克采访源级恢复扩展至巴旦尼亚线（2026-10-24）：同一公开 Bannerlord v1.4.5 反编译文件 BannerInvestigationQuest.cs 不仅保存瓦兰迪亚德泰尔、因加泰尔、恩泰里的采访，也保存巴旦尼亚卡拉多格、埃尔贡、梅利迪尔的英文字符串及本地化键。巴旦尼亚源级审计与《潘德拉克战争中的巴旦尼亚》工作论文同步更新：将“StoryMode XML未包含对白”与“官方对白不可核查”区分，后者已由A2级反编译文本部分解决；项目v1.4.8.119303逐字核验仍待完成。I-0003升至v3.15，S-0081扩展覆盖六名国别人物，新增P-0104；Q-0013同步升至v0.5，明确下一步是核验项目v1.4.8.119303与已恢复的v1.4.5对白，而不是继续把StoryMode XML缺口视为采访原文完全缺失；I-0002升至v3.44。相关文件：[巴旦尼亚采访源级审计](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/BAT/battanian-pendraic-source-audit-and-evidence-matrix-v0.1.md)、[巴旦尼亚潘德拉克工作论文](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/BAT/battanian-pendraic-war-and-kingship-mobilization-v0.1.md)。未授新H号，已签发正典不变。
 
 
-43. 潘德拉克主线采访十九人全量索引（2026-10-24）：反编译任务 BannerInvestigationQuest.cs 中十九名受访者、每人四段回答，共七十六段 TextObject 及其文本键已全部提取并建立逐人证词索引。新建《潘德拉克战役主线采访：十九名受访者与证词对读索引》；I-0003 v3.16 扩充 S-0081，新增跨国综合命题 P-0105 与证词冲突登记 D-0092。重点问题包括帝国前卫获知伏击与否、瓦兰迪亚援帝誓约、斯特吉亚龙旗归属、战利品争议、库吉特氏族损失、阿塞莱氏族仇怨及帝国皇位继承。十九人同属一个任务叙事，不能按角色数量当作独立外部证据；v1.4.5反编译文本仍待与项目v1.4.8.119303逐字核对。未授H号，Q5-09及已签发正典不变。链接：[十九人证词对读索引](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Interview-Source-Inventory-v0.1.md)（[Google Docs](https://docs.google.com/document/d/1MfRelvEPnZR08CN5ftJEcna6QYZmXeDTz_188fVKlls/edit)）、[潘德拉克工作稿v0.3](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Battle-Research-Working-Draft.md)（[Google Docs](https://docs.google.com/document/d/1hc4HEGsIcvZ-y3sAwSlxAg-08yFbcUk4xA0hujGnDoM/edit)）、[I-0003 v3.16](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/00/1v52GmJ6BmyRUwUJjpLG3PalEKC9aBLaKYTqUHn3ZopI.md)。
+43. 潘德拉克主线采访十九人全量索引（2026-10-24；2026-10-26源级更新）：反编译任务 BannerInvestigationQuest.cs 中十九名受访者、每人四段回答，共七十六段 TextObject 及其文本键已建立逐人证词索引。采访索引 v0.2 已取得 BuildInfo 明确标记 v1.4.8.119303 的第三方反编译档案，并与 v1.4.5 固定反编译文本逐项比较；92 个带键 TextObject 的键集合与英文文本 92/92 一致。A2 仍是第三方反编译成果，不是 TaleWorlds 官方发布源码；十九名受访者同属一个任务叙事，不计作独立外部证据。未授 H 号，Q5-09及已签发正典不变。链接：采访索引 https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Interview-Source-Inventory-v0.2.md（Google Docs https://docs.google.com/document/d/1MfRelvEPnZR08CN5ftJEcna6QYZmXeDTz_188fVKlls/edit）；潘德拉克工作稿 https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Battle-Research-Working-Draft.md。
 
 
-44. 潘德拉克两项关键矛盾升级为跨版本官方文本一致性问题（2026-10-24）：I-0003 v3.17 将“年长的”奥列克战役阵亡与折旗对白、岁仑（Solun）／Gotug名称差异，改列为 v1.4.8 有效人物档案与 v1.4.5 反编译官方对白之间的文本差异，不再仅视为玩家转录问题。前者关系到折旗叙事是否能与阵亡记录构成同一时序；后者关系到墨速宜丈夫及库吉特阵亡那颜的名称。当前不裁定为确定剧情矛盾、异名或版本修订；下一步须取得与项目 v1.4.8.119303 匹配的运行时程序集逐字核对。相关文档：I-0003 v3.17、斯特吉亚跨线交接单v0.2、库赛特土地与汗权专题v0.2。H编号不变，Q5-09仍开放。
+44. 潘德拉克采访版本差分关闭与叙事冲突重定级（2026-10-26）：I-0003 v3.18 新增 S-0082，并修正 D-0087、D-0091、D-0092、P-0106。v1.4.5 与 v1.4.8.119303 的 92 个带键采访文本完全一致；Gotug 仅见于玩家转录，应作为 B 级传抄异文，不再登记为官方版本冲突。“年长的”奥列克在有效 heroes.xml 中战役阵亡，却在两版一致的采访叙事中被描述为夺旗、折旗并与朗瓦德对峙，仍是同一构建范围内的跨模块叙事时序张力。下一步核对玩家转录和叙事上下文，不重复寻找同版本文本或重复做版本差分。
 
 ---
 
@@ -199,3 +199,5 @@ Source of truth: [Google Docs](https://docs.google.com/document/d/1ZPQ0w-HtLyXMT
 
 
 43. 潘德拉克六方叙述综合比较（2026-10-24）：潘德拉克独立战役史工作稿更新至v0.3，新增帝国、斯特吉亚、巴旦尼亚、瓦兰迪亚、库赛特、阿塞莱六方记忆比较，分析战争动员理由、战场功劳与政治权威的错位、氏族损失的长期扩散，以及胜败叙事如何服务于后续权力合法性。依据为 v1.4.5 反编译恢复的十九名人物官方对白；这能研究官方叙事的结构，不等于十九份独立证词，也未完成与项目 v1.4.8.119303 程序集的逐字核验。I-0003已补充十九名人物与全部文本键值索引，版本记录追加校勘v3.16。潘德拉克工作稿：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/03/Pendraic-Battle-Research-Working-Draft.md。
+
+45. 库赛特历史第一轮问题摸底与优先选题图谱 v0.1（2026-10-26）：核对 CHC-KHU-GEN 摸底 v0.5、CHC-KHU-POL 工作稿 v0.7、兀儿浑与旧强宗专题、I-0003 v3.17及潘德拉克／斯特吉亚跨线资料，建立政治形成、游牧贵族、城市封地、可汗权力、部族关系、军事动员、经济交换与对外关系的问题图谱。首轮可确认官方叙事的征服、军令、授地、定居／税兵政策与地方贸易案例；实际税率、兵额、成文契约、连续产权和具名战后袭掠仍缺证。优先候选为“税役、保护与马匹交换：汗国如何连接游牧群体与定居生产者”，先以六组核心案例检验统一定居化、差异化整合与合法性叙事三种解释。新建图谱不授 H 号，不新增历史 S/E/P/D 编号。Google Docs：https://docs.google.com/document/d/1LCXZVOVSnYomKlEkUn0iEG4VVq3PT6xAEq2-JRcy8m0/edit；GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/history/country/KHU/khuzait-first-round-question-atlas-v0.1.md。
