@@ -162,7 +162,8 @@
 
 ## 六、当前交付文件
 
-- town-name-source-table-v0.2.csv：基础版 53 座城镇与 DLC 4 座新增城镇，共 57 条；保留英文主名、名称键、描述键、语言表命中状态与版本文本差异标记。
+- calradia-town-name-source-table-v0.2.csv：基础版 53 座城镇与 DLC 4 座新增城镇，共 57 条；保留英文主名、名称键、描述键、语言表命中状态与版本文本差异标记。
+- calradia-settlement-name-relations-v0.1.csv：聚落异名、文化称名、词义释义、人物别名排除项及未解决的同地关系候选。
 - regional-name-relations-v0.1.csv：跨文化区域称名、版本措辞变体、词义释义及中文名称碰撞。
 - settlement-version-conflicts-v0.1.csv：高影响聚落名称／描述键冲突、版本文本差异及处理边界。
 - calradia-settlement-cultural-names-inventory-v0.1.md：原始首轮清单，保留作历史记录；其中 Charas—Charasea 候选关系应以本审查的“不合并”结论为准。
