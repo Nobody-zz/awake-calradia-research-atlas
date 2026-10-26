@@ -96,7 +96,7 @@ RES-001此前记录原版scene.xscene共有20条路径，其中15条为河流样
 
 重新取回并校验 Native 原版 scene.xscene（19,877,756 bytes；SHA-256 919796b65e497260a8eebab5442ac79af6992957de9e8a17fbb2aaf6fd1b5019），直接解析20条路径、686个控制点。路径名为nile的31控制点线性路径，与五个稳定达玛尔河锚点的最短距离分别为：Zalm 6.994、Mabwaz 5.556、Nahlan 3.078、Hamoshawat 3.879、Mijayit 5.703场景单位。最近线段序号随地点空间序列连续排列；对每个锚点，次近河流路径均为river_emp_south，距离135.827—205.862，远大于nile。
 
-据此，Native版本中nile是达玛尔河走廊的强识别对象。判断依据是原始路径几何、锚点坐标、路径序列与其他路径的距离差，而不是内部名称的字面含义。Native原始terrain.bin的PHYM夏季index 7已直接解码并与nile路径配准；War Sails版本无river标签层，但保留river_generator与独立水域资源。下一步已转为用War Sails同版聚落坐标和River(11)导航面检验达玛尔河走廊，并定位river_triangles的源网格。
+据此，Native版本中nile是达玛尔河走廊的强识别对象。判断依据是原始路径几何、锚点坐标、路径序列与其他路径的距离差，而不是内部名称的字面含义。Native原始terrain.bin的PHYM夏季index 7已直接解码并与nile路径配准；War Sails版本也已独立核验：五个稳定锚点均邻近River(11)导航面，支持同一宽泛河流走廊的最佳拟合重建。当前研究重点已从资源解码转为解释河流—洪泛—河口的地貌序列；river_triangles与worldmap_river_mask只作为进一步细化河道形态的次级证据。
 
 ## 2026-10-26 第十一轮：《战帆》版达玛尔河走廊的导航面近邻核验
 
