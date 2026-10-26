@@ -1,5 +1,8 @@
 # 官方原始资料归档：Bannerlord / War Sails
 
+双版本 Main_map 统一清单：[main-map-manifest.csv](main-map-manifest.csv) · 源级结构复核：[CGEO-MAP-RES-019](../geo/90/EVD/CGEO-MAP-RES-019.md) · [复算脚本](../geo/90/EVD/CGEO-MAP-RES-019_verify_source_archives.py)
+
+
 本目录登记研究所用官方模块原始文本资料包。为避免在研究仓库重复托管游戏资源压缩包，原始 ZIP 文件保存在 Google Drive 原始资料文件夹和 ChatGPT Library 的持久资料夹中；本仓库保留校验和、文件清单说明、稳定链接和版本边界。ZIP 文件没有被解压、改写或重新压缩。
 
 ## 原始文件
