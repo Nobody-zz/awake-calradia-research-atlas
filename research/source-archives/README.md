@@ -27,6 +27,16 @@
 
 - Google Drive 文件夹：[卡拉迪亚地理研究｜官方原始资料库](https://drive.google.com/drive/folders/17y4EwetqNlFBW1Zf_d_CP4yrdyjmr8Rm)
 - ChatGPT Library：`/Calradia Geography Research Source Files/`
+## Native：Main_map 原始二进制（独立归档）
+
+基础版 Native 的五个 `Main_map` 文件保存在 Google Drive 原始资料库根目录；与 War Sails 子文件夹分开，不覆盖、不混放。
+
+- Google Drive 原始资料库：[打开](https://drive.google.com/drive/folders/17y4EwetqNlFBW1Zf_d_CP4yrdyjmr8Rm)
+- GitHub 归档说明：[native-main-map/README.md](native-main-map/README.md)
+- GitHub 校验清单：[native-main-map/manifest.csv](native-main-map/manifest.csv)
+
+已从当前可读取的 Drive 原件重新计算五个文件的 SHA-256；`scene.xscene` 与 `terrain.bin` 的值与前序记录一致。GitHub 当前保留清单和 Drive 索引，不声称已将大体积二进制原件提交到仓库。
+
 ## War Sails DLC：Main_map 原始二进制（独立归档）
 
 用户于 2026-10-25 另行提供了 War Sails `Main_map` 的七个原始资源。它们已放入与 Native 原版分开的 Google Drive 子文件夹；不覆盖 Native 文件。
