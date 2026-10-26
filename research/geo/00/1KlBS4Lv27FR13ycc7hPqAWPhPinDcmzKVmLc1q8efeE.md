@@ -467,4 +467,4 @@ CGEO-S-HUM-001已修订为v0.2。正文按历史问题与社会空间机制重�
 
 ### 2026-10-26｜乌卡利翁高地专题源级审计与v0.2
 
-《乌卡利翁高地的林谷村庄、生产活动与城镇供给关系》已修订为v0.3。核心村庄原文与版本差异已在独立研究日志中逐项核对；本轮进一步把内部聚落编号、文本字段和校勘术语移出论文正文，保留必要的版本限制与证据边界。详细记录见[独立研究日志](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/uchalion-highland-villages-resource-labour-and-town-supply-research-log-2026-10-26.md)。本轮新增版本差异审计V-42—V-55，核心证据与唯一断言编号未变。下一步修订问题1（纳哈撒）与问题2（东部草原）；帝国中东部/东南生产区继续摸底，不预先设立问题8。
+《乌卡利翁高地的林谷村庄、生产活动与城镇供给关系》已修订为v0.3。核心村庄原文与版本差异已在独立研究日志中逐项核对；本轮进一步把内部聚落编号、文本字段和校勘术语移出论文正文，保留必要的版本限制与证据边界。详细记录见[独立研究日志](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/uchalion-highland-villages-resource-labour-and-town-supply-research-log-2026-10-26.md)。 [Google Docs正文](https://docs.google.com/document/d/17EaIQejyx3B2gXUHhIenPRbM_GDrtapYGwKH8saSLcI/edit)。本轮新增版本差异审计V-42—V-55，核心证据与唯一断言编号未变。下一步修订问题1（纳哈撒）与问题2（东部草原）；帝国中东部/东南生产区继续摸底，不预先设立问题8。
