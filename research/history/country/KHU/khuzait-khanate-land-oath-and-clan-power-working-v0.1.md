@@ -921,7 +921,7 @@ str_political_philosophy_lord_6_5_for_lord_6_1（键 yqn4Wtwr）中的阿契特�
 1. 现行 heroes.xml 的 dead_lord_6_2（键 dfmSNTZk）将岁仑（Solun）列为库吉特大那颜、墨速宜前夫，并记其 “slain at the battle of Pendraic”。这一现行有效人物档案支持岁仑战死及其家庭关系，但不能单独证明具体战术经过。
 2. 同一 heroes.xml 的 dead_lord_6_3（键 CCfjl9eU）另列阿契特大那颜库由格（Kuyug）；当前阿契特领主 lord_6_5 的父系字段指向 dead_lord_6_3。库由格与岁仑属于不同氏族、不同人物条目；现有有效文本没有说库由格死于潘德拉克，不能将两人合并。
 3. 现行墨速宜传记（lord_6_4，键 ALtZaRzc）称库吉特在兀儿浑征战中损失惨重，土地随后受到其他部族觊觎，并记墨速宜长期捍卫氏族权利；蒙楚格传记（lord_6_1，键 CzM6y3MT）也说部分氏族在兀儿浑部领导的战争中遭受重大损失，且认为牺牲未获应有回报。这两条与政治哲学文本共同说明不满并非只出现在一段采访里，但它们同属官方叙事体系，不是独立外部见证；而且都没有把所有损失限定在潘德拉克战役。
-4. A2 来源为 BannerlordCode/bannerlord-1.4.5 的反编译文件 BannerInvestigationQuest.cs，固定 blob SHA dfe5b4ebf469860d08014ae6926a0d5ef40e9146。键 tBGtavMG 的蒙楚格回答写 Solun，并称其家族多数男性在战役中被杀；键 i5OOargr 的墨速宜回答则指称战后其他氏族，特别是 “the Arkits in particular”，趁库吉特虚弱袭掠畜群，并称 “Monchug did little to stop it”。这属于当事人政治指控，具体袭掠仍只有 A2 证词支持。
+4. A2 来源为 BannerlordCode/bannerlord-1.4.5 的反编译文件 BannerInvestigationQuest.cs，固定 blob SHA dfe5b4ebf469860d08014ae6926a0d5ef40e9146。来源链接：https://github.com/BannerlordCode/bannerlord-1.4.5/blob/main/Bannerlord.Source/Modules.StoryMode/StoryMode/StoryMode.Quests.FirstPhase/BannerInvestigationQuest.cs。键 tBGtavMG 的蒙楚格回答写 Solun，并称其家族多数男性在战役中被杀；键 i5OOargr 的墨速宜回答则指称战后其他氏族，特别是 “the Arkits in particular”，趁库吉特虚弱袭掠畜群，并称 “Monchug did little to stop it”。这属于当事人政治指控，具体袭掠仍只有 A2 证词支持。
 5. spclans.xml 中关于“十年前阿契特争夺库吉特领地、墨速宜率队反击”的文字位于 XML 注释块，不属于当前生效叙述。它可以用于识别开发阶段的构想，不能拿来充当现行历史叙述的独立佐证。
 
 ### 三、P3 证据矩阵更新
