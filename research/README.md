@@ -127,6 +127,7 @@
 - [CHC-EMP-ECO｜卡拉德帝国的区域经济网络（v0.2历史快照）](history/country/EMP/imperial-regional-economic-network-evidence-v0.2.md) · 中东部/东南七项源级案例与C-52—C-54的首轮综合。
 - [CHC-EMP-GEN｜帝国聚落史料统一源级主题表 v0.1](history/country/EMP/imperial-settlement-source-ledger-v0.1.md) · 116条聚落历史叙述的统一源级主题表。
 - [帝国中东部与东南生产地—商品—接收方摸底 v0.2](geo/03/HUM/imperial-central-southeast-production-chain-survey-2026-10-26.md) · 源级复核备忘，不是正式问题8。
+- [历史人文地理研究资产与证据结构审查 v0.1](geo/03/HUM/human-geography-research-asset-architecture-review-2026-10-26.md) · 资产清单、证据与地图覆盖、与国别史的边界及下一阶段综合任务。
 
 - [CHC-EMP-ECO｜帝国城市节点—明确接收端关系矩阵 v0.1（未授H号）](history/country/EMP/imperial-city-node-receiver-linkage-matrix-v0.1.md) · 区分城市级贸易/通道功能、明确商品流、政治服务与未证实的村庄腹地边。
 
