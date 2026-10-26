@@ -283,7 +283,7 @@ CHC-CAL-MIL《潘德拉克战役主线采访：十九名受访者与证词对读
 - 国别基线：`sturgia-initial-historical-survey-and-major-questions-v0.11.md`
 - 核心制度稿：`sturgian-war-oath-boyar-rights-and-gundaroving-dynasty-working-paper-v1.1.md`
 - 综合论证提纲：`sturgian-state-formation-integrated-argument-outline-v0.2.md`
-- 权力—资源—动员矩阵：`sturgian-power-resource-mobilization-evidence-matrix-v0.1.md`
+- 权力—资源—动员矩阵：`sturgian-power-resource-mobilization-evidence-matrix-v0.2.md`
 - 婚盟与战后政治整合提纲：`sturgian-dynastic-marriage-and-post-pendraic-politics-integrated-outline-v0.2.md`
 - 跨线交接单：`sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.5.md`
 - 潘德拉克采访索引：`research/history/03/Pendraic-Interview-Source-Inventory-v0.2.md`
@@ -347,7 +347,7 @@ CHC-CAL-MIL《潘德拉克战役主线采访：十九名受访者与证词对读
 - 跨稿一致性审查：`sturgia-cross-draft-consistency-audit-v0.4.md`
 - 权力—资源—动员矩阵：`sturgian-power-resource-mobilization-evidence-matrix-v0.1.md`
 - 国别基线：`sturgia-initial-historical-survey-and-major-questions-v0.11.md`
-- 跨线交接单：`sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.4.md`
+- 跨线交接单：`sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.5.md`
 - 诺德跨线关系登记册：`../NOR/CHC-NOR-GEN-cross-line-relations-register-v0.8.md`
 - 诺德迪纳尔扩张归属检验：`../NOR/CHC-NOR-GEN-dinar-nord-expansion-linkage-test-v0.3.md`
 - 诺德时间—空间骨架：`../NOR/CHC-NOR-GEN-time-space-skeleton-v0.4.md`
