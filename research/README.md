@@ -159,11 +159,12 @@
 ## history/country/STU
 
 - [CHC-STU-GEN｜斯特吉亚历史初步摸底与重大研究问题（v0.11，未授H号）](history/country/STU/sturgia-initial-historical-survey-and-major-questions-v0.11.md) · 当前国别基线与 RQ01—RQ10 问题图谱。
-- [CHC-STU-GEN｜斯特吉亚研究线阶段性综合审查（v0.12）](history/country/STU/sturgia-research-line-synthesis-and-question-status-v0.12.md) · 当前状态表、跨稿一致性、停止条件与论文候选边界。
+- [CHC-STU-GEN｜斯特吉亚研究线阶段性综合审查（v0.13）](history/country/STU/sturgia-research-line-synthesis-and-question-status-v0.13.md) · 当前状态表、跨稿一致性、停止条件与论文候选边界。
 - [CHC-STU-GEN｜斯特吉亚研究线跨稿一致性审查（v0.3）](history/country/STU/sturgia-cross-draft-consistency-audit-v0.3.md) · 以当前版本复核任务状态、跨线新证据与核心 POL 整合。
-- [CHC-STU-POL｜战时盟约、地方领主权与贡达罗夫王朝（v1.1，未授H号）](history/country/STU/sturgian-war-oath-boyar-rights-and-gundaroving-dynasty-working-paper-v1.1.md) · 核心政治制度工作稿。
+- [CHC-STU-POL｜战时盟约、地方领主权与贡达罗夫王朝（v1.2，未授H号）](history/country/STU/sturgian-war-oath-boyar-rights-and-gundaroving-dynasty-working-paper-v1.2.md) · 核心政治制度工作稿。
+- [CHC-STU-POL｜斯特吉亚国家形成：大公权力形成的制度桥梁检验（v0.1，未授H号）](history/country/STU/sturgia-state-formation-institutional-bridge-test-v0.1.md) · 逐项区分职位世袭化、王朝接入与平时管辖权执行，含证据等级、反例和下一轮三项任务。
 - [CHC-STU-POL｜三种时间尺度与大公权力形成（v0.2）](history/country/STU/sturgian-state-formation-three-clocks-relative-chronology-v0.2.md) · 联盟、祖父誓约、两代人记忆与贡达尔地方祖源的相对年代边界。
-- [CHC-STU-POL｜斯特吉亚国家形成综合论证提纲（v0.2）](history/country/STU/sturgian-state-formation-integrated-argument-outline-v0.2.md) · 主导模型、竞争解释、证据缺口与反证条件。
+- [CHC-STU-POL｜斯特吉亚国家形成综合论证提纲（v0.3）](history/country/STU/sturgian-state-formation-integrated-argument-outline-v0.3.md) · 主导模型、竞争解释、证据缺口与反证条件。
 - [CHC-STU-POL／ECO／SOC｜权力—资源—动员证据矩阵（v0.1）](history/country/STU/sturgian-power-resource-mobilization-evidence-matrix-v0.1.md) · 对照地方资源、赋役、动员、实际服从与未知环节。
 - [CHC-STU-ECO｜北方贸易、边疆开发与地方财政权力（v0.2）](history/country/STU/sturgian-economic-geography-trade-frontier-and-fiscal-power-v0.2.md) · 地区资源与经济基础，撤销已完成的四氏族重复比较任务。
 - [CHC-STU-ECO｜城镇控制权更替、经济腹地与财政连续性（v0.1）](history/country/STU/sturgian-settlement-control-fiscal-continuity-v0.1.md) · 聚落控制、腹地绑定与财政连续性缺口。
@@ -175,7 +176,7 @@
 - [CHC-STU-POL／SOC｜九氏族持地与动员证据审计（v0.1）](history/country/STU/sturgian-clan-landholding-and-mobilization-evidence-audit-v0.1.md) · 当前配置不等于实际权力、收入或忠诚。
 - [CHC-STU-POL／SOC｜战争义务行为证据审计（v0.1）](history/country/STU/sturgian-war-obligation-behavioral-evidence-audit-v0.1.md) · 区分行动、传记概括、政治主张与通用模板。
 - [CHC-STU-POL｜地方承认、王朝合法性与雷维尔反记忆（v0.1）](history/country/STU/sturgian-dynastic-legitimacy-local-lordship-and-revyl-countermemory-v0.1.md) · 贡达尔祖源与区域职位制度的区别。
-- [CHC-STU-GEN／POL｜跨线证据交接单（v0.4）](history/country/STU/sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.4.md) · 潘德拉克、库赛特与诺德研究线的源级交接。
+- [CHC-STU-GEN／POL｜跨线证据交接单（v0.5）](history/country/STU/sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.5.md) · 潘德拉克、库赛特与诺德研究线的源级交接。
 - [CHC-STU-XLINE｜帝国地方权威论文跨国反例审查（v0.1）](history/country/STU/imperial-local-order-paper-cross-country-counterexample-review-v0.1.md) · 用于概念边界压力测试，不作为独立史料互证。
 - [CHC-STU-SRC｜斯特吉亚官方简中地名校核表（v0.1）](history/country/STU/sturgia-official-zh-cn-settlement-name-crosswalk-v0.1.md) · 保留已核定地名及待核项目。
 
