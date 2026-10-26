@@ -264,13 +264,14 @@ CHC-CAL-MIL 的《潘德拉克战役主线采访：十九名受访者与证词�
 - `SandBox/ModuleData/comment_strings.xml`：`ELtT9ctL`（佣兵合同履约）、`NeUilOqh`（森民拒绝征税）。
 - `SandBox/ModuleData/wanderer_strings.xml`：`OuUzIkaK`、`SfmWAuv3`、`Zu4uBSxk`、`ExBNUPTm`（地方裁断与纠纷故事）。
 - `NavalDLC/ModuleData/naval_dialog_strings.xml`：`d5lpGY8m`（波耶亲兵）、`Y1fwBgHt`、`DtEBwPpJ`、`p4OvT9BS`（海军人物的潘德拉克后相对顺序，不用于裁定龙旗折断）。
-- CHC-STU-GEN《斯特吉亚历史初步摸底与重大研究问题》v0.11；《研究线阶段性综合审查》v0.12。
+- CHC-STU-GEN《斯特吉亚历史初步摸底与重大研究问题》v0.11；《研究线阶段性综合审查》v0.13。
 - CHC-STU-POL《三种时间尺度与大公权力形成》v0.2。
+- CHC-STU-POL《斯特吉亚国家形成综合论证提纲》v0.4；《大公权力形成的制度桥梁检验》v0.1。
 - CHC-STU-ECO《北方贸易、边疆开发与地方财政权力》v0.2；《城镇控制权更替、经济腹地与财政连续性》v0.1。
-- CHC-STU-SOC《税役、非王公武力与地方司法》v0.2；《权力—资源—动员证据矩阵》v0.1。
+- CHC-STU-SOC《税役、非王公武力与地方司法》v0.2；《权力—资源—动员证据矩阵》v0.2。
 - CHC-STU-REL《贡达罗夫王朝的婚姻、诺德亲族与雇佣武力》v0.2；《婚盟、强制外交与潘德拉克之后的斯特吉亚政治》v0.2。
 - CHC-STU-MIL《斯特吉亚的世仇》v0.3；CHC-STU-SRC《西加、瓦尔拉与朗瓦德》v0.1。
-- CHC-CAL-MIL《潘德拉克战役主线采访：十九名受访者与证词对读索引》v0.2；CHC-STU 跨线交接单 v0.4。
+- CHC-CAL-MIL《潘德拉克战役主线采访：十九名受访者与证词对读索引》v0.2；CHC-STU 跨线交接单 v0.5。
 - CHC-STU-GEN／POL《斯特吉亚国家形成：大公权力形成的制度桥梁检验》v0.1。
 
 本文是核心政治制度工作稿，不分配 H 编号，不修改公共 I/Q。
