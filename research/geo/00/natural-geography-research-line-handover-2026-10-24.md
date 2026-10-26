@@ -112,7 +112,7 @@ War Sails 的 Paths 容器为空，PHYM 夏季值仅有 1、2、3、5、6，没�
 GitHub Markdown：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-07-damar-warsails-navmesh-anchor-registration-2026-10-26.md
 锚点结果 CSV：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-07-damar-warsails-anchor-results-2026-10-26.csv
 
-下一步：先把达玛尔河最佳拟合模型用于解释河道地貌序列、洪泛农业和局地集水系统，并检查它能否解释所有稳定锚点与地形关系。river_triangles.bin与worldmap_river_mask作为次级工具，仅在需要细化弯道、河宽或局部通道间隙时使用，不再作为推进自然地理研究的前置门槛。
+下一步：继续以最佳拟合模型推进地貌关系解释。先使用备忘录08限定跨版本空间与高程证据：Native原始路径为主证，War Sails仅为走廊级对应；不得以聚落Z或最近River(11)面Z推断连续河床纵坡。下一轮转向马卜瓦兹—纳赫兰洪泛农业地与山地—旱谷集水系统的地形关系，优先使用同版坐标和已归档HGHT作可复算检查；只有出现具体空间矛盾时，才追查河面源网格。
 
 
 ## 2026-10-26 方法论修订：证据不完备时推进最佳拟合重建
@@ -132,3 +132,9 @@ GitHub Markdown：https://github.com/Nobody-zz/awake-calradia-research-atlas/blo
 - 低或未知：全年常流性、精确河道中心线、支流汇入口、河宽、洪泛边界、地下水连通和两个冲突聚落的确切归属。
 
 如果同版直接水面几何长期偏离稳定锚点序列，地形障碍使拟定通道在地貌上无法成立，或更可靠的官方英文资料推翻地点序列，应修正模型。仅仅缺少river_triangles源顶点、UV映射或连续的River(11)导航面，不足以否定当前最佳拟合模型；这些缺口只限制精细测绘，不妨碍继续进行有置信度分层的自然地理推断。
+
+## 2026-10-26 第十二轮：跨版本锚点间距与高程可识别性审查
+
+新增空间核验备忘录08，使用备忘录06／07的既有CSV复算相邻锚点距离与局部高程关系，没有冒称重新解析原始二进制。Native四段相邻锚点距离为35.935、36.402、19.467、15.246场景单位；War Sails为44.272、90.074、15.502、26.942。差异不是统一比例缩放，尤其Mabwaz—Nahlan段显著拉长；这只说明两版坐标布局／局部空间配置不同，不证明游戏世界内迁移或河道改道。
+
+War Sails聚落Z与最近River(11)导航面Z均不构成单调河床纵剖面；两个导航面组件的包围盒X间隔约2.801、Y范围重叠约8.339，不能据此证明真实多边形连通。当前证据支持War Sails走廊级对应，但不支持精确水面线、河床坡降、流向或天然水文连续性。资料链接：[备忘录08](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-08-damar-cross-version-anchor-spacing-2026-10-26.md)。
