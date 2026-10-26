@@ -137,4 +137,4 @@ GitHub Markdown：https://github.com/Nobody-zz/awake-calradia-research-atlas/blo
 
 新增空间核验备忘录08，使用备忘录06／07的既有CSV复算相邻锚点距离与局部高程关系，没有冒称重新解析原始二进制。Native四段相邻锚点距离为35.935、36.402、19.467、15.246场景单位；War Sails为44.272、90.074、15.502、26.942。差异不是统一比例缩放，尤其Mabwaz—Nahlan段显著拉长；这只说明两版坐标布局／局部空间配置不同，不证明游戏世界内迁移或河道改道。
 
-War Sails聚落Z与最近River(11)导航面Z均不构成单调河床纵剖面；两个导航面组件的包围盒X间隔约2.801、Y范围重叠约8.339，不能据此证明真实多边形连通。当前证据支持War Sails走廊级对应，但不支持精确水面线、河床坡降、流向或天然水文连续性。资料链接：[备忘录08](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-08-damar-cross-version-anchor-spacing-2026-10-26.md)。
+War Sails聚落Z与最近River(11)导航面Z均不构成单调河床纵剖面；两个导航面组件的包围盒X间隔约2.801、Y范围重叠约8.339，不能据此证明真实多边形连通。另对聚落点位Z作描述性对照：五个河流锚点均值5.270、四个非随机对照点均值6.949，三处对照点高于锚点组最高值5.821，但Abba为4.734的低值例外。这与部分高地／旱谷地志相容，却不证明洪泛地边界或分水岭。当前证据支持War Sails走廊级对应，但不支持精确水面线、河床坡降、流向或天然水文连续性。资料链接：[备忘录08](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/00/natural-geography-spatial-audit-08-damar-cross-version-anchor-spacing-2026-10-26.md)。
