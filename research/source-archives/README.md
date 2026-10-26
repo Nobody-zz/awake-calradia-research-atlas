@@ -29,20 +29,22 @@
 - ChatGPT Library：`/Calradia Geography Research Source Files/`
 ## Native：Main_map 原始二进制（独立归档）
 
-基础版 Native 的五个 `Main_map` 文件保存在 Google Drive 原始资料库根目录；与 War Sails 子文件夹分开，不覆盖、不混放。
+- Google Drive：[原始资料库](https://drive.google.com/drive/folders/17y4EwetqNlFBW1Zf_d_CP4yrdyjmr8Rm)
+- GitHub 说明：[native-main-map/README.md](native-main-map/README.md) · [清单](native-main-map/manifest.csv) · [实际二进制目录](native-main-map/files/)
 
-- Google Drive 原始资料库：[打开](https://drive.google.com/drive/folders/17y4EwetqNlFBW1Zf_d_CP4yrdyjmr8Rm)
-- GitHub 归档说明：[native-main-map/README.md](native-main-map/README.md)
-- GitHub 校验清单：[native-main-map/manifest.csv](native-main-map/manifest.csv)
-
-已从当前可读取的 Drive 原件重新计算五个文件的 SHA-256；`scene.xscene` 与 `terrain.bin` 的值与前序记录一致。GitHub 当前保留清单和 Drive 索引，不声称已将大体积二进制原件提交到仓库。
+2026-10-26 实际下载并复算 5/5 个 Native 原件的字节数与 SHA-256，均与清单一致。GitHub main 已保存并核对其中 2/5 个二进制：`atmosphere.xml`、`navmesh.bin`。其余 `flora.bin`、`scene.xscene`、`terrain.bin` 保留在 Drive，当前 GitHub 连接器未能可靠提交这些较大二进制。
 
 ## War Sails DLC：Main_map 原始二进制（独立归档）
 
-用户于 2026-10-25 另行提供了 War Sails `Main_map` 的七个原始资源。它们已放入与 Native 原版分开的 Google Drive 子文件夹；不覆盖 Native 文件。
+- Google Drive：[War Sails 专用文件夹](https://drive.google.com/drive/folders/1NONLB02YC62RM5D_-JUcFV0QbnkgeIIW)
+- GitHub 说明：[war-sails-dlc/README.md](war-sails-dlc/README.md) · [清单](war-sails-dlc/manifest.csv) · [实际二进制目录](war-sails-dlc/files/)
 
-- Google Drive 独立文件夹：[War Sails DLC — Main_map 原始资源（2026-10-25）](https://drive.google.com/drive/folders/1NONLB02YC62RM5D_-JUcFV0QbnkgeIIW)
-- GitHub 归档说明：[war-sails-dlc/README.md](war-sails-dlc/README.md)
-- GitHub 校验清单：[war-sails-dlc/manifest.csv](war-sails-dlc/manifest.csv)
+2026-10-26 实际下载并复算 7/7 个 War Sails 原件的字节数与 SHA-256，均与清单一致。GitHub main 已保存并核对其中 4/7 个二进制：`atmosphere.xml`、`flowmap.dds`、`navmesh.bin`、`river_triangles.bin`。其余 `flora.bin`、`scene.xscene`、`terrain.bin` 保留在 Drive。
 
-GitHub 当前保存该批资源的来源说明、校验清单和稳定 Drive 链接；本轮连接器未能可靠提交大体积原始二进制本体，因此不将 GitHub 清单误称为二进制备份。七个原件均已由 Google Drive 文件夹清单确认存在。
+## 统一归档状态与技术限制
+
+- Drive 原件：12/12 可下载，大小及 SHA-256 均已复核。
+- GitHub main 的实际二进制：6/12；每个已提交文件都通过 Git blob SHA-1 与下载字节的精确比对。Native 与 War Sails 路径分开，未覆盖原始文件。
+- 本轮尝试通过 GitHub Git Data API 提交 7,253,409 字节的 War Sails `flora.bin` 时，Base64 请求触发 `h2 protocol error: error reading a body from connection`，未能确认进入有效分支历史。不能把可能的孤立 blob 视为已归档。当前连接器未提供 Release 附件上传或 Git LFS 对象上传操作；其余较大文件继续由 Drive 保存。
+- GitHub 官方常规 Git 单文件限制为超过 50 MiB 警告、超过 100 MiB 阻止；这些原件均低于 100 MiB，但“理论上可存储”不代表当前连接器能可靠传输。若之后要完成余下 6 个二进制的 GitHub 镜像，需要使用可靠的本地 Git 推送或受支持的 Release/LFS 上传通道，不应继续反复发送超大 Base64 请求。
+- Native 与 War Sails 的资源差异只作为版本与资源差异记录；不得直接等同于世界内部历史地理变化。
