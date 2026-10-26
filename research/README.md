@@ -126,6 +126,8 @@
 - [CHC-EMP-GEN｜帝国聚落史料统一源级主题表 v0.1](history/country/EMP/imperial-settlement-source-ledger-v0.1.md) · 116条聚落历史叙述的统一源级主题表。
 - [帝国中东部与东南生产地—商品—接收方摸底 v0.2](geo/03/HUM/imperial-central-southeast-production-chain-survey-2026-10-26.md) · 源级复核备忘，不是正式问题8。
 
+- [CHC-EMP-ECO｜帝国城市节点—明确接收端关系矩阵 v0.1（未授H号）](history/country/EMP/imperial-city-node-receiver-linkage-matrix-v0.1.md) · 区分城市级贸易/通道功能、明确商品流、政治服务与未证实的村庄腹地边。
+
 ## history/country/BAT
 
 - [CHC-BAT-GEN｜巴旦尼亚历史研究现状、史料覆盖与重大问题（v0.1，未授H号）](history/country/BAT/battanian-history-status-source-coverage-questions-v0.1.md) · [Google Docs](https://docs.google.com/document/d/1XKWR3EgFQ-qdZ8UBS62s5tjVJjJduXybrKBb9KCNQYr4/edit)
