@@ -200,7 +200,7 @@ NavalDLC `Modules/NavalDLC/ModuleData/heroes.xml` 在哈尔达尔（`lord_7_1`�
 - Drive 的 `NavalDLC.zip` 与 `SandBox.zip` 各只有一个修订，均无 `previousRevisionId`；
 - GitHub `research/source-archives/` 只保存当前归档的来源说明、校验值和 Drive 链接，未托管目标模块 XML；
 - 定向 GitHub 搜索未检出可核验的官方旧版 `heroes.xml` 或 `settlements.xml`；
-- 公开 SteamDB depot 页面可见部分历史 manifest／文件清单，但没有可供本次逐字比较的旧版 XML 内容。
+- 公开 SteamDB depot 页面可见部分历史 manifest／文件清单，但没有可供本次逐字比较的旧版 XML 内容；可复核页面：[War Sails depot history](https://steamdb.info/depot/2927200/history/)、[manifests](https://steamdb.info/depot/2927200/manifests/)。
 
 **裁决：** 当前没有足够来源判断该注释首次出现的版本、是否跨版本持续存在，或是否伴随活动人物字段变化。未找到旧版不等于旧版没有注释。SandBox／NavalDLC `Xom9DeXZ` 的 `Nordlands`／`Nordvyg` 与 `Mazopor bay`／`Byalic Sea` 只构成现行模块之间的异文，不能直接建立补丁时间顺序。
 
