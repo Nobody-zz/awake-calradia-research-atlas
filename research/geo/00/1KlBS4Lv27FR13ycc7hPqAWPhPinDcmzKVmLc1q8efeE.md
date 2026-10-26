@@ -30,7 +30,7 @@ CGEO-S-HYD-001　卡拉迪亚大陆河流水系与湖泊研究｜论文修订稿
 CGEO-S-BIO-001　卡拉迪亚大陆植被与自然景观研究｜研究初稿 v0.1（2026-10-24；详见第四十一节）  
 CGEO-S-TRN-001　卡拉迪亚大陆交通地理研究｜研究初稿 v0.1（2026-10-23）  
 CGEO-S-ECO-001　卡拉迪亚大陆历史经济地理研究｜拟研究  
-CGEO-S-HUM-001　卡拉迪亚大陆城市形成与聚落体系研究｜修订稿 v0.2（2026-10-26）  
+CGEO-S-HUM-001　卡拉迪亚大陆城市形成与聚落体系研究｜修订稿 v0.3（2026-10-26）  
 CGEO-S-POL-001　卡拉迪亚大陆历史政治地理研究｜拟研究
 
 # 五、正式研究目录：第四、五、六、七编
@@ -569,3 +569,17 @@ CGEO-S-HUM-001已修订为v0.2。正文按历史问题与社会空间机制重�
 
 未通过某项检查时，应优先修订论证和正文，而不是只补一段免责声明或增加证据条目。若现有材料确实不足，应缩小结论范围、明确未知，并指出最有价值的下一项核验；不得用无限延长的待考清单替代已经可以完成的分析。
 
+
+
+### 2026-10-26｜历史人文地理源级复核与城市体系总论修订
+
+人文地理线已对帝国中东部与东南七项关键材料直接回读SandBox.zip、NavalDLC.zip中的聚落XML及英汉语言表，新增核心证据IMP-08—IMP-14、断言C-45—C-51、版本差异V-56—V-61。当前工作簿为**53条核心证据、51条唯一断言（C-01—C-51）、61条版本差异审计（V-01—V-61）**。该统计为当前值；前文早期阶段记录保留其历史含义。
+
+本轮解释性发现：俄耳特拉与涅俄科律斯明确供马给帝国骑兵，埃戈斯卡地主把牧地改用于更有利可图的养马，支持局部马匹专业化的推论；得拉狄俄斯两版叙述分别突出引水劳动和河曲淤泥；泰格瑞索斯记载以守边服务换取正式特许，厄瑞玻洛斯另一版记纳入辖区并承担警戒；厄瑞玻洛斯基础版黏土销售与萨尔丹尼斯黏土受到南方陶工重视属于不同强度的市场关系。这些案例支持地方生产、国家需求和边境整合存在多种连接机制，但不构成统一供给区或统一边防制度。
+
+- [城市形成与聚落体系研究 v0.3](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/CGEO-S-HUM-001.md)
+- [帝国中东部与东南生产地—商品—接收方摸底 v0.2](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/imperial-central-southeast-production-chain-survey-2026-10-26.md)
+- [全大陆人文地理核心断言—证据绑定表](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/claim-evidence-crosswalk-2026-10-24.md)
+- [跨区域土地—劳动—资源控制—收益分配证据矩阵](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/cross-regional-land-labour-resource-benefit-matrix-2026-10-24.md)
+
+本轮未设立正式“问题8”。下一步将这些关系机制与西部港市、乌卡利翁高地和帝国北方作可比分析，重点解释土地用途、劳动组织、接收方和政治服务的差异，不以扩充证据数量替代论文解释。
