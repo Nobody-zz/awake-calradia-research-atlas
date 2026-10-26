@@ -274,7 +274,7 @@ Google Docs：https://docs.google.com/document/d/1r5xLCwljVokxTeA5pk86bdX0jXtVzl
 GitHub：https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/main/research/geo/03/HUM/northern-maritime-river-port-and-inland-provisioning-2026-10-24.md
 Google Docs：https://docs.google.com/document/d/1LtjH6zFrfpyu1vQkTBbcaBFiXRNcwmORrK7ixURySP8/edit
 
-核心结论：北方海产出口、河谷资源南售、城镇粮食供给、造船木材运输与季节性跨区域劳动各有直接史料依据，但现有材料尚未将它们连成连续的全程供应链。首选解释为多节点、分商品、局部稳定且受到不同程度政治介入的交换格局；尚无证据证明统一王室港务、固定全年航线、统一税制或全部海产均输往内陆农牧社区。
+核心结论：北方海产出口、河谷资源南售、城镇粮食供给、造船木材运输与季节性跨区域劳动各有直接史料依据，但现有材料尚未将它们连成连续的全程供应链。首选解释为多节点、分商品、部分聚落持续承担交换节点功能且受到不同程度政治介入的格局；节点之间的固定连接尚未证实，也无证据证明统一王室港务、固定全年航线、统一税制或全部海产均输往内陆农牧社区。
 
 名称键与版本差异的详细核对已迁入独立研究日志；正文以当前核验名称为准，不将SandBox与NavalDLC之间的文本改写解释为世界内部的年代变化。
 
