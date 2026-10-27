@@ -166,13 +166,14 @@
 ## history/country/STU
 
 - [CHC-STU-GEN｜斯特吉亚历史初步摸底与重大研究问题（v0.11，未授H号）](history/country/STU/sturgia-initial-historical-survey-and-major-questions-v0.11.md) · 当前国别基线与 RQ01—RQ10 问题图谱。
-- [CHC-STU-GEN｜斯特吉亚研究线阶段性综合审查（v0.13）](history/country/STU/sturgia-research-line-synthesis-and-question-status-v0.13.md) · 当前状态表、跨稿一致性、停止条件与论文候选边界。
+- [CHC-STU-GEN｜斯特吉亚研究线阶段性综合审查（v0.14）](history/country/STU/sturgia-research-line-synthesis-and-question-status-v0.14.md) · 含制度动作账、执行证据等级、停止条件与跨线核验状态。
 - [CHC-STU-GEN｜斯特吉亚研究线跨稿一致性审查（v0.4）](history/country/STU/sturgia-cross-draft-consistency-audit-v0.4.md) · 核对制度桥梁分层、当前工作稿指针与跨线边界。
 - [CHC-STU-POL｜战时盟约、地方领主权与贡达罗夫王朝（v1.2，未授H号）](history/country/STU/sturgian-war-oath-boyar-rights-and-gundaroving-dynasty-working-paper-v1.2.md) · 核心政治制度工作稿。
-- [CHC-STU-POL｜斯特吉亚国家形成：大公权力形成的制度桥梁检验（v0.2，未授H号）](history/country/STU/sturgia-state-formation-institutional-bridge-test-v0.2.md) · 逐项区分职位世袭化、王朝接入与平时管辖权执行，含证据等级、反例和下一轮三项任务。
+- [CHC-STU-POL｜斯特吉亚国家形成：大公权力形成的制度桥梁检验（v0.2，未授H号）](history/country/STU/sturgia-state-formation-institutional-bridge-test-v0.2.md) · 逐项区分职位世袭化、王朝接入与平时管辖权执行，含证据等级与停止条件。
+- [CHC-STU-POL／SOC｜斯特吉亚制度动作证据账与平时执行检索记录（v0.1）](history/country/STU/sturgia-institutional-action-evidence-ledger-v0.1.md) · 逐项记录行动者、动作、对象、义务、受益者、证据等级及未发现的中央执行链。
 - [CHC-STU-POL｜三种时间尺度与大公权力形成（v0.2）](history/country/STU/sturgian-state-formation-three-clocks-relative-chronology-v0.2.md) · 联盟、祖父誓约、两代人记忆与贡达尔地方祖源的相对年代边界。
 - [CHC-STU-POL｜斯特吉亚国家形成综合论证提纲（v0.4）](history/country/STU/sturgian-state-formation-integrated-argument-outline-v0.4.md) · 主导模型、竞争解释、证据缺口与反证条件。
-- [CHC-STU-POL／ECO／SOC｜权力—资源—动员证据矩阵（v0.2）](history/country/STU/sturgian-power-resource-mobilization-evidence-matrix-v0.2.md) · 对照地方资源、赋役、动员、实际服从与未知环节。
+- [CHC-STU-POL／ECO／SOC｜权力—资源—动员证据矩阵（v0.3）](history/country/STU/sturgian-power-resource-mobilization-evidence-matrix-v0.3.md) · 吸收制度动作账与平时执行有界检索结果。
 - [CHC-STU-ECO｜北方贸易、边疆开发与地方财政权力（v0.2）](history/country/STU/sturgian-economic-geography-trade-frontier-and-fiscal-power-v0.2.md) · 地区资源与经济基础，撤销已完成的四氏族重复比较任务。
 - [CHC-STU-ECO｜城镇控制权更替、经济腹地与财政连续性（v0.1）](history/country/STU/sturgian-settlement-control-fiscal-continuity-v0.1.md) · 聚落控制、腹地绑定与财政连续性缺口。
 - [CHC-STU-SOC｜税役、非王公武力与地方司法（v0.2）](history/country/STU/sturgian-tax-obligations-nonstate-groups-and-local-justice-v0.2.md) · 居民征取、避役、职业武力与地方裁断证据。
@@ -183,7 +184,7 @@
 - [CHC-STU-POL／SOC｜九氏族持地与动员证据审计（v0.1）](history/country/STU/sturgian-clan-landholding-and-mobilization-evidence-audit-v0.1.md) · 当前配置不等于实际权力、收入或忠诚。
 - [CHC-STU-POL／SOC｜战争义务行为证据审计（v0.1）](history/country/STU/sturgian-war-obligation-behavioral-evidence-audit-v0.1.md) · 区分行动、传记概括、政治主张与通用模板。
 - [CHC-STU-POL｜地方承认、王朝合法性与雷维尔反记忆（v0.1）](history/country/STU/sturgian-dynastic-legitimacy-local-lordship-and-revyl-countermemory-v0.1.md) · 贡达尔祖源与区域职位制度的区别。
-- [CHC-STU-GEN／POL｜跨线证据交接单（v0.5）](history/country/STU/sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.5.md) · 潘德拉克、库赛特与诺德研究线的源级交接。
+- [CHC-STU-GEN／POL｜跨线证据交接单（v0.6）](history/country/STU/sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.6.md) · 更新制度动作证据、诺德侧独立核验及潘德拉克边界。
 - [CHC-STU-XLINE｜帝国地方权威论文跨国反例审查（v0.1）](history/country/STU/imperial-local-order-paper-cross-country-counterexample-review-v0.1.md) · 用于概念边界压力测试，不作为独立史料互证。
 - [CHC-STU-SRC｜斯特吉亚官方简中地名校核表（v0.1）](history/country/STU/sturgia-official-zh-cn-settlement-name-crosswalk-v0.1.md) · 保留已核定地名及待核项目。
 
@@ -197,7 +198,7 @@
   - [Google Docs 原件](https://docs.google.com/document/d/1DrcLFhH65KeOF8oL-Q59ChN25dR1WV91-dl4vMz_l5M/edit)
 - [CHC-KHU-POL｜兀儿浑如何取得对旧强宗的支配权 v0.1](history/country/KHU/khuzait-urkhun-authority-older-clans-p1-v0.1.md) · 旧强宗、母狼起源与汗室合法性竞争的专题札记。
   - [Google Docs 原件](https://docs.google.com/document/d/1YXnG_ly3ylCb-rmOxDjybkPqXsuIx9MJc4SId3sFdAI/edit)
-- [CHC-STU-GEN／POL｜跨线证据交接单 v0.5](history/country/STU/sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.5.md) · 已同步库赛特 Gotug／Solun 转录状态与采访版本核验结果。
+- [CHC-STU-GEN／POL｜跨线证据交接单 v0.6](history/country/STU/sturgia-cross-line-evidence-handoff-pendraic-khuzait-nord-v0.6.md) · 已同步库赛特 Gotug／Solun 转录状态、制度动作账与诺德侧独立核验。
 
 ## history/country/NOR
 
@@ -211,7 +212,7 @@
 - [CHC-NOR-GEN｜时间—空间骨架：跨区域年代、因果与资源动员比较（v0.4）](history/country/NOR/CHC-NOR-GEN-time-space-skeleton-v0.4.md) · [Google Docs 原件](https://docs.google.com/document/d/10cGlZJOE4VwFGjAQpBy5mgg2ksYpSOVyWaLX222wb9U/edit)
 - [CHC-NOR-GEN｜跨国史料核验第一批（v0.1）](history/country/NOR/CHC-NOR-GEN-cross-line-verification-batch-01-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1QrgaFH7ZpsmSjJp7dcwmCdInHpiGGmvFH8PQH3ux9Cc/edit)
 - [CHC-NOR-GEN｜迪纳尔“近期诺德扩张”来源归属检验（v0.3）](history/country/NOR/CHC-NOR-GEN-dinar-nord-expansion-linkage-test-v0.3.md) · [Google Docs 原件](https://docs.google.com/document/d/1sa8yM89qhRQinoZ7naMc6ed_-lx36PenShM3rMLLxfk/edit)
-- [CHC-NOR-GEN｜诺德史跨国关系首轮对照登记册（v0.8）](history/country/NOR/CHC-NOR-GEN-cross-line-relations-register-v0.8.md) · 已与 STU 对齐贡达罗夫母系谱系及编辑注释的证据边界。
+- [CHC-NOR-GEN｜诺德史跨国关系首轮对照登记册（v0.9）](history/country/NOR/CHC-NOR-GEN-cross-line-relations-register-v0.9.md) · 更新 STU 侧制度动作证据与诺德—斯特吉亚机制比较边界。
 - [CHC-NOR-GEN｜社会群体覆盖与证据单位审计（v0.1）](history/country/NOR/CHC-NOR-GEN-social-coverage-audit-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1H7hibK338Ibk8WPLu2fJc6Wp2nmIkIFQyOvx0fyYERA/edit)
 - [CHC-NOR-GEN｜诺德国家形成的相对年代与因果机制检验（v0.1）](history/country/NOR/CHC-NOR-GEN-relative-chronology-causal-test-v0.1.md) · [Google Docs 原件](https://docs.google.com/document/d/1Wfep743y5aYvUgHbN9xVAwU3WRd5HhHDToN3-NKOj6Q/edit)
 - [CHC-NOR-GEN｜哈尔达尔时期王权的持续性与实际控制范围（v0.3）](history/country/NOR/CHC-NOR-GEN-halthdar-kingship-continuity-control-v0.3.md) · [Google Docs 原件](https://docs.google.com/document/d/1T8qFxZZu621hxrndEmIIimrqR0k5EGnJALqzP6zNOgM/edit)
