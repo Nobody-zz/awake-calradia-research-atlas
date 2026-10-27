@@ -278,7 +278,7 @@ CHC-CAL-MIL《潘德拉克战役主线采访：十九名受访者与证词对读
 
 **RQ09 的状态更新：** 同版本文本核验已完成；叙事时序冲突仍开放。朗瓦德 `Ri6NmpEE`、奥列克 `sSaZVD2e`、戈敦 `ZkSthA9d` 是同一采访任务中的竞争性政治记忆，不按三份独立证据计权。有效 `heroes.xml／bsOLRZyS` 仍记“年长的”奥列克在潘德拉克战役中阵亡；奥列克与戈敦的访谈却把他写成战斗后段仍在场并折旗。该问题应转向玩家转录逐字校勘、对白上下文与官方叙事连续性，不再描述为 v1.4.5 与 v1.4.8 的文本差异。
 
-### 当前活跃版本指针
+### 活跃版本指针（2026-10-26 历史快照；现由 v0.14 覆盖）
 
 - 国别基线：`sturgia-initial-historical-survey-and-major-questions-v0.11.md`
 - 核心制度稿：`sturgian-war-oath-boyar-rights-and-gundaroving-dynasty-working-paper-v1.2.md`
@@ -341,11 +341,11 @@ CHC-CAL-MIL《潘德拉克战役主线采访：十九名受访者与证词对读
 5. **跨线边界：** 诺德旧集会推举 warleader、王室排沼授田、地方雅尔安置难民与边疆逃避税收提供机制比较，不是斯特吉亚制度的补充证据。迪纳尔“recent Nord expansion”与瓦尔切格军事报酬事件均缺具名行动者／可对齐年代，不与斯特吉亚联盟强行连接。
 6. **潘德拉克：** A2 采访版本文本 92/92 差分已完成，不再重复。龙旗争执只用于军功记忆与王权合法性分析；“年长的”奥列克战役阵亡与折旗叙述的时序冲突仍由 CHC-CAL-MIL 负责。
 
-### 二、当前活跃版本指针
+### 二、活跃版本指针（2026-10-26 历史快照；现由 v0.14 覆盖）
 
 - 核心制度稿：`sturgian-war-oath-boyar-rights-and-gundaroving-dynasty-working-paper-v1.2.md`
 - 国家形成综合论证提纲：`sturgian-state-formation-integrated-argument-outline-v0.4.md`
-- 制度桥梁审查：`sturgia-state-formation-institutional-bridge-test-v0.1.md`
+- 制度桥梁审查：`sturgia-state-formation-institutional-bridge-test-v0.2.md`
 - 跨稿一致性审查：`sturgia-cross-draft-consistency-audit-v0.4.md`
 - 权力—资源—动员矩阵：`sturgian-power-resource-mobilization-evidence-matrix-v0.2.md`
 - 国别基线：`sturgia-initial-historical-survey-and-major-questions-v0.11.md`
