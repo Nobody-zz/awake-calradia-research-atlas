@@ -5,6 +5,13 @@
 - 网站入口：[site/index.html](site/index.html)
 - 研究文档索引：[research/README.md](research/README.md)
 
+## 当前版本与归档规则（2026-10-29）
+
+- **GitHub `main` 是持续更新的正式研究版本库**：完成的论文修订、证据审计、索引和可复算数据应及时提交至 main；不能把未合并的 Draft PR 当作已发布成果。
+- **Google Drive 用于定期留档**：不要求每次 GitHub 提交后都同步覆盖 Drive 工作文档。归档时记录日期、GitHub commit SHA、文档版本和校验信息；不得用较旧 Drive 副本覆盖 GitHub 较新正文。
+- 双端状态以实际正文回读核验，不以标题、修改时间或旧的“已同步”标记代替内容验证。
+- 当前修复批次已更新地理索引中的规范版本标签、HYD-001现行指针、HUM-001 v0.4入口、RES-015证据限制说明，并补充6个已归档地图二进制的Git blob SHA-1。仍待完成：HUM-001 Drive v0.1与GitHub v0.4关系核验、HYD-001逐段对照、RES-015数据/脚本复核、剩余6个原始二进制的GitHub归档评估，以及CLM-001 Draft PR的独立审查。
+
 ## EdgeOne Pages 部署
 
 从 GitHub 导入本仓库，选择静态站点，将输出目录设为 `site`；当前版本无构建命令。请保持仓库私有，并仅授权 EdgeOne 读取此仓库。
