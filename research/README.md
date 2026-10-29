@@ -9,7 +9,7 @@
 
 ## geo/00
 
-- [CGEO｜论文总索引与研究规范（v1.1）](geo/00/1KlBS4Lv27FR13ycc7hPqAWPhPinDcmzKVmLc1q8efeE.md) · [云盘原件](https://docs.google.com/document/d/1KlBS4Lv27FR13ycc7hPqAWPhPinDcmzKVmLc1q8efeE/edit)
+- [CGEO｜论文总索引与研究规范（试行 v1.3）](geo/00/1KlBS4Lv27FR13ycc7hPqAWPhPinDcmzKVmLc1q8efeE.md) · [云盘原件](https://docs.google.com/document/d/1KlBS4Lv27FR13ycc7hPqAWPhPinDcmzKVmLc1q8efeE/edit)
 ## geo/02/GEN
 
 - [CGEO-O-GEN-001｜卡拉迪亚大陆地理总论·研究工作底稿](geo/02/GEN/1CiyErWlJc3sQPSR-HBqYMUyOCXRCu2a0RHKlUx_LIEY.md) · [云盘原件](https://docs.google.com/document/d/1CiyErWlJc3sQPSR-HBqYMUyOCXRCu2a0RHKlUx_LIEY/edit)
@@ -19,7 +19,11 @@
 - [CGEO-O-REG-001｜卡拉迪亚大陆地理区域划分与地域结构（论文初稿 v0.1）](geo/02/REG/1H5CZKgad7YI60WnZu3t7W0PSBuNUd80tw8LMgCMWx_0.md) · [云盘原件](https://docs.google.com/document/d/1H5CZKgad7YI60WnZu3t7W0PSBuNUd80tw8LMgCMWx_0/edit)
 ## geo/03/HYD
 
-- [CGEO-S-HYD-001｜卡拉迪亚大陆河流水系与湖泊研究（论文初稿 v0.1）](geo/03/HYD/1Cl-YL13V_bHN9qOnSgSJmQ40Y2AtOXk5O-xvFd8RYco.md) · [云盘原件](https://docs.google.com/document/d/1Cl-YL13V_bHN9qOnSgSJmQ40Y2AtOXk5O-xvFd8RYco/edit)
+- [CGEO-S-HYD-001｜卡拉迪亚大陆河流水系与湖泊研究（论文修订稿 v0.3）](geo/03/HYD/1Cl-YL13V_bHN9qOnSgSJmQ40Y2AtOXk5O-xvFd8RYco.md) · [Google Drive 现行稿 v0.3](https://docs.google.com/document/d/1qoWxPgRqqHxPSjv9NqeVfy2oj3fkqlEq_xF5CxPrpTc/edit)
+## geo/03/HUM
+
+- [CGEO-S-HUM-001｜卡拉迪亚大陆城市形成与聚落体系研究（修订稿 v0.4，2026-10-26）](geo/03/HUM/CGEO-S-HUM-001.md) · [研究日志与来源审计](geo/03/HUM/CGEO-S-HUM-001-research-log-and-source-audit-2026-10-26.md) · [Drive 搜索到的同编号 v0.1（旧稿关系待确认）](https://docs.google.com/document/d/1oDCC7vDCxMxn-NH611IeDp-m6vFDmI19o2-gJowtKXQ/edit)
+
 ## geo/07/TOP
 
 - [CGEO-TOP-WS｜《战帆》北方地名英汉对照与异译校勘（v1.0）](geo/07/TOP/1zfNg7Fz2uOkLD34p_VWl04_A3JoS-SCf3MhyR0XmBHg.md) · [云盘原件](https://docs.google.com/document/d/1zfNg7Fz2uOkLD34p_VWl04_A3JoS-SCf3MhyR0XmBHg/edit)
@@ -409,7 +413,7 @@ v1.9 使用完整高程图绘图区和中性相对高程色带，不执行海陆
 - [82 个城镇和港口坐标锚点表](https://drive.google.com/file/d/1UxQNIGfQaThaOztpfP9iuCco1UW-Rl7q/view)
 - [全部可复核数据及脚本 ZIP](https://drive.google.com/file/d/1rgANNff1eAfpxxXgRxYiZ0DbGTrqj6Ye/view)
 
-本次以《战帆》独立 Navmesh 分类复核 v2.0 的高程平坦低值外海候选区：候选区仅覆盖 43.1% 的可识别 OpenSea / CoastalSea 类别像素；另有 3.2% 可识别 Navmesh 陆面像素与候选区重合。近似图像配准有误差，但足以说明候选区不是经过核验的海岸线；原版53城镇、《战帆》29港口锚点均未落入外海候选区。继续保留分版本工作图，不使用候选区作海陆面积测算。
+**证据状态警示（2026-10-29）：** 本仓库 `CGEO-MAP-RES-015.md` 正文仅为标题、三个 Drive 链接和一句概述（453 字节），不包含复算所需方法、数据表或计算过程。因此本段历史索引中的“43.1%”“3.2%”“原版53城镇与《战帆》29港口锚点均未落入”等数值目前只能视为待复核陈述，不能声称已由 RES-015 正文独立证明。原始资料链接仍保留；须恢复/检查数据与脚本后再将结论标为已复核。
 
 
 ## CGEO-MAP-RES-016｜《战帆》港口与Navmesh图像配准核查（v2.2；2026-10-23）
@@ -470,9 +474,9 @@ v1.9 使用完整高程图绘图区和中性相对高程色带，不执行海陆
 - [CGEO-O-REG-001｜卡拉迪亚大陆地理区域划分与地域结构（v0.1）](geo/02/REG/1H5CZKgad7YI60WnZu3t7W0PSBuNUd80tw8LMgCMWx_0.md) · [云盘原件](https://docs.google.com/document/d/1H5CZKgad7YI60WnZu3t7W0PSBuNUd80tw8LMgCMWx_0/edit)
 - [CGEO-S-GEO-001｜卡拉迪亚大陆地形与地貌研究（v0.1）](geo/03/GEO/CGEO-S-GEO-001.md) · [云盘原件](https://docs.google.com/document/d/1pDODiOQ2PR0zz9q2Ximt4MBJwnl_EmZOXvwFdnXsTL0/edit)
 - [CGEO-S-CLM-001｜卡拉迪亚大陆气候与自然环境研究（v0.1）](https://github.com/Nobody-zz/awake-calradia-research-atlas/blob/research/cgeo-clm-001-v0.1-20261024/research/geo/03/CLM/CGEO-S-CLM-001.md) · [云盘原件](https://docs.google.com/document/d/1npAJZ89iVXYaEjpv5qQIAVCzA28YhdNivXc9vT6yQfI/edit) · [Draft PR #1](https://github.com/Nobody-zz/awake-calradia-research-atlas/pull/1)
-- [CGEO-S-HYD-001｜河流水系与湖泊研究（v0.3，Drive与GitHub已同步）](geo/03/HYD/1Cl-YL13V_bHN9qOnSgSJmQ40Y2AtOXk5O-xvFd8RYco.md) · [Google Docs](https://docs.google.com/document/d/1qoWxPgRqqHxPSjv9NqeVfy2oj3fkqlEq_xF5CxPrpTc/edit)
+- [CGEO-S-HYD-001｜河流水系与湖泊研究（v0.3；双端正文一致性待复核）](geo/03/HYD/1Cl-YL13V_bHN9qOnSgSJmQ40Y2AtOXk5O-xvFd8RYco.md) · [Google Docs v0.3](https://docs.google.com/document/d/1qoWxPgRqqHxPSjv9NqeVfy2oj3fkqlEq_xF5CxPrpTc/edit)
 - [CGEO-S-BIO-001｜卡拉迪亚大陆植被与自然景观研究（v0.1）](geo/03/BIO/CGEO-S-BIO-001.md) · [云盘原件](https://docs.google.com/document/d/1MzHUgiMoIIn35bwU4S5aWlM-OHIEn4r53v7LBD-mGzw/edit)
 - [CGEO｜官方地理证据登记表](geo/90/EVD/1UmtjdtlvO6mcFPYcQicHuprkZDxmWv0aMbUxk-TlfeM.md) · [云盘原件](https://docs.google.com/document/d/1UmtjdtlvO6mcFPYcQicHuprkZDxmWv0aMbUxk-TlfeM/edit)
 - [CGEO-MAP-AUD-001｜原版与《战帆》地图图像实见记录](geo/90/EVD/1tsQ0Mz_nHNZYI0wAyazB3RFfW3Kg06nPYKD2bXc7jy0.md) · [云盘原件](https://docs.google.com/document/d/1tsQ0Mz_nHNZYI0wAyazB3RFfW3Kg06nPYKD2bXc7jy0/edit)
 
-**同步提醒：** Google Drive 与 GitHub 不会自动同步，重要修订后须逐端核验。CGEO-S-HYD-001 已于2026-10-24修订至v0.3并完成双端同步；CGEO-S-CLM-001 v0.1仍链接在Draft PR #1。自然地理研究线的纳哈撒水文地貌专题初稿保持v0.2，已于2026-10-26补入达玛尔河最佳拟合重建及跨版本锚点间距／高程可识别性审查；问题矩阵保持v0.9并已更新。Native的nile原始路径与达玛尔河锚点的对应置信度高；War Sails的River(11)只支持走廊级空间对应，尚不能恢复连续天然河道或纵剖面。两版锚点间距并非统一比例缩放，且聚落Z与最近导航面Z不能替代河床高程序列；War Sails五个河流锚点的聚落Z均值为5.270，四个非随机对照点均值为6.949，三处对照点高于锚点组最高值，但Abba为低值例外，该点位差异不划定洪泛地或分水岭。阿斯麦特、阿卜巴与本盖兹仍按局地坡面径流、地下储水和井泉系统分别解释。直接地图资源用于检验和细化模型，不再作为自然地理推断的前置门槛；版本差异仅作资料不确定性控制，不解释为世界内部自然地理演变。
+**同步规则与状态（2026-10-29复核）：** GitHub `main` 是持续更新的正式版本库；Google Drive 用于定期留档，不要求每次提交后立即逐项相同。HYD-001 的 Drive 现行稿为 v0.3，GitHub 有对应 Markdown 镜像，但尚未完成逐段一致性校验；CLM-001 v0.1仍链接在 Draft PR #1，不能视为已进入 `main`。HUM-001 的 GitHub 现行稿为 v0.4，而 Drive 搜索到同编号 v0.1，二者关系待确认，禁止用旧稿覆盖新稿。
