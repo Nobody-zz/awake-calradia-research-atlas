@@ -46,8 +46,8 @@
 
 ## 统一归档状态与技术限制
 
-- Drive 原件：12/12 可下载，大小及 SHA-256 均已复核。
-- GitHub main 的实际二进制：6/12；每个已提交文件都通过 Git blob SHA-1 与下载字节的精确比对。Native 与 War Sails 路径分开，未覆盖原始文件。
+- Drive 原件：12/12 可下载，大小及 SHA-256 均已复核；12 个源文件的 SHA-256 记录保存在 `main-map-manifest.csv`。`SHA256SUMS.txt` 当前主要校验原始 ZIP 包及其清单，不代表已列出每个解压后的地图二进制。
+- GitHub main 的实际二进制：6/12；`main-map-manifest.csv` 的 `git_blob_sha` 列记录这 6 个文件的 Git blob SHA-1，可按 Git blob 规则复算（`sha1("blob " + byte_length + NUL + bytes)`）。其余 6 个文件该列留空，明确表示仅有 Drive SHA-256 记录、未归档到 GitHub。Native 与 War Sails 路径分开，未覆盖原始文件。
 - 本轮尝试通过 GitHub Git Data API 提交 7,253,409 字节的 War Sails `flora.bin` 时，Base64 请求触发 `h2 protocol error: error reading a body from connection`，未能确认进入有效分支历史。不能把可能的孤立 blob 视为已归档。当前连接器未提供 Release 附件上传或 Git LFS 对象上传操作；其余较大文件继续由 Drive 保存。
 - GitHub 官方常规 Git 单文件限制为超过 50 MiB 警告、超过 100 MiB 阻止；这些原件均低于 100 MiB，但“理论上可存储”不代表当前连接器能可靠传输。若之后要完成余下 6 个二进制的 GitHub 镜像，需要使用可靠的本地 Git 推送或受支持的 Release/LFS 上传通道，不应继续反复发送超大 Base64 请求。
 - Native 与 War Sails 的资源差异只作为版本与资源差异记录；不得直接等同于世界内部历史地理变化。
